@@ -97,18 +97,33 @@ Uses Obsidian callout syntax for paragraph-aligned reading:
 
 ### Ingest
 
-1. **Fetch raw sources**: English → `raw/berkshire/YYYY-letter-en.md`, Chinese → `raw/berkshire/YYYY-letter-zh.txt`
+1. **Fetch raw sources**: Both files must be saved to `raw/berkshire/` for traceability.
+   - **English** → `raw/berkshire/YYYY-letter-en.md`
+     - Source: [juliuschun/eco-moat-ai](https://github.com/juliuschun/eco-moat-ai) (Markdown)
+     - Path pattern: `markdown/buffett-letter-YYYY.md` (query the repo tree if unsure)
+   - **Chinese** → `raw/berkshire/YYYY-letter-zh.txt`
+     - Source: [buffett-letters-eir](https://buffett-letters-eir.pages.dev) (static HTML, SPA with sidebar navigation)
+     - The site is a static HTML site (not a JS SPA). Each letter has a direct URL at `berkshire/YYYY-巴菲特致股东信.html` (find the exact href from the homepage).
+     - Extract the `<article>` content: remove `<script>`, `<style>`, sidebar/nav noise; keep only the article body text.
+     - The result is plain text with paragraph breaks. Save as `.txt`.
 2. **Align paragraphs**: LLM aligns ZH/EN paragraphs, outputs `letters/YYYY-letter.md` with callout pairs and `[[entity links]]`
-3. **Write summary**: Create `letters/YYYY-summary.md`
-4. **Extract entities**: Identify concepts, companies, people
-5. **Update/create wiki pages**: For each entity, create or update the corresponding page, add quotes, update evolution/timeline
-6. **Verify links (REQUIRED)**: Before updating indexes, run link integrity check on all new and updated pages:
+3. **Verify letter completeness (REQUIRED)**: Compare the bilingual letter against the English source section headers and key landmarks to ensure no section is missing or truncated:
+   - Extract section headers from `raw/berkshire/YYYY-letter-en.md` (italicized headers like `_Insurance Underwriting_`, `_Sources of Earnings_`, etc.)
+   - Verify each section has a corresponding `## ` header in `letters/YYYY-letter.md`
+   - Check key landmarks are present in both ZH and EN: opening salutation, signature + date, proper nouns (company names, people names)
+   - Check that `> [!zh]` and `> [!en]` callout pairs are balanced (no orphan ZH/EN blocks)
+   - If the source contains dense data tables (earnings tables, stock portfolios), it is acceptable to omit them in favor of summarizing key numbers in the surrounding narrative prose — but the omission must be noted and the key figures must appear in `YYYY-summary.md`
+   - Fix any gaps before proceeding
+4. **Write summary**: Create `letters/YYYY-summary.md`
+5. **Extract entities**: Identify concepts, companies, people
+6. **Update/create wiki pages**: For each entity, create or update the corresponding page, add quotes, update evolution/timeline
+7. **Verify links (REQUIRED)**: Before updating indexes, run link integrity check on all new and updated pages:
    - Every `[[wikilink]]` in new/updated files must resolve to an existing `.md` file
    - If a `[[link]]` in `related:` or `🔗 Related` points to a page that doesn't exist yet, either create that page or remove the link — **no dangling links allowed**
    - Use the shell check: `grep -oE '\[\[[^]]+\]\]' file.md | sed 's/|.*//' | while read link; do find . -name "${link}.md" ...; done`
    - Fix all broken links before proceeding
-7. **Update `index.md`**: Add new entries, update stats
-8. **Append to `log.md`**: Record what was done (include link verification result)
+8. **Update `index.md`**: Add new entries, update stats
+9. **Append to `log.md`**: Record what was done (include completeness check and link verification results)
 
 ### Query
 
