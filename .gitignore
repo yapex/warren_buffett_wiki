@@ -1,0 +1,7 @@
+# OS and editor
+.DS_Store
+
+# Python (if ever needed locally)
+__pycache__/
+*.pyc
+.venv/

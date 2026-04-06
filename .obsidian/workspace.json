@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "abf110cca39ff73b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d474449d0b103a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52d740f53e1dd374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "letters/1989-summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1989-summary"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74bf7187ffc771a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca5e7bb51cf258f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51988c0592e29fff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "77bba4249e7b325d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "27eba2fae1793291",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0582831abe85a47d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3607842163f051d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65d6906f46c9e0e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "letters/1989-summary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1989-summary 的反向链接列表"
+            }
+          },
+          {
+            "id": "c974889cf65e34d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "letters/1989-summary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1989-summary 的出链列表"
+            }
+          },
+          {
+            "id": "0f0050db4bfb3c75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e4ef18426c8ed7c4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f13a1a9612aff179",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "letters/1989-summary.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1989-summary 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "52d740f53e1dd374",
+  "lastOpenFiles": [
+    "index.md",
+    "log.md",
+    "analysis",
+    "people/查理·芒格.md",
+    "people/Roberto Goizueta.md",
+    "people/Ike Friedman.md",
+    "people/B夫人.md",
+    "people",
+    "companies/波仙珠宝.md",
+    "companies/喜诗糖果.md",
+    "companies/吉列.md",
+    "companies/可口可乐.md",
+    "companies/内布拉斯加家具商场.md",
+    "companies",
+    "concepts/递延税.md",
+    "concepts/透视收益.md",
+    "concepts/烟蒂投资法.md",
+    "concepts/双语段落对照阅读.md",
+    "concepts/制度惯性.md",
+    "concepts/内在价值.md",
+    "concepts/Rip Van Winkle投资法.md",
+    "concepts",
+    "letters/1989-summary.md",
+    "letters/1989-letter.md",
+    "letters",
+    "raw/berkshire/1989-letter-bilingual.md",
+    "raw/berkshire/1989-letter-en.md",
+    "wiki/letters/1989-letter.md",
+    "raw/berkshire/1989-letter.md",
+    "wiki/index.md",
+    "wiki/concepts/内在价值.md"
+  ]
+}
