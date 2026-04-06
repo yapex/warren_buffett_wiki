@@ -7,7 +7,7 @@ sources:
   - "[1989-letter](../letters/1989-letter.md)"
 related:
   - "[内布拉斯加家具商场](../companies/内布拉斯加家具商场.md)"
-  - "[[Blumkin家族]]"
+  - "Blumkin家族"
 created: 2026-04-06
 updated: 2026-04-06
 status: draft
@@ -56,4 +56,4 @@ Mrs. B (Rose Blumkin, 1893-1998) founded Nebraska Furniture Mart in 1937 with $5
 
 ## 🔗 Related
 - [内布拉斯加家具商场 / Nebraska Furniture Mart](../companies/内布拉斯加家具商场.md) — B夫人创立的企业
-- [[Blumkin家族]] — 继续运营NFM的家族成员
+- Blumkin家族 — 继续运营NFM的家族成员

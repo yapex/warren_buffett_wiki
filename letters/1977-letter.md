@@ -79,11 +79,11 @@ entities:
 > We must again give credit to Phil Liesche, greatly assisted by Roland Miller in Underwriting and Bill Lyons in Claims, for an extraordinary underwriting achievement in National Indemnity's traditional auto and general liability business during 1977. As markets loosen and rates become inadequate, we again will face the challenge of philosophically accepting reduced volume. Unusual managerial discipline will be required, as it runs counter to normal institutional behavior to let the other fellow take away business - even at foolish prices.
 
 > [!zh] 🇨🇳
-> 1977年，由[[乔治·杨]]管理的再保险部门改善了承保业绩。虽然107.1的[综合比率](../concepts/综合比率.md)仍然不理想，但全年趋势是在持续下降。此外，再保险业务所产生的可投资资金占保费收入的比例异常之高。
+> 1977年，由乔治·杨管理的再保险部门改善了承保业绩。虽然107.1的[综合比率](../concepts/综合比率.md)仍然不理想，但全年趋势是在持续下降。此外，再保险业务所产生的可投资资金占保费收入的比例异常之高。
 >
-> 在家庭和汽车保险公司，[[约翰·休厄德]]继续在各方面取得进步。几年前，当该公司承保业务深陷亏损、面临倒闭危机时，约翰临危受命。在他的管理下，公司现在运营稳健、盈利良好并且持续增长。
+> 在家庭和汽车保险公司，约翰·休厄德继续在各方面取得进步。几年前，当该公司承保业务深陷亏损、面临倒闭危机时，约翰临危受命。在他的管理下，公司现在运营稳健、盈利良好并且持续增长。
 >
-> [[约翰·林沃特]]负责的住宅保险业务目前旗下有五家公司，净保费收入达到2,300万美元，而仅仅三年前还只有550万美元。全年运营的四家公司综合比率均低于100。
+> 约翰·林沃特负责的住宅保险业务目前旗下有五家公司，净保费收入达到2,300万美元，而仅仅三年前还只有550万美元。全年运营的四家公司综合比率均低于100。
 
 > [!en] 🇺🇸
 > Our reinsurance department, managed by George Young, improved its underwriting performance during 1977. Although the combined ratio of 107.1 was unsatisfactory, its trend was downward throughout the year. In addition, reinsurance generates unusually high funds for investment as a percentage of premium volume.

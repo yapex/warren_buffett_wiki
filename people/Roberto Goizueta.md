@@ -7,7 +7,7 @@ sources:
   - "[1989-letter](../letters/1989-letter.md)"
 related:
   - "[可口可乐](../companies/可口可乐.md)"
-  - "[[Don Keough]]"
+  - "Don Keough"
 created: 2026-04-06
 updated: 2026-04-06
 status: draft
@@ -50,4 +50,4 @@ Roberto Goizueta (1931-1997) was CEO of Coca-Cola from 1981-1997, widely regarde
 
 ## 🔗 Related
 - [可口可乐 / Coca-Cola](../companies/可口可乐.md) — Goizueta担任CEO
-- [[Don Keough]] — Goizueta的搭档
+- Don Keough — Goizueta的搭档

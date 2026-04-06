@@ -8,7 +8,7 @@ sources:
 related:
   - "[递延税](递延税.md)"
   - "[透视收益](透视收益.md)"
-  - "[[管理品质]]"
+  - "管理品质"
 created: 2026-04-06
 updated: 2026-04-06
 status: draft
@@ -51,4 +51,4 @@ The "Rip Van Winkle" style of investing favors long-term holding of investments.
 
 ## 🔗 Related
 - [递延税 / Deferred Taxes](递延税.md) — 长期持有的数学优势来源
-- [[管理品质 / Management Quality]] — 长期持有的前提是信任管理层
+- 管理品质 / Management Quality — 长期持有的前提是信任管理层

@@ -42,9 +42,9 @@ status: draft
 - 零息可转换债券发行：9.026亿美元，15年期
 
 ### 新增概念/公司/人物
-- **概念**：[透视收益](../concepts/透视收益.md)、[制度惯性](../concepts/制度惯性.md)、[烟蒂投资法](../concepts/烟蒂投资法.md)、[[EBDIT]]、[Rip Van Winkle投资法](../concepts/Rip Van Winkle投资法.md)
-- **公司**：[波仙珠宝](../companies/波仙珠宝.md)、[吉列](../companies/吉列.md)、[可口可乐](../companies/可口可乐.md)（大幅增持）、[[全美航空]]、[[冠军国际]]
-- **人物**：[Ike Friedman](../people/Ike Friedman.md)、[Roberto Goizueta](../people/Roberto Goizueta.md)、[[Don Keough]]、[[Harry Bottle]]
+- **概念**：[透视收益](../concepts/透视收益.md)、[制度惯性](../concepts/制度惯性.md)、[烟蒂投资法](../concepts/烟蒂投资法.md)、EBDIT、[Rip Van Winkle投资法](../concepts/Rip Van Winkle投资法.md)
+- **公司**：[波仙珠宝](../companies/波仙珠宝.md)、[吉列](../companies/吉列.md)、[可口可乐](../companies/可口可乐.md)（大幅增持）、全美航空、冠军国际
+- **人物**：[Ike Friedman](../people/Ike Friedman.md)、[Roberto Goizueta](../people/Roberto Goizueta.md)、Don Keough、Harry Bottle
 
 ### 经典段落
 > "以合理的价格买入一家优秀的公司，远胜于以优秀的价格买入一家平庸的公司。"
