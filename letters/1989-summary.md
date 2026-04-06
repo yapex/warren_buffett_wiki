@@ -3,15 +3,15 @@ type: letter-summary
 title_zh: "1989年致股东信摘要"
 title_en: "1989 Letter to Shareholders — Summary"
 sources:
-  - "[[1989-letter]]"
+  - "[1989-letter](1989-letter.md)"
 related:
-  - "[[内在价值]]"
-  - "[[透视收益]]"
-  - "[[烟蒂投资法]]"
-  - "[[制度惯性]]"
-  - "[[可口可乐]]"
-  - "[[波仙珠宝]]"
-  - "[[吉列]]"
+  - "[内在价值](../concepts/内在价值.md)"
+  - "[透视收益](../concepts/透视收益.md)"
+  - "[烟蒂投资法](../concepts/烟蒂投资法.md)"
+  - "[制度惯性](../concepts/制度惯性.md)"
+  - "[可口可乐](../companies/可口可乐.md)"
+  - "[波仙珠宝](../companies/波仙珠宝.md)"
+  - "[吉列](../companies/吉列.md)"
 created: 2026-04-06
 updated: 2026-04-06
 status: draft
@@ -42,19 +42,19 @@ status: draft
 - 零息可转换债券发行：9.026亿美元，15年期
 
 ### 新增概念/公司/人物
-- **概念**：[[透视收益]]、[[制度惯性]]、[[烟蒂投资法]]、[[EBDIT]]、[[Rip Van Winkle投资法]]
-- **公司**：[[波仙珠宝]]、[[吉列]]、[[可口可乐]]（大幅增持）、[[全美航空]]、[[冠军国际]]
-- **人物**：[[Ike Friedman]]、[[Roberto Goizueta]]、[[Don Keough]]、[[Harry Bottle]]
+- **概念**：[透视收益](../concepts/透视收益.md)、[制度惯性](../concepts/制度惯性.md)、[烟蒂投资法](../concepts/烟蒂投资法.md)、[[EBDIT]]、[Rip Van Winkle投资法](../concepts/Rip Van Winkle投资法.md)
+- **公司**：[波仙珠宝](../companies/波仙珠宝.md)、[吉列](../companies/吉列.md)、[可口可乐](../companies/可口可乐.md)（大幅增持）、[[全美航空]]、[[冠军国际]]
+- **人物**：[Ike Friedman](../people/Ike Friedman.md)、[Roberto Goizueta](../people/Roberto Goizueta.md)、[[Don Keough]]、[[Harry Bottle]]
 
 ### 经典段落
 > "以合理的价格买入一家优秀的公司，远胜于以优秀的价格买入一家平庸的公司。"
-> — [[1989-letter]]
+> — [1989-letter](1989-letter.md)
 
 > "时间是优秀企业的朋友，是平庸企业的敌人。"
-> — [[1989-letter]]
+> — [1989-letter](1989-letter.md)
 
 > "当一位以才华著称的管理者接手一个以经济表现糟糕著称的企业时，保持完好的仍然是这家企业的名声。"
-> — [[1989-letter]]
+> — [1989-letter](1989-letter.md)
 
 ## 🇺🇸 English
 
@@ -78,18 +78,18 @@ The 1989 letter is a Buffett classic, featuring the first systematic review of m
 
 ### Notable Excerpts
 > "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."
-> — [[1989-letter]]
+> — [1989-letter](1989-letter.md)
 
 > "Time is the friend of the wonderful business, the enemy of the mediocre."
-> — [[1989-letter]]
+> — [1989-letter](1989-letter.md)
 
 > "When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact."
-> — [[1989-letter]]
+> — [1989-letter](1989-letter.md)
 
 ## 🔗 Related
-- [[内在价值 / Intrinsic Value]] — 核心概念，信中详细讨论
-- [[透视收益 / Look-Through Earnings]] — 本信首次提出
-- [[烟蒂投资法 / Cigar Butt Investing]] — 25年失误总结的核心教训
-- [[可口可乐 / Coca-Cola]] — 大幅增持，投资哲学的典型案例
-- [[波仙珠宝 / Borsheim's]] — 1989年新收购
-- [[制度惯性 / Institutional Imperative]] — 管理洞察的核心发现
+- [内在价值 / Intrinsic Value](../concepts/内在价值.md) — 核心概念，信中详细讨论
+- [透视收益 / Look-Through Earnings](../concepts/透视收益.md) — 本信首次提出
+- [烟蒂投资法 / Cigar Butt Investing](../concepts/烟蒂投资法.md) — 25年失误总结的核心教训
+- [可口可乐 / Coca-Cola](../companies/可口可乐.md) — 大幅增持，投资哲学的典型案例
+- [波仙珠宝 / Borsheim's](../companies/波仙珠宝.md) — 1989年新收购
+- [制度惯性 / Institutional Imperative](../concepts/制度惯性.md) — 管理洞察的核心发现

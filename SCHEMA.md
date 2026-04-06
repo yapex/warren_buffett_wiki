@@ -77,7 +77,7 @@ The core wiki artifact. Uses Obsidian callout syntax for paragraph-aligned readi
 
 **Conventions:**
 - `> [!zh] 🇨🇳` and `> [!en] 🇺🇸` alternate, forming aligned pairs
-- Entity names are wrapped in `[[wikilinks]]`: `[[可口可乐]]`, `[[查理·芒格]]`, `[[内在价值]]`
+- Entity names are wrapped in `[[wikilinks]]`: `[可口可乐](companies/可口可乐.md)`, `[查理·芒格](people/查理·芒格.md)`, `[内在价值](concepts/内在价值.md)`
 - These links make Obsidian's Graph View and Backlinks work — each letter becomes a hub connecting to concept/company/person pages
 - Styled via `bilingual-reading.css`: Chinese = blue tint 15px, English = gray tint 14px
 
@@ -94,7 +94,7 @@ title_zh: "内在价值"
 title_en: "Intrinsic Value"
 aliases: [IV, 真实价值]
 sources:
-  - "[[1989-letter]]"
+  - "[1989-letter](letters/1989-letter.md)"
 related:
   - "[[账面价值]]"
   - "[[安全边际]]"
@@ -128,11 +128,11 @@ status: draft | reviewed | mature
 
 | Target | Link format | Example |
 |--------|-------------|---------|
-| Bilingual letter | `[[YYYY-letter]]` | `[[1989-letter]]` |
-| Letter summary | `[[YYYY-summary]]` | `[[1989-summary]]` |
-| Concept | `[[title_zh]]` | `[[内在价值]]` |
-| Company | `[[title_zh]]` | `[[可口可乐]]` |
-| Person | `[[title_zh]]` | `[[查理·芒格]]` |
+| Bilingual letter | `[[YYYY-letter]]` | `[1989-letter](letters/1989-letter.md)` |
+| Letter summary | `[[YYYY-summary]]` | `[1989-summary](letters/1989-summary.md)` |
+| Concept | `[[title_zh]]` | `[内在价值](concepts/内在价值.md)` |
+| Company | `[[title_zh]]` | `[可口可乐](companies/可口可乐.md)` |
+| Person | `[[title_zh]]` | `[查理·芒格](people/查理·芒格.md)` |
 
 ### File naming
 
@@ -227,10 +227,10 @@ Append-only:
 
 ```
 ## [YYYY-MM-DD] ingest | 1989 Berkshire Shareholder Letter
-- Created: [[1989-letter]], [[1989-summary]]
-- Created concepts: [[内在价值]], [[透视收益]], [[烟蒂投资法]], ...
-- Created companies: [[可口可乐]], [[波仙珠宝]], ...
-- Created people: [[查理·芒格]], [[B夫人]], ...
+- Created: [1989-letter](letters/1989-letter.md), [1989-summary](letters/1989-summary.md)
+- Created concepts: [内在价值](concepts/内在价值.md), [透视收益](concepts/透视收益.md), [烟蒂投资法](concepts/烟蒂投资法.md), ...
+- Created companies: [可口可乐](companies/可口可乐.md), [波仙珠宝](companies/波仙珠宝.md), ...
+- Created people: [查理·芒格](people/查理·芒格.md), [B夫人](people/B夫人.md), ...
 - New pages: 16
 - Updated pages: 0
 ```
