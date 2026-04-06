@@ -194,8 +194,13 @@ status: draft | reviewed | mature
 3. **Write summary**: Create `letters/YYYY-summary.md`
 4. **Extract entities**: Identify concepts, companies, people
 5. **Update/create wiki pages**: For each entity, create or update the corresponding page, add quotes, update evolution/timeline
-6. **Update `index.md`**: Add new entries, update stats
-7. **Append to `log.md`**: Record what was done
+6. **Verify links (REQUIRED)**: Before updating indexes, run link integrity check on all new and updated pages:
+   - Every `[[wikilink]]` in new/updated files must resolve to an existing `.md` file
+   - If a `[[link]]` in `related:` or `🔗 Related` points to a page that doesn't exist yet, either create that page or remove the link — **no dangling links allowed**
+   - Use the shell check: `grep -oE '\[\[[^]]+\]\]' file.md | sed 's/|.*//' | while read link; do find . -name "${link}.md" ...; done`
+   - Fix all broken links before proceeding
+7. **Update `index.md`**: Add new entries, update stats
+8. **Append to `log.md`**: Record what was done (include link verification result)
 
 ### Query
 
@@ -207,6 +212,8 @@ status: draft | reviewed | mature
 ### Lint
 
 Periodically:
+- **Broken `[[wikilinks]]`**: Every `[[link]]` must resolve to an existing `.md` file. Scan all wiki pages (excluding `raw/` and `.obsidian/`) and report orphans.
+- **Dangling `related:` references**: Frontmatter `related:` and `🔗 Related` sections must not contain links to nonexistent pages.
 - Orphan pages with no inbound links
 - Missing cross-references
 - Concepts mentioned in letters but lacking their own page
