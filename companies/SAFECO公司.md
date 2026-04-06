@@ -4,12 +4,12 @@ title_zh: "SAFECO公司"
 title_en: "SAFECO Corporation"
 aliases: [SAFECO, 安全公司]
 sources:
-  - "[[1978-letter]]"
+  - "[1978-letter](../letters/1978-letter.md)"
 related:
-  - "[[华盛顿邮报]]"
-  - "[[盖可保险]]"
-  - "[[国民保险公司]]"
-  - "[[承保纪律]]"
+  - "[华盛顿邮报](华盛顿邮报.md)"
+  - "[盖可保险](盖可保险.md)"
+  - "[国民保险公司](国民保险公司.md)"
+  - "[承保纪律](../concepts/承保纪律.md)"
 created: 2026-04-06
 updated: 2026-04-06
 status: draft
@@ -53,17 +53,17 @@ status: draft
 > SAFECO 大概是全美经营最好的大型财产意外险公司。他们的承保能力无与伦比，损失准备金提列保守稳健，投资策略也非常合理。
 >
 > SAFECO probably is the best run large property and casualty insurance company in the United States. Their underwriting abilities are simply superb, their loss reserving is conservative, and their investment policies make great sense.
-> — [[1978-letter]]
+> — [1978-letter](../letters/1978-letter.md)
 
 > [!quote] 低于账面价值买入最优公司
 > 我们以不到一元的价格买到了行业中最好的公司，而在企业并购交易中，平庸的公司却要付出远超过一元的价格。而要从零开始——前景还不确定——你根本不可能以低于一元的代价做到。
 >
 > We paid less than 100 cents on the dollar for the best company in the business, when far more than 100 cents on the dollar is being paid for mediocre companies in corporate transactions. And there is no way to start a new operation - with necessarily uncertain prospects - at less than 100 cents on the dollar.
-> — [[1978-letter]]
+> — [1978-letter](../letters/1978-letter.md)
 
 ## 🔗 Related
 
-- [[华盛顿邮报]] — 同样以远低于内在价值的价格买入的少数股权
-- [[承保纪律]] — SAFECO 的承保能力"无与伦比"
-- [[留存收益]] — SAFECO 留存收益最终给股东创造的价值可能超过一元对一元
-- [[国民保险公司]] — 巴菲特将 SAFECO 与自身保险业务做比较
+- [华盛顿邮报](华盛顿邮报.md) — 同样以远低于内在价值的价格买入的少数股权
+- [承保纪律](../concepts/承保纪律.md) — SAFECO 的承保能力"无与伦比"
+- [留存收益](../concepts/留存收益.md) — SAFECO 留存收益最终给股东创造的价值可能超过一元对一元
+- [国民保险公司](国民保险公司.md) — 巴菲特将 SAFECO 与自身保险业务做比较

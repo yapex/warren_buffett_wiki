@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "letters/1978-letter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "1978-letter"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "letters/1978-letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
+              "title": "1978-letter 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "letters/1978-letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "index 的出链列表"
+              "title": "1978-letter 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "letters/1978-letter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "1978-letter 的大纲"
             }
           }
         ]
@@ -183,8 +183,9 @@
       "bases:新建数据库": false
     }
   },
-  "active": "51988c0592e29fff",
+  "active": "52d740f53e1dd374",
   "lastOpenFiles": [
+    "index.md",
     "concepts/留存收益.md",
     "people/约翰·林沃尔特.md",
     "people/米尔特·桑顿.md",
@@ -211,7 +212,6 @@
     "concepts/保险浮存金.md",
     "companies/国民保险公司.md",
     "people/肯尼思·蔡斯.md",
-    "people/吉恩·阿贝格.md",
     "raw/berkshire/1977-letter-zh.txt",
     "analysis",
     "people",

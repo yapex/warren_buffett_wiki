@@ -17,9 +17,9 @@ entities:
 > [!zh] 🇨🇳
 > 致伯克希尔·哈撒韦公司全体股东：
 >
-> 首先，说几句关于会计的事。年末与多元零售公司（Diversified Retailing Company, Inc.）的合并，给我们的财务报告带来了两个新的复杂问题。合并完成后，我们对[[蓝筹印花]]的持股比例提高到大约 58%，因此该公司的账目必须完全合并到伯克希尔的资产负债表和损益表中。在以前的报告中，[[蓝筹印花]]的净收益仅按我们的持股比例以单独一行列示在伯克希尔的损益表上，其净资产的相应份额也同样以一行列示在我们的资产负债表上。
+> 首先，说几句关于会计的事。年末与多元零售公司（Diversified Retailing Company, Inc.）的合并，给我们的财务报告带来了两个新的复杂问题。合并完成后，我们对[蓝筹印花](../companies/蓝筹印花.md)的持股比例提高到大约 58%，因此该公司的账目必须完全合并到伯克希尔的资产负债表和损益表中。在以前的报告中，[蓝筹印花](../companies/蓝筹印花.md)的净收益仅按我们的持股比例以单独一行列示在伯克希尔的损益表上，其净资产的相应份额也同样以一行列示在我们的资产负债表上。
 >
-> 将销售收入、费用、应收账款、存货、负债等全部合并，会把来自许多截然不同的业务——纺织、保险、糖果、报纸、印花——的数字搅在一起，而这些业务的经济特性天差地别。其中一些业务你们拥有 100% 的权益，但那些由[[蓝筹印花]]持有、虽被完全合并的业务，你们作为伯克希尔股东实际只拥有 58% 的权益。（其他人持有的余下部分权益，体现在资产负债表负债侧那个金额不小的"少数股东权益"项目中。）这种把全资拥有和部分拥有的资产负债表与损益项目搅在一起的做法，与其说是阐明经济实况，不如说是把事情搞得更糊涂。说实话，这种报表格式我们内部在年度中从来不编制，对日常经营管理也毫无用处。
+> 将销售收入、费用、应收账款、存货、负债等全部合并，会把来自许多截然不同的业务——纺织、保险、糖果、报纸、印花——的数字搅在一起，而这些业务的经济特性天差地别。其中一些业务你们拥有 100% 的权益，但那些由[蓝筹印花](../companies/蓝筹印花.md)持有、虽被完全合并的业务，你们作为伯克希尔股东实际只拥有 58% 的权益。（其他人持有的余下部分权益，体现在资产负债表负债侧那个金额不小的"少数股东权益"项目中。）这种把全资拥有和部分拥有的资产负债表与损益项目搅在一起的做法，与其说是阐明经济实况，不如说是把事情搞得更糊涂。说实话，这种报表格式我们内部在年度中从来不编制，对日常经营管理也毫无用处。
 
 > [!en] 🇺🇸
 > **To the Shareholders of Berkshire Hathaway Inc.:**
@@ -41,7 +41,7 @@ entities:
 > [!zh] 🇨🇳
 > 说完这些铺垫，可以告诉各位的是——不管用不用重述数字——1978 年都是丰收的一年。不含资本利得的经营收益占期初股东投资的 19.4%，距离我们 1972 年的历史纪录只差一点点。我们认为，在评估单一年度的经营表现时，不应将资本利得或损失纳入考量，但在衡量长期业绩时，它们是重要的组成部分。正是由于这类利得的存在，伯克希尔每股权益的长期增长超过了我们每年报告的经营收益单独复合所能达到的水平。
 >
-> 举例来说，过去三年——基本上是保险行业的黄金时期，而保险是我们最大的利润来源——伯克希尔的每股净资产几乎翻了一番，通过良好的经营收益加上相当可观的资本利得，年复合增长率约为 25%。但无论是这个来自所有渠道的 25% 权益增长率，还是 1978 年经营收益带来的 19.4% 权益增长率，都不可持续。保险行业的景气周期已在 1979 年掉头向下，今年以[[股本回报率]]衡量的经营收益几乎肯定会下降。不过，以美元金额衡量的经营收益很可能还会增长，因为现在投入业务的股东权益规模已经大了许多。
+> 举例来说，过去三年——基本上是保险行业的黄金时期，而保险是我们最大的利润来源——伯克希尔的每股净资产几乎翻了一番，通过良好的经营收益加上相当可观的资本利得，年复合增长率约为 25%。但无论是这个来自所有渠道的 25% 权益增长率，还是 1978 年经营收益带来的 19.4% 权益增长率，都不可持续。保险行业的景气周期已在 1979 年掉头向下，今年以[股本回报率](../concepts/股本回报率.md)衡量的经营收益几乎肯定会下降。不过，以美元金额衡量的经营收益很可能还会增长，因为现在投入业务的股东权益规模已经大了许多。
 
 > [!en] 🇺🇸
 > With that preamble it can be stated that, with or without restated figures, 1978 was a good year. Operating earnings, exclusive of capital gains, at 19.4% of beginning shareholders' investment were within a fraction of our 1972 record. While we believe it is improper to include capital gains or losses in evaluating the performance of a single year, they are an important component of the longer term record. Because of such gains, Berkshire's long-term growth in equity per share has been greater than would be indicated by compounding the returns from operating earnings that we have reported annually.
@@ -57,7 +57,7 @@ entities:
 ## 收益来源 / Sources of Earnings
 
 > [!zh] 🇨🇳
-> 为了让各位更清楚地了解伯克希尔的收益究竟从哪里来，下面是一张需要稍作解释的表格。伯克希尔持有[[蓝筹印花]]约 58% 的股权，而[[蓝筹印花]]除了 100% 持有几家企业之外，还拥有[[韦斯科金融公司]] 80% 的股权。因此，伯克希尔在韦斯科收益中的权益大约是 46%。合计来看，我们控制的各项业务拥有约 7,000 名全职员工，年收入超过 5 亿美元。
+> 为了让各位更清楚地了解伯克希尔的收益究竟从哪里来，下面是一张需要稍作解释的表格。伯克希尔持有[蓝筹印花](../companies/蓝筹印花.md)约 58% 的股权，而[蓝筹印花](../companies/蓝筹印花.md)除了 100% 持有几家企业之外，还拥有[韦斯科金融公司](../companies/韦斯科金融公司.md) 80% 的股权。因此，伯克希尔在韦斯科收益中的权益大约是 46%。合计来看，我们控制的各项业务拥有约 7,000 名全职员工，年收入超过 5 亿美元。
 >
 > 这张表列示了每个主要业务类别的税前收益（其中几家公司的税率较低，因为有大量免税的利息和股利收入），以及伯克希尔按持股比例可分得的税前和税后收益。各业务如有重大资本利得或损失，不包含在经营收益中，而是汇总列在表格底部的"已实现证券利得"一行。由于种种会计和税务上的繁复规定，各位不必把这些数字当作金科玉律，把它们看作 1977 年和 1978 年各项业务对公司收益贡献的近似值就好。
 
@@ -76,11 +76,11 @@ entities:
 > | 净投资收益 | 19,705 | 12,804 | 19,691 | 12,804 | 16,400 | 11,360 |
 > | 纺织 | 2,916 | (620) | 2,916 | (620) | 1,342 | (322) |
 > | 联合零售商店 | 2,757 | 2,775 | 2,757 | 2,775 | 1,176 | 1,429 |
-> | [[喜诗糖果]] | 12,482 | 12,840 | 7,013 | 6,598 | 3,049 | 2,974 |
-> | [[布法罗晚报]] | (2,913) | 751 | (1,637) | 389 | (738) | 158 |
-> | [[蓝筹印花]] - 母公司 | 2,133 | 1,091 | 1,198 | 566 | 1,382 | 892 |
-> | [[伊利诺伊国民银行]] | 4,822 | 3,800 | 4,710 | 3,706 | 4,262 | 3,288 |
-> | [[韦斯科金融公司]] - 母公司 | 1,771 | 2,006 | 777 | 813 | 665 | 419 |
+> | [喜诗糖果](../companies/喜诗糖果.md) | 12,482 | 12,840 | 7,013 | 6,598 | 3,049 | 2,974 |
+> | [布法罗晚报](../companies/布法罗晚报.md) | (2,913) | 751 | (1,637) | 389 | (738) | 158 |
+> | [蓝筹印花](../companies/蓝筹印花.md) - 母公司 | 2,133 | 1,091 | 1,198 | 566 | 1,382 | 892 |
+> | [伊利诺伊国民银行](../companies/伊利诺伊国民银行.md) | 4,822 | 3,800 | 4,710 | 3,706 | 4,262 | 3,288 |
+> | [韦斯科金融公司](../companies/韦斯科金融公司.md) - 母公司 | 1,771 | 2,006 | 777 | 813 | 665 | 419 |
 > | 互助储贷公司 | 10,556 | 6,779 | 4,638 | 2,747 | 3,042 | 1,946 |
 > | 利息支出 | (5,566) | (5,302) | (4,546) | (4,255) | (2,349) | (2,129) |
 > | 其他 | 720 | 165 | 438 | 102 | 261 | 48 |
@@ -111,7 +111,7 @@ entities:
 > | Total Earnings | $66,180 | $57,089 | $54,350 | $42,234 | $39,242 | $30,393 |
 
 > [!zh] 🇨🇳
-> [[蓝筹印花]]和[[韦斯科金融公司]]都是上市公司，各自有信息披露义务。在本报告后面，我们转载了这两家公司主要管理者的叙述性报告，描述他们 1978 年的经营状况。他们使用的某些数字可能与我们报告中的不完全一致——同样是会计和税务的复杂性所致。但他们的评论应该有助于各位理解这些重要的部分持有企业的基本经济特征。
+> [蓝筹印花](../companies/蓝筹印花.md)和[韦斯科金融公司](../companies/韦斯科金融公司.md)都是上市公司，各自有信息披露义务。在本报告后面，我们转载了这两家公司主要管理者的叙述性报告，描述他们 1978 年的经营状况。他们使用的某些数字可能与我们报告中的不完全一致——同样是会计和税务的复杂性所致。但他们的评论应该有助于各位理解这些重要的部分持有企业的基本经济特征。
 
 > [!en] 🇺🇸
 > Blue Chip and Wesco are public companies with reporting requirements of their own. Later in this report we are reproducing the narrative reports of the principal executives of both companies, describing their 1978 operations. Some of the figures they utilize will not match to the penny the ones we use in this report, again because of accounting and tax complexities. But their comments should be helpful to you in understanding the underlying economic characteristics of these important partly-owned businesses.
@@ -135,7 +135,7 @@ entities:
 ## 保险承保业务 / Insurance Underwriting
 
 > [!zh] 🇨🇳
-> 1978 年伯克希尔整体优异成绩的头号功臣，是[[国民保险公司]]（National Indemnity Company）由[[菲尔·利舍]]领导的那部分保险业务。在大约 9,000 万美元的已赚保费上，实现了约 1,100 万美元的承保利润——即使以行业景气良好为背景，这也是一项真正非凡的成就。在 Phil 的领导下，加上承保部门罗兰·米勒（Roland Miller）和理赔部门比尔·莱昂斯（Bill Lyons）的出色协助，国民保险的这部分业务（包括作为姊妹公司运营的国民火海险公司）迎来了其悠久历史中最好的年份之一——而其历史业绩总体而言远超同行。今天的成功不仅归功于现任管理者，同样要归功于国民保险创始人杰克·林沃尔特（Jack Ringwalt）的商业才华，他的经营哲学至今仍深深刻印在这家公司身上。
+> 1978 年伯克希尔整体优异成绩的头号功臣，是[国民保险公司](../companies/国民保险公司.md)（National Indemnity Company）由[菲尔·利舍](../people/菲尔·利舍.md)领导的那部分保险业务。在大约 9,000 万美元的已赚保费上，实现了约 1,100 万美元的承保利润——即使以行业景气良好为背景，这也是一项真正非凡的成就。在 Phil 的领导下，加上承保部门罗兰·米勒（Roland Miller）和理赔部门比尔·莱昂斯（Bill Lyons）的出色协助，国民保险的这部分业务（包括作为姊妹公司运营的国民火海险公司）迎来了其悠久历史中最好的年份之一——而其历史业绩总体而言远超同行。今天的成功不仅归功于现任管理者，同样要归功于国民保险创始人杰克·林沃尔特（Jack Ringwalt）的商业才华，他的经营哲学至今仍深深刻印在这家公司身上。
 >
 > 自从约翰·休厄德（John Seward）于 1975 年介入并整顿业务以来，家庭和汽车保险公司（Home and Automobile Insurance Company）迎来了最好的一年。它的业绩在本报告中与 Phil Liesche 团队的经营数据合并，归入"专业汽车及一般责任险"类别。
 
@@ -167,7 +167,7 @@ entities:
 > The homestate operation was disappointing in 1978. Our unsatisfactory underwriting, even though partially explained by an unusual incidence of Midwestern storms, is particularly worrisome against the backdrop of very favorable industry results in the conventional lines written by our homestate group. We have confidence in John Ringwalt's ability to correct this situation. The bright spot in the group was the performance of Kansas Fire and Casualty in its first full year of business. Under Floyd Taylor, this subsidiary got off to a truly remarkable start. Of course, it takes at least several years to evaluate underwriting results, but the early signs are encouraging and Floyd's operation achieved the best loss ratio among the homestate companies in 1978.
 
 > [!zh] 🇨🇳
-> 尽管有些细分领域令人失望，但我们的保险业务整体上度过了优秀的一年。当然，在 1978 年这样行业景气高涨的时候，我们理应取得好成绩。可以几乎肯定的是，1979 年行业[[综合比率]]将至少上升几个百分点，也许足以使整个行业陷入承保亏损的境地。举个例子，在车险领域——这是行业也是我们最重要的业务板块——CPI 数据显示 1979 年 1 月的总体费率仅比一年前高出 3%。但构成赔付成本的项目——汽车维修和医疗费用——却上涨了超过 9%。这与 1976 年底的情况截然不同，当时费率在过去 12 个月中上调了超过 22%，而成本仅增长 8%。
+> 尽管有些细分领域令人失望，但我们的保险业务整体上度过了优秀的一年。当然，在 1978 年这样行业景气高涨的时候，我们理应取得好成绩。可以几乎肯定的是，1979 年行业[综合比率](../concepts/综合比率.md)将至少上升几个百分点，也许足以使整个行业陷入承保亏损的境地。举个例子，在车险领域——这是行业也是我们最重要的业务板块——CPI 数据显示 1979 年 1 月的总体费率仅比一年前高出 3%。但构成赔付成本的项目——汽车维修和医疗费用——却上涨了超过 9%。这与 1976 年底的情况截然不同，当时费率在过去 12 个月中上调了超过 22%，而成本仅增长 8%。
 >
 > 利润率只有在费率增速与成本增速一致时才能保持稳定。1979 年显然做不到这一点，1980 年的状况可能还会进一步恶化。我们目前的判断是，1979 年我们相对于同行的承保表现会有所改善，但每一家保险公司的管理层大概都对自己的相对前景持类似的乐观态度——总有人要失望的。即使我们确实比别人做得好一些，我们 1979 年的综合比率很可能还是会高于去年，[[承保利润]]也可能低于去年的水平。
 >
@@ -209,7 +209,7 @@ entities:
 > [!zh] 🇨🇳
 > 我们并不在意市场是否会迅速重新估值我们认为价格被低估的证券。事实上，我们宁可不要这样，因为在大多数年份里，我们预期会有资金净流入来买进证券。持续以有吸引力的价格买入，最终给我们带来的好处，很可能超过股价短期飙升到我们不愿继续买入的水平所提供的卖出机会。
 >
-> 我们的策略是[[集中投资]]。当我们对某项业务或其价格只是兴趣平平时，我们尽量不去东买一点、西买一点。当我们确信投资具有吸引力时，我们相信应该大手笔买入。
+> 我们的策略是[集中投资](../concepts/集中投资.md)。当我们对某项业务或其价格只是兴趣平平时，我们尽量不去东买一点、西买一点。当我们确信投资具有吸引力时，我们相信应该大手笔买入。
 
 > [!en] 🇺🇸
 > We are not concerned with whether the market quickly revalues upward securities that we believe are selling at bargain prices. In fact, we prefer just the opposite since, in most years, we expect to have funds available to be a net buyer of securities. And consistent attractive purchasing is likely to prove to be of more eventual benefit to us than any selling opportunities provided by a short-term run up in stock prices to levels at which we are unwilling to continue buying.
@@ -221,14 +221,14 @@ entities:
 >
 > | 股份数量 | 公司名称 | 成本（千美元） | 市值（千美元） |
 > |---------|---------|--------------|--------------|
-> | 246,450 | [[美国广播公司]] (American Broadcasting Companies) | $6,082 | $8,626 |
-> | 1,294,308 | [[盖可保险]] 普通股 | 4,116 | 9,060 |
-> | 1,986,953 | [[盖可保险]] 可转换优先股 | 19,417 | 28,314 |
-> | 592,650 | [[英特帕布利克集团]] (Interpublic Group) | 4,531 | 19,039 |
-> | 1,066,934 | [[凯撒铝化学公司]] (Kaiser Aluminum) | 18,085 | 18,671 |
-> | 453,800 | [[骑士报业公司]] (Knight-Ridder Newspapers) | 7,534 | 10,267 |
-> | 953,750 | [[SAFECO公司]] | 23,867 | 26,467 |
-> | 934,300 | [[华盛顿邮报]] | 10,628 | 43,445 |
+> | 246,450 | [美国广播公司](../companies/美国广播公司.md) (American Broadcasting Companies) | $6,082 | $8,626 |
+> | 1,294,308 | [盖可保险](../companies/盖可保险.md) 普通股 | 4,116 | 9,060 |
+> | 1,986,953 | [盖可保险](../companies/盖可保险.md) 可转换优先股 | 19,417 | 28,314 |
+> | 592,650 | [英特帕布利克集团](../companies/英特帕布利克集团.md) (Interpublic Group) | 4,531 | 19,039 |
+> | 1,066,934 | [凯撒铝化学公司](../companies/凯撒铝化学公司.md) (Kaiser Aluminum) | 18,085 | 18,671 |
+> | 453,800 | [骑士报业公司](../companies/骑士报业公司.md) (Knight-Ridder Newspapers) | 7,534 | 10,267 |
+> | 953,750 | [SAFECO公司](../companies/SAFECO公司.md) | 23,867 | 26,467 |
+> | 934,300 | [华盛顿邮报](../companies/华盛顿邮报.md) | 10,628 | 43,445 |
 > | | 合计 | $94,260 | $163,889 |
 > | | 其他所有持股 | 39,506 | 57,040 |
 > | | 股票投资合计 | $133,766 | $220,929 |
@@ -281,7 +281,7 @@ entities:
 ## 银行业务 / Banking
 
 > [!zh] 🇨🇳
-> 在吉恩·阿贝格（Gene Abegg）和彼得·杰弗里（Pete Jeffrey）的领导下，位于罗克福德（Rockford）地区的[[伊利诺伊国民银行]]（Illinois National Bank and Trust Company）继续刷新纪录。去年的收益约为平均资产的 2.1%，大约是主要银行平均水平的三倍。在我们看来，达到这一非凡的盈利水平的同时，其承担的资产风险还显著低于大多数大银行。
+> 在吉恩·阿贝格（Gene Abegg）和彼得·杰弗里（Pete Jeffrey）的领导下，位于罗克福德（Rockford）地区的[伊利诺伊国民银行](../companies/伊利诺伊国民银行.md)（Illinois National Bank and Trust Company）继续刷新纪录。去年的收益约为平均资产的 2.1%，大约是主要银行平均水平的三倍。在我们看来，达到这一非凡的盈利水平的同时，其承担的资产风险还显著低于大多数大银行。
 >
 > 我们是在 1969 年 3 月收购伊利诺国民银行的。那时它已是一流的运营机构，自从 1931 年 Gene Abegg 开门营业以来一直如此。自 1968 年以来，消费者定期存款增长了四倍，净收入增长了三倍，信托部门收入增长了一倍多，与此同时成本得到了严格控制。
 >
