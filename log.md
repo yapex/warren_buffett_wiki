@@ -2,6 +2,19 @@
 
 <!-- Append-only log. Format: ## [YYYY-MM-DD] action | description -->
 
+## [2026-04-06] ingest | 1978 Berkshire Shareholder Letter
+- Raw sources: EN from juliuschun/eco-moat-ai (`markdown/buffett-letter-1978.md`), ZH from buffett-letters-eir.pages.dev
+- Created: [[1978-letter]], [[1978-summary]]
+- Created concepts: [[集中投资]], [[留存收益]]
+- Created companies: [[SAFECO公司]], [[布法罗晚报]], [[美国广播公司]], [[英特帕布利克集团]], [[凯撒铝化学公司]], [[骑士报业公司]], [[联合零售商店]]
+- Created people: [[杰克·林沃尔特]], [[本·罗斯纳]], [[弗兰克·德纳尔多]], [[米尔特·桑顿]], [[弗洛伊德·泰勒]], [[约翰·林沃尔特]]
+- Updated: [[盖可保险]] (1978 持仓数据), [[华盛顿邮报]] (1978 市值 $43.4M), [[蓝筹印花]] (持股提升至 ~58%), [[伊利诺伊国民银行]] (1978 收益 $4.3M), [[韦斯科金融公司]] (1978 数据), [[国民保险公司]] (1978 承保利润 ~$11M), [[喜诗糖果]] (1978 数据), [[菲尔·利舍]] (1978 业绩), [[吉恩·阿贝格]] (1978 数据), [[彼得·杰弗里]] (1978 数据), [[路易斯·文森蒂]] (1978 数据), [[股本回报率]] (added 1978 source), [[承保纪律]] (added 1978 source), [[综合比率]] (added 1978 source), [[顺风与逆风行业]] (added 1978 source), [[保险浮存金]] (added 1978 source), [[社会通胀]] (added 1978 source)
+- Link verification: ✅ All 17 new/updated files pass — zero broken links
+- New pages: 17
+- Updated pages: 16
+
+<!-- Append-only log. Format: ## [YYYY-MM-DD] action | description -->
+
 ## [2026-04-06] ingest | 1977 Berkshire Shareholder Letter
 - Raw sources: EN from juliuschun/eco-moat-ai, ZH from buffett-letters-eir.pages.dev
 - Created: [[1977-letter]], [[1977-summary]]

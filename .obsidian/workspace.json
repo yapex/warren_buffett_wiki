@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "letters/1989-summary.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1989-summary"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "letters/1989-summary.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1989-summary 的反向链接列表"
+              "title": "index 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "letters/1989-summary.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1989-summary 的出链列表"
+              "title": "index 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "letters/1989-summary.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1989-summary 的大纲"
+              "title": "index 的大纲"
             }
           }
         ]
@@ -185,6 +185,26 @@
   },
   "active": "51988c0592e29fff",
   "lastOpenFiles": [
+    "concepts/留存收益.md",
+    "people/约翰·林沃尔特.md",
+    "people/米尔特·桑顿.md",
+    "people/弗兰克·德纳尔多.md",
+    "people/本·罗斯纳.md",
+    "concepts/集中投资.md",
+    "people/弗洛伊德·泰勒.md",
+    "people/杰克·林沃尔特.md",
+    "companies/骑士报业公司.md",
+    "companies/英特帕布利克集团.md",
+    "companies/联合零售商店.md",
+    "companies/美国广播公司.md",
+    "companies/凯撒铝化学公司.md",
+    "companies/布法罗晚报.md",
+    "companies/SAFECO公司.md",
+    "letters/1978-summary.md",
+    "letters/1978-letter.md",
+    "raw/berkshire/1978-letter-en.md",
+    "raw/berkshire/1978-letter-zh.txt",
+    "letters/1989-summary.md",
     "people/查克·哈金斯.md",
     "people/彼得·杰弗里.md",
     "people/路易斯·文森蒂.md",
@@ -192,27 +212,8 @@
     "companies/国民保险公司.md",
     "people/肯尼思·蔡斯.md",
     "people/吉恩·阿贝格.md",
-    "people/菲尔·利舍.md",
-    "companies/韦斯科金融公司.md",
-    "companies/伊利诺伊国民银行.md",
-    "companies/大都会通讯公司.md",
-    "companies/蓝筹印花.md",
-    "companies/华盛顿邮报.md",
-    "companies/盖可保险.md",
-    "concepts/综合比率.md",
-    "concepts/承保纪律.md",
-    "concepts/社会通胀.md",
-    "concepts/顺风与逆风行业.md",
-    "concepts/股本回报率.md",
-    "letters/1977-summary.md",
-    "letters/1977-letter.md",
     "raw/berkshire/1977-letter-zh.txt",
-    "raw/berkshire/1977-letter-en.md",
-    "index.md",
-    "log.md",
     "analysis",
-    "people/查理·芒格.md",
-    "people/Roberto Goizueta.md",
     "people",
     "companies",
     "concepts",
