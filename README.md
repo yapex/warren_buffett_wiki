@@ -6,27 +6,43 @@ An Obsidian vault that doubles as an LLM-readable wiki — every claim links bac
 
 ## Quick Start (for LLM agents)
 
-1. **Read [`SCHEMA.md`](SCHEMA.md) first.** It defines all conventions, templates, and operations. This is your single source of truth.
+1. **Read [`SCHEMA.md`](SCHEMA.md) first.** It defines all operational conventions, templates, and workflows.
 2. **Read [`index.md`](index.md)** to understand what's already ingested (letters, concepts, companies, people).
-3. **To ingest a new letter** — follow the Ingest workflow in SCHEMA.md: fetch raw sources → align ZH/EN → create letter page → extract entities → update/create wiki pages → verify links → update index & log.
+3. **To ingest a new letter** — follow the Ingest workflow in SCHEMA.md.
 4. **To query** — read index.md, navigate to relevant pages, synthesize answers with `[[source-links]]`.
-5. **To lint** — run the Lint workflow in SCHEMA.md to catch broken links and missing cross-references.
+5. **To lint** — run the Lint workflow in SCHEMA.md.
 
-## Project Structure
+## Directory Structure
 
 ```
-warren_buffett_wiki/
-├── SCHEMA.md          # ⚙️  START HERE — conventions, templates, workflows
-├── index.md           # Master index with stats
-├── log.md             # Append-only changelog
-├── raw/               # Immutable source material (not wiki)
-├── letters/           # Bilingual paragraph-aligned letters + summaries
-├── concepts/          # Investment concepts (内在价值, 烟蒂投资法, ...)
-├── companies/         # Companies mentioned (可口可乐, 盖可保险, ...)
-├── people/            # Key people (查理·芒格, B夫人, ...)
-├── analysis/          # Deep-dive analyses
-└── assets/            # Images, charts
+warren_buffett_wiki/            ← Obsidian vault
+├── SCHEMA.md                   # ⚙️  Operational rules for LLM agents
+├── index.md                    # Master index with stats
+├── log.md                      # Append-only changelog
+├── raw/                        # Immutable source material (not wiki)
+│   ├── berkshire/
+│   │   ├── YYYY-letter-en.md   #   English source
+│   │   └── YYYY-letter-zh.txt  #   Chinese source
+│   ├── partnership/            # Partnership letter sources
+│   └── other/                  # Speeches, interviews, etc.
+├── letters/                    # Bilingual paragraph-aligned letters + summaries
+│   ├── YYYY-letter.md
+│   └── YYYY-summary.md
+├── concepts/                   # Investment concepts (内在价值, 烟蒂投资法, ...)
+├── companies/                  # Companies mentioned (可口可乐, 盖可保险, ...)
+├── people/                     # Key people (查理·芒格, B夫人, ...)
+├── analysis/                   # Deep-dive analyses
+└── assets/                     # Images, charts
 ```
+
+## Data Sources
+
+| Source | URL | Coverage | Role |
+|--------|-----|----------|------|
+| juliuschun/eco-moat-ai | https://github.com/juliuschun/eco-moat-ai | 1977–2024 | **Primary English source** (Markdown) |
+| buffett-letters-eir | https://buffett-letters-eir.pages.dev | 1956–2024 | **Primary Chinese source** (HTML) |
+| fenwii/WarrenBuffettLetter | https://github.com/fenwii/WarrenBuffettLetter | 1957–2024 | PDF archive, fallback |
+| Berkshire Hathaway (official) | https://www.berkshirehathaway.com/letters/ | 1977–2024 | Official, some early years 404 |
 
 ## Key Principles
 
@@ -35,6 +51,41 @@ warren_buffett_wiki/
 - **Cross-linked**: `[[wikilinks]]` connect letters ↔ concepts ↔ companies ↔ people
 - **Compounding**: wiki pages are updated as new letters are ingested, building an evolving knowledge graph
 - **No dangling links**: all `[[wikilinks]]` must resolve to existing `.md` files
+- **`raw/` is immutable**: holds original source material, never modified
+
+## Page Types
+
+### Concept pages (`concepts/`)
+- 概念解析 / Definition
+- 核心要义 / Key Principles
+- 实践应用 / Practical Application
+- 巴菲特原话精选 / Buffett Quotes
+- 思想演变 / Evolution of Thought (updated as more letters are ingested)
+- 🔗 Related
+
+### Company pages (`companies/`)
+- 公司简介 / Company Overview
+- 伯克希尔的关系 / Berkshire's Relationship
+- 关键事件时间线 / Key Events Timeline
+- 巴菲特原话精选 / Buffett Quotes
+- 🔗 Related
+
+### Person pages (`people/`)
+- 人物简介 / Biography
+- 与巴菲特的关系 / Relationship with Buffett
+- 在股东信中的出现 / Appearances in Letters
+- 🔗 Related
+
+### Letter pages (`letters/`)
+- `YYYY-letter.md` — Bilingual paragraph-aligned text with embedded `[[entity links]]`
+- `YYYY-summary.md` — Structured summary: overview, themes, figures, entities, excerpts
+
+### Analysis pages (`analysis/`)
+- 分析主题 / Topic
+- 核心论点 / Thesis
+- 论据与原文引用 / Evidence with Source Links
+- 结论 / Conclusion
+- 🔗 Related
 
 ## Current Progress
 
