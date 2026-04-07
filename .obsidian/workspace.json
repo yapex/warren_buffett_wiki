@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AUDIT-REPORT.md",
+                "file": "letters/1977-letter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AUDIT-REPORT"
+              "title": "1977-letter"
             }
           }
         ]
@@ -185,8 +185,16 @@
   },
   "active": "c3dc2c2db056b111",
   "lastOpenFiles": [
-    "raw/berkshire/1989-letter-zh.md",
+    "concepts/商誉.md",
+    "concepts/特许经营权.md",
+    "concepts/经济商誉.md",
+    "letters/1983-summary.md",
+    "letters/1983-letter.md",
+    "AUDIT-REPORT.md",
     "AUDIT-REPORT-1980-1982.md",
+    "raw/berkshire/1983-letter-zh.md",
+    "raw/berkshire/1983-letter-en.md",
+    "raw/berkshire/1989-letter-zh.md",
     "SCHEMA.md",
     "raw/berkshire/1981-letter-zh.md",
     "raw/berkshire/1980-letter-zh.md",
@@ -195,7 +203,6 @@
     "raw/berkshire/1977-letter-zh.md",
     "raw/berkshire/1982-letter-zh.md",
     "README.md",
-    "AUDIT-REPORT.md",
     "index.md",
     "companies/General-Foods.md",
     "companies/GEICO.md",
@@ -204,16 +211,9 @@
     "letters/1982-letter.md",
     "concepts/无控制权持股收益.md",
     "people/汤姆·墨菲.md",
-    "people/埃尔文·扎班.md",
-    "people/亨利·辛格尔顿.md",
-    "people/本·海涅曼.md",
-    "people/沃伦·巴菲特.md",
-    "companies/雷诺烟草.md",
-    "companies/平克顿安保.md",
     "_task_qa.txt",
     "tmp/1981-entities.json",
     "tmp",
-    "letters/1981-summary.md",
     "_task_content.txt",
     "_task_1981_content.sh",
     "tmp/1980-entities.json",

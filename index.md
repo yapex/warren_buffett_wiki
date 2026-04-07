@@ -36,6 +36,7 @@
 |------|------|------|------|
 | 1980 | [1980-letter](letters/1980-letter.md) | [1980-summary](letters/1980-summary.md) | ✅ draft |
 | 1981 | [1981-letter](letters/1981-letter.md) | [1981-summary](letters/1981-summary.md) | ✅ draft |
+| 1983 | [1983-letter](letters/1983-letter.md) | [1983-summary](letters/1983-summary.md) | ✅ draft |
 | 1989 | [1989-letter](letters/1989-letter.md) | [1989-summary](letters/1989-summary.md) | ✅ draft |
 
 #### 1990s–2020s
@@ -73,6 +74,9 @@
 | 投资人痛苦指数 | [投资人痛苦指数](concepts/投资人痛苦指数.md) | 1979 | [1979-letter](letters/1979-letter.md) |
 | 长期固定利率债券 | [长期固定利率债券](concepts/长期固定利率债券.md) | 1979 | [1979-letter](letters/1979-letter.md) |
 | 困境反转 | [困境反转](concepts/困境反转.md) | 1979 | [1979-letter](letters/1979-letter.md) |
+| 商誉 | [商誉](concepts/商誉.md) | 1983 | [1983-letter](letters/1983-letter.md) |
+| 经济商誉 | [经济商誉](concepts/经济商誉.md) | 1983 | [1983-letter](letters/1983-letter.md) |
+| 特许经营权 | [特许经营权](concepts/特许经营权.md) | 1983 | [1983-letter](letters/1983-letter.md) |
 | 内在价值 | [内在价值](concepts/内在价值.md) | 1989 | [1989-letter](letters/1989-letter.md) |
 | 透视收益 | [透视收益](concepts/透视收益.md) | 1989 | [1989-letter](letters/1989-letter.md) |
 | 烟蒂投资法 | [烟蒂投资法](concepts/烟蒂投资法.md) | 1989 | [1989-letter](letters/1989-letter.md) |
@@ -119,7 +123,7 @@
 | 可口可乐 | [可口可乐](companies/可口可乐.md) | 持股 | [1989-letter](letters/1989-letter.md) |
 | 波仙珠宝 | [波仙珠宝](companies/波仙珠宝.md) | 全资子公司 | [1989-letter](letters/1989-letter.md) |
 | 吉列 | [吉列](companies/吉列.md) | 可转换优先股 | [1989-letter](letters/1989-letter.md) |
-| 内布拉斯加家具商场 | [内布拉斯加家具商场](companies/内布拉斯加家具商场.md) | 全资子公司 | [1989-letter](letters/1989-letter.md) |
+| 内布拉斯加家具商场 | [内布拉斯加家具商场](companies/内布拉斯加家具商场.md) | 全资子公司 | [1983-letter](letters/1983-letter.md), [1989-letter](letters/1989-letter.md) |
 
 ---
 
@@ -149,7 +153,7 @@
 | 约翰·林沃尔特 | [约翰·林沃尔特](people/约翰·林沃尔特.md) | 住宅保险集团负责人 | [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
 | 菲利普·费雪 | [菲利普·费雪](people/菲利普·费雪.md) | 投资家/作家 | [1979-letter](letters/1979-letter.md) |
 | 查理·芒格 | [查理·芒格](people/查理·芒格.md) | 副董事长 | [1989-letter](letters/1989-letter.md) |
-| B夫人 | [B夫人](people/B夫人.md) | NFM创始人 | [1989-letter](letters/1989-letter.md) |
+| B夫人 | [B夫人](people/B夫人.md) | NFM创始人 | [1983-letter](letters/1983-letter.md), [1989-letter](letters/1989-letter.md) |
 | Ike Friedman | [Ike Friedman](people/Ike Friedman.md) | 波仙珠宝 | [1989-letter](letters/1989-letter.md) |
 | Roberto Goizueta | [Roberto Goizueta](people/Roberto Goizueta.md) | 可口可乐CEO | [1989-letter](letters/1989-letter.md) |
 
@@ -165,10 +169,10 @@
 
 ## 📊 统计 / Stats
 
-- 信件：5 / 99 (+1)
-- 概念：23 (+1)
-- 公司：32 (+2)
-- 人物：26 (+5)
+- 信件：6 / 99 (+1)
+- 概念：26 (+3)
+- 公司：32 (+0)
+- 人物：26 (+0)
 - 分析：0
 
 ---

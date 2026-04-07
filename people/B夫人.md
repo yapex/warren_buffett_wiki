@@ -4,6 +4,7 @@ title_zh: "B夫人"
 title_en: "Rose Blumkin"
 aliases: [Mrs. B, Rose Blumkin, Mrs. Blumkin]
 sources:
+  - "[1983-letter](../letters/1983-letter.md)"
   - "[1989-letter](../letters/1989-letter.md)"
 related:
   - "[内布拉斯加家具商场](../companies/内布拉斯加家具商场.md)"

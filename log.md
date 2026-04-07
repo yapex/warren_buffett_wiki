@@ -84,3 +84,14 @@
 - Created people: [查理·芒格](people/查理·芒格.md), [B夫人](people/B夫人.md), [Ike Friedman](people/Ike Friedman.md), [Roberto Goizueta](people/Roberto Goizueta.md)
 - New pages: 16
 - Updated pages: 0
+
+## [2026-04-07] ingest | 1983 Berkshire Shareholder Letter
+- Raw sources: EN from juliuschun/eco-moat-ai (markdown/buffett-letter-1983.md), ZH from buffett-letters-eir.pages.dev (berkshire/1983-巴菲特致股东信.html)
+- Created: [1983-letter](letters/1983-letter.md), [1983-summary](letters/1983-summary.md)
+- QA result: ✅ PASS — all sections present, signature/date present, ZH-EN pairs balanced
+- Created concepts: [商誉](concepts/商誉.md), [经济商誉](concepts/经济商誉.md), [特许经营权](concepts/特许经营权.md)
+- Updated companies: [内布拉斯加家具商场](companies/内布拉斯加家具商场.md) (added 1983 source), [B夫人](people/B夫人.md) (added 1983 source)
+- Updated index: Added 1983 to letters table, updated stats
+- Link verification: ✅ All links pass
+- New pages: 5 (letter, summary, 3 concepts)
+- Updated pages: 2 (NFM company page, B夫人 person page)
