@@ -28,7 +28,7 @@
 >
 > Generally accepted accounting principles require (subject to exceptions, naturally, as with our former bank subsidiary) full consolidation of sales, expenses, taxes, and earnings of business holdings more than 50% owned. [Blue Chip Stamps](companies/蓝筹印花.md), 60% owned by Berkshire Hathaway Inc., falls into this category. Therefore, all Blue Chip income and expense items are included in full in Berkshire's Consolidated Statement of Earnings, with the 40% ownership interest of others in Blue Chip's net earnings reflected in the Statement as a deduction for "minority interest".
 >
-> Full inclusion of underlying earnings from another class of holdings, companies owned 20% to 50% (usually called "investees"), also normally occurs. Earnings from such companies - for example, [Wesco Financial](companies/韦斯科金融.md), controlled by Berkshire but only 48% owned - are included via a one-line entry in the owner's Statement of Earnings. Unlike the over-50% category, all items of revenue and expense are omitted; just the proportional share of net income is included. Thus, if Corporation A owns one-third of Corporation B, one-third of B's earnings, whether or not distributed by B, will end up in A's earnings.
+> Full inclusion of underlying earnings from another class of holdings, companies owned 20% to 50% (usually called "investees"), also normally occurs. Earnings from such companies - for example, [Wesco Financial](companies/韦斯科金融公司.md), controlled by Berkshire but only 48% owned - are included via a one-line entry in the owner's Statement of Earnings. Unlike the over-50% category, all items of revenue and expense are omitted; just the proportional share of net income is included. Thus, if Corporation A owns one-third of Corporation B, one-third of B's earnings, whether or not distributed by B, will end up in A's earnings.
 
 > [!zh] 🇨🇳
 > 最后是持股比例低于20%的情况。在这种情况下，会计规则要求投资公司仅将收到的股利计入收益，未分配的收益则完全忽略。因此，假设我们持有一家X公司10%的股份，而X公司在1980年赚了1,000万美元，那么（忽略公司间股息的少量税收）我们在报表上体现的收益将是：(a) 如果X公司将1,000万美元全部分红，则为100万美元；(b) 如果X公司分配50%即500万美元，则为50万美元；或者(c) 如果X公司将全部收益留存再投资，则为零。
@@ -148,7 +148,7 @@
 > 下表显示了伯克希尔报告收益的来源。伯克希尔拥有蓝筹印花约60%的股份，而蓝筹印花又拥有韦斯科金融80%的股份。表中列示了各业务实体的总收益以及伯克希尔所占的份额。所有归属于各业务实体的重大资本利得和损失均汇总在表格底部的已实现证券收益项目中，不计入经营收益。我们对经营收益的计算也不包括出售互助储贷 (Mutual Savings and Loan) 分支机构的收益。在这一点上，它与我们经审计的财务报表中将该项目纳入"已实现投资收益前的收益"的列报方式有所不同。
 
 > [!en] 🇺🇸
-> The table below shows the sources of Berkshire's reported earnings. Berkshire owns about 60% of [Blue Chip Stamps](companies/蓝筹印花.md), which in turn owns 80% of [Wesco Financial Corporation](companies/韦斯科金融.md). The table shows aggregate earnings of the various business entities, as well as Berkshire's share of those earnings. All of the significant capital gains and losses attributable to any of the business entities are aggregated in the realized securities gains figure at the bottom of the table, and are not included in operating earnings. Our calculation of operating earnings also excludes the gain from sale of [Mutual Savings and Loan](companies/互助储贷.md)'s branch offices. In this respect it differs from the presentation in our audited financial statements that includes this item in the calculation of "Earnings Before Realized Investment Gain".
+> The table below shows the sources of Berkshire's reported earnings. Berkshire owns about 60% of [Blue Chip Stamps](companies/蓝筹印花.md), which in turn owns 80% of [Wesco Financial Corporation](companies/韦斯科金融公司.md). The table shows aggregate earnings of the various business entities, as well as Berkshire's share of those earnings. All of the significant capital gains and losses attributable to any of the business entities are aggregated in the realized securities gains figure at the bottom of the table, and are not included in operating earnings. Our calculation of operating earnings also excludes the gain from sale of [Mutual Savings and Loan](companies/互助储贷公司.md)'s branch offices. In this respect it differs from the presentation in our audited financial statements that includes this item in the calculation of "Earnings Before Realized Investment Gain".
 
 > [!zh] 🇨🇳
 > **[收益表]**
@@ -184,7 +184,7 @@
 > - Insurance Group net investment income: $25.6 million
 > - [See's Candies](companies/喜诗糖果.md): $4.2 million
 > - [Illinois National Bank](companies/伊利诺伊国民银行.md): $4.7 million
-> - [Wesco Financial](companies/韦斯科金融.md): $1.0 million
+> - [Wesco Financial](companies/韦斯科金融公司.md): $1.0 million
 > - Precision Steel: $0.7 million
 > - Interest on debt: ($4.8 million)
 >
@@ -198,7 +198,7 @@
 > 下表展示了伯克希尔在各非控制公司中的持股比例，这些公司仅已分配收益（即股利）计入了我们的报表。
 
 > [!en] 🇺🇸
-> [Blue Chip Stamps](companies/蓝筹印花.md) and [Wesco Financial](companies/韦斯科金融.md) are public companies with reporting requirements of their own. We recommend a careful reading of their reports, and suggest that you particularly note the superb job done by Louie Vincenti and [Charlie Munger](people/查理·芒格.md) in repositioning [Mutual Savings and Loan](companies/互助储贷.md).
+> [Blue Chip Stamps](companies/蓝筹印花.md) and [Wesco Financial](companies/韦斯科金融公司.md) are public companies with reporting requirements of their own. We recommend a careful reading of their reports, and suggest that you particularly note the superb job done by Louie Vincenti and [Charlie Munger](people/查理·芒格.md) in repositioning [Mutual Savings and Loan](companies/互助储贷公司.md).
 >
 > As indicated earlier, undistributed earnings in companies we do not control are now fully as important as the reported operating earnings detailed in the preceding table. The distributed portion, of course, finds its way into the table primarily through the net investment income section of Insurance Group earnings.
 >
@@ -384,7 +384,7 @@
 > 约翰·苏厄德 (John Seward) 领导的家庭与汽车保险公司 (Home and Auto) 继续取得良好进展，用竞争较不激烈的险种（主要是小额一般责任险）来替代不断减少的汽车保单。随着承保业绩的改善，业务正在地域和产品线两个维度上缓步扩张。
 
 > [!en] 🇺🇸
-> The [National Indemnity](companies/国民保险.md) managers, led by Phil Liesche with the usual able assistance of Roland Miller and Bill Lyons, outdid themselves in 1980. While volume was flat, underwriting margins relative to the industry were at an all-time high. We expect decreased volume from this operation in 1981. But its managers will hear no complaints from corporate headquarters, nor will employment or salaries suffer. We enormously admire the National Indemnity underwriting discipline - embedded from origin by the founder, Jack Ringwalt - and know that this discipline, if suspended, probably could not be fully regained.
+> The [National Indemnity](companies/国民保险公司.md) managers, led by Phil Liesche with the usual able assistance of Roland Miller and Bill Lyons, outdid themselves in 1980. While volume was flat, underwriting margins relative to the industry were at an all-time high. We expect decreased volume from this operation in 1981. But its managers will hear no complaints from corporate headquarters, nor will employment or salaries suffer. We enormously admire the National Indemnity underwriting discipline - embedded from origin by the founder, Jack Ringwalt - and know that this discipline, if suspended, probably could not be fully regained.
 >
 > John Seward at Home and Auto continues to make good progress in replacing a diminishing number of auto policies with volume from less competitive lines, primarily small-premium general liability. Operations are being slowly expanded, both geographically and by product line, as warranted by underwriting results.
 
@@ -414,7 +414,7 @@
 > 总体而言，我们预计1981年保险业务量将大幅下滑，承保业绩也将变差。我们预期自己的承保表现将略优于行业平均水平，但当然，大部分同业也都这么认为。最终肯定有人会失望。
 
 > [!en] 🇺🇸
-> Our major Workers Compensation operation, [Cypress Insurance Company](companies/赛普拉斯保险.md), run by Milt Thornton, continues its outstanding record. Year after year Milt, like Phil Liesche, runs an underwriting operation that far outpaces his competition. In the industry he is admired and copied, but not matched.
+> Our major Workers Compensation operation, [Cypress Insurance Company](companies/Cypress保险.md), run by Milt Thornton, continues its outstanding record. Year after year Milt, like Phil Liesche, runs an underwriting operation that far outpaces his competition. In the industry he is admired and copied, but not matched.
 >
 > Overall, we look for a significant decline in insurance volume in 1981 along with a poorer underwriting result. We expect underwriting experience somewhat superior to that of the industry but, of course, so does most of the industry. There will be some disappointments.
 
