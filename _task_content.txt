@@ -1,0 +1,40 @@
+PROCESS 1981 LETTER
+
+Mark task in progress first:
+clawteam task update wiki-1981 22e6197d --status in_progress
+
+Then do these steps:
+1. Read SCHEMA.md for format rules
+2. Read raw/berkshire/1981-letter-en.md (English source)
+3. Read raw/berkshire/1981-letter-zh.txt (Chinese source)
+4. Read letters/1977-letter.md as format reference
+
+STEP A: Create letters/1981-letter.md
+- Format: > [!zh] 🇨🇳 + Chinese text, then > [!en] 🇺🇸 + English text
+- Match section headers to English source structure (italicized like _Section Name_)
+- Wrap entity names in wikilinks:
+  - Companies: [Name](../companies/Name.md) — use ls companies/ to find exact filenames
+  - People: [Name](../people/Name.md) — use ls people/ to find exact filenames
+  - Concepts: [Name](../concepts/Name.md) — use ls concepts/ to find exact filenames
+- Verify: opening salutation present, all sections matched, signature+date at end
+- Check [!zh]/[!en] callout pairs are balanced
+
+STEP B: Create letters/1981-summary.md
+- Frontmatter: type=letter-summary, title_zh="1981 年致股东信摘要", title_en="1981 Letter to Shareholders — Summary"
+- Sources: [1981-letter](letters/1981-letter.md)
+- created=2026-04-07, updated=2026-04-07, status=draft
+- Sections: Overview (bilingual), Key Themes, Key Figures, Entities
+
+STEP C: Create tmp/1981-entities.json with:
+- companies: [{name_zh, name_en, aliases, description_zh, description_en, key_quote_zh, key_quote_en}]
+- people: same structure
+- concepts: same structure
+
+DO NOT create entity wiki pages. Only create:
+- letters/1981-letter.md
+- letters/1981-summary.md
+- tmp/1981-entities.json
+
+When done, run these exact commands:
+clawteam task update wiki-1981 22e6197d --status completed
+clawteam inbox send wiki-1981 leader "Completed 1981 letter: created letters/1981-letter.md, letters/1981-summary.md, tmp/1981-entities.json"

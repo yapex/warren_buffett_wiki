@@ -2,6 +2,20 @@
 
 <!-- Append-only log. Format: ## [YYYY-MM-DD] action | description -->
 
+## [2026-04-07] ingest | 1981 Berkshire Shareholder Letter (ClawTeam subprocess pi -p mode)
+- Raw sources: EN from juliuschun/eco-moat-ai, ZH from buffett-letters-eir.pages.dev (pre-existing)
+- Pipeline: ClawTeam with subprocess pi -p --no-session workers
+- Created: [1981-letter](letters/1981-letter.md), [1981-summary](letters/1981-summary.md), [tmp/1981-entities.json](tmp/1981-entities.json)
+- QA findings: broken link 沃伦·巴菲特 (page not created), relative paths in summary (companies/ -> ../companies/), wrong link: 罗兰·米勒->乔治·扬
+- QA result: ✅ PASS after fixes — 22 links verified, all sections present
+- Created concepts: [无控制权持股收益](concepts/无控制权持股收益.md)
+- Created companies: [雷诺烟草](companies/雷诺烟草.md), [平克顿安保](companies/平克顿安保.md)
+- Created people: [沃伦·巴菲特](people/沃伦·巴菲特.md), [本·海涅曼](people/本·海涅曼.md), [亨利·辛格尔顿](people/亨利·辛格尔顿.md), [埃尔文·扎班](people/埃尔文·扎班.md), [汤姆·墨菲](people/汤姆·墨菲.md)
+- Updated entities: 菲尔·利舍 (1981 ref), 乔治·扬 (1981 ref), 留存收益 (1981 ref)
+- Link verification: ✅ All links pass after fixes — 22 links verified
+- New pages: 8
+- Updated pages: 3
+
 ## [2026-04-07] ingest | 1980 Berkshire Shareholder Letter (ClawTeam pilot)
 - Raw sources: EN from juliuschun/eco-moat-ai, ZH from buffett-letters-eir.pages.dev (pre-existing)
 - Pipeline: ClawTeam with 1 content worker (pi) + 1 QA worker (pi)
