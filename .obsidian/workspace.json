@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3d474449d0b103a1",
+        "id": "4642557d8a9c1e46",
         "type": "tabs",
         "children": [
           {
-            "id": "52d740f53e1dd374",
+            "id": "c3dc2c2db056b111",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "letters/1978-letter.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1978-letter"
+              "title": "index"
             }
           }
         ]
@@ -183,9 +183,26 @@
       "bases:新建数据库": false
     }
   },
-  "active": "52d740f53e1dd374",
+  "active": "c3dc2c2db056b111",
   "lastOpenFiles": [
+    "companies/精密钢铁.md",
+    "companies/Cypress保险.md",
+    "companies/互助储贷公司.md",
+    "companies/通用食品.md",
+    "companies/奥美国际.md",
+    "companies/伍尔沃斯.md",
+    "companies/媒体综合.md",
+    "companies/汉迪哈曼.md",
+    "companies/阿美拉达·赫斯.md",
+    "companies/联合出版公司.md",
+    "people/菲利普·费雪.md",
+    "concepts/困境反转.md",
+    "concepts/长期固定利率债券.md",
+    "concepts/投资人痛苦指数.md",
+    "letters/1989-letter.md",
+    "concepts/Rip Van Winkle投资法.md",
     "index.md",
+    "letters/1978-letter.md",
     "concepts/留存收益.md",
     "people/约翰·林沃尔特.md",
     "people/米尔特·桑顿.md",
@@ -194,24 +211,7 @@
     "concepts/集中投资.md",
     "people/弗洛伊德·泰勒.md",
     "people/杰克·林沃尔特.md",
-    "companies/骑士报业公司.md",
-    "companies/英特帕布利克集团.md",
-    "companies/联合零售商店.md",
-    "companies/美国广播公司.md",
-    "companies/凯撒铝化学公司.md",
-    "companies/布法罗晚报.md",
-    "companies/SAFECO公司.md",
-    "letters/1978-summary.md",
-    "letters/1978-letter.md",
-    "raw/berkshire/1978-letter-en.md",
     "raw/berkshire/1978-letter-zh.txt",
-    "letters/1989-summary.md",
-    "people/查克·哈金斯.md",
-    "people/彼得·杰弗里.md",
-    "people/路易斯·文森蒂.md",
-    "concepts/保险浮存金.md",
-    "companies/国民保险公司.md",
-    "people/肯尼思·蔡斯.md",
     "raw/berkshire/1977-letter-zh.txt",
     "analysis",
     "people",

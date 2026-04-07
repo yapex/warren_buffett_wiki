@@ -5,13 +5,14 @@ title_en: "SAFECO Corporation"
 aliases: [SAFECO, 安全公司]
 sources:
   - "[1978-letter](../letters/1978-letter.md)"
+  - "[1979-letter](../letters/1979-letter.md)"
 related:
   - "[华盛顿邮报](华盛顿邮报.md)"
   - "[盖可保险](盖可保险.md)"
   - "[国民保险公司](国民保险公司.md)"
   - "[承保纪律](../concepts/承保纪律.md)"
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-04-07
 status: draft
 ---
 
@@ -33,6 +34,7 @@ status: draft
 > - **买入成本**：$23,867 千（低于账面价值）
 > - **1978 年底市值**：$26,467 千
 > - **1978 年对应收益**：约 $6.1M（仅约 18% 以股利形式体现）
+> - **1979 年底市值**：$35,527 千
 
 > [!en] 🇺🇸
 > - **Relationship**: Minority equity holding (insurance portfolio)
@@ -40,12 +42,14 @@ status: draft
 > - **Cost**: $23.9M (below book value)
 > - **Market Value (Dec 1978)**: $26.5M
 > - **Attributable Earnings (1978)**: ~$6.1M (only ~18% reflected as dividends)
+> - **Market Value (Dec 1979)**: $35.5M
 
 ## 关键事件时间线 / Key Events Timeline
 
 | 年份 | 事件 |
 |------|------|
 | 1978 | 伯克希尔持有 953,750 股，巴菲特在股东信中详细论述 SAFECO 的投资价值 |
+| 1979 | 市值增至 $35.5M（成本 $23.9M），通过 SAFECO 和 GEICO 间接拥有"两个真正一流的管理团队" |
 
 ## 巴菲特原话精选 / Buffett Quotes
 

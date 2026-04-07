@@ -2,6 +2,19 @@
 
 <!-- Append-only log. Format: ## [YYYY-MM-DD] action | description -->
 
+## [2026-04-07] ingest | 1979 Berkshire Shareholder Letter
+- Raw sources: EN from juliuschun/eco-moat-ai, ZH from buffett-letters-eir.pages.dev (pre-existing)
+- Bilingual letter and summary already existed; verified completeness: all 9 sections present
+- Created concepts: [投资人痛苦指数](concepts/投资人痛苦指数.md), [长期固定利率债券](concepts/长期固定利率债券.md), [困境反转](concepts/困境反转.md)
+- Created companies: [联合出版公司](companies/联合出版公司.md), [阿美拉达·赫斯](companies/阿美拉达·赫斯.md), [通用食品](companies/通用食品.md), [汉迪哈曼](companies/汉迪哈曼.md), [媒体综合](companies/媒体综合.md), [奥美国际](companies/奥美国际.md), [伍尔沃斯](companies/伍尔沃斯.md), [Cypress保险](companies/Cypress保险.md), [互助储贷公司](companies/互助储贷公司.md), [精密钢铁](companies/精密钢铁.md)
+- Created people: [菲利普·费雪](people/菲利普·费雪.md)
+- Updated concepts: [股本回报率](concepts/股本回报率.md), [承保纪律](concepts/承保纪律.md), [综合比率](concepts/综合比率.md), [留存收益](concepts/留存收益.md), [保险浮存金](concepts/保险浮存金.md)
+- Updated companies: [盖可保险](companies/盖可保险.md), [华盛顿邮报](companies/华盛顿邮报.md), [伊利诺伊国民银行](companies/伊利诺伊国民银行.md), [国民保险公司](companies/国民保险公司.md), [喜诗糖果](companies/喜诗糖果.md), [布法罗晚报](companies/布法罗晚报.md), [蓝筹印花](companies/蓝筹印花.md), [SAFECO公司](companies/SAFECO公司.md), [韦斯科金融公司](companies/韦斯科金融公司.md), [联合零售商店](companies/联合零售商店.md), [美国广播公司](companies/美国广播公司.md), [英特帕布利克集团](companies/英特帕布利克集团.md), [凯撒铝化学公司](companies/凯撒铝化学公司.md)
+- Updated people: [菲尔·利舍](people/菲尔·利舍.md), [吉恩·阿贝格](people/吉恩·阿贝格.md), [本·罗斯纳](people/本·罗斯纳.md), [路易斯·文森蒂](people/路易斯·文森蒂.md), [杰克·林沃尔特](people/杰克·林沃尔特.md), [约翰·林沃尔特](people/约翰·林沃尔特.md), [弗洛伊德·泰勒](people/弗洛伊德·泰勒.md), [米尔特·桑顿](people/米尔特·桑顿.md), [弗兰克·德纳尔多](people/弗兰克·德纳尔多.md), [彼得·杰弗里](people/彼得·杰弗里.md)
+- Link verification: ✅ All links pass — zero broken links
+- New pages: 14
+- Updated pages: 23
+
 ## [2026-04-06] ingest | 1978 Berkshire Shareholder Letter
 - Raw sources: EN from juliuschun/eco-moat-ai (`markdown/buffett-letter-1978.md`), ZH from buffett-letters-eir.pages.dev
 - Created: [1978-letter](letters/1978-letter.md), [1978-summary](letters/1978-summary.md)
