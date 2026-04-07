@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>1966 巴菲特致股东信 — 巴菲特知识库</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Crimson+Pro:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<button class="hamburger" onclick="document.getElementById('sidebar').classList.toggle('open')">☰</button>
+<aside class="sidebar" id="sidebar">
+<div class="sidebar-header"><a href="../index.html" class="logo">巴菲特知识库</a></div>
+<div class="sidebar-nav">
+<a href="../index.html" class="nav-link nav-home">🏛 首页</a>
+<div class="search-box"><input type="text" id="search-input" placeholder="搜索标题或内容..." autocomplete="off"><div id="search-results"></div></div>
+<div class="nav-group">
+<div class="nav-group-title" onclick="toggle('00_索引')"><span class="caret"></span>索引<span class="badge">4</span></div>
+<div class="nav-group-items" id="00_索引">
+<a href="../index-pages/人物索引.html" class="nav-link" title="人物索引">人物索引</a>
+<a href="../index-pages/公司索引.html" class="nav-link" title="公司索引">公司索引</a>
+<a href="../index-pages/巴菲特致股东信总览.html" class="nav-link" title="巴菲特致股东信总览">巴菲特致股东信总览</a>
+<a href="../index-pages/核心思想索引.html" class="nav-link" title="核心思想索引">核心思想索引</a>
+</div></div>
+<div class="nav-group">
+<div class="nav-group-title" onclick="toggle('01_合伙人信')"><span class="caret"></span>合伙人信<span class="badge">35</span></div>
+<div class="nav-group-items" id="01_合伙人信">
+<a href="../partnership/1956-有限合伙协议.html" class="nav-link" title="1956 有限合伙协议">1956 有限合伙协议</a>
+<a href="../partnership/1957-巴菲特致合伙人信.html" class="nav-link" title="1957 巴菲特致合伙人信">1957 巴菲特致合伙人信</a>
+<a href="../partnership/1958-巴菲特致合伙人信.html" class="nav-link" title="1958 巴菲特致合伙人信">1958 巴菲特致合伙人信</a>
+<a href="../partnership/1959-巴菲特致合伙人信.html" class="nav-link" title="1959 巴菲特致合伙人信">1959 巴菲特致合伙人信</a>
+<a href="../partnership/1960-巴菲特致合伙人信.html" class="nav-link" title="1960 巴菲特致合伙人信">1960 巴菲特致合伙人信</a>
+<a href="../partnership/1961-巴菲特致合伙人信.html" class="nav-link" title="1961 巴菲特致合伙人信">1961 巴菲特致合伙人信</a>
+<a href="../partnership/1961年中-巴菲特致合伙人信.html" class="nav-link" title="1961年中 巴菲特致合伙人信">1961年中 巴菲特致合伙人信</a>
+<a href="../partnership/1962-巴菲特致合伙人信.html" class="nav-link" title="1962 巴菲特致合伙人信">1962 巴菲特致合伙人信</a>
+<a href="../partnership/1962年11月-巴菲特致合伙人信.html" class="nav-link" title="1962年11月 巴菲特致合伙人信">1962年11月 巴菲特致合伙人信</a>
+<a href="../partnership/1962年12月-巴菲特致合伙人信.html" class="nav-link" title="1962年12月 巴菲特致合伙人信">1962年12月 巴菲特致合伙人信</a>
+<a href="../partnership/1962年中-巴菲特致合伙人信.html" class="nav-link" title="1962年中 巴菲特致合伙人信">1962年中 巴菲特致合伙人信</a>
+<a href="../partnership/1963-巴菲特致合伙人信.html" class="nav-link" title="1963 巴菲特致合伙人信">1963 巴菲特致合伙人信</a>
+<a href="../partnership/1963年11月-巴菲特致合伙人信.html" class="nav-link" title="1963年11月 巴菲特致合伙人信">1963年11月 巴菲特致合伙人信</a>
+<a href="../partnership/1963年12月-巴菲特致合伙人信.html" class="nav-link" title="1963年12月 巴菲特致合伙人信">1963年12月 巴菲特致合伙人信</a>
+<a href="../partnership/1963年中-巴菲特致合伙人信.html" class="nav-link" title="1963年中 巴菲特致合伙人信">1963年中 巴菲特致合伙人信</a>
+<a href="../partnership/1964-巴菲特致合伙人信.html" class="nav-link" title="1964 巴菲特致合伙人信">1964 巴菲特致合伙人信</a>
+<a href="../partnership/1964年中-巴菲特致合伙人信.html" class="nav-link" title="1964年中 巴菲特致合伙人信">1964年中 巴菲特致合伙人信</a>
+<a href="../partnership/1965-巴菲特致合伙人信.html" class="nav-link" title="1965 巴菲特致合伙人信">1965 巴菲特致合伙人信</a>
+<a href="../partnership/1965年11月-巴菲特致合伙人信.html" class="nav-link" title="1965年11月 巴菲特致合伙人信">1965年11月 巴菲特致合伙人信</a>
+<a href="../partnership/1965年中-巴菲特致合伙人信.html" class="nav-link" title="1965年中 巴菲特致合伙人信">1965年中 巴菲特致合伙人信</a>
+<a href="../partnership/1966-巴菲特致合伙人信.html" class="nav-link" title="1966 巴菲特致合伙人信">1966 巴菲特致合伙人信</a>
+<a href="../partnership/1966年11月-巴菲特致合伙人信.html" class="nav-link" title="1966年11月 巴菲特致合伙人信">1966年11月 巴菲特致合伙人信</a>
+<a href="../partnership/1966年中-巴菲特致合伙人信.html" class="nav-link" title="1966年中 巴菲特致合伙人信">1966年中 巴菲特致合伙人信</a>
+<a href="../partnership/1967-巴菲特致合伙人信.html" class="nav-link" title="1967 巴菲特致合伙人信">1967 巴菲特致合伙人信</a>
+<a href="../partnership/1967年10月-巴菲特致合伙人信.html" class="nav-link" title="1967年10月 巴菲特致合伙人信">1967年10月 巴菲特致合伙人信</a>
+<a href="../partnership/1967年11月-巴菲特致合伙人信.html" class="nav-link" title="1967年11月 巴菲特致合伙人信">1967年11月 巴菲特致合伙人信</a>
+<a href="../partnership/1967年中-巴菲特致合伙人信.html" class="nav-link" title="1967年中 巴菲特致合伙人信">1967年中 巴菲特致合伙人信</a>
+<a href="../partnership/1968-巴菲特致合伙人信.html" class="nav-link" title="1968 巴菲特致合伙人信">1968 巴菲特致合伙人信</a>
+<a href="../partnership/1968年11月-巴菲特致合伙人信.html" class="nav-link" title="1968年11月 巴菲特致合伙人信">1968年11月 巴菲特致合伙人信</a>
+<a href="../partnership/1968年中-巴菲特致合伙人信.html" class="nav-link" title="1968年中 巴菲特致合伙人信">1968年中 巴菲特致合伙人信</a>
+<a href="../partnership/1969年10月-巴菲特致合伙人信.html" class="nav-link" title="1969年10月 巴菲特致合伙人信">1969年10月 巴菲特致合伙人信</a>
+<a href="../partnership/1969年12月-巴菲特致合伙人信.html" class="nav-link" title="1969年12月 巴菲特致合伙人信">1969年12月 巴菲特致合伙人信</a>
+<a href="../partnership/1969年12月26日-巴菲特致合伙人信.html" class="nav-link" title="1969年12月26日 巴菲特致合伙人信">1969年12月26日 巴菲特致合伙人信</a>
+<a href="../partnership/1969年5月-巴菲特致合伙人信.html" class="nav-link" title="1969年5月 巴菲特致合伙人信">1969年5月 巴菲特致合伙人信</a>
+<a href="../partnership/1970年2月-巴菲特致合伙人信.html" class="nav-link" title="1970年2月 巴菲特致合伙人信">1970年2月 巴菲特致合伙人信</a>
+</div></div>
+<div class="nav-group">
+<div class="nav-group-title open" onclick="toggle('02_伯克希尔股东信')"><span class="caret"></span>伯克希尔股东信<span class="badge">60</span></div>
+<div class="nav-group-items open" id="02_伯克希尔股东信">
+<a href="1965-巴菲特致股东信.html" class="nav-link" title="1965 巴菲特致股东信">1965 巴菲特致股东信</a>
+<a href="1966-巴菲特致股东信.html" class="nav-link active" title="1966 巴菲特致股东信">1966 巴菲特致股东信</a>
+<a href="1967-巴菲特致股东信.html" class="nav-link" title="1967 巴菲特致股东信">1967 巴菲特致股东信</a>
+<a href="1968-巴菲特致股东信.html" class="nav-link" title="1968 巴菲特致股东信">1968 巴菲特致股东信</a>
+<a href="1969-巴菲特致股东信.html" class="nav-link" title="1969 巴菲特致股东信">1969 巴菲特致股东信</a>
+<a href="1970-巴菲特致股东信.html" class="nav-link" title="1970 巴菲特致股东信">1970 巴菲特致股东信</a>
+<a href="1971-巴菲特致股东信.html" class="nav-link" title="1971 巴菲特致股东信">1971 巴菲特致股东信</a>
+<a href="1972-巴菲特致股东信.html" class="nav-link" title="1972 巴菲特致股东信">1972 巴菲特致股东信</a>
+<a href="1973-巴菲特致股东信.html" class="nav-link" title="1973 巴菲特致股东信">1973 巴菲特致股东信</a>
+<a href="1974-巴菲特致股东信.html" class="nav-link" title="1974 巴菲特致股东信">1974 巴菲特致股东信</a>
+<a href="1975-巴菲特致股东信.html" class="nav-link" title="1975 巴菲特致股东信">1975 巴菲特致股东信</a>
+<a href="1976-巴菲特致股东信.html" class="nav-link" title="1976 巴菲特致股东信">1976 巴菲特致股东信</a>
+<a href="1977-巴菲特致股东信.html" class="nav-link" title="1977 巴菲特致股东信">1977 巴菲特致股东信</a>
+<a href="1978-巴菲特致股东信.html" class="nav-link" title="1978 巴菲特致股东信">1978 巴菲特致股东信</a>
+<a href="1979-巴菲特致股东信.html" class="nav-link" title="1979 巴菲特致股东信">1979 巴菲特致股东信</a>
+<a href="1980-巴菲特致股东信.html" class="nav-link" title="1980 巴菲特致股东信">1980 巴菲特致股东信</a>
+<a href="1981-巴菲特致股东信.html" class="nav-link" title="1981 巴菲特致股东信">1981 巴菲特致股东信</a>
+<a href="1982-巴菲特致股东信.html" class="nav-link" title="1982 巴菲特致股东信">1982 巴菲特致股东信</a>
+<a href="1983-巴菲特致股东信.html" class="nav-link" title="1983 巴菲特致股东信">1983 巴菲特致股东信</a>
+<a href="1984-巴菲特致股东信.html" class="nav-link" title="1984 巴菲特致股东信">1984 巴菲特致股东信</a>
+<a href="1985-巴菲特致股东信.html" class="nav-link" title="1985 巴菲特致股东信">1985 巴菲特致股东信</a>
+<a href="1986-巴菲特致股东信.html" class="nav-link" title="1986 巴菲特致股东信">1986 巴菲特致股东信</a>
+<a href="1987-巴菲特致股东信.html" class="nav-link" title="1987 巴菲特致股东信">1987 巴菲特致股东信</a>
+<a href="1988-巴菲特致股东信.html" class="nav-link" title="1988 巴菲特致股东信">1988 巴菲特致股东信</a>
+<a href="1989-巴菲特致股东信.html" class="nav-link" title="1989 巴菲特致股东信">1989 巴菲特致股东信</a>
+<a href="1990-巴菲特致股东信.html" class="nav-link" title="1990 巴菲特致股东信">1990 巴菲特致股东信</a>
+<a href="1991-巴菲特致股东信.html" class="nav-link" title="1991 巴菲特致股东信">1991 巴菲特致股东信</a>
+<a href="1992-巴菲特致股东信.html" class="nav-link" title="1992 巴菲特致股东信">1992 巴菲特致股东信</a>
+<a href="1993-巴菲特致股东信.html" class="nav-link" title="1993 巴菲特致股东信">1993 巴菲特致股东信</a>
+<a href="1994-巴菲特致股东信.html" class="nav-link" title="1994 巴菲特致股东信">1994 巴菲特致股东信</a>
+<a href="1995-巴菲特致股东信.html" class="nav-link" title="1995 巴菲特致股东信">1995 巴菲特致股东信</a>
+<a href="1996-巴菲特致股东信.html" class="nav-link" title="1996 巴菲特致股东信">1996 巴菲特致股东信</a>
+<a href="1997-巴菲特致股东信.html" class="nav-link" title="1997 巴菲特致股东信">1997 巴菲特致股东信</a>
+<a href="1998-巴菲特致股东信.html" class="nav-link" title="1998 巴菲特致股东信">1998 巴菲特致股东信</a>
+<a href="1999-巴菲特致股东信.html" class="nav-link" title="1999 巴菲特致股东信">1999 巴菲特致股东信</a>
+<a href="2000-巴菲特致股东信.html" class="nav-link" title="2000 巴菲特致股东信">2000 巴菲特致股东信</a>
+<a href="2001-巴菲特致股东信.html" class="nav-link" title="2001 巴菲特致股东信">2001 巴菲特致股东信</a>
+<a href="2002-巴菲特致股东信.html" class="nav-link" title="2002 巴菲特致股东信">2002 巴菲特致股东信</a>
+<a href="2003-巴菲特致股东信.html" class="nav-link" title="2003 巴菲特致股东信">2003 巴菲特致股东信</a>
+<a href="2004-巴菲特致股东信.html" class="nav-link" title="2004 巴菲特致股东信">2004 巴菲特致股东信</a>
+<a href="2005-巴菲特致股东信.html" class="nav-link" title="2005 巴菲特致股东信">2005 巴菲特致股东信</a>
+<a href="2006-巴菲特致股东信.html" class="nav-link" title="2006 巴菲特致股东信">2006 巴菲特致股东信</a>
+<a href="2007-巴菲特致股东信.html" class="nav-link" title="2007 巴菲特致股东信">2007 巴菲特致股东信</a>
+<a href="2008-巴菲特致股东信.html" class="nav-link" title="2008 巴菲特致股东信">2008 巴菲特致股东信</a>
+<a href="2009-巴菲特致股东信.html" class="nav-link" title="2009 巴菲特致股东信">2009 巴菲特致股东信</a>
+<a href="2010-巴菲特致股东信.html" class="nav-link" title="2010 巴菲特致股东信">2010 巴菲特致股东信</a>
+<a href="2011-巴菲特致股东信.html" class="nav-link" title="2011 巴菲特致股东信">2011 巴菲特致股东信</a>
+<a href="2012-巴菲特致股东信.html" class="nav-link" title="2012 巴菲特致股东信">2012 巴菲特致股东信</a>
+<a href="2013-巴菲特致股东信.html" class="nav-link" title="2013 巴菲特致股东信">2013 巴菲特致股东信</a>
+<a href="2014-巴菲特致股东信.html" class="nav-link" title="2014 巴菲特致股东信">2014 巴菲特致股东信</a>
+<a href="2015-巴菲特致股东信.html" class="nav-link" title="2015 巴菲特致股东信">2015 巴菲特致股东信</a>
+<a href="2016-巴菲特致股东信.html" class="nav-link" title="2016 巴菲特致股东信">2016 巴菲特致股东信</a>
+<a href="2017-巴菲特致股东信.html" class="nav-link" title="2017 巴菲特致股东信">2017 巴菲特致股东信</a>
+<a href="2018-巴菲特致股东信.html" class="nav-link" title="2018 巴菲特致股东信">2018 巴菲特致股东信</a>
+<a href="2019-巴菲特致股东信.html" class="nav-link" title="2019 巴菲特致股东信">2019 巴菲特致股东信</a>
+<a href="2020-巴菲特致股东信.html" class="nav-link" title="2020 巴菲特致股东信">2020 巴菲特致股东信</a>
+<a href="2021-巴菲特致股东信.html" class="nav-link" title="2021 巴菲特致股东信">2021 巴菲特致股东信</a>
+<a href="2022-巴菲特致股东信.html" class="nav-link" title="2022 巴菲特致股东信">2022 巴菲特致股东信</a>
+<a href="2023-巴菲特致股东信.html" class="nav-link" title="2023 巴菲特致股东信">2023 巴菲特致股东信</a>
+<a href="2024-巴菲特致股东信.html" class="nav-link" title="2024 巴菲特致股东信">2024 巴菲特致股东信</a>
+</div></div>
+<div class="nav-group">
+<div class="nav-group-title" onclick="toggle('03_特别信件')"><span class="caret"></span>特别信件<span class="badge">3</span></div>
+<div class="nav-group-items" id="03_特别信件">
+<a href="../special/2014-伯克希尔的过去现在与未来.html" class="nav-link" title="2014 伯克希尔的过去现在与未来">2014 伯克希尔的过去现在与未来</a>
+<a href="../special/2014-副董事长的思考.html" class="nav-link" title="2014 副董事长的思考">2014 副董事长的思考</a>
+<a href="../special/2025-感恩节致辞.html" class="nav-link" title="2025 感恩节致辞">2025 感恩节致辞</a>
+</div></div>
+<div class="nav-group">
+<div class="nav-group-title" onclick="toggle('概念')"><span class="caret"></span>概念<span class="badge">49</span></div>
+<div class="nav-group-items" id="概念">
+<a href="../concepts/买入价格.html" class="nav-link" title="买入价格">买入价格</a>
+<a href="../concepts/企业文化.html" class="nav-link" title="企业文化">企业文化</a>
+<a href="../concepts/低估.html" class="nav-link" title="低估">低估</a>
+<a href="../concepts/保险业.html" class="nav-link" title="保险业">保险业</a>
+<a href="../concepts/保险浮存金.html" class="nav-link" title="保险浮存金">保险浮存金</a>
+<a href="../concepts/债券.html" class="nav-link" title="债券">债券</a>
+<a href="../concepts/公司治理.html" class="nav-link" title="公司治理">公司治理</a>
+<a href="../concepts/内在价值.html" class="nav-link" title="内在价值">内在价值</a>
+<a href="../concepts/分散投资.html" class="nav-link" title="分散投资">分散投资</a>
+<a href="../concepts/可转换证券.html" class="nav-link" title="可转换证券">可转换证券</a>
+<a href="../concepts/品牌.html" class="nav-link" title="品牌">品牌</a>
+<a href="../concepts/商业模式.html" class="nav-link" title="商业模式">商业模式</a>
+<a href="../concepts/商誉.html" class="nav-link" title="商誉">商誉</a>
+<a href="../concepts/回购.html" class="nav-link" title="回购">回购</a>
+<a href="../concepts/复利.html" class="nav-link" title="复利">复利</a>
+<a href="../concepts/套利.html" class="nav-link" title="套利">套利</a>
+<a href="../concepts/媒体与出版.html" class="nav-link" title="媒体与出版">媒体与出版</a>
+<a href="../concepts/安全边际.html" class="nav-link" title="安全边际">安全边际</a>
+<a href="../concepts/市场先生.html" class="nav-link" title="市场先生">市场先生</a>
+<a href="../concepts/市场预测.html" class="nav-link" title="市场预测">市场预测</a>
+<a href="../concepts/市盈率.html" class="nav-link" title="市盈率">市盈率</a>
+<a href="../concepts/承保纪律.html" class="nav-link" title="承保纪律">承保纪律</a>
+<a href="../concepts/护城河.html" class="nav-link" title="护城河">护城河</a>
+<a href="../concepts/收购.html" class="nav-link" title="收购">收购</a>
+<a href="../concepts/有效市场.html" class="nav-link" title="有效市场">有效市场</a>
+<a href="../concepts/杠杆.html" class="nav-link" title="杠杆">杠杆</a>
+<a href="../concepts/特许经营权.html" class="nav-link" title="特许经营权">特许经营权</a>
+<a href="../concepts/留存收益.html" class="nav-link" title="留存收益">留存收益</a>
+<a href="../concepts/科技与互联网.html" class="nav-link" title="科技与互联网">科技与互联网</a>
+<a href="../concepts/税收效率.html" class="nav-link" title="税收效率">税收效率</a>
+<a href="../concepts/竞争优势.html" class="nav-link" title="竞争优势">竞争优势</a>
+<a href="../concepts/管理层.html" class="nav-link" title="管理层">管理层</a>
+<a href="../concepts/纺织业务.html" class="nav-link" title="纺织业务">纺织业务</a>
+<a href="../concepts/股东导向.html" class="nav-link" title="股东导向">股东导向</a>
+<a href="../concepts/股息.html" class="nav-link" title="股息">股息</a>
+<a href="../concepts/能力圈.html" class="nav-link" title="能力圈">能力圈</a>
+<a href="../concepts/能源.html" class="nav-link" title="能源">能源</a>
+<a href="../concepts/航空业.html" class="nav-link" title="航空业">航空业</a>
+<a href="../concepts/衍生品.html" class="nav-link" title="衍生品">衍生品</a>
+<a href="../concepts/诚信.html" class="nav-link" title="诚信">诚信</a>
+<a href="../concepts/账面价值.html" class="nav-link" title="账面价值">账面价值</a>
+<a href="../concepts/资本配置.html" class="nav-link" title="资本配置">资本配置</a>
+<a href="../concepts/透视盈余.html" class="nav-link" title="透视盈余">透视盈余</a>
+<a href="../concepts/通货膨胀.html" class="nav-link" title="通货膨胀">通货膨胀</a>
+<a href="../concepts/铁路运输.html" class="nav-link" title="铁路运输">铁路运输</a>
+<a href="../concepts/银行业.html" class="nav-link" title="银行业">银行业</a>
+<a href="../concepts/长期持有.html" class="nav-link" title="长期持有">长期持有</a>
+<a href="../concepts/集中投资.html" class="nav-link" title="集中投资">集中投资</a>
+<a href="../concepts/零售与消费.html" class="nav-link" title="零售与消费">零售与消费</a>
+</div></div>
+<div class="nav-group">
+<div class="nav-group-title" onclick="toggle('公司')"><span class="caret"></span>公司<span class="badge">61</span></div>
+<div class="nav-group-items" id="公司">
+<a href="../companies/BNSF铁路.html" class="nav-link" title="BNSF铁路">BNSF铁路</a>
+<a href="../companies/IBM.html" class="nav-link" title="IBM">IBM</a>
+<a href="../companies/三井物产.html" class="nav-link" title="三井物产">三井物产</a>
+<a href="../companies/三菱商事.html" class="nav-link" title="三菱商事">三菱商事</a>
+<a href="../companies/世界图书百科全书.html" class="nav-link" title="世界图书百科全书">世界图书百科全书</a>
+<a href="../companies/中国石油.html" class="nav-link" title="中国石油">中国石油</a>
+<a href="../companies/中美能源.html" class="nav-link" title="中美能源">中美能源</a>
+<a href="../companies/伊斯卡.html" class="nav-link" title="伊斯卡">伊斯卡</a>
+<a href="../companies/伊藤忠商事.html" class="nav-link" title="伊藤忠商事">伊藤忠商事</a>
+<a href="../companies/伯克希尔哈撒韦.html" class="nav-link" title="伯克希尔哈撒韦">伯克希尔哈撒韦</a>
+<a href="../companies/伯克希尔哈撒韦能源.html" class="nav-link" title="伯克希尔哈撒韦能源">伯克希尔哈撒韦能源</a>
+<a href="../companies/克莱顿房屋.html" class="nav-link" title="克莱顿房屋">克莱顿房屋</a>
+<a href="../companies/内布拉斯加家具店.html" class="nav-link" title="内布拉斯加家具店">内布拉斯加家具店</a>
+<a href="../companies/冰雪皇后.html" class="nav-link" title="冰雪皇后">冰雪皇后</a>
+<a href="../companies/利捷航空.html" class="nav-link" title="利捷航空">利捷航空</a>
+<a href="../companies/华盛顿邮报.html" class="nav-link" title="华盛顿邮报">华盛顿邮报</a>
+<a href="../companies/卡夫亨氏.html" class="nav-link" title="卡夫亨氏">卡夫亨氏</a>
+<a href="../companies/可口可乐.html" class="nav-link" title="可口可乐">可口可乐</a>
+<a href="../companies/吉列.html" class="nav-link" title="吉列">吉列</a>
+<a href="../companies/喜诗糖果.html" class="nav-link" title="喜诗糖果">喜诗糖果</a>
+<a href="../companies/国民保险公司.html" class="nav-link" title="国民保险公司">国民保险公司</a>
+<a href="../companies/大都会通信.html" class="nav-link" title="大都会通信">大都会通信</a>
+<a href="../companies/威利家居.html" class="nav-link" title="威利家居">威利家居</a>
+<a href="../companies/威瑞森通讯.html" class="nav-link" title="威瑞森通讯">威瑞森通讯</a>
+<a href="../companies/富国银行.html" class="nav-link" title="富国银行">富国银行</a>
+<a href="../companies/州立农业保险.html" class="nav-link" title="州立农业保险">州立农业保险</a>
+<a href="../companies/布法罗新闻报.html" class="nav-link" title="布法罗新闻报">布法罗新闻报</a>
+<a href="../companies/康菲石油.html" class="nav-link" title="康菲石油">康菲石油</a>
+<a href="../companies/德克斯特鞋业.html" class="nav-link" title="德克斯特鞋业">德克斯特鞋业</a>
+<a href="../companies/房地美.html" class="nav-link" title="房地美">房地美</a>
+<a href="../companies/所罗门.html" class="nav-link" title="所罗门">所罗门</a>
+<a href="../companies/斯科特费泽.html" class="nav-link" title="斯科特费泽">斯科特费泽</a>
+<a href="../companies/森林河公司.html" class="nav-link" title="森林河公司">森林河公司</a>
+<a href="../companies/比亚迪.html" class="nav-link" title="比亚迪">比亚迪</a>
+<a href="../companies/波仙珠宝.html" class="nav-link" title="波仙珠宝">波仙珠宝</a>
+<a href="../companies/特许通讯.html" class="nav-link" title="特许通讯">特许通讯</a>
+<a href="../companies/盖可保险.html" class="nav-link" title="盖可保险">盖可保险</a>
+<a href="../companies/科比吸尘器.html" class="nav-link" title="科比吸尘器">科比吸尘器</a>
+<a href="../companies/穆迪.html" class="nav-link" title="穆迪">穆迪</a>
+<a href="../companies/精密铸件.html" class="nav-link" title="精密铸件">精密铸件</a>
+<a href="../companies/约翰斯曼维尔.html" class="nav-link" title="约翰斯曼维尔">约翰斯曼维尔</a>
+<a href="../companies/纽约梅隆银行.html" class="nav-link" title="纽约梅隆银行">纽约梅隆银行</a>
+<a href="../companies/美国合众银行.html" class="nav-link" title="美国合众银行">美国合众银行</a>
+<a href="../companies/美国家庭服务.html" class="nav-link" title="美国家庭服务">美国家庭服务</a>
+<a href="../companies/美国运通.html" class="nav-link" title="美国运通">美国运通</a>
+<a href="../companies/美国银行.html" class="nav-link" title="美国银行">美国银行</a>
+<a href="../companies/苹果.html" class="nav-link" title="苹果">苹果</a>
+<a href="../companies/蓝筹印花.html" class="nav-link" title="蓝筹印花">蓝筹印花</a>
+<a href="../companies/西方石油.html" class="nav-link" title="西方石油">西方石油</a>
+<a href="../companies/费希海默制服.html" class="nav-link" title="费希海默制服">费希海默制服</a>
+<a href="../companies/路博润.html" class="nav-link" title="路博润">路博润</a>
+<a href="../companies/通用再保险.html" class="nav-link" title="通用再保险">通用再保险</a>
+<a href="../companies/通用汽车.html" class="nav-link" title="通用汽车">通用汽车</a>
+<a href="../companies/通用电气.html" class="nav-link" title="通用电气">通用电气</a>
+<a href="../companies/雪佛龙.html" class="nav-link" title="雪佛龙">雪佛龙</a>
+<a href="../companies/韦斯科.html" class="nav-link" title="韦斯科">韦斯科</a>
+<a href="../companies/飞安公司.html" class="nav-link" title="飞安公司">飞安公司</a>
+<a href="../companies/马蒙集团.html" class="nav-link" title="马蒙集团">马蒙集团</a>
+<a href="../companies/高盛.html" class="nav-link" title="高盛">高盛</a>
+<a href="../companies/鲜果布衣.html" class="nav-link" title="鲜果布衣">鲜果布衣</a>
+<a href="../companies/麦克莱恩.html" class="nav-link" title="麦克莱恩">麦克莱恩</a>
+</div></div>
+<div class="nav-group">
+<div class="nav-group-title" onclick="toggle('人物')"><span class="caret"></span>人物<span class="badge">7</span></div>
+<div class="nav-group-items" id="人物">
+<a href="../people/B夫人.html" class="nav-link" title="B夫人">B夫人</a>
+<a href="../people/托德·库姆斯.html" class="nav-link" title="托德·库姆斯">托德·库姆斯</a>
+<a href="../people/格雷厄姆.html" class="nav-link" title="格雷厄姆">格雷厄姆</a>
+<a href="../people/格雷格·阿贝尔.html" class="nav-link" title="格雷格·阿贝尔">格雷格·阿贝尔</a>
+<a href="../people/泰德·韦施勒.html" class="nav-link" title="泰德·韦施勒">泰德·韦施勒</a>
+<a href="../people/芒格.html" class="nav-link" title="芒格">芒格</a>
+<a href="../people/阿吉特·贾恩.html" class="nav-link" title="阿吉特·贾恩">阿吉特·贾恩</a>
+</div></div>
+<a href="../graph.html" class="nav-link nav-changelog">🕸️ 知识图谱</a>
+<a href="../changelog.html" class="nav-link nav-changelog">📋 更新日志</a>
+</div></aside>
+<main class="main has-backlinks">
+<div class="main-content">
+<article class="article">
+<div class="meta"><span class="type-badge type-股东信">股东信</span></div>
+<h1>1966 巴菲特致股东信</h1>
+<p>致<a href="../companies/伯克希尔哈撒韦.html" class="wikilink">伯克希尔·哈撒韦</a>公司全体股东：</p>
+<p>为便于各位参考，我们在信的首页以对比形式重点列示了1966财年与前五个财年的财务数据。</p>
+<p>本信将就以下几个方面作详细说明：</p>
+<ol>
+<li>1966年运营状况</li>
+<li>1961至1966年运营回顾</li>
+<li>财务状况的维护</li>
+<li><a href="../concepts/股息.html" class="wikilink">股息</a>政策</li>
+</ol>
+<hr>
+<h2>一、1966年运营状况</h2>
+<h3>销售情况</h3>
+<p>本年度营业总额为4,940万美元，与去年基本持平，但产品结构出现了较大变化。合成部门的销售额有所下滑，不过家居纺织品部门业绩相应增长，弥补了这一缺口。梭箱织机部门销售略有改善，却又被菲利普国王工厂D分厂的销售下滑所抵消。</p>
+<p>1966年下半年，市场整体低迷。染纱进口大量涌入，加上流行趋势发生转变，导致我们梭箱织机部门销量受损、价格承压。醋酸面料产能过剩，加之尼龙面料进口冲击，使合成部门面临更多织机厂商的竞争。进口增加与国内产能扩张双重夹击，压低了普通涤棉混纺产品的价格。我们预计，这一态势将驱使行内织机转向棉织品，从而对我们菲利普国王工厂D分厂生产的精梳棉面料销售产生不利影响。</p>
+<p>鉴于1966财年第四季度出现的种种不利因素，我们决定主动关停产线以避免库存积压——1966年10月9日当周，位于新贝德福德市 (New Bedford) 的梭箱织机部门与合成部门均暂停生产。截至本信撰写之时，纺织市场仍未回暖，若要防止库存继续堆积，可能还需进一步削减产能。</p>
+<h3>新产品开发</h3>
+<p>过去几年，家居纺织品部门持续增长，很大程度上有赖于新产品的开发以及对老产品的创新应用。去年，我们加大了研发投入，力求推出价格与销量更为稳健的纺织品。</p>
+<h3>劳工关系</h3>
+<p>1966年初，我们与美国劳工联合会—产业工会联合会 (AFL-CIO) 旗下的美国纺织工人工会签订了一份为期三年的新合同，有效期至1969年4月15日。合同涵盖工资与福利条款，不设中途重新谈判条款。</p>
+<h3>厂房与设备</h3>
+<p>本年度我们投入约97万美元用于购置和安装新设备，目标是降低成本、提升产品质量并增强生产灵活性。</p>
+<p>1966财年，我们已完成对剩余闲置资产的处置。</p>
+<h3>所得税</h3>
+<p>截至1966财年末，税收亏损结转额度已基本用尽，仅余极小部分。因此，公司未来产生盈利时，将须照常缴纳企业所得税。</p>
+<hr>
+<h2>二、运营回顾（1960年10月1日至1966年10月1日）</h2>
+<p>对于纺织这样高度周期性的行业，<a href="../companies/伯克希尔哈撒韦.html" class="wikilink">伯克希尔·哈撒韦</a> (Berkshire Hathaway) 过去十年的故事，不过是盈利期与亏损期交替上演的老剧本。过去这一年在这段历史中格外重要——1966年不仅实现了盈利，更见证了公司财务实力恢复到1960年底的水平。各位或许还记得：1959年和1960年的盈利尚未完全弥补1957年和1958年的巨额亏损，公司旋即又遭受了长达三年的亏损冲击。</p>
+<p>这几年间，公司财务状况不仅受到上述亏损的侵蚀，还要同时承受1960年代初大规模资本支出计划带来的重压。</p>
+<p>下表概括了<a href="../companies/伯克希尔哈撒韦.html" class="wikilink">伯克希尔·哈撒韦</a>过去六年<a href="../concepts/账面价值.html" class="wikilink">账面价值</a>的变动情况：</p>
+<table>
+<tr><th>项目</th><th>金额（美元）</th></tr>
+<tr><td>1960年10月1日账面价值</td><td>37,981,820</td></tr>
+<tr><td>加：1961至1966年净收益（已扣除固定资产处置损失620万美元）</td><td>40,476</td></tr>
+<tr><td>减：1961至1966年已派股息</td><td>1,366,273</td></tr>
+<tr><td>股息超出净收益部分</td><td>1,325,797</td></tr>
+<tr><td>小计</td><td>36,656,023</td></tr>
+<tr><td>减：1961至1966年累计回购607,972股股票</td><td>7,161,103</td></tr>
+<tr><td><strong>1966年10月1日账面价值</strong></td><td><strong>29,494,920</strong></td></tr>
+</table>
+<p>从表中可以看出，这六年里<a href="../concepts/股息.html" class="wikilink">股息</a>支付额超过了净收益，但<a href="../concepts/账面价值.html" class="wikilink">账面价值</a>下降22%的主要原因，是公司依照<a href="../concepts/回购.html" class="wikilink">回购</a>计划持续买回自家股票——流通股已缩减至1,017,547股，较1960年10月1日减少了37%。考虑到公司因关闭亏损工厂而主动缩减经营规模，这一流通股数量的减少实属合理。</p>
+<p><a href="../concepts/回购.html" class="wikilink">股票回购</a>计划对现有股东的好处，可以从每股<a href="../concepts/账面价值.html" class="wikilink">账面价值</a>的变化中得到印证：1966年10月1日，公司流通普通股每股账面价值为28.99美元，而六年前这一数字仅为23.37美元。</p>
+<p>截至1960年10月1日的那一财年，公司销售总额为6,260万美元；1966年则为4,940万美元，降幅约21%，与总<a href="../concepts/账面价值.html" class="wikilink">账面价值</a>22%的降幅基本吻合。公司目前的账面价值周转率已大致恢复到六年前的水平，这再次印证了公司实力的回归。</p>
+<hr>
+<h2>三、财务状况的维护</h2>
+<p>保持健康的财务状况，始终是<a href="../companies/伯克希尔哈撒韦.html" class="wikilink">伯克希尔·哈撒韦</a>的核心目标之一。正是这一原则，使公司得以在高度周期性的行业中存活至今。截至1966年10月1日，公司营运资金达23,158,187美元，充分体现了当前财务状况的稳健。这一数字与1960年10月1日的营运资金规模相当；但由于期间<a href="../concepts/回购.html" class="wikilink">股票回购</a>导致流通股减少，每股营运资金已从六年前的14.41美元上升至22.76美元。</p>
+<p>维持强健财务状况，还有几层考虑，不仅仅是应对业务的周期性波动。正如此前向各位汇报的，公司一直在积极寻找合适的收购标的，范围涵盖纺织业内外。尽管迄今尚无成功案例，我们对此类收购的兴趣不减。目前货币市场的状况几乎无法为收购融资，因此保持充足的流动资产至关重要——一旦期待中的收购机会出现，我们才有能力出手。此外，战争风险、税率变动以及商业活动可能进一步萎缩等不确定因素，也都强调了持续保持健康财务状况的必要性。</p>
+<p>另一个可能需要大额投入的领域，是我们增长迅猛的家居纺织品部门。过去三年，该部门销售额几近翻番。若未来几年继续保持这一势头，我们可能需要在增量库存和应收账款上追加高达700万美元的投资。</p>
+<p>最后，技术变革的威胁在纺织业如影随形。我们在厂房与设备上的账面投资为2,440万美元（扣除累计折旧后为630万美元），而纺织机械行业始终在努力让现有设备更快淘汰。生产流程任何环节的重大变革，都可能需要按未来重置价格进行大规模资本支出。我们会继续审慎权衡每一项资本支出计划的潜在收益与风险。但一旦认定资本支出符合公司最佳利益，就必须具备相应的财务实力去付诸实施。尤其需要警惕的情形是：重要的降本设备问世，偏偏又赶上纺织行业盈利低迷，届时外部融资极为困难甚至毫无可能——充足的营运资金在这种时候就显得格外关键。</p>
+<p>正是出于上述考量，公司年末在营运资本中保留了540万美元的有价证券，包括短期市政债券、商业票据和普通股。由于难以判断公司何时可能需要大笔现金，也存在相当长一段时间内根本不需要的可能性，我们的董事们认为，对于这部分资本，应当与投入工厂、库存、应收账款等其他资产一样积极追求合理回报。因此，董事会目前的意向是，将这些资金中的大部分暂时投资于普通股。这样做，不仅有望获得比非权益类有价证券更高的收益，还能使我们有机会参与<a href="../concepts/纺织业务.html" class="wikilink">纺织业务</a>以外的利润，哪怕只是阶段性的、间接的参与。</p>
+<hr>
+<h2>四、股息政策</h2>
+<p>公司财务状况的逐步恢复，为实施<a href="../concepts/股息.html" class="wikilink">股息</a>政策提供了条件——向股东分配当期税后利润中合理比例的股息。当然，任何股息政策都必须以维护现有财务实力为前提，不能顾此失彼。</p>
+<p>为落实这一政策，董事会已于1966年11月14日宣布派发每股10美分的<a href="../concepts/股息.html" class="wikilink">股息</a>，股权登记日为1966年12月2日，派发日期为1967年1月3日。</p>
+<hr>
+<p>马尔科姆·G·蔡斯二世 (Malcolm G. Chace, Jr.)</p>
+<p>董事长</p>
+<p>肯尼思·V·蔡斯 (Kenneth V. Chace)</p>
+<p>总裁</p>
+</article>
+<section class="support-section" id="support-section">
+<div class="support-global">
+<div class="support-text"><span class="support-title">喜欢这个知识库？</span><span class="support-desc">如果巴菲特的智慧对你的投资之路有帮助</span></div>
+<a href="/donate" class="kofi-btn">☕ 请我喝杯咖啡</a>
+</div>
+<a href="https://cn.tradingview.com/?aff_id=165343" target="_blank" rel="noopener" class="aff-card">
+<span class="aff-icon">📊</span>
+<div class="aff-body"><strong>用 TradingView 把知识变成行动</strong><span class="aff-desc">专业图表 · 股票筛选 · 全球市场实时数据</span></div>
+<span class="aff-arrow">→</span>
+</a>
+</section></div>
+<aside class="backlinks-panel" id="backlinks-panel">
+<div class="bl-panel-header"><h2 class="bl-panel-title">链接到本页 <span class="bl-count">1</span></h2><div class="bl-panel-actions"><button class="bl-action" onclick="document.querySelectorAll('.bl-group').forEach(g=>g.setAttribute('data-open',''))">展开</button><button class="bl-action" onclick="document.querySelectorAll('.bl-group').forEach(g=>g.removeAttribute('data-open'))">折叠</button></div></div>
+<div class="bl-group" data-open>
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">巴菲特致股东信总览</span>
+<span class="bl-mention-count">1</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">1965 巴菲特致股东信
+<mark>1966 巴菲特致股东信</mark>
+1967 巴菲特致股东信
+1968 巴菲特致股东信
+1969 巴菲特致股东信
+### 1970年代</div>
+<a href="../index-pages/巴菲特致股东信总览.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+</aside>
+</main>
+<script src="../nav.js"></script>
+<script src="../search.js"></script>
+<!-- Cloudflare Pages Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "c8e93d0e80f9456280a3c041d2f04677"}'></script><!-- Cloudflare Pages Analytics --></body>
+</html>

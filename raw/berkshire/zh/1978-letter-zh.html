@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>1978 巴菲特致股东信 — 巴菲特知识库</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Crimson+Pro:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<button class="hamburger" onclick="document.getElementById('sidebar').classList.toggle('open')">☰</button>
+<aside class="sidebar" id="sidebar">
+<div class="sidebar-header"><a href="../index.html" class="logo">巴菲特知识库</a></div>
+<div class="sidebar-nav">
+<a href="../index.html" class="nav-link nav-home">🏛 首页</a>
+<div class="search-box"><input type="text" id="search-input" placeholder="搜索标题或内容..." autocomplete="off"><div id="search-results"></div></div>
+<div class="nav-group">
+<div class="nav-group-title" onclick="toggle('00_索引')"><span class="caret"></span>索引<span class="badge">4</span></div>
+<div class="nav-group-items" id="00_索引">
+<a href="../index-pages/人物索引.html" class="nav-link" title="人物索引">人物索引</a>
+<a href="../index-pages/公司索引.html" class="nav-link" title="公司索引">公司索引</a>
+<a href="../index-pages/巴菲特致股东信总览.html" class="nav-link" title="巴菲特致股东信总览">巴菲特致股东信总览</a>
+<a href="../index-pages/核心思想索引.html" class="nav-link" title="核心思想索引">核心思想索引</a>
+</div></div>
+<div class="nav-group">
+<div class="nav-group-title" onclick="toggle('01_合伙人信')"><span class="caret"></span>合伙人信<span class="badge">35</span></div>
+<div class="nav-group-items" id="01_合伙人信">
+<a href="../partnership/1956-有限合伙协议.html" class="nav-link" title="1956 有限合伙协议">1956 有限合伙协议</a>
+<a href="../partnership/1957-巴菲特致合伙人信.html" class="nav-link" title="1957 巴菲特致合伙人信">1957 巴菲特致合伙人信</a>
+<a href="../partnership/1958-巴菲特致合伙人信.html" class="nav-link" title="1958 巴菲特致合伙人信">1958 巴菲特致合伙人信</a>
+<a href="../partnership/1959-巴菲特致合伙人信.html" class="nav-link" title="1959 巴菲特致合伙人信">1959 巴菲特致合伙人信</a>
+<a href="../partnership/1960-巴菲特致合伙人信.html" class="nav-link" title="1960 巴菲特致合伙人信">1960 巴菲特致合伙人信</a>
+<a href="../partnership/1961-巴菲特致合伙人信.html" class="nav-link" title="1961 巴菲特致合伙人信">1961 巴菲特致合伙人信</a>
+<a href="../partnership/1961年中-巴菲特致合伙人信.html" class="nav-link" title="1961年中 巴菲特致合伙人信">1961年中 巴菲特致合伙人信</a>
+<a href="../partnership/1962-巴菲特致合伙人信.html" class="nav-link" title="1962 巴菲特致合伙人信">1962 巴菲特致合伙人信</a>
+<a href="../partnership/1962年11月-巴菲特致合伙人信.html" class="nav-link" title="1962年11月 巴菲特致合伙人信">1962年11月 巴菲特致合伙人信</a>
+<a href="../partnership/1962年12月-巴菲特致合伙人信.html" class="nav-link" title="1962年12月 巴菲特致合伙人信">1962年12月 巴菲特致合伙人信</a>
+<a href="../partnership/1962年中-巴菲特致合伙人信.html" class="nav-link" title="1962年中 巴菲特致合伙人信">1962年中 巴菲特致合伙人信</a>
+<a href="../partnership/1963-巴菲特致合伙人信.html" class="nav-link" title="1963 巴菲特致合伙人信">1963 巴菲特致合伙人信</a>
+<a href="../partnership/1963年11月-巴菲特致合伙人信.html" class="nav-link" title="1963年11月 巴菲特致合伙人信">1963年11月 巴菲特致合伙人信</a>
+<a href="../partnership/1963年12月-巴菲特致合伙人信.html" class="nav-link" title="1963年12月 巴菲特致合伙人信">1963年12月 巴菲特致合伙人信</a>
+<a href="../partnership/1963年中-巴菲特致合伙人信.html" class="nav-link" title="1963年中 巴菲特致合伙人信">1963年中 巴菲特致合伙人信</a>
+<a href="../partnership/1964-巴菲特致合伙人信.html" class="nav-link" title="1964 巴菲特致合伙人信">1964 巴菲特致合伙人信</a>
+<a href="../partnership/1964年中-巴菲特致合伙人信.html" class="nav-link" title="1964年中 巴菲特致合伙人信">1964年中 巴菲特致合伙人信</a>
+<a href="../partnership/1965-巴菲特致合伙人信.html" class="nav-link" title="1965 巴菲特致合伙人信">1965 巴菲特致合伙人信</a>
+<a href="../partnership/1965年11月-巴菲特致合伙人信.html" class="nav-link" title="1965年11月 巴菲特致合伙人信">1965年11月 巴菲特致合伙人信</a>
+<a href="../partnership/1965年中-巴菲特致合伙人信.html" class="nav-link" title="1965年中 巴菲特致合伙人信">1965年中 巴菲特致合伙人信</a>
+<a href="../partnership/1966-巴菲特致合伙人信.html" class="nav-link" title="1966 巴菲特致合伙人信">1966 巴菲特致合伙人信</a>
+<a href="../partnership/1966年11月-巴菲特致合伙人信.html" class="nav-link" title="1966年11月 巴菲特致合伙人信">1966年11月 巴菲特致合伙人信</a>
+<a href="../partnership/1966年中-巴菲特致合伙人信.html" class="nav-link" title="1966年中 巴菲特致合伙人信">1966年中 巴菲特致合伙人信</a>
+<a href="../partnership/1967-巴菲特致合伙人信.html" class="nav-link" title="1967 巴菲特致合伙人信">1967 巴菲特致合伙人信</a>
+<a href="../partnership/1967年10月-巴菲特致合伙人信.html" class="nav-link" title="1967年10月 巴菲特致合伙人信">1967年10月 巴菲特致合伙人信</a>
+<a href="../partnership/1967年11月-巴菲特致合伙人信.html" class="nav-link" title="1967年11月 巴菲特致合伙人信">1967年11月 巴菲特致合伙人信</a>
+<a href="../partnership/1967年中-巴菲特致合伙人信.html" class="nav-link" title="1967年中 巴菲特致合伙人信">1967年中 巴菲特致合伙人信</a>
+<a href="../partnership/1968-巴菲特致合伙人信.html" class="nav-link" title="1968 巴菲特致合伙人信">1968 巴菲特致合伙人信</a>
+<a href="../partnership/1968年11月-巴菲特致合伙人信.html" class="nav-link" title="1968年11月 巴菲特致合伙人信">1968年11月 巴菲特致合伙人信</a>
+<a href="../partnership/1968年中-巴菲特致合伙人信.html" class="nav-link" title="1968年中 巴菲特致合伙人信">1968年中 巴菲特致合伙人信</a>
+<a href="../partnership/1969年10月-巴菲特致合伙人信.html" class="nav-link" title="1969年10月 巴菲特致合伙人信">1969年10月 巴菲特致合伙人信</a>
+<a href="../partnership/1969年12月-巴菲特致合伙人信.html" class="nav-link" title="1969年12月 巴菲特致合伙人信">1969年12月 巴菲特致合伙人信</a>
+<a href="../partnership/1969年12月26日-巴菲特致合伙人信.html" class="nav-link" title="1969年12月26日 巴菲特致合伙人信">1969年12月26日 巴菲特致合伙人信</a>
+<a href="../partnership/1969年5月-巴菲特致合伙人信.html" class="nav-link" title="1969年5月 巴菲特致合伙人信">1969年5月 巴菲特致合伙人信</a>
+<a href="../partnership/1970年2月-巴菲特致合伙人信.html" class="nav-link" title="1970年2月 巴菲特致合伙人信">1970年2月 巴菲特致合伙人信</a>
+</div></div>
+<div class="nav-group">
+<div class="nav-group-title open" onclick="toggle('02_伯克希尔股东信')"><span class="caret"></span>伯克希尔股东信<span class="badge">60</span></div>
+<div class="nav-group-items open" id="02_伯克希尔股东信">
+<a href="1965-巴菲特致股东信.html" class="nav-link" title="1965 巴菲特致股东信">1965 巴菲特致股东信</a>
+<a href="1966-巴菲特致股东信.html" class="nav-link" title="1966 巴菲特致股东信">1966 巴菲特致股东信</a>
+<a href="1967-巴菲特致股东信.html" class="nav-link" title="1967 巴菲特致股东信">1967 巴菲特致股东信</a>
+<a href="1968-巴菲特致股东信.html" class="nav-link" title="1968 巴菲特致股东信">1968 巴菲特致股东信</a>
+<a href="1969-巴菲特致股东信.html" class="nav-link" title="1969 巴菲特致股东信">1969 巴菲特致股东信</a>
+<a href="1970-巴菲特致股东信.html" class="nav-link" title="1970 巴菲特致股东信">1970 巴菲特致股东信</a>
+<a href="1971-巴菲特致股东信.html" class="nav-link" title="1971 巴菲特致股东信">1971 巴菲特致股东信</a>
+<a href="1972-巴菲特致股东信.html" class="nav-link" title="1972 巴菲特致股东信">1972 巴菲特致股东信</a>
+<a href="1973-巴菲特致股东信.html" class="nav-link" title="1973 巴菲特致股东信">1973 巴菲特致股东信</a>
+<a href="1974-巴菲特致股东信.html" class="nav-link" title="1974 巴菲特致股东信">1974 巴菲特致股东信</a>
+<a href="1975-巴菲特致股东信.html" class="nav-link" title="1975 巴菲特致股东信">1975 巴菲特致股东信</a>
+<a href="1976-巴菲特致股东信.html" class="nav-link" title="1976 巴菲特致股东信">1976 巴菲特致股东信</a>
+<a href="1977-巴菲特致股东信.html" class="nav-link" title="1977 巴菲特致股东信">1977 巴菲特致股东信</a>
+<a href="1978-巴菲特致股东信.html" class="nav-link active" title="1978 巴菲特致股东信">1978 巴菲特致股东信</a>
+<a href="1979-巴菲特致股东信.html" class="nav-link" title="1979 巴菲特致股东信">1979 巴菲特致股东信</a>
+<a href="1980-巴菲特致股东信.html" class="nav-link" title="1980 巴菲特致股东信">1980 巴菲特致股东信</a>
+<a href="1981-巴菲特致股东信.html" class="nav-link" title="1981 巴菲特致股东信">1981 巴菲特致股东信</a>
+<a href="1982-巴菲特致股东信.html" class="nav-link" title="1982 巴菲特致股东信">1982 巴菲特致股东信</a>
+<a href="1983-巴菲特致股东信.html" class="nav-link" title="1983 巴菲特致股东信">1983 巴菲特致股东信</a>
+<a href="1984-巴菲特致股东信.html" class="nav-link" title="1984 巴菲特致股东信">1984 巴菲特致股东信</a>
+<a href="1985-巴菲特致股东信.html" class="nav-link" title="1985 巴菲特致股东信">1985 巴菲特致股东信</a>
+<a href="1986-巴菲特致股东信.html" class="nav-link" title="1986 巴菲特致股东信">1986 巴菲特致股东信</a>
+<a href="1987-巴菲特致股东信.html" class="nav-link" title="1987 巴菲特致股东信">1987 巴菲特致股东信</a>
+<a href="1988-巴菲特致股东信.html" class="nav-link" title="1988 巴菲特致股东信">1988 巴菲特致股东信</a>
+<a href="1989-巴菲特致股东信.html" class="nav-link" title="1989 巴菲特致股东信">1989 巴菲特致股东信</a>
+<a href="1990-巴菲特致股东信.html" class="nav-link" title="1990 巴菲特致股东信">1990 巴菲特致股东信</a>
+<a href="1991-巴菲特致股东信.html" class="nav-link" title="1991 巴菲特致股东信">1991 巴菲特致股东信</a>
+<a href="1992-巴菲特致股东信.html" class="nav-link" title="1992 巴菲特致股东信">1992 巴菲特致股东信</a>
+<a href="1993-巴菲特致股东信.html" class="nav-link" title="1993 巴菲特致股东信">1993 巴菲特致股东信</a>
+<a href="1994-巴菲特致股东信.html" class="nav-link" title="1994 巴菲特致股东信">1994 巴菲特致股东信</a>
+<a href="1995-巴菲特致股东信.html" class="nav-link" title="1995 巴菲特致股东信">1995 巴菲特致股东信</a>
+<a href="1996-巴菲特致股东信.html" class="nav-link" title="1996 巴菲特致股东信">1996 巴菲特致股东信</a>
+<a href="1997-巴菲特致股东信.html" class="nav-link" title="1997 巴菲特致股东信">1997 巴菲特致股东信</a>
+<a href="1998-巴菲特致股东信.html" class="nav-link" title="1998 巴菲特致股东信">1998 巴菲特致股东信</a>
+<a href="1999-巴菲特致股东信.html" class="nav-link" title="1999 巴菲特致股东信">1999 巴菲特致股东信</a>
+<a href="2000-巴菲特致股东信.html" class="nav-link" title="2000 巴菲特致股东信">2000 巴菲特致股东信</a>
+<a href="2001-巴菲特致股东信.html" class="nav-link" title="2001 巴菲特致股东信">2001 巴菲特致股东信</a>
+<a href="2002-巴菲特致股东信.html" class="nav-link" title="2002 巴菲特致股东信">2002 巴菲特致股东信</a>
+<a href="2003-巴菲特致股东信.html" class="nav-link" title="2003 巴菲特致股东信">2003 巴菲特致股东信</a>
+<a href="2004-巴菲特致股东信.html" class="nav-link" title="2004 巴菲特致股东信">2004 巴菲特致股东信</a>
+<a href="2005-巴菲特致股东信.html" class="nav-link" title="2005 巴菲特致股东信">2005 巴菲特致股东信</a>
+<a href="2006-巴菲特致股东信.html" class="nav-link" title="2006 巴菲特致股东信">2006 巴菲特致股东信</a>
+<a href="2007-巴菲特致股东信.html" class="nav-link" title="2007 巴菲特致股东信">2007 巴菲特致股东信</a>
+<a href="2008-巴菲特致股东信.html" class="nav-link" title="2008 巴菲特致股东信">2008 巴菲特致股东信</a>
+<a href="2009-巴菲特致股东信.html" class="nav-link" title="2009 巴菲特致股东信">2009 巴菲特致股东信</a>
+<a href="2010-巴菲特致股东信.html" class="nav-link" title="2010 巴菲特致股东信">2010 巴菲特致股东信</a>
+<a href="2011-巴菲特致股东信.html" class="nav-link" title="2011 巴菲特致股东信">2011 巴菲特致股东信</a>
+<a href="2012-巴菲特致股东信.html" class="nav-link" title="2012 巴菲特致股东信">2012 巴菲特致股东信</a>
+<a href="2013-巴菲特致股东信.html" class="nav-link" title="2013 巴菲特致股东信">2013 巴菲特致股东信</a>
+<a href="2014-巴菲特致股东信.html" class="nav-link" title="2014 巴菲特致股东信">2014 巴菲特致股东信</a>
+<a href="2015-巴菲特致股东信.html" class="nav-link" title="2015 巴菲特致股东信">2015 巴菲特致股东信</a>
+<a href="2016-巴菲特致股东信.html" class="nav-link" title="2016 巴菲特致股东信">2016 巴菲特致股东信</a>
+<a href="2017-巴菲特致股东信.html" class="nav-link" title="2017 巴菲特致股东信">2017 巴菲特致股东信</a>
+<a href="2018-巴菲特致股东信.html" class="nav-link" title="2018 巴菲特致股东信">2018 巴菲特致股东信</a>
+<a href="2019-巴菲特致股东信.html" class="nav-link" title="2019 巴菲特致股东信">2019 巴菲特致股东信</a>
+<a href="2020-巴菲特致股东信.html" class="nav-link" title="2020 巴菲特致股东信">2020 巴菲特致股东信</a>
+<a href="2021-巴菲特致股东信.html" class="nav-link" title="2021 巴菲特致股东信">2021 巴菲特致股东信</a>
+<a href="2022-巴菲特致股东信.html" class="nav-link" title="2022 巴菲特致股东信">2022 巴菲特致股东信</a>
+<a href="2023-巴菲特致股东信.html" class="nav-link" title="2023 巴菲特致股东信">2023 巴菲特致股东信</a>
+<a href="2024-巴菲特致股东信.html" class="nav-link" title="2024 巴菲特致股东信">2024 巴菲特致股东信</a>
+</div></div>
+<div class="nav-group">
+<div class="nav-group-title" onclick="toggle('03_特别信件')"><span class="caret"></span>特别信件<span class="badge">3</span></div>
+<div class="nav-group-items" id="03_特别信件">
+<a href="../special/2014-伯克希尔的过去现在与未来.html" class="nav-link" title="2014 伯克希尔的过去现在与未来">2014 伯克希尔的过去现在与未来</a>
+<a href="../special/2014-副董事长的思考.html" class="nav-link" title="2014 副董事长的思考">2014 副董事长的思考</a>
+<a href="../special/2025-感恩节致辞.html" class="nav-link" title="2025 感恩节致辞">2025 感恩节致辞</a>
+</div></div>
+<div class="nav-group">
+<div class="nav-group-title" onclick="toggle('概念')"><span class="caret"></span>概念<span class="badge">49</span></div>
+<div class="nav-group-items" id="概念">
+<a href="../concepts/买入价格.html" class="nav-link" title="买入价格">买入价格</a>
+<a href="../concepts/企业文化.html" class="nav-link" title="企业文化">企业文化</a>
+<a href="../concepts/低估.html" class="nav-link" title="低估">低估</a>
+<a href="../concepts/保险业.html" class="nav-link" title="保险业">保险业</a>
+<a href="../concepts/保险浮存金.html" class="nav-link" title="保险浮存金">保险浮存金</a>
+<a href="../concepts/债券.html" class="nav-link" title="债券">债券</a>
+<a href="../concepts/公司治理.html" class="nav-link" title="公司治理">公司治理</a>
+<a href="../concepts/内在价值.html" class="nav-link" title="内在价值">内在价值</a>
+<a href="../concepts/分散投资.html" class="nav-link" title="分散投资">分散投资</a>
+<a href="../concepts/可转换证券.html" class="nav-link" title="可转换证券">可转换证券</a>
+<a href="../concepts/品牌.html" class="nav-link" title="品牌">品牌</a>
+<a href="../concepts/商业模式.html" class="nav-link" title="商业模式">商业模式</a>
+<a href="../concepts/商誉.html" class="nav-link" title="商誉">商誉</a>
+<a href="../concepts/回购.html" class="nav-link" title="回购">回购</a>
+<a href="../concepts/复利.html" class="nav-link" title="复利">复利</a>
+<a href="../concepts/套利.html" class="nav-link" title="套利">套利</a>
+<a href="../concepts/媒体与出版.html" class="nav-link" title="媒体与出版">媒体与出版</a>
+<a href="../concepts/安全边际.html" class="nav-link" title="安全边际">安全边际</a>
+<a href="../concepts/市场先生.html" class="nav-link" title="市场先生">市场先生</a>
+<a href="../concepts/市场预测.html" class="nav-link" title="市场预测">市场预测</a>
+<a href="../concepts/市盈率.html" class="nav-link" title="市盈率">市盈率</a>
+<a href="../concepts/承保纪律.html" class="nav-link" title="承保纪律">承保纪律</a>
+<a href="../concepts/护城河.html" class="nav-link" title="护城河">护城河</a>
+<a href="../concepts/收购.html" class="nav-link" title="收购">收购</a>
+<a href="../concepts/有效市场.html" class="nav-link" title="有效市场">有效市场</a>
+<a href="../concepts/杠杆.html" class="nav-link" title="杠杆">杠杆</a>
+<a href="../concepts/特许经营权.html" class="nav-link" title="特许经营权">特许经营权</a>
+<a href="../concepts/留存收益.html" class="nav-link" title="留存收益">留存收益</a>
+<a href="../concepts/科技与互联网.html" class="nav-link" title="科技与互联网">科技与互联网</a>
+<a href="../concepts/税收效率.html" class="nav-link" title="税收效率">税收效率</a>
+<a href="../concepts/竞争优势.html" class="nav-link" title="竞争优势">竞争优势</a>
+<a href="../concepts/管理层.html" class="nav-link" title="管理层">管理层</a>
+<a href="../concepts/纺织业务.html" class="nav-link" title="纺织业务">纺织业务</a>
+<a href="../concepts/股东导向.html" class="nav-link" title="股东导向">股东导向</a>
+<a href="../concepts/股息.html" class="nav-link" title="股息">股息</a>
+<a href="../concepts/能力圈.html" class="nav-link" title="能力圈">能力圈</a>
+<a href="../concepts/能源.html" class="nav-link" title="能源">能源</a>
+<a href="../concepts/航空业.html" class="nav-link" title="航空业">航空业</a>
+<a href="../concepts/衍生品.html" class="nav-link" title="衍生品">衍生品</a>
+<a href="../concepts/诚信.html" class="nav-link" title="诚信">诚信</a>
+<a href="../concepts/账面价值.html" class="nav-link" title="账面价值">账面价值</a>
+<a href="../concepts/资本配置.html" class="nav-link" title="资本配置">资本配置</a>
+<a href="../concepts/透视盈余.html" class="nav-link" title="透视盈余">透视盈余</a>
+<a href="../concepts/通货膨胀.html" class="nav-link" title="通货膨胀">通货膨胀</a>
+<a href="../concepts/铁路运输.html" class="nav-link" title="铁路运输">铁路运输</a>
+<a href="../concepts/银行业.html" class="nav-link" title="银行业">银行业</a>
+<a href="../concepts/长期持有.html" class="nav-link" title="长期持有">长期持有</a>
+<a href="../concepts/集中投资.html" class="nav-link" title="集中投资">集中投资</a>
+<a href="../concepts/零售与消费.html" class="nav-link" title="零售与消费">零售与消费</a>
+</div></div>
+<div class="nav-group">
+<div class="nav-group-title" onclick="toggle('公司')"><span class="caret"></span>公司<span class="badge">61</span></div>
+<div class="nav-group-items" id="公司">
+<a href="../companies/BNSF铁路.html" class="nav-link" title="BNSF铁路">BNSF铁路</a>
+<a href="../companies/IBM.html" class="nav-link" title="IBM">IBM</a>
+<a href="../companies/三井物产.html" class="nav-link" title="三井物产">三井物产</a>
+<a href="../companies/三菱商事.html" class="nav-link" title="三菱商事">三菱商事</a>
+<a href="../companies/世界图书百科全书.html" class="nav-link" title="世界图书百科全书">世界图书百科全书</a>
+<a href="../companies/中国石油.html" class="nav-link" title="中国石油">中国石油</a>
+<a href="../companies/中美能源.html" class="nav-link" title="中美能源">中美能源</a>
+<a href="../companies/伊斯卡.html" class="nav-link" title="伊斯卡">伊斯卡</a>
+<a href="../companies/伊藤忠商事.html" class="nav-link" title="伊藤忠商事">伊藤忠商事</a>
+<a href="../companies/伯克希尔哈撒韦.html" class="nav-link" title="伯克希尔哈撒韦">伯克希尔哈撒韦</a>
+<a href="../companies/伯克希尔哈撒韦能源.html" class="nav-link" title="伯克希尔哈撒韦能源">伯克希尔哈撒韦能源</a>
+<a href="../companies/克莱顿房屋.html" class="nav-link" title="克莱顿房屋">克莱顿房屋</a>
+<a href="../companies/内布拉斯加家具店.html" class="nav-link" title="内布拉斯加家具店">内布拉斯加家具店</a>
+<a href="../companies/冰雪皇后.html" class="nav-link" title="冰雪皇后">冰雪皇后</a>
+<a href="../companies/利捷航空.html" class="nav-link" title="利捷航空">利捷航空</a>
+<a href="../companies/华盛顿邮报.html" class="nav-link" title="华盛顿邮报">华盛顿邮报</a>
+<a href="../companies/卡夫亨氏.html" class="nav-link" title="卡夫亨氏">卡夫亨氏</a>
+<a href="../companies/可口可乐.html" class="nav-link" title="可口可乐">可口可乐</a>
+<a href="../companies/吉列.html" class="nav-link" title="吉列">吉列</a>
+<a href="../companies/喜诗糖果.html" class="nav-link" title="喜诗糖果">喜诗糖果</a>
+<a href="../companies/国民保险公司.html" class="nav-link" title="国民保险公司">国民保险公司</a>
+<a href="../companies/大都会通信.html" class="nav-link" title="大都会通信">大都会通信</a>
+<a href="../companies/威利家居.html" class="nav-link" title="威利家居">威利家居</a>
+<a href="../companies/威瑞森通讯.html" class="nav-link" title="威瑞森通讯">威瑞森通讯</a>
+<a href="../companies/富国银行.html" class="nav-link" title="富国银行">富国银行</a>
+<a href="../companies/州立农业保险.html" class="nav-link" title="州立农业保险">州立农业保险</a>
+<a href="../companies/布法罗新闻报.html" class="nav-link" title="布法罗新闻报">布法罗新闻报</a>
+<a href="../companies/康菲石油.html" class="nav-link" title="康菲石油">康菲石油</a>
+<a href="../companies/德克斯特鞋业.html" class="nav-link" title="德克斯特鞋业">德克斯特鞋业</a>
+<a href="../companies/房地美.html" class="nav-link" title="房地美">房地美</a>
+<a href="../companies/所罗门.html" class="nav-link" title="所罗门">所罗门</a>
+<a href="../companies/斯科特费泽.html" class="nav-link" title="斯科特费泽">斯科特费泽</a>
+<a href="../companies/森林河公司.html" class="nav-link" title="森林河公司">森林河公司</a>
+<a href="../companies/比亚迪.html" class="nav-link" title="比亚迪">比亚迪</a>
+<a href="../companies/波仙珠宝.html" class="nav-link" title="波仙珠宝">波仙珠宝</a>
+<a href="../companies/特许通讯.html" class="nav-link" title="特许通讯">特许通讯</a>
+<a href="../companies/盖可保险.html" class="nav-link" title="盖可保险">盖可保险</a>
+<a href="../companies/科比吸尘器.html" class="nav-link" title="科比吸尘器">科比吸尘器</a>
+<a href="../companies/穆迪.html" class="nav-link" title="穆迪">穆迪</a>
+<a href="../companies/精密铸件.html" class="nav-link" title="精密铸件">精密铸件</a>
+<a href="../companies/约翰斯曼维尔.html" class="nav-link" title="约翰斯曼维尔">约翰斯曼维尔</a>
+<a href="../companies/纽约梅隆银行.html" class="nav-link" title="纽约梅隆银行">纽约梅隆银行</a>
+<a href="../companies/美国合众银行.html" class="nav-link" title="美国合众银行">美国合众银行</a>
+<a href="../companies/美国家庭服务.html" class="nav-link" title="美国家庭服务">美国家庭服务</a>
+<a href="../companies/美国运通.html" class="nav-link" title="美国运通">美国运通</a>
+<a href="../companies/美国银行.html" class="nav-link" title="美国银行">美国银行</a>
+<a href="../companies/苹果.html" class="nav-link" title="苹果">苹果</a>
+<a href="../companies/蓝筹印花.html" class="nav-link" title="蓝筹印花">蓝筹印花</a>
+<a href="../companies/西方石油.html" class="nav-link" title="西方石油">西方石油</a>
+<a href="../companies/费希海默制服.html" class="nav-link" title="费希海默制服">费希海默制服</a>
+<a href="../companies/路博润.html" class="nav-link" title="路博润">路博润</a>
+<a href="../companies/通用再保险.html" class="nav-link" title="通用再保险">通用再保险</a>
+<a href="../companies/通用汽车.html" class="nav-link" title="通用汽车">通用汽车</a>
+<a href="../companies/通用电气.html" class="nav-link" title="通用电气">通用电气</a>
+<a href="../companies/雪佛龙.html" class="nav-link" title="雪佛龙">雪佛龙</a>
+<a href="../companies/韦斯科.html" class="nav-link" title="韦斯科">韦斯科</a>
+<a href="../companies/飞安公司.html" class="nav-link" title="飞安公司">飞安公司</a>
+<a href="../companies/马蒙集团.html" class="nav-link" title="马蒙集团">马蒙集团</a>
+<a href="../companies/高盛.html" class="nav-link" title="高盛">高盛</a>
+<a href="../companies/鲜果布衣.html" class="nav-link" title="鲜果布衣">鲜果布衣</a>
+<a href="../companies/麦克莱恩.html" class="nav-link" title="麦克莱恩">麦克莱恩</a>
+</div></div>
+<div class="nav-group">
+<div class="nav-group-title" onclick="toggle('人物')"><span class="caret"></span>人物<span class="badge">7</span></div>
+<div class="nav-group-items" id="人物">
+<a href="../people/B夫人.html" class="nav-link" title="B夫人">B夫人</a>
+<a href="../people/托德·库姆斯.html" class="nav-link" title="托德·库姆斯">托德·库姆斯</a>
+<a href="../people/格雷厄姆.html" class="nav-link" title="格雷厄姆">格雷厄姆</a>
+<a href="../people/格雷格·阿贝尔.html" class="nav-link" title="格雷格·阿贝尔">格雷格·阿贝尔</a>
+<a href="../people/泰德·韦施勒.html" class="nav-link" title="泰德·韦施勒">泰德·韦施勒</a>
+<a href="../people/芒格.html" class="nav-link" title="芒格">芒格</a>
+<a href="../people/阿吉特·贾恩.html" class="nav-link" title="阿吉特·贾恩">阿吉特·贾恩</a>
+</div></div>
+<a href="../graph.html" class="nav-link nav-changelog">🕸️ 知识图谱</a>
+<a href="../changelog.html" class="nav-link nav-changelog">📋 更新日志</a>
+</div></aside>
+<main class="main has-backlinks">
+<div class="main-content">
+<article class="article">
+<div class="meta"><span class="type-badge type-股东信">股东信</span></div>
+<h1>1978 巴菲特致股东信</h1>
+<p>致<a href="../companies/伯克希尔哈撒韦.html" class="wikilink">伯克希尔·哈撒韦</a>公司全体股东：</p>
+<p>首先，说几句关于会计的事。年末与多元零售公司 (Diversified Retailing Company, Inc.) 的合并，给我们的财务报告带来了两个新的复杂问题。合并完成后，我们对<a href="../companies/蓝筹印花.html" class="wikilink">蓝筹印花</a> (Blue Chip Stamps) 的持股比例提高到大约 58%，因此该公司的账目必须完全合并到伯克希尔的资产负债表和损益表中。在以前的报告中，蓝筹印花的净收益仅按我们的持股比例以单独一行列示在伯克希尔的损益表上，其净资产的相应份额也同样以一行列示在我们的资产负债表上。</p>
+<p>将销售收入、费用、应收账款、存货、负债等全部合并，会把来自许多截然不同的业务——纺织、保险、糖果、报纸、印花——的数字搅在一起，而这些业务的经济特性天差地别。其中一些业务你们拥有 100% 的权益，但那些由<a href="../companies/蓝筹印花.html" class="wikilink">蓝筹印花</a>持有、虽被完全合并的业务，你们作为伯克希尔股东实际只拥有 58% 的权益。（其他人持有的余下部分权益，体现在资产负债表负债侧那个金额不小的"少数股东权益"项目中。）这种把全资拥有和部分拥有的资产负债表与损益项目搅在一起的做法，与其说是阐明经济实况，不如说是把事情搞得更糊涂。说实话，这种报表格式我们内部在年度中从来不编制，对日常经营管理也毫无用处。</p>
+<p>正因如此，在整篇报告中我们会提供各个业务的大量独立财务信息和分析评论，帮助各位评估伯克希尔的业绩和前景。其中许多分部信息是证监会 (SEC) 披露规则所要求的，详见第 29 至 34 页的"管理层讨论"。而在这封信里，我们试着从经营者的视角，向各位呈现我们各个业务的状况。</p>
+<p>合并带来的第二个复杂问题是：本报告中列示的 1977 年数字，与我们去年寄给各位的报告中所列的 1977 年数字不一样了。会计准则要求，当像多元零售与伯克希尔这样两个实体合并时，后续所有财务数据都必须呈现为好像两家公司在成立时就已合并一样，而非最近才合并。所以，随附的财务报表实际上假装 1977 年（以及更早年度）多元零售与伯克希尔的合并就已经发生了，尽管真正的合并日期是 1978 年 12 月 30 日。这种基准的变动使得前后对比令人困惑，因此在叙述性报告中，我们会不时引用历史上实际报告给各位的伯克希尔数据，而非合并多元零售后重述的数字。</p>
+<p>说完这些铺垫，可以告诉各位的是——不管用不用重述数字——1978 年都是丰收的一年。不含资本利得的经营收益占期初股东投资的 19.4%，距离我们 1972 年的历史纪录只差一点点。我们认为，在评估单一年度的经营表现时，不应将资本利得或损失纳入考量，但在衡量长期业绩时，它们是重要的组成部分。正是由于这类利得的存在，伯克希尔每股权益的长期增长超过了我们每年报告的经营收益单独复合所能达到的水平。</p>
+<p>举例来说，过去三年——基本上是<a href="../concepts/保险业.html" class="wikilink">保险行业</a>的黄金时期，而保险是我们最大的利润来源——伯克希尔的每股净资产几乎翻了一番，通过良好的经营收益加上相当可观的资本利得，年<a href="../concepts/复利.html" class="wikilink">复合增长</a>率约为 25%。但无论是这个来自所有渠道的 25% 权益增长率，还是 1978 年经营收益带来的 19.4% 权益增长率，都不可持续。保险行业的景气周期已在 1979 年掉头向下，今年以股本回报率衡量的经营收益几乎肯定会下降。不过，以美元金额衡量的经营收益很可能还会增长，因为现在投入业务的股东权益规模已经大了许多。</p>
+<p>与对短期经营回报的谨慎看法形成对照的是，我们对旗下保险公司持有的主要股票投资的长期回报相当乐观。我们不去预测证券市场将如何波动——成功预测短期股价走势这种事，我们觉得无论是我们自己还是任何人都做不到。但就长期而言，我们认为我们持有的许多重要股票最终会值比我们买入价高出许多的价钱，这些投资收益将显著增厚保险集团的经营回报。</p>
+<h1>收益来源</h1>
+<p>为了让各位更清楚地了解伯克希尔的收益究竟从哪里来，下面是一张需要稍作解释的表格。伯克希尔持有<a href="../companies/蓝筹印花.html" class="wikilink">蓝筹印花</a>约 58% 的股权，而蓝筹印花除了 100% 持有几家企业之外，还拥有<a href="../companies/韦斯科.html" class="wikilink">韦斯科</a>金融公司 (Wesco Financial Corporation) 80% 的股权。因此，伯克希尔在韦斯科收益中的权益大约是 46%。合计来看，我们控制的各项业务拥有约 7,000 名全职员工，年收入超过 5 亿美元。</p>
+<p>这张表列示了每个主要业务类别的税前收益（其中几家公司的税率较低，因为有大量免税的利息和股利收入），以及伯克希尔按持股比例可分得的税前和税后收益。各业务如有重大资本利得或损失，不包含在经营收益中，而是汇总列在表格底部的"已实现证券利得"一行。由于种种会计和税务上的繁复规定，各位不必把这些数字当作金科玉律，把它们看作 1977 年和 1978 年各项业务对公司收益贡献的近似值就好。</p>
+<table>
+<tr><th></th><th>税前收益</th><th>税前收益</th><th>税前收益</th><th>税前收益</th><th>税后收益</th><th>税后收益</th></tr>
+<tr><td></td><td>合计</td><td>合计</td><td>伯克希尔份额</td><td>伯克希尔份额</td><td>伯克希尔份额</td><td>伯克希尔份额</td></tr>
+<tr><td>（千美元）</td><td>1978</td><td>1977</td><td>1978</td><td>1977</td><td>1978</td><td>1977</td></tr>
+<tr><td>合计 - 所有实体</td><td>$66,180</td><td>$57,089</td><td>$54,350</td><td>$42,234</td><td>$39,242</td><td>$30,393</td></tr>
+<tr><td>经营收益：</td></tr>
+<tr><td>&emsp;保险集团：</td></tr>
+<tr><td>&emsp;&emsp;承保</td><td>$ 3,001</td><td>$ 5,802</td><td>$ 3,000</td><td>$ 5,802</td><td>$ 1,560</td><td>$ 3,017</td></tr>
+<tr><td>&emsp;&emsp;净投资收益</td><td>19,705</td><td>12,804</td><td>19,691</td><td>12,804</td><td>16,400</td><td>11,360</td></tr>
+<tr><td>&emsp;伯克希尔-Waumbec 纺织</td><td>2,916</td><td>(620)</td><td>2,916</td><td>(620)</td><td>1,342</td><td>(322)</td></tr>
+<tr><td>&emsp;联合零售商店公司</td><td>2,757</td><td>2,775</td><td>2,757</td><td>2,775</td><td>1,176</td><td>1,429</td></tr>
+<tr><td>&emsp;<a href="../companies/喜诗糖果.html" class="wikilink">喜诗糖果</a></td><td>12,482</td><td>12,840</td><td>7,013</td><td>6,598</td><td>3,049</td><td>2,974</td></tr>
+<tr><td>&emsp;布法罗晚报</td><td>(2,913)</td><td>751</td><td>(1,637)</td><td>389</td><td>(738)</td><td>158</td></tr>
+<tr><td>&emsp;<a href="../companies/蓝筹印花.html" class="wikilink">蓝筹印花</a> - 母公司</td><td>2,133</td><td>1,091</td><td>1,198</td><td>566</td><td>1,382</td><td>892</td></tr>
+<tr><td>&emsp;伊利诺国民银行及信托公司</td><td>4,822</td><td>3,800</td><td>4,710</td><td>3,706</td><td>4,262</td><td>3,288</td></tr>
+<tr><td>&emsp;<a href="../companies/韦斯科.html" class="wikilink">韦斯科</a>金融公司 - 母公司</td><td>1,771</td><td>2,006</td><td>777</td><td>813</td><td>665</td><td>419</td></tr>
+<tr><td>&emsp;互助储贷公司</td><td>10,556</td><td>6,779</td><td>4,638</td><td>2,747</td><td>3,042</td><td>1,946</td></tr>
+<tr><td>&emsp;利息支出</td><td>(5,566)</td><td>(5,302)</td><td>(4,546)</td><td>(4,255)</td><td>(2,349)</td><td>(2,129)</td></tr>
+<tr><td>&emsp;其他</td><td>720</td><td>165</td><td>438</td><td>102</td><td>261</td><td>48</td></tr>
+<tr><td>&emsp;&emsp;经营收益合计</td><td>$52,384</td><td>$42,891</td><td>$40,955</td><td>$31,427</td><td>$30,052</td><td>$23,080</td></tr>
+<tr><td>已实现证券利得</td><td>13,796</td><td>14,198</td><td>13,395</td><td>10,807</td><td>9,190</td><td>7,313</td></tr>
+<tr><td>&emsp;&emsp;收益合计</td><td>$66,180</td><td>$57,089</td><td>$54,350</td><td>$42,234</td><td>$39,242</td><td>$30,393</td></tr>
+</table>
+<p><a href="../companies/蓝筹印花.html" class="wikilink">蓝筹印花</a>和<a href="../companies/韦斯科.html" class="wikilink">韦斯科</a>都是上市公司，各自有信息披露义务。在本报告后面，我们转载了这两家公司主要管理者的叙述性报告，描述他们 1978 年的经营状况。他们使用的某些数字可能与我们报告中的不完全一致——同样是会计和税务的复杂性所致。但他们的评论应该有助于各位理解这些重要的部分持有企业的基本经济特征。任何伯克希尔股东如需索取这两家公司的完整年报，可联系蓝筹印花的 Robert H. Bird 先生（地址：加州洛杉矶 5801 South Eastern Avenue, Los Angeles, California 90040），或韦斯科金融的 Bette Deckard 女士（地址：加州帕萨迪纳 315 East Colorado Boulevard, Pasadena, California 91109）。</p>
+<h1>纺织业务</h1>
+<p>1978 年收益为 130 万美元，虽然比 1977 年大有改善，但相对于投入该业务的 1,700 万美元资本来说，回报率仍然很低。<a href="../concepts/纺织业务.html" class="wikilink">纺织厂</a>的厂房和设备在账面上的价值，只相当于今天重置这些设备所需成本的一个很小的零头。而且，尽管设备已经老旧，其中大部分在功能上与同行正在安装的新设备差不多。然而，即便固定资产如此"便宜"，资本周转率还是很低——因为相对于销售规模而言，必须沉淀在应收账款和存货上的资金太多了。资本周转缓慢，再加上销售利润微薄，必然导致资本回报率不尽人意。要改善利润率，显而易见的途径包括产品差异化、通过更高效的设备或更好的人员利用来降低制造成本、转向市场趋势更好的面料品种，等等。我们的管理层正在努力追求这些目标。当然，问题在于我们的竞争对手也在同样努力地做着同样的事情。</p>
+<p>纺织业以教科书般的方式说明了一个道理：在资本密集型行业中，生产相对无差异化产品的企业，除非遇到供给紧张或真正短缺的情况，否则注定只能赚取不足够的回报。只要产能过剩的状况存在，价格就会趋于反映直接运营成本而非投入的资本。这种供给过剩的状况看来在纺织业将长期存在，因此我们对利润的预期只能是相对于资本比较有限的水平。</p>
+<p>我们希望以后不要再陷入太多经济特性如此艰难的生意里。但正如我们之前说过的：(1) 我们的<a href="../concepts/纺织业务.html" class="wikilink">纺织业务</a>是其所在社区非常重要的雇主；(2) 管理层在汇报问题时坦率直白，在解决问题时精力充沛；(3) 工人们在面对共同困难时配合且通情达理；(4) 这项业务相对于投入的资金，平均而言应该能产生适度的现金回报。只要这些条件继续成立——我们预期会如此——我们就打算继续支持纺织业务，尽管资本有更具吸引力的其他去处。</p>
+<h1>保险承保业务</h1>
+<p>1978 年伯克希尔整体优异成绩的头号功臣，是<a href="../companies/国民保险公司.html" class="wikilink">国民保险公司</a> (National Indemnity Company) 由菲尔·列舍 (Phil Liesche) 领导的那部分保险业务。在大约 9,000 万美元的已赚保费上，实现了约 1,100 万美元的<a href="../concepts/承保纪律.html" class="wikilink">承保利润</a>——即使以行业景气良好为背景，这也是一项真正非凡的成就。在 Phil 的领导下，加上承保部门罗兰·米勒 (Roland Miller) 和理赔部门比尔·莱昂斯 (Bill Lyons) 的出色协助，国民保险的这部分业务（包括作为姊妹公司运营的国民火海险公司）迎来了其悠久历史中最好的年份之一——而其历史业绩总体而言远超同行。今天的成功不仅归功于现任管理者，同样要归功于国民保险创始人杰克·林沃尔特 (Jack Ringwalt) 的商业才华，他的经营哲学至今仍深深刻印在这家公司身上。</p>
+<p>自从约翰·休厄德 (John Seward) 于 1975 年介入并整顿业务以来，家庭和汽车保险公司 (Home and Automobile Insurance Company) 迎来了最好的一年。它的业绩在本报告中与 Phil Liesche 团队的经营数据合并，归入"专业汽车及一般责任险"类别。</p>
+<p>1978 年工伤赔偿保险业务喜忧参半。赛普勒斯保险公司 (Cypress Insurance Company) 作为子公司的第一年，在米尔特·桑顿 (Milt Thornton) 的管理下，交出了出色的成绩单。当快速<a href="../concepts/通货膨胀.html" class="wikilink">通胀</a>与不断演变的社会观念交织在一起时，工伤赔偿险可能造成巨额的承保损失，但 Milt 拥有一支谨慎而极其专业的团队来应对这些问题。他在 1978 年的表现更加坚定了我们对这笔收购的良好感觉。</p>
+<p>弗兰克·德纳尔多 (Frank DeNardo) 于 1978 年春加入我们，负责整顿<a href="../companies/国民保险公司.html" class="wikilink">国民保险</a>在加州的工伤赔偿保险业务——在此之前，这项业务简直是一场灾难。Frank 具备纠正洛杉矶办公室重大问题所需的经验和才智。目前这个部门的业务量仅为一年半前的 25% 左右，初步迹象表明 Frank 正在取得良好进展。</p>
+<p>乔治·扬 (George Young) 的再保险部门继续产生大量相对于保费规模的可投资资金，从而为我们带来了相当满意的整体成绩。但承保结果仍然没有达到应有的和能够达到的水平。在再保险领域（尤其是理赔周期很长的意外险业务），很容易在承保结果上自欺欺人，我们相信许多竞争对手都存在这个问题。不幸的是，公司在损失准备金提列上的自我迷惑，几乎必然导致整个行业费率水平不足。如果市场上的主要参与者都搞不清楚自己的真实成本，竞争的"溢出效应"就会伤及所有人——包括那些清楚自身成本的公司。如果有必要，George 完全愿意大幅削减业务量以实现令人满意的承保绩效，我们对这项业务在他带领下的长期稳健性充满信心。</p>
+<p>1978 年住宅保险 (Homestate) 业务令人失望。我们不理想的承保表现——虽然部分可以归因于中西部一次异常的风暴侵袭——在同行传统险种业绩极为亮眼的大背景下，尤其令人忧虑。我们相信约翰·林沃尔特 (John Ringwalt) 有能力扭转局面。这个集团中的亮点是堪萨斯火灾及意外险公司 (Kansas Fire and Casualty) 在其第一个完整经营年度的表现。在弗洛伊德·泰勒 (Floyd Taylor) 的领导下，这家子公司取得了一个真正了不起的开局。当然，评估承保业绩至少需要好几年时间，但初期迹象令人鼓舞，Floyd 的团队在 1978 年取得了住宅保险集团所有公司中最佳的损失赔付比率。</p>
+<p>尽管有些细分领域令人失望，但我们的保险业务整体上度过了优秀的一年。当然，在 1978 年这样行业景气高涨的时候，我们理应取得好成绩。可以几乎肯定的是，1979 年行业综合比率（定义见第 31 页）将至少上升几个百分点，也许足以使整个行业陷入承保亏损的境地。举个例子，在车险领域——这是行业也是我们最重要的业务板块——CPI 数据显示 1979 年 1 月的总体费率仅比一年前高出 3%。但构成赔付成本的项目——汽车维修和医疗费用——却上涨了超过 9%。这与 1976 年底的情况截然不同，当时费率在过去 12 个月中上调了超过 22%，而成本仅增长 8%。</p>
+<p>利润率只有在费率增速与成本增速一致时才能保持稳定。1979 年显然做不到这一点，1980 年的状况可能还会进一步恶化。我们目前的判断是，1979 年我们相对于同行的承保表现会有所改善，但每一家保险公司的管理层大概都对自己的相对前景持类似的乐观态度——总有人要失望的。即使我们确实比别人做得好一些，我们 1979 年的综合比率很可能还是会高于去年，<a href="../concepts/承保纪律.html" class="wikilink">承保利润</a>也可能低于去年的水平。</p>
+<p>我们继续寻找扩大保险业务的途径。但各位听到这个意图时，反应不该是一味的兴高采烈。我们过去一些扩张的努力——大部分是由你们的董事长发起的——不过是半调子，有些则是代价高昂的失败。1967 年我们通过收购菲尔·列舍 (Phil Liesche) 现在管理的那块业务进入保险行业，到今天它仍然是我们保险业务中最好的一块，而且优势明显。收购一家好的保险公司不容易，但我们的经验是，买一家比自己建一家更容易。不过，我们会继续两条路都试，因为在这个领域取得成功的回报可以是非凡的。</p>
+<h1>保险投资业务</h1>
+<p>坦白说，我们对保险公司的股票投资相当乐观。当然，我们对股票的热情不是无条件的。在某些情况下，保险公司投资股票毫无意义。</p>
+<p>只有当我们找到以下条件全部满足的标的时，才会兴奋到愿意把保险公司净资产的很大比例投入股票：(1) 我们能够理解的生意，(2) 具有良好的长期前景，(3) 由诚实而能干的人经营，(4) 价格非常有吸引力。我们通常能找到少数满足条件 (1)、(2)、(3) 的潜在投资对象，但条件 (4) 往往让我们无法出手。比如，1971 年伯克希尔旗下保险公司持有的全部普通股投资成本仅为 1,070 万美元，市值为 1,170 万美元。市场上确实有可以辨识出的优秀公司——但价格有吸引力的寥寥无几。（一个忍不住要加的注脚：1971 年，养老基金<a href="../concepts/管理层.html" class="wikilink">经理人</a>将可用净资金的创纪录 122% 投入了股票——在高价位上还嫌买得不够多。到了 1974 年，市场跌得底朝天之后，他们投入股票的比例降到了创纪录的 21% 低点。）</p>
+<p>过去几年对我们来说则是另一番景象。1975 年底，我们旗下保险公司持有的普通股市值恰好等于 3,930 万美元的成本。到 1978 年底，这个仓位增加到成本 1.291 亿美元（包含一只可转换优先股），市值达到 2.165 亿美元。在这三年间，我们还实现了约 2,470 万美元的普通股税前利得。因此，三年来我们在股票上的已实现和未实现税前利得合计约为 1.12 亿美元。同期道琼斯工业指数却从 852 点跌到 805 点。对价值导向的股票买家来说，这真是一段美妙的时光。</p>
+<p>我们继续为保险投资组合寻找真正优秀的企业——通过证券市场的拍卖定价机制，以远低于那些平庸企业在协议收购中所要价格的水平，买入这些优秀企业的一小部分。</p>
+<p>这种以低价收购小部分优秀企业（普通股）的做法——几乎无人对此感到兴奋——与企业界普遍热衷的整体并购形成了鲜明的对比。在我们看来，事情再清楚不过了：要么是企业界在通过协议交易和收购要约以当前价格买入整家公司时犯了严重错误，要么就是我们最终会通过在股票市场上以大幅折扣的估值买入这些公司的小部分而赚到大钱。（第二个注脚：1978 年，养老基金<a href="../concepts/管理层.html" class="wikilink">经理人</a>——按理说应该是投资视野最长远的一群人——仅将可用净资金的 9% 投入股票，打破了 1974 年和 1977 年持平的历史低位。）</p>
+<p>我们并不在意市场是否会迅速重新估值我们认为价格<a href="../concepts/低估.html" class="wikilink">被低估</a>的证券。事实上，我们宁可不要这样，因为在大多数年份里，我们预期会有资金净流入来买进证券。持续以有吸引力的价格买入，最终给我们带来的好处，很可能超过股价短期飙升到我们不愿继续买入的水平所提供的卖出机会。</p>
+<p>我们的策略是集中持股。当我们对某项业务或其价格只是兴趣平平时，我们尽量不去东买一点、西买一点。当我们确信投资具有吸引力时，我们相信应该大手笔买入。</p>
+<p>截至 1978 年 12 月 31 日，我们旗下保险公司持有的市值超过 800 万美元的股票投资如下：</p>
+<table>
+<tr><th>股份数量</th><th>公司名称</th><th>成本（千美元）</th><th>市值（千美元）</th></tr>
+<tr><td>246,450</td><td>美国广播公司 (American Broadcasting Companies, Inc.)</td><td>$6,082</td><td>$8,626</td></tr>
+<tr><td>1,294,308</td><td>政府员工保险公司普通股 (Government Employees Insurance Company)</td><td>4,116</td><td>9,060</td></tr>
+<tr><td>1,986,953</td><td>政府员工保险公司可转换优先股</td><td>19,417</td><td>28,314</td></tr>
+<tr><td>592,650</td><td>英特帕布利克集团 (Interpublic Group of Companies, Inc.)</td><td>4,531</td><td>19,039</td></tr>
+<tr><td>1,066,934</td><td>凯撒铝化学公司 (Kaiser Aluminum and Chemical Corporation)</td><td>18,085</td><td>18,671</td></tr>
+<tr><td>453,800</td><td>骑士报业公司 (Knight-Ridder Newspapers, Inc.)</td><td>7,534</td><td>10,267</td></tr>
+<tr><td>953,750</td><td>SAFECO 公司</td><td>23,867</td><td>26,467</td></tr>
+<tr><td>934,300</td><td><a href="../companies/华盛顿邮报.html" class="wikilink">华盛顿邮报公司</a> (The Washington Post Company)</td><td>10,628</td><td>43,445</td></tr>
+<tr><td></td><td>合计</td><td>$94,260</td><td>$163,889</td></tr>
+<tr><td></td><td>其他所有持股</td><td>39,506</td><td>57,040</td></tr>
+<tr><td></td><td>股票投资合计</td><td>$133,766</td><td>$220,929</td></tr>
+</table>
+<p>在某些情况下，我们间接享有的盈利能力正变得相当可观。比如，请看我们持有的 953,750 股 SAFECO 公司股票。SAFECO 大概是全美经营最好的大型财产意外险公司。他们的承保能力无与伦比，损失准备金提列保守稳健，投资策略也非常合理。</p>
+<p>SAFECO 的保险业务运营远优于我们自己的（虽然我们相信自己旗下某些业务远好于行业平均水平），比我们自行发展的要好，同样也远好于我们可能通过协议买下控制权的任何公司。然而我们购买 SAFECO 的价格远低于其<a href="../concepts/账面价值.html" class="wikilink">账面价值</a>。我们以不到一元的价格买到了行业中最好的公司，而在企业并购交易中，平庸的公司却要付出远超过一元的价格。而要从零开始——前景还不确定——你根本不可能以低于一元的代价做到。</p>
+<p>当然，只拥有少数股权，我们没有权利指挥甚至影响 SAFECO 的管理决策。但我们为什么要那样做呢？业绩记录表明，他们管理自己业务的水平比我们自己能做到的还好。坐在一旁让别人干活，也许少了几分刺激和面子，但我们认为，被动参与优秀管理层唯一牺牲的也就是这些而已。因为，很明显，即使有人控制了一家像 SAFECO 这样经营出色的公司，正确的做法同样是坐在一旁让管理层放手去干。</p>
+<p>1978 年，伯克希尔在年底持有的 SAFECO 股份对应的收益约为 610 万美元，但反映在我们经营收益中的仅仅是收到的股利（约占收益的 18%）。我们相信其余部分虽然无法在报告中体现，但对我们最终获益的意义与分配到手的那部分完全一样。实际上，SAFECO 的<a href="../concepts/留存收益.html" class="wikilink">留存收益</a>（或者其他经营良好的公司的留存收益，如果它们有机会将额外资本进行有利的运用）最终给股东创造的价值，很可能超过一元对一元。</p>
+<p>当我们的全资子公司能够以有吸引力的回报率在内部运用资金时，我们一点也不介意它们保留全部收益。同样的道理，对于我们持有少数股权的公司——如果其业绩记录显示资本的盈利运用前景甚至更好——我们又何必对它们保留收益感到不同呢？（当然，这个命题反过来也成立：如果某些行业对资本需求很低，或者管理层有把资金投入低回报项目的记录，那么收益就应该分配给股东或用来<a href="../concepts/回购.html" class="wikilink">回购股票</a>——后者往往是资本运用中最有吸引力的选择。）</p>
+<p>这些优秀企业中我们按股权比例可分享的<a href="../concepts/留存收益.html" class="wikilink">留存收益</a>，总额正在变得相当可观。它没有进入我们报告的经营收益，但我们认为它对股东的长期意义可能同样重大。我们期望证券市场继续保持目前的状况，使我们的保险公司能够以相对不高的代价买入大量的潜在盈利能力。毫无疑问，市场条件总有一天会不再允许这样的低价购买，但在那之前，我们会尽力抓住每一个机会。</p>
+<h1><a href="../concepts/银行业.html" class="wikilink">银行业</a>务</h1>
+<p>在吉恩·阿贝格 (Gene Abegg) 和皮特·杰弗里 (Pete Jeffrey) 的领导下，位于罗克福德 (Rockford) 地区的伊利诺国民银行及信托公司 (Illinois National Bank and Trust Company) 继续刷新纪录。去年的收益约为平均资产的 2.1%，大约是主要银行平均水平的三倍。在我们看来，达到这一非凡的盈利水平的同时，其承担的资产风险还显著低于大多数大银行。</p>
+<p>我们是在 1969 年 3 月收购伊利诺国民银行的。那时它已是一流的运营机构，自从 1931 年 Gene Abegg 开门营业以来一直如此。自 1968 年以来，消费者定期存款增长了四倍，净收入增长了三倍，信托部门收入增长了一倍多，与此同时成本得到了严格控制。</p>
+<p>我们的经验是，一家成本本来就高的公司的管理者，总能不同寻常地想出增加开支的新法子；而一家精打细算的公司的管理者，即使成本早已远低于竞争对手，通常也能继续找到进一步削减成本的办法。在后一种能力上，没有人比 Gene Abegg 做得更好。</p>
+<p>我们被要求在 1980 年 12 月 31 日之前剥离银行业务。最可能的方式是在 1980 年下半年将其以分拆的形式分配给伯克希尔股东。</p>
+<h1><a href="../concepts/零售与消费.html" class="wikilink">零售业</a>务</h1>
+<p>与多元零售合并后，我们获得了联合零售商店公司 (Associated Retail Stores, Inc.) 100% 的股权，这是一家拥有约 75 家大众价位女装店的连锁企业。联合零售于 1931 年 3 月 7 日在芝加哥起步，一家店面，3,200 美元，加上两位非凡的合伙人——本·罗斯纳 (Ben Rosner) 和利奥·西蒙 (Leo Simon)。Simon 先生去世后，公司于 1967 年以现金出售给了多元零售。Ben 继续经营这家公司——确确实实地经营着。</p>
+<p>联合零售的业务并没有增长，而且一直面临不利的人口结构和零售趋势。但 Ben 在商品营销、房地产和成本控制方面的综合才能，创造了出色的盈利记录，业务所需资本的税后回报率常常在 20% 左右。</p>
+<p>Ben 今年 75 岁了，和伊利诺国民银行 81 岁的 Gene Abegg、<a href="../companies/韦斯科.html" class="wikilink">韦斯科</a> 73 岁的路易·文森蒂 (Louie Vincenti) 一样，每天依然带着近乎狂热的主人翁精神投入工作。在外人看来，我们这帮高管阵容简直像是对就业机会均等委员会反年龄歧视公告的过度反应。这些关系虽然不走寻常路，但回报非凡——无论是在财务上还是个人感情上。与一群每天早上都盼着来上班、到了公司就本能地、精准地像老板一样思考问题的管理者共事，实在是一种乐趣。我们与一些最出色的人站在了一起。</p>
+<p>沃伦·E·巴菲特</p>
+<p>董事长</p>
+<p>1979 年 3 月 26 日</p>
+</article>
+<section class="support-section" id="support-section">
+<div class="support-global">
+<div class="support-text"><span class="support-title">喜欢这个知识库？</span><span class="support-desc">如果巴菲特的智慧对你的投资之路有帮助</span></div>
+<a href="/donate" class="kofi-btn">☕ 请我喝杯咖啡</a>
+</div>
+<a href="https://cn.tradingview.com/?aff_id=165343" target="_blank" rel="noopener" class="aff-card">
+<span class="aff-icon">📊</span>
+<div class="aff-body"><strong>用 TradingView 把知识变成行动</strong><span class="aff-desc">专业图表 · 股票筛选 · 全球市场实时数据</span></div>
+<span class="aff-arrow">→</span>
+</a>
+</section></div>
+<aside class="backlinks-panel" id="backlinks-panel">
+<div class="bl-panel-header"><h2 class="bl-panel-title">链接到本页 <span class="bl-count">7</span></h2><div class="bl-panel-actions"><button class="bl-action" onclick="document.querySelectorAll('.bl-group').forEach(g=>g.setAttribute('data-open',''))">展开</button><button class="bl-action" onclick="document.querySelectorAll('.bl-group').forEach(g=>g.removeAttribute('data-open'))">折叠</button></div></div>
+<div class="bl-group" data-open>
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">留存收益</span>
+<span class="bl-mention-count">3</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">正确的分析框架应该是：如果企业能以高于股东自行投资的回报率来运用留存收益，就应该留存；反之，就应该分配。在<mark>1978 巴菲特致股东信</mark>中，巴菲特明确表述了这一原则：&quot;如果某些行业对资本需求很低，或者管理层有把资金投入低回报项目的记录，那么收益就应该分配给股东或用来回购股票。&quot;</div>
+<div class="bl-snippet">并非所有的留存收益都能创造价值。如果一家公司缺乏高回报的再投资机会，强行留存收益只会导致资本回报率下降。巴菲特在<mark>1978 巴菲特致股东信</mark>中明确指出，行业对资本需求低或管理层有低效投资记录的公司，&quot;收益就应该分配给股东或用来回购股票&quot;。</div>
+<div class="bl-snippet bl-more">...还有 1 处提及</div>
+<a href="../concepts/留存收益.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+<div class="bl-group" data-open>
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">低估</span>
+<span class="bl-mention-count">2</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">这句话的重要性怎么强调都不为过。它划定了巴菲特投资方法论的根本边界：不预测宏观、不猜测市场、不追逐趋势，只做一件事——寻找价格低于价值的标的。在<mark>1978 巴菲特致股东信</mark>中，他进一步阐述了发现低估后的态度：</div>
+<div class="bl-snippet">&quot;我们并不在意市场是否会迅速重新估值我们认为价格被低估的证券。事实上，我们宁可不要这样，因为在大多数年份里，我们预期会有资金净流入来买进证券。&quot;
+—— <mark>1978 巴菲特致股东信</mark></div>
+<a href="../concepts/低估.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+<div class="bl-group" data-open>
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">巴菲特致股东信总览</span>
+<span class="bl-mention-count">1</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">1970 巴菲特致股东信
+1971 巴菲特致股东信
+1972 巴菲特致股东信
+1973 巴菲特致股东信
+1974 巴菲特致股东信
+1975 巴菲特致股东信
+1976 巴菲特致股东信
+1977 巴菲特致股东信
+<mark>1978 巴菲特致股东信</mark>
+1979 巴菲特致股东信
+### 1980年代</div>
+<a href="../index-pages/巴菲特致股东信总览.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+<div class="bl-group">
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">国民保险公司</span>
+<span class="bl-mention-count">1</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">&quot;1978年伯克希尔整体优异成绩的头号功臣，是国民保险公司由菲尔·列舍领导的那部分保险业务。在大约9,000万美元的已赚保费上，实现了约1,100万美元的承保利润——即使以行业景气良好为背景，这也是一流的成绩。&quot;
+—— <mark>1978 巴菲特致股东信</mark></div>
+<a href="../companies/国民保险公司.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+<div class="bl-group">
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">回购</span>
+<span class="bl-mention-count">1</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">早期实践（1965-1985）：在1965 巴菲特致股东信中记录伯克希尔自身回购；在<mark>1978 巴菲特致股东信</mark>中首次将回购定位为&quot;资本运用中最有吸引力的选择&quot;之一；在1980 巴菲特致股东信中系统阐述回购优于收购的逻辑。
+理论完善（1986-2000）：通过观察盖可保险、可口可乐等被投资公司的回购实践...</div>
+<a href="../concepts/回购.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+<div class="bl-group">
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">透视盈余</span>
+<span class="bl-mention-count">1</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">思想萌芽（1978-1988）：在<mark>1978 巴菲特致股东信</mark>中，巴菲特就注意到了GAAP仅记录股息收入的局限性，指出SAFECO的留存收益&quot;对我们最终获益的意义与分配到手的那部分完全一样&quot;。在1982 巴菲特致股东信中批评20%持股门槛的武断性。这些早期思考为透视盈余概念奠定了基础。
+概念诞生（198...</div>
+<a href="../concepts/透视盈余.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+<div class="bl-group">
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">韦斯科</span>
+<span class="bl-mention-count">1</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">&quot;我们控制的各项业务拥有约7,000名全职员工，年收入超过5亿美元。&quot;
+—— <mark>1978 巴菲特致股东信</mark>（描述伯克希尔-蓝筹印花-韦斯科三层架构的总体规模）</div>
+<a href="../companies/韦斯科.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+</aside>
+</main>
+<script src="../nav.js"></script>
+<script src="../search.js"></script>
+<!-- Cloudflare Pages Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "c8e93d0e80f9456280a3c041d2f04677"}'></script><!-- Cloudflare Pages Analytics --></body>
+</html>

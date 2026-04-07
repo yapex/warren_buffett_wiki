@@ -1,0 +1,858 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>2013 巴菲特致股东信 — 巴菲特知识库</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Crimson+Pro:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<button class="hamburger" onclick="document.getElementById('sidebar').classList.toggle('open')">☰</button>
+<aside class="sidebar" id="sidebar">
+<div class="sidebar-header"><a href="../index.html" class="logo">巴菲特知识库</a></div>
+<div class="sidebar-nav">
+<a href="../index.html" class="nav-link nav-home">🏛 首页</a>
+<div class="search-box"><input type="text" id="search-input" placeholder="搜索标题或内容..." autocomplete="off"><div id="search-results"></div></div>
+<div class="nav-group">
+<div class="nav-group-title" onclick="toggle('00_索引')"><span class="caret"></span>索引<span class="badge">4</span></div>
+<div class="nav-group-items" id="00_索引">
+<a href="../index-pages/人物索引.html" class="nav-link" title="人物索引">人物索引</a>
+<a href="../index-pages/公司索引.html" class="nav-link" title="公司索引">公司索引</a>
+<a href="../index-pages/巴菲特致股东信总览.html" class="nav-link" title="巴菲特致股东信总览">巴菲特致股东信总览</a>
+<a href="../index-pages/核心思想索引.html" class="nav-link" title="核心思想索引">核心思想索引</a>
+</div></div>
+<div class="nav-group">
+<div class="nav-group-title" onclick="toggle('01_合伙人信')"><span class="caret"></span>合伙人信<span class="badge">35</span></div>
+<div class="nav-group-items" id="01_合伙人信">
+<a href="../partnership/1956-有限合伙协议.html" class="nav-link" title="1956 有限合伙协议">1956 有限合伙协议</a>
+<a href="../partnership/1957-巴菲特致合伙人信.html" class="nav-link" title="1957 巴菲特致合伙人信">1957 巴菲特致合伙人信</a>
+<a href="../partnership/1958-巴菲特致合伙人信.html" class="nav-link" title="1958 巴菲特致合伙人信">1958 巴菲特致合伙人信</a>
+<a href="../partnership/1959-巴菲特致合伙人信.html" class="nav-link" title="1959 巴菲特致合伙人信">1959 巴菲特致合伙人信</a>
+<a href="../partnership/1960-巴菲特致合伙人信.html" class="nav-link" title="1960 巴菲特致合伙人信">1960 巴菲特致合伙人信</a>
+<a href="../partnership/1961-巴菲特致合伙人信.html" class="nav-link" title="1961 巴菲特致合伙人信">1961 巴菲特致合伙人信</a>
+<a href="../partnership/1961年中-巴菲特致合伙人信.html" class="nav-link" title="1961年中 巴菲特致合伙人信">1961年中 巴菲特致合伙人信</a>
+<a href="../partnership/1962-巴菲特致合伙人信.html" class="nav-link" title="1962 巴菲特致合伙人信">1962 巴菲特致合伙人信</a>
+<a href="../partnership/1962年11月-巴菲特致合伙人信.html" class="nav-link" title="1962年11月 巴菲特致合伙人信">1962年11月 巴菲特致合伙人信</a>
+<a href="../partnership/1962年12月-巴菲特致合伙人信.html" class="nav-link" title="1962年12月 巴菲特致合伙人信">1962年12月 巴菲特致合伙人信</a>
+<a href="../partnership/1962年中-巴菲特致合伙人信.html" class="nav-link" title="1962年中 巴菲特致合伙人信">1962年中 巴菲特致合伙人信</a>
+<a href="../partnership/1963-巴菲特致合伙人信.html" class="nav-link" title="1963 巴菲特致合伙人信">1963 巴菲特致合伙人信</a>
+<a href="../partnership/1963年11月-巴菲特致合伙人信.html" class="nav-link" title="1963年11月 巴菲特致合伙人信">1963年11月 巴菲特致合伙人信</a>
+<a href="../partnership/1963年12月-巴菲特致合伙人信.html" class="nav-link" title="1963年12月 巴菲特致合伙人信">1963年12月 巴菲特致合伙人信</a>
+<a href="../partnership/1963年中-巴菲特致合伙人信.html" class="nav-link" title="1963年中 巴菲特致合伙人信">1963年中 巴菲特致合伙人信</a>
+<a href="../partnership/1964-巴菲特致合伙人信.html" class="nav-link" title="1964 巴菲特致合伙人信">1964 巴菲特致合伙人信</a>
+<a href="../partnership/1964年中-巴菲特致合伙人信.html" class="nav-link" title="1964年中 巴菲特致合伙人信">1964年中 巴菲特致合伙人信</a>
+<a href="../partnership/1965-巴菲特致合伙人信.html" class="nav-link" title="1965 巴菲特致合伙人信">1965 巴菲特致合伙人信</a>
+<a href="../partnership/1965年11月-巴菲特致合伙人信.html" class="nav-link" title="1965年11月 巴菲特致合伙人信">1965年11月 巴菲特致合伙人信</a>
+<a href="../partnership/1965年中-巴菲特致合伙人信.html" class="nav-link" title="1965年中 巴菲特致合伙人信">1965年中 巴菲特致合伙人信</a>
+<a href="../partnership/1966-巴菲特致合伙人信.html" class="nav-link" title="1966 巴菲特致合伙人信">1966 巴菲特致合伙人信</a>
+<a href="../partnership/1966年11月-巴菲特致合伙人信.html" class="nav-link" title="1966年11月 巴菲特致合伙人信">1966年11月 巴菲特致合伙人信</a>
+<a href="../partnership/1966年中-巴菲特致合伙人信.html" class="nav-link" title="1966年中 巴菲特致合伙人信">1966年中 巴菲特致合伙人信</a>
+<a href="../partnership/1967-巴菲特致合伙人信.html" class="nav-link" title="1967 巴菲特致合伙人信">1967 巴菲特致合伙人信</a>
+<a href="../partnership/1967年10月-巴菲特致合伙人信.html" class="nav-link" title="1967年10月 巴菲特致合伙人信">1967年10月 巴菲特致合伙人信</a>
+<a href="../partnership/1967年11月-巴菲特致合伙人信.html" class="nav-link" title="1967年11月 巴菲特致合伙人信">1967年11月 巴菲特致合伙人信</a>
+<a href="../partnership/1967年中-巴菲特致合伙人信.html" class="nav-link" title="1967年中 巴菲特致合伙人信">1967年中 巴菲特致合伙人信</a>
+<a href="../partnership/1968-巴菲特致合伙人信.html" class="nav-link" title="1968 巴菲特致合伙人信">1968 巴菲特致合伙人信</a>
+<a href="../partnership/1968年11月-巴菲特致合伙人信.html" class="nav-link" title="1968年11月 巴菲特致合伙人信">1968年11月 巴菲特致合伙人信</a>
+<a href="../partnership/1968年中-巴菲特致合伙人信.html" class="nav-link" title="1968年中 巴菲特致合伙人信">1968年中 巴菲特致合伙人信</a>
+<a href="../partnership/1969年10月-巴菲特致合伙人信.html" class="nav-link" title="1969年10月 巴菲特致合伙人信">1969年10月 巴菲特致合伙人信</a>
+<a href="../partnership/1969年12月-巴菲特致合伙人信.html" class="nav-link" title="1969年12月 巴菲特致合伙人信">1969年12月 巴菲特致合伙人信</a>
+<a href="../partnership/1969年12月26日-巴菲特致合伙人信.html" class="nav-link" title="1969年12月26日 巴菲特致合伙人信">1969年12月26日 巴菲特致合伙人信</a>
+<a href="../partnership/1969年5月-巴菲特致合伙人信.html" class="nav-link" title="1969年5月 巴菲特致合伙人信">1969年5月 巴菲特致合伙人信</a>
+<a href="../partnership/1970年2月-巴菲特致合伙人信.html" class="nav-link" title="1970年2月 巴菲特致合伙人信">1970年2月 巴菲特致合伙人信</a>
+</div></div>
+<div class="nav-group">
+<div class="nav-group-title open" onclick="toggle('02_伯克希尔股东信')"><span class="caret"></span>伯克希尔股东信<span class="badge">60</span></div>
+<div class="nav-group-items open" id="02_伯克希尔股东信">
+<a href="1965-巴菲特致股东信.html" class="nav-link" title="1965 巴菲特致股东信">1965 巴菲特致股东信</a>
+<a href="1966-巴菲特致股东信.html" class="nav-link" title="1966 巴菲特致股东信">1966 巴菲特致股东信</a>
+<a href="1967-巴菲特致股东信.html" class="nav-link" title="1967 巴菲特致股东信">1967 巴菲特致股东信</a>
+<a href="1968-巴菲特致股东信.html" class="nav-link" title="1968 巴菲特致股东信">1968 巴菲特致股东信</a>
+<a href="1969-巴菲特致股东信.html" class="nav-link" title="1969 巴菲特致股东信">1969 巴菲特致股东信</a>
+<a href="1970-巴菲特致股东信.html" class="nav-link" title="1970 巴菲特致股东信">1970 巴菲特致股东信</a>
+<a href="1971-巴菲特致股东信.html" class="nav-link" title="1971 巴菲特致股东信">1971 巴菲特致股东信</a>
+<a href="1972-巴菲特致股东信.html" class="nav-link" title="1972 巴菲特致股东信">1972 巴菲特致股东信</a>
+<a href="1973-巴菲特致股东信.html" class="nav-link" title="1973 巴菲特致股东信">1973 巴菲特致股东信</a>
+<a href="1974-巴菲特致股东信.html" class="nav-link" title="1974 巴菲特致股东信">1974 巴菲特致股东信</a>
+<a href="1975-巴菲特致股东信.html" class="nav-link" title="1975 巴菲特致股东信">1975 巴菲特致股东信</a>
+<a href="1976-巴菲特致股东信.html" class="nav-link" title="1976 巴菲特致股东信">1976 巴菲特致股东信</a>
+<a href="1977-巴菲特致股东信.html" class="nav-link" title="1977 巴菲特致股东信">1977 巴菲特致股东信</a>
+<a href="1978-巴菲特致股东信.html" class="nav-link" title="1978 巴菲特致股东信">1978 巴菲特致股东信</a>
+<a href="1979-巴菲特致股东信.html" class="nav-link" title="1979 巴菲特致股东信">1979 巴菲特致股东信</a>
+<a href="1980-巴菲特致股东信.html" class="nav-link" title="1980 巴菲特致股东信">1980 巴菲特致股东信</a>
+<a href="1981-巴菲特致股东信.html" class="nav-link" title="1981 巴菲特致股东信">1981 巴菲特致股东信</a>
+<a href="1982-巴菲特致股东信.html" class="nav-link" title="1982 巴菲特致股东信">1982 巴菲特致股东信</a>
+<a href="1983-巴菲特致股东信.html" class="nav-link" title="1983 巴菲特致股东信">1983 巴菲特致股东信</a>
+<a href="1984-巴菲特致股东信.html" class="nav-link" title="1984 巴菲特致股东信">1984 巴菲特致股东信</a>
+<a href="1985-巴菲特致股东信.html" class="nav-link" title="1985 巴菲特致股东信">1985 巴菲特致股东信</a>
+<a href="1986-巴菲特致股东信.html" class="nav-link" title="1986 巴菲特致股东信">1986 巴菲特致股东信</a>
+<a href="1987-巴菲特致股东信.html" class="nav-link" title="1987 巴菲特致股东信">1987 巴菲特致股东信</a>
+<a href="1988-巴菲特致股东信.html" class="nav-link" title="1988 巴菲特致股东信">1988 巴菲特致股东信</a>
+<a href="1989-巴菲特致股东信.html" class="nav-link" title="1989 巴菲特致股东信">1989 巴菲特致股东信</a>
+<a href="1990-巴菲特致股东信.html" class="nav-link" title="1990 巴菲特致股东信">1990 巴菲特致股东信</a>
+<a href="1991-巴菲特致股东信.html" class="nav-link" title="1991 巴菲特致股东信">1991 巴菲特致股东信</a>
+<a href="1992-巴菲特致股东信.html" class="nav-link" title="1992 巴菲特致股东信">1992 巴菲特致股东信</a>
+<a href="1993-巴菲特致股东信.html" class="nav-link" title="1993 巴菲特致股东信">1993 巴菲特致股东信</a>
+<a href="1994-巴菲特致股东信.html" class="nav-link" title="1994 巴菲特致股东信">1994 巴菲特致股东信</a>
+<a href="1995-巴菲特致股东信.html" class="nav-link" title="1995 巴菲特致股东信">1995 巴菲特致股东信</a>
+<a href="1996-巴菲特致股东信.html" class="nav-link" title="1996 巴菲特致股东信">1996 巴菲特致股东信</a>
+<a href="1997-巴菲特致股东信.html" class="nav-link" title="1997 巴菲特致股东信">1997 巴菲特致股东信</a>
+<a href="1998-巴菲特致股东信.html" class="nav-link" title="1998 巴菲特致股东信">1998 巴菲特致股东信</a>
+<a href="1999-巴菲特致股东信.html" class="nav-link" title="1999 巴菲特致股东信">1999 巴菲特致股东信</a>
+<a href="2000-巴菲特致股东信.html" class="nav-link" title="2000 巴菲特致股东信">2000 巴菲特致股东信</a>
+<a href="2001-巴菲特致股东信.html" class="nav-link" title="2001 巴菲特致股东信">2001 巴菲特致股东信</a>
+<a href="2002-巴菲特致股东信.html" class="nav-link" title="2002 巴菲特致股东信">2002 巴菲特致股东信</a>
+<a href="2003-巴菲特致股东信.html" class="nav-link" title="2003 巴菲特致股东信">2003 巴菲特致股东信</a>
+<a href="2004-巴菲特致股东信.html" class="nav-link" title="2004 巴菲特致股东信">2004 巴菲特致股东信</a>
+<a href="2005-巴菲特致股东信.html" class="nav-link" title="2005 巴菲特致股东信">2005 巴菲特致股东信</a>
+<a href="2006-巴菲特致股东信.html" class="nav-link" title="2006 巴菲特致股东信">2006 巴菲特致股东信</a>
+<a href="2007-巴菲特致股东信.html" class="nav-link" title="2007 巴菲特致股东信">2007 巴菲特致股东信</a>
+<a href="2008-巴菲特致股东信.html" class="nav-link" title="2008 巴菲特致股东信">2008 巴菲特致股东信</a>
+<a href="2009-巴菲特致股东信.html" class="nav-link" title="2009 巴菲特致股东信">2009 巴菲特致股东信</a>
+<a href="2010-巴菲特致股东信.html" class="nav-link" title="2010 巴菲特致股东信">2010 巴菲特致股东信</a>
+<a href="2011-巴菲特致股东信.html" class="nav-link" title="2011 巴菲特致股东信">2011 巴菲特致股东信</a>
+<a href="2012-巴菲特致股东信.html" class="nav-link" title="2012 巴菲特致股东信">2012 巴菲特致股东信</a>
+<a href="2013-巴菲特致股东信.html" class="nav-link active" title="2013 巴菲特致股东信">2013 巴菲特致股东信</a>
+<a href="2014-巴菲特致股东信.html" class="nav-link" title="2014 巴菲特致股东信">2014 巴菲特致股东信</a>
+<a href="2015-巴菲特致股东信.html" class="nav-link" title="2015 巴菲特致股东信">2015 巴菲特致股东信</a>
+<a href="2016-巴菲特致股东信.html" class="nav-link" title="2016 巴菲特致股东信">2016 巴菲特致股东信</a>
+<a href="2017-巴菲特致股东信.html" class="nav-link" title="2017 巴菲特致股东信">2017 巴菲特致股东信</a>
+<a href="2018-巴菲特致股东信.html" class="nav-link" title="2018 巴菲特致股东信">2018 巴菲特致股东信</a>
+<a href="2019-巴菲特致股东信.html" class="nav-link" title="2019 巴菲特致股东信">2019 巴菲特致股东信</a>
+<a href="2020-巴菲特致股东信.html" class="nav-link" title="2020 巴菲特致股东信">2020 巴菲特致股东信</a>
+<a href="2021-巴菲特致股东信.html" class="nav-link" title="2021 巴菲特致股东信">2021 巴菲特致股东信</a>
+<a href="2022-巴菲特致股东信.html" class="nav-link" title="2022 巴菲特致股东信">2022 巴菲特致股东信</a>
+<a href="2023-巴菲特致股东信.html" class="nav-link" title="2023 巴菲特致股东信">2023 巴菲特致股东信</a>
+<a href="2024-巴菲特致股东信.html" class="nav-link" title="2024 巴菲特致股东信">2024 巴菲特致股东信</a>
+</div></div>
+<div class="nav-group">
+<div class="nav-group-title" onclick="toggle('03_特别信件')"><span class="caret"></span>特别信件<span class="badge">3</span></div>
+<div class="nav-group-items" id="03_特别信件">
+<a href="../special/2014-伯克希尔的过去现在与未来.html" class="nav-link" title="2014 伯克希尔的过去现在与未来">2014 伯克希尔的过去现在与未来</a>
+<a href="../special/2014-副董事长的思考.html" class="nav-link" title="2014 副董事长的思考">2014 副董事长的思考</a>
+<a href="../special/2025-感恩节致辞.html" class="nav-link" title="2025 感恩节致辞">2025 感恩节致辞</a>
+</div></div>
+<div class="nav-group">
+<div class="nav-group-title" onclick="toggle('概念')"><span class="caret"></span>概念<span class="badge">49</span></div>
+<div class="nav-group-items" id="概念">
+<a href="../concepts/买入价格.html" class="nav-link" title="买入价格">买入价格</a>
+<a href="../concepts/企业文化.html" class="nav-link" title="企业文化">企业文化</a>
+<a href="../concepts/低估.html" class="nav-link" title="低估">低估</a>
+<a href="../concepts/保险业.html" class="nav-link" title="保险业">保险业</a>
+<a href="../concepts/保险浮存金.html" class="nav-link" title="保险浮存金">保险浮存金</a>
+<a href="../concepts/债券.html" class="nav-link" title="债券">债券</a>
+<a href="../concepts/公司治理.html" class="nav-link" title="公司治理">公司治理</a>
+<a href="../concepts/内在价值.html" class="nav-link" title="内在价值">内在价值</a>
+<a href="../concepts/分散投资.html" class="nav-link" title="分散投资">分散投资</a>
+<a href="../concepts/可转换证券.html" class="nav-link" title="可转换证券">可转换证券</a>
+<a href="../concepts/品牌.html" class="nav-link" title="品牌">品牌</a>
+<a href="../concepts/商业模式.html" class="nav-link" title="商业模式">商业模式</a>
+<a href="../concepts/商誉.html" class="nav-link" title="商誉">商誉</a>
+<a href="../concepts/回购.html" class="nav-link" title="回购">回购</a>
+<a href="../concepts/复利.html" class="nav-link" title="复利">复利</a>
+<a href="../concepts/套利.html" class="nav-link" title="套利">套利</a>
+<a href="../concepts/媒体与出版.html" class="nav-link" title="媒体与出版">媒体与出版</a>
+<a href="../concepts/安全边际.html" class="nav-link" title="安全边际">安全边际</a>
+<a href="../concepts/市场先生.html" class="nav-link" title="市场先生">市场先生</a>
+<a href="../concepts/市场预测.html" class="nav-link" title="市场预测">市场预测</a>
+<a href="../concepts/市盈率.html" class="nav-link" title="市盈率">市盈率</a>
+<a href="../concepts/承保纪律.html" class="nav-link" title="承保纪律">承保纪律</a>
+<a href="../concepts/护城河.html" class="nav-link" title="护城河">护城河</a>
+<a href="../concepts/收购.html" class="nav-link" title="收购">收购</a>
+<a href="../concepts/有效市场.html" class="nav-link" title="有效市场">有效市场</a>
+<a href="../concepts/杠杆.html" class="nav-link" title="杠杆">杠杆</a>
+<a href="../concepts/特许经营权.html" class="nav-link" title="特许经营权">特许经营权</a>
+<a href="../concepts/留存收益.html" class="nav-link" title="留存收益">留存收益</a>
+<a href="../concepts/科技与互联网.html" class="nav-link" title="科技与互联网">科技与互联网</a>
+<a href="../concepts/税收效率.html" class="nav-link" title="税收效率">税收效率</a>
+<a href="../concepts/竞争优势.html" class="nav-link" title="竞争优势">竞争优势</a>
+<a href="../concepts/管理层.html" class="nav-link" title="管理层">管理层</a>
+<a href="../concepts/纺织业务.html" class="nav-link" title="纺织业务">纺织业务</a>
+<a href="../concepts/股东导向.html" class="nav-link" title="股东导向">股东导向</a>
+<a href="../concepts/股息.html" class="nav-link" title="股息">股息</a>
+<a href="../concepts/能力圈.html" class="nav-link" title="能力圈">能力圈</a>
+<a href="../concepts/能源.html" class="nav-link" title="能源">能源</a>
+<a href="../concepts/航空业.html" class="nav-link" title="航空业">航空业</a>
+<a href="../concepts/衍生品.html" class="nav-link" title="衍生品">衍生品</a>
+<a href="../concepts/诚信.html" class="nav-link" title="诚信">诚信</a>
+<a href="../concepts/账面价值.html" class="nav-link" title="账面价值">账面价值</a>
+<a href="../concepts/资本配置.html" class="nav-link" title="资本配置">资本配置</a>
+<a href="../concepts/透视盈余.html" class="nav-link" title="透视盈余">透视盈余</a>
+<a href="../concepts/通货膨胀.html" class="nav-link" title="通货膨胀">通货膨胀</a>
+<a href="../concepts/铁路运输.html" class="nav-link" title="铁路运输">铁路运输</a>
+<a href="../concepts/银行业.html" class="nav-link" title="银行业">银行业</a>
+<a href="../concepts/长期持有.html" class="nav-link" title="长期持有">长期持有</a>
+<a href="../concepts/集中投资.html" class="nav-link" title="集中投资">集中投资</a>
+<a href="../concepts/零售与消费.html" class="nav-link" title="零售与消费">零售与消费</a>
+</div></div>
+<div class="nav-group">
+<div class="nav-group-title" onclick="toggle('公司')"><span class="caret"></span>公司<span class="badge">61</span></div>
+<div class="nav-group-items" id="公司">
+<a href="../companies/BNSF铁路.html" class="nav-link" title="BNSF铁路">BNSF铁路</a>
+<a href="../companies/IBM.html" class="nav-link" title="IBM">IBM</a>
+<a href="../companies/三井物产.html" class="nav-link" title="三井物产">三井物产</a>
+<a href="../companies/三菱商事.html" class="nav-link" title="三菱商事">三菱商事</a>
+<a href="../companies/世界图书百科全书.html" class="nav-link" title="世界图书百科全书">世界图书百科全书</a>
+<a href="../companies/中国石油.html" class="nav-link" title="中国石油">中国石油</a>
+<a href="../companies/中美能源.html" class="nav-link" title="中美能源">中美能源</a>
+<a href="../companies/伊斯卡.html" class="nav-link" title="伊斯卡">伊斯卡</a>
+<a href="../companies/伊藤忠商事.html" class="nav-link" title="伊藤忠商事">伊藤忠商事</a>
+<a href="../companies/伯克希尔哈撒韦.html" class="nav-link" title="伯克希尔哈撒韦">伯克希尔哈撒韦</a>
+<a href="../companies/伯克希尔哈撒韦能源.html" class="nav-link" title="伯克希尔哈撒韦能源">伯克希尔哈撒韦能源</a>
+<a href="../companies/克莱顿房屋.html" class="nav-link" title="克莱顿房屋">克莱顿房屋</a>
+<a href="../companies/内布拉斯加家具店.html" class="nav-link" title="内布拉斯加家具店">内布拉斯加家具店</a>
+<a href="../companies/冰雪皇后.html" class="nav-link" title="冰雪皇后">冰雪皇后</a>
+<a href="../companies/利捷航空.html" class="nav-link" title="利捷航空">利捷航空</a>
+<a href="../companies/华盛顿邮报.html" class="nav-link" title="华盛顿邮报">华盛顿邮报</a>
+<a href="../companies/卡夫亨氏.html" class="nav-link" title="卡夫亨氏">卡夫亨氏</a>
+<a href="../companies/可口可乐.html" class="nav-link" title="可口可乐">可口可乐</a>
+<a href="../companies/吉列.html" class="nav-link" title="吉列">吉列</a>
+<a href="../companies/喜诗糖果.html" class="nav-link" title="喜诗糖果">喜诗糖果</a>
+<a href="../companies/国民保险公司.html" class="nav-link" title="国民保险公司">国民保险公司</a>
+<a href="../companies/大都会通信.html" class="nav-link" title="大都会通信">大都会通信</a>
+<a href="../companies/威利家居.html" class="nav-link" title="威利家居">威利家居</a>
+<a href="../companies/威瑞森通讯.html" class="nav-link" title="威瑞森通讯">威瑞森通讯</a>
+<a href="../companies/富国银行.html" class="nav-link" title="富国银行">富国银行</a>
+<a href="../companies/州立农业保险.html" class="nav-link" title="州立农业保险">州立农业保险</a>
+<a href="../companies/布法罗新闻报.html" class="nav-link" title="布法罗新闻报">布法罗新闻报</a>
+<a href="../companies/康菲石油.html" class="nav-link" title="康菲石油">康菲石油</a>
+<a href="../companies/德克斯特鞋业.html" class="nav-link" title="德克斯特鞋业">德克斯特鞋业</a>
+<a href="../companies/房地美.html" class="nav-link" title="房地美">房地美</a>
+<a href="../companies/所罗门.html" class="nav-link" title="所罗门">所罗门</a>
+<a href="../companies/斯科特费泽.html" class="nav-link" title="斯科特费泽">斯科特费泽</a>
+<a href="../companies/森林河公司.html" class="nav-link" title="森林河公司">森林河公司</a>
+<a href="../companies/比亚迪.html" class="nav-link" title="比亚迪">比亚迪</a>
+<a href="../companies/波仙珠宝.html" class="nav-link" title="波仙珠宝">波仙珠宝</a>
+<a href="../companies/特许通讯.html" class="nav-link" title="特许通讯">特许通讯</a>
+<a href="../companies/盖可保险.html" class="nav-link" title="盖可保险">盖可保险</a>
+<a href="../companies/科比吸尘器.html" class="nav-link" title="科比吸尘器">科比吸尘器</a>
+<a href="../companies/穆迪.html" class="nav-link" title="穆迪">穆迪</a>
+<a href="../companies/精密铸件.html" class="nav-link" title="精密铸件">精密铸件</a>
+<a href="../companies/约翰斯曼维尔.html" class="nav-link" title="约翰斯曼维尔">约翰斯曼维尔</a>
+<a href="../companies/纽约梅隆银行.html" class="nav-link" title="纽约梅隆银行">纽约梅隆银行</a>
+<a href="../companies/美国合众银行.html" class="nav-link" title="美国合众银行">美国合众银行</a>
+<a href="../companies/美国家庭服务.html" class="nav-link" title="美国家庭服务">美国家庭服务</a>
+<a href="../companies/美国运通.html" class="nav-link" title="美国运通">美国运通</a>
+<a href="../companies/美国银行.html" class="nav-link" title="美国银行">美国银行</a>
+<a href="../companies/苹果.html" class="nav-link" title="苹果">苹果</a>
+<a href="../companies/蓝筹印花.html" class="nav-link" title="蓝筹印花">蓝筹印花</a>
+<a href="../companies/西方石油.html" class="nav-link" title="西方石油">西方石油</a>
+<a href="../companies/费希海默制服.html" class="nav-link" title="费希海默制服">费希海默制服</a>
+<a href="../companies/路博润.html" class="nav-link" title="路博润">路博润</a>
+<a href="../companies/通用再保险.html" class="nav-link" title="通用再保险">通用再保险</a>
+<a href="../companies/通用汽车.html" class="nav-link" title="通用汽车">通用汽车</a>
+<a href="../companies/通用电气.html" class="nav-link" title="通用电气">通用电气</a>
+<a href="../companies/雪佛龙.html" class="nav-link" title="雪佛龙">雪佛龙</a>
+<a href="../companies/韦斯科.html" class="nav-link" title="韦斯科">韦斯科</a>
+<a href="../companies/飞安公司.html" class="nav-link" title="飞安公司">飞安公司</a>
+<a href="../companies/马蒙集团.html" class="nav-link" title="马蒙集团">马蒙集团</a>
+<a href="../companies/高盛.html" class="nav-link" title="高盛">高盛</a>
+<a href="../companies/鲜果布衣.html" class="nav-link" title="鲜果布衣">鲜果布衣</a>
+<a href="../companies/麦克莱恩.html" class="nav-link" title="麦克莱恩">麦克莱恩</a>
+</div></div>
+<div class="nav-group">
+<div class="nav-group-title" onclick="toggle('人物')"><span class="caret"></span>人物<span class="badge">7</span></div>
+<div class="nav-group-items" id="人物">
+<a href="../people/B夫人.html" class="nav-link" title="B夫人">B夫人</a>
+<a href="../people/托德·库姆斯.html" class="nav-link" title="托德·库姆斯">托德·库姆斯</a>
+<a href="../people/格雷厄姆.html" class="nav-link" title="格雷厄姆">格雷厄姆</a>
+<a href="../people/格雷格·阿贝尔.html" class="nav-link" title="格雷格·阿贝尔">格雷格·阿贝尔</a>
+<a href="../people/泰德·韦施勒.html" class="nav-link" title="泰德·韦施勒">泰德·韦施勒</a>
+<a href="../people/芒格.html" class="nav-link" title="芒格">芒格</a>
+<a href="../people/阿吉特·贾恩.html" class="nav-link" title="阿吉特·贾恩">阿吉特·贾恩</a>
+</div></div>
+<a href="../graph.html" class="nav-link nav-changelog">🕸️ 知识图谱</a>
+<a href="../changelog.html" class="nav-link nav-changelog">📋 更新日志</a>
+</div></aside>
+<main class="main has-backlinks">
+<div class="main-content">
+<article class="article">
+<div class="meta"><span class="type-badge type-股东信">股东信</span></div>
+<h1>2013 巴菲特致股东信</h1>
+<p><strong>伯克希尔与标普500指数业绩对比</strong></p>
+<table>
+<tr><th>年份</th><th>伯克希尔每股<a href="../concepts/账面价值.html" class="wikilink">账面价值</a>年度变动百分比 (1)</th><th>含<a href="../concepts/股息.html" class="wikilink">股息</a>标普500指数年度变动百分比 (2)</th><th>相对结果 (1)-(2)</th></tr>
+<tr><td>1965</td><td>23.8</td><td>10.0</td><td>13.8</td></tr>
+<tr><td>1966</td><td>20.3</td><td>(11.7)</td><td>32.0</td></tr>
+<tr><td>1967</td><td>11.0</td><td>30.9</td><td>(19.9)</td></tr>
+<tr><td>1968</td><td>19.0</td><td>11.0</td><td>8.0</td></tr>
+<tr><td>1969</td><td>16.2</td><td>(8.4)</td><td>24.6</td></tr>
+<tr><td>1970</td><td>12.0</td><td>3.9</td><td>8.1</td></tr>
+<tr><td>1971</td><td>16.4</td><td>14.6</td><td>1.8</td></tr>
+<tr><td>1972</td><td>21.7</td><td>18.9</td><td>2.8</td></tr>
+<tr><td>1973</td><td>4.7</td><td>(14.8)</td><td>19.5</td></tr>
+<tr><td>1974</td><td>5.5</td><td>(26.4)</td><td>31.9</td></tr>
+<tr><td>1975</td><td>21.9</td><td>37.2</td><td>(15.3)</td></tr>
+<tr><td>1976</td><td>59.3</td><td>23.6</td><td>35.7</td></tr>
+<tr><td>1977</td><td>31.9</td><td>(7.4)</td><td>39.3</td></tr>
+<tr><td>1978</td><td>24.0</td><td>6.4</td><td>17.6</td></tr>
+<tr><td>1979</td><td>35.7</td><td>18.2</td><td>17.5</td></tr>
+<tr><td>1980</td><td>19.3</td><td>32.3</td><td>(13.0)</td></tr>
+<tr><td>1981</td><td>31.4</td><td>(5.0)</td><td>36.4</td></tr>
+<tr><td>1982</td><td>40.0</td><td>21.4</td><td>18.6</td></tr>
+<tr><td>1983</td><td>32.3</td><td>22.4</td><td>9.9</td></tr>
+<tr><td>1984</td><td>13.6</td><td>6.1</td><td>7.5</td></tr>
+<tr><td>1985</td><td>48.2</td><td>31.6</td><td>16.6</td></tr>
+<tr><td>1986</td><td>26.1</td><td>18.6</td><td>7.5</td></tr>
+<tr><td>1987</td><td>19.5</td><td>5.1</td><td>14.4</td></tr>
+<tr><td>1988</td><td>20.1</td><td>16.6</td><td>3.5</td></tr>
+<tr><td>1989</td><td>44.4</td><td>31.7</td><td>12.7</td></tr>
+<tr><td>1990</td><td>7.4</td><td>(3.1)</td><td>10.5</td></tr>
+<tr><td>1991</td><td>39.6</td><td>30.5</td><td>9.1</td></tr>
+<tr><td>1992</td><td>20.3</td><td>7.6</td><td>12.7</td></tr>
+<tr><td>1993</td><td>14.3</td><td>10.1</td><td>4.2</td></tr>
+<tr><td>1994</td><td>13.9</td><td>1.3</td><td>12.6</td></tr>
+<tr><td>1995</td><td>43.1</td><td>37.6</td><td>5.5</td></tr>
+<tr><td>1996</td><td>31.8</td><td>23.0</td><td>8.8</td></tr>
+<tr><td>1997</td><td>34.1</td><td>33.4</td><td>0.7</td></tr>
+<tr><td>1998</td><td>48.3</td><td>28.6</td><td>19.7</td></tr>
+<tr><td>1999</td><td>0.5</td><td>21.0</td><td>(20.5)</td></tr>
+<tr><td>2000</td><td>6.5</td><td>(9.1)</td><td>15.6</td></tr>
+<tr><td>2001</td><td>(6.2)</td><td>(11.9)</td><td>5.7</td></tr>
+<tr><td>2002</td><td>10.0</td><td>(22.1)</td><td>32.1</td></tr>
+<tr><td>2003</td><td>21.0</td><td>28.7</td><td>(7.7)</td></tr>
+<tr><td>2004</td><td>10.5</td><td>10.9</td><td>(0.4)</td></tr>
+<tr><td>2005</td><td>6.4</td><td>4.9</td><td>1.5</td></tr>
+<tr><td>2006</td><td>18.4</td><td>15.8</td><td>2.6</td></tr>
+<tr><td>2007</td><td>11.0</td><td>5.5</td><td>5.5</td></tr>
+<tr><td>2008</td><td>(9.6)</td><td>(37.0)</td><td>27.4</td></tr>
+<tr><td>2009</td><td>19.8</td><td>26.5</td><td>(6.7)</td></tr>
+<tr><td>2010</td><td>13.0</td><td>15.1</td><td>(2.1)</td></tr>
+<tr><td>2011</td><td>4.6</td><td>2.1</td><td>2.5</td></tr>
+<tr><td>2012</td><td>14.4</td><td>16.0</td><td>(1.6)</td></tr>
+<tr><td>2013</td><td>18.2</td><td>32.4</td><td>(14.2)</td></tr>
+<tr><td>年<a href="../concepts/复利.html" class="wikilink">复合增长</a>率 -- 1965-2013</td><td>19.7%</td><td>9.8%</td><td>9.9</td></tr>
+<tr><td>累计总收益 -- 1964-2013</td><td>693,518%</td><td>9,841%</td></tr>
+</table>
+<p><strong>注：</strong> 数据均以日历年度为准，以下年份除外：1965年和1966年截至9月30日；1967年为截至12月31日的15个月。从1979年起，会计准则要求保险公司按市值计价持有的权益证券，而非此前要求的成本与市价孰低法。在本表中，伯克希尔1978年及以前的数据已按新规进行了重述。其他方面均使用最初公布的数据。标普500指数的数据为<strong>税前</strong>数据，而伯克希尔的数据为<strong>税后</strong>数据。如果像伯克希尔这样的公司仅仅持有标普500指数并计提相应的税款，那么在标普指数上涨的年份，其业绩将落后于该指数，而在指数下跌的年份则会优于该指数。长期来看，税收成本会导致总体业绩明显落后。</p>
+<h1>伯克希尔·哈撒韦公司</h1>
+<p><strong>致伯克希尔·哈撒韦公司 (Berkshire Hathaway Inc.) 股东们：</strong></p>
+<p>2013年，伯克希尔的净资产增加了342亿美元。这个数字已经<em>扣除</em>了18亿美元的费用——这些费用在经济意义上毫无意义，后文我会解释——它们源于我们收购<a href="../companies/马蒙集团.html" class="wikilink">马蒙集团</a> (Marmon) 和<a href="../companies/伊斯卡.html" class="wikilink">伊斯卡</a> (Iscar) 少数股权。扣除这些费用后，A股和B股的每股<a href="../concepts/账面价值.html" class="wikilink">账面价值</a>增长了18.2%。过去49年里（也就是自现任管理层接手以来），每股账面价值从19美元增长到了134,973美元，年<a href="../concepts/复利.html" class="wikilink">复合增长</a>率为19.7%。[^*]</p>
+<p>[^*]: 本报告中所有每股数据均以伯克希尔A股为准。B股数据为A股的1/1500。</p>
+<p>封面上是我们一贯的业绩衡量标准：伯克希尔每股<a href="../concepts/账面价值.html" class="wikilink">账面价值</a>的年度变动与标普500指数的市场表现对比。当然，真正重要的是每股<em>内在</em>价值。但<a href="../concepts/内在价值.html" class="wikilink">内在价值</a>是一个主观数字，账面价值可以作为一个粗略的跟踪指标。（关于内在价值的详细讨论收录在我们的《股东手册》第103至108页。这些原则已经在我们的年报中刊载了30年，我们建议新股东和有意成为股东的投资者都好好读一读。）</p>
+<p>我一直告诉大家，伯克希尔的<a href="../concepts/内在价值.html" class="wikilink">内在价值</a>远远超过其<a href="../concepts/账面价值.html" class="wikilink">账面价值</a>。而且近年来，两者之间的差距大幅扩大了。这就是为什么我们2012年决定以账面价值120%的价格授权<a href="../concepts/回购.html" class="wikilink">回购股票</a>是合理的。在这个价位回购对继续持有的股东有利，因为每股内在价值超过这个比例的账面价值一大截。不过2013年我们没有回购股票，因为股价始终没有跌到账面价值120%这个水平。如果跌到了，我们会积极买入。</p>
+<p>伯克希尔副董事长兼我的合伙人查理·<a href="../people/芒格.html" class="wikilink">芒格</a> (Charlie Munger) 和我都相信，在市场下跌或温和上涨的年份，伯克希尔的<a href="../concepts/账面价值.html" class="wikilink">账面价值</a>和<a href="../concepts/内在价值.html" class="wikilink">内在价值</a>都能跑赢标普指数。但在市场强劲上涨的年份——就像2013年——我们预计会暂时落后。过去49年中，我们有10年跑输市场，其中只有一次是在标普涨幅不到15%的年份。</p>
+<p>从2007年底到2013年底这个完整的市场周期来看，我们跑赢了标普指数。在未来的完整周期中，我们期望再次做到这一点。如果做不到，我们就不配拿这份薪水。毕竟，你们随时可以买一只指数基金，轻松获得和标普一样的收益。</p>
+<h1>伯克希尔这一年</h1>
+<p>在经营方面，去年几乎所有事情都进展顺利——某些方面甚至<em>非常</em>顺利。且听我一一道来：</p>
+<ul>
+<li>我们完成了两项大型收购，总共花了近180亿美元收购了内华达能源公司 (NV Energy) 全部股权和<a href="../companies/卡夫亨氏.html" class="wikilink">亨氏</a>公司 (H. J. Heinz) 的主要股权。两家公司都与我们非常契合，一个世纪后它们仍将蓬勃发展。</li>
+</ul>
+<p>  在<a href="../companies/卡夫亨氏.html" class="wikilink">亨氏</a>的收购中，我们创建了一个合作模板，伯克希尔未来进行大型收购时可能还会用到。这次我们与3G资本 (3G Capital) 的投资者联手，这是一家由我的朋友豪尔赫·保罗·雷曼 (Jorge Paulo Lemann) 领导的公司。他才华出众的合伙人——亨氏新任CEO贝尔纳多·赫斯 (Bernardo Hees) 和董事长亚历克斯·贝林 (Alex Behring)——负责公司运营。</p>
+<p>  伯克希尔扮演的是财务合伙人的角色。我们购买了<a href="../companies/卡夫亨氏.html" class="wikilink">亨氏</a>80亿美元的优先股，票面利率9%，但还有其他条款可以让优先股的年回报率提高到12%左右。伯克希尔和3G各出资42.5亿美元，各买了亨氏一半的普通股。</p>
+<p>  虽然<a href="../companies/卡夫亨氏.html" class="wikilink">亨氏</a>的收购和"私募股权"交易有些相似，但有一个关键的区别：伯克希尔从不打算卖出这家公司的任何一股。恰恰相反，我们想买更多——而这完全可能发生：3G的某些投资者未来可能卖出部分或全部股份，届时我们可以提高持股比例。伯克希尔和3G也可能在某个时点达成共识，将我们的部分优先股按当时合理的估值转换为普通股，这对双方都有利。</p>
+<p>  我们的合资方在去年6月接管了<a href="../companies/卡夫亨氏.html" class="wikilink">亨氏</a>，到目前为止经营成果令人鼓舞。不过，伯克希尔今年报告的利润中只反映了亨氏的少量收益：收购和后续运营重组产生了合计13亿美元的一次性费用。2014年的利润将会非常可观。</p>
+<p>  算上<a href="../companies/卡夫亨氏.html" class="wikilink">亨氏</a>，伯克希尔现在拥有8.5家公司，如果它们是独立企业的话，都能跻身财富500强。还剩491.5家等着我们呢。</p>
+<p>  内华达能源公司由我们的<a href="../concepts/能源.html" class="wikilink">公用事业</a>子公司<a href="../companies/中美能源.html" class="wikilink">中美能源</a> (MidAmerican Energy) 以56亿美元收购，为内华达州约88%的人口供电。这笔收购与我们现有的电力业务完美匹配，并为可再生能源领域的大规模投资提供了许多机会。内华达能源<em>不会</em>是中美能源的最后一笔大型收购。</p>
+<ul>
+<li><a href="../companies/中美能源.html" class="wikilink">中美能源</a>是我们"五驾马车" (Powerhouse Five) 之一——这是五家大型非保险业务的组合，2013年税前利润合计达到创纪录的108亿美元，比2012年增加了7.58亿美元。其他四驾马车分别是<a href="../companies/BNSF铁路.html" class="wikilink">BNSF</a>铁路、<a href="../companies/伊斯卡.html" class="wikilink">伊斯卡</a> (Iscar)、<a href="../companies/路博润.html" class="wikilink">路博润</a> (Lubrizol) 和<a href="../companies/马蒙集团.html" class="wikilink">马蒙集团</a> (Marmon)。</li>
+</ul>
+<p>  五驾马车中，9年前伯克希尔只拥有<a href="../companies/中美能源.html" class="wikilink">中美能源</a>一家，当时它的税前利润是3.93亿美元。后来，我们用全现金收购了另外三家。收购第五家<a href="../companies/BNSF铁路.html" class="wikilink">BNSF</a>时，我们支付了约70%的现金，剩余部分通过增发股票支付，使总股本增加了6.1%。换句话说，五驾马车在这9年间为伯克希尔每年多贡献了104亿美元的利润，而我们的股本只稀释了一点点。这符合我们不仅仅追求增长，而是追求<em>每股</em>价值增长的目标。</p>
+<p>  如果2014年美国经济继续好转，我们预计五驾马车的利润也会相应增长——税前利润大约增加10亿美元左右。</p>
+<ul>
+<li>我们旗下众多规模较小的非保险企业去年实现了47亿美元的税前利润，高于2012年的39亿美元。我们预计2014年还会继续增长。</li>
+</ul>
+<ul>
+<li>伯克希尔庞大的保险业务2013年再次实现了承保盈利——这已经是连续第11年了——<a href="../concepts/保险浮存金.html" class="wikilink">浮存金</a>也继续增加。在这11年间，我们的浮存金——这些钱不属于我们，但我们可以用来为伯克希尔投资——从410亿美元增长到了770亿美元。与此同时，我们累计实现了220亿美元的税前<a href="../concepts/承保纪律.html" class="wikilink">承保利润</a>，其中2013年就有30亿。而这一切，始于我们1967年以区区860<em>万</em>美元收购<a href="../companies/国民保险公司.html" class="wikilink">国民保险公司</a> (National Indemnity)。</li>
+</ul>
+<p>  我们现在拥有多家出色的保险业务。最广为人知的是<a href="../companies/盖可保险.html" class="wikilink">盖可保险</a> (GEICO)，伯克希尔在1995年底完成全资收购的车险公司（在那之前很多年我们就持有它的部分权益了）。1996年盖可在美国车险公司中排名第七。如今它已升至第二，不久前刚超过好事达保险 (Allstate)。它惊人增长的原因其实很简单：低价和可靠的服务。你们可以拨打1-800-847-7536或登录Geico.com看看能不能省下保费。省下的钱可以去买伯克希尔旗下的其他产品。</p>
+<ul>
+<li>查理和我忙着猎象，我们的子公司也在不停地进行补强收购。去年我们签约了25笔交易，总金额约31亿美元。这些交易的规模从190万美元到11亿美元不等。</li>
+</ul>
+<p>  查理和我鼓励这些收购。它们把资本投入到与我们现有业务相匹配的领域，并由我们优秀的<a href="../concepts/管理层.html" class="wikilink">经理人</a>团队管理。结果就是，我们的活儿没有增加，但大家的钱包更鼓了。未来还会有更多类似的补强收购。累积起来，它们的意义非凡。</p>
+<ul>
+<li>去年我们投入了35亿美元用于最稳妥的补强：增购我们已经控股的两家优秀企业的额外股权。其中一笔——<a href="../companies/马蒙集团.html" class="wikilink">马蒙集团</a>——按照我们2008年签署的协议，我们将持股提高到了100%。另一笔——<a href="../companies/伊斯卡.html" class="wikilink">伊斯卡</a>——韦特海默 (Wertheimer) 家族决定行使他们持有的卖出期权，将2006年我们取得控制权时保留的20%股份转让给我们。</li>
+</ul>
+<p>  这两笔交易为我们增加了约3亿美元的税前盈利能力，还带来了8亿美元的现金。然而，我在去年的信中就吐槽过的那条荒唐的会计准则要求我们在账上按比实际支付金额少18亿美元的价格入账，从而降低了伯克希尔的<a href="../concepts/账面价值.html" class="wikilink">账面价值</a>。（这笔费用被记入了"超面值缴入资本"项目；你们<em>自己</em>去琢磨吧。）大家要明白，这条怪异的会计规则使得伯克希尔<a href="../concepts/内在价值.html" class="wikilink">内在价值</a>超过账面价值的部分一下子又增加了18亿美元。</p>
+<ul>
+<li>2013年，我们的子公司在厂房设备上花了创纪录的110亿美元，大约是折旧额的两倍。其中约89%投在了美国。虽然我们也在海外投资，但机会的矿脉就在美国。</li>
+</ul>
+<ul>
+<li>在大多数基金经理发现无法跑赢标普500的一年里，<a href="../people/托德·库姆斯.html" class="wikilink">托德·库姆斯</a> (Todd Combs) 和<a href="../people/泰德·韦施勒.html" class="wikilink">泰德·韦施勒</a> (Ted Weschler) 都轻松做到了。他们各自管理的投资组合都已超过70亿美元。这是他们应得的。</li>
+</ul>
+<p>  我不得不再次坦白，他们的投资业绩超过了我。（查理说我应该加上"超出一大截"。）如果这种令人难堪的对比继续下去，我就只好闭口不提他们了。</p>
+<p>  除了投资组合之外，<a href="../people/托德·库姆斯.html" class="wikilink">托德</a>和泰德还在其他诸多方面为你们创造了巨大价值。他们的贡献才刚刚开始：两人血液里都流淌着伯克希尔的基因。</p>
+<ul>
+<li>伯克希尔年末的员工总数——算上<a href="../companies/卡夫亨氏.html" class="wikilink">亨氏</a>——达到了创纪录的330,745人，比上年增加了42,283人。我必须承认，其中包括我们奥马哈总部增加的一个人。（别慌：总部那帮人还是在一层楼里舒舒服服地办公。）</li>
+</ul>
+<ul>
+<li>去年伯克希尔在"四巨头"上的持股比例都提高了——<a href="../companies/美国运通.html" class="wikilink">美国运通</a> (American Express)、<a href="../companies/可口可乐.html" class="wikilink">可口可乐</a> (Coca-Cola)、<a href="../companies/IBM.html" class="wikilink">IBM</a>和<a href="../companies/富国银行.html" class="wikilink">富国银行</a> (Wells Fargo)。我们增持了富国银行（持股比例从2012年底的8.7%升至9.2%）和IBM（从6.0%升至6.3%）。与此同时，可口可乐和美国运通的<a href="../concepts/回购.html" class="wikilink">股票回购</a>提高了我们的持股比例。我们在可口可乐的持股从8.9%升至9.1%，美国运通从13.7%升至14.2%。如果你们觉得百分之零点几不重要，那不妨算一笔账：我们在四家公司的持股每增加0.1%，伯克希尔每年的利润就多出5000万美元。</li>
+</ul>
+<p>  四家公司的业务都非常出色，管理层既有才华又以<a href="../concepts/股东导向.html" class="wikilink">股东利益</a>为导向。在伯克希尔，我们宁愿拥有一家优秀公司的大比例非控股权益，也不愿意百分之百持有一家平庸的企业。拥有"希望之钻"的一部分，胜过拥有一整颗水钻。</p>
+<p>  以年末持股份额计算，我们在"四巨头"2013年利润中的份额约为44亿美元。但在我们报告的利润中，只包括了收到的<a href="../concepts/股息.html" class="wikilink">股息</a>——去年大约14亿。不过别搞错：那没有体现在报表上的30亿美元利润，对我们来说同样有价值。</p>
+<p>  这四家公司留存的利润通常被用于<a href="../concepts/回购.html" class="wikilink">回购</a>自家股票——这会提高我们在未来利润中的份额——以及投资于通常回报不错的新机会。综合来看，我们有理由预期，我们在这四家公司的每股收益将随着时间大幅增长。如果果真如此，伯克希尔收到的<a href="../concepts/股息.html" class="wikilink">股息</a>将会增加，更重要的是，我们的未实现资本利得也会增长。（截至年底，我们在四巨头上的未实现收益已累计达到390亿美元。）</p>
+<p>  我们在<a href="../concepts/资本配置.html" class="wikilink">资本配置</a>上的灵活性——愿意将大笔资金被动投资于非控股企业——使我们相比那些只做自己能运营的收购的公司，拥有显著优势。伍迪·艾伦 (Woody Allen) 说过一句经典的话："双性恋的好处就是，周六晚上约到人的概率翻倍了。"同理，我们既愿意投资能自己运营的企业，也愿意做被动投资，这让我们给源源不断的现金找到合理去处的概率也翻了倍。</p>
+<hr>
+<p>2009年末，在大衰退的阴霾之中，我们同意收购<a href="../companies/BNSF铁路.html" class="wikilink">BNSF</a>铁路，这是伯克希尔历史上最大的一笔收购。当时我把这笔交易称为"对美国经济前途的全押"。</p>
+<p>这种押注对我们来说并不新鲜：自1965年巴菲特合伙公司 (Buffett Partnership Ltd.) 取得伯克希尔的控制权以来，我们就一直在下类似的赌注。而且理由充分。查理和我一直认为，"赌"美国持续繁荣，几乎是一件板上钉钉的事。</p>
+<p>事实上，在过去237年里，谁曾因为看空美国而获益？如果你把今天的美国和1776年相比，一定会揉揉眼睛不敢相信。市场经济的内在活力将继续施展它的魔法。美国最好的日子还在前头。</p>
+<p>乘着这股顺风，查理和我希望通过以下方式提升伯克希尔的每股<a href="../concepts/内在价值.html" class="wikilink">内在价值</a>：(1) 不断增强各子公司的基本盈利能力；(2) 通过补强收购进一步增厚利润；(3) 从我们被投资公司的成长中获益；(4) 当伯克希尔股价相对内在价值有明显折扣时<a href="../concepts/回购.html" class="wikilink">回购股票</a>；(5) 偶尔进行大型收购。我们还会尽量避免增发伯克希尔的股票，以此为<em>你们</em>实现收益最大化。</p>
+<p>这些增长方式建立在坚如磐石的基础上。一个世纪之后，<a href="../companies/BNSF铁路.html" class="wikilink">BNSF</a>和<a href="../companies/中美能源.html" class="wikilink">中美能源</a>仍将在经济中扮演重要角色。保险对企业和个人同样不可或缺——没有哪家公司能像伯克希尔这样为保险业务投入如此庞大的人力和财务资源。</p>
+<p>此外，我们<em>始终</em>会保持最高水准的财务实力，手持至少200亿美元的现金等价物，绝不产生大量的短期负债。综合考虑这些以及其他优势，查理和我非常看好公司的前景。能被你们委托管理这份资产，我们深感荣幸。</p>
+<h1>企业内在价值</h1>
+<p>尽管查理和我经常谈论企业<a href="../concepts/内在价值.html" class="wikilink">内在价值</a>，但我们无法准确告诉你们伯克希尔股票的内在价值具体是多少（事实上，任何股票都做不到）。不过在2010年的年报中，我们列出了三个要素——其中一个是定性的——我们认为它们是合理估算伯克希尔内在价值的关键。相关讨论完整收录在年报第109至110页。</p>
+<p>以下是两个定量指标的更新：2013年，我们的每股投资增长13.6%至129,253美元；除保险和投资业务外的每股税前经营收益增长12.8%至9,116美元。</p>
+<p>自1970年以来，我们的每股投资年<a href="../concepts/复利.html" class="wikilink">复合增长</a>率为19.3%，经营收益的年复合增长率为20.6%。伯克希尔的股价在这43年中以非常接近的速度增长，绝非巧合。查理和我乐于看到两方面的增长，但我们最看重的是经营收益的提升。</p>
+<hr>
+<p>现在，让我们来看看我们四大业务板块。每个板块的资产负债表和收入特征都截然不同。所以我们把它们当作四个独立的业务来介绍，查理和我看待它们也是如此（尽管将它们放在同一屋檐下有着重要且<em>持久</em>的优势）。我们的目标是向你们提供这样的信息——假如角色互换，你们是做报告的管理层而我们是不在场的股东，我们会想知道的东西。（不过你们可别真的想取代我们！）</p>
+<h1>保险业务</h1>
+<p><em>"我们对保险公司的投资，是我们努力实现收益来源<a href="../concepts/分散投资.html" class="wikilink">多元化</a>的重要一步。"</em></p>
+<p>—— 1967年年报</p>
+<p>先来看看保险业，这是伯克希尔的核心业务，也是自1967年年报发布以来持续推动我们扩张的引擎。</p>
+<p>财产意外险 (P/C) 保险公司先收保费，后理赔。在极端情况下，比如某些工伤事故，赔付可能延续数十年。这种先收钱、后赔付的模式让财产意外险公司持有大笔资金——我们称之为"<a href="../concepts/保险浮存金.html" class="wikilink">浮存金</a>"——最终这些钱会流向别人。在此期间，保险公司可以拿浮存金来投资为己所用。尽管一笔笔保单和理赔有进有出，但保险公司持有的浮存金规模相对于保费收入通常保持相当稳定。</p>
+<p>因此，随着我们业务增长，<a href="../concepts/保险浮存金.html" class="wikilink">浮存金</a>也在增长。增长有多快，看看下面这张表就知道了：</p>
+<table>
+<tr><th>年份</th><th><a href="../concepts/保险浮存金.html" class="wikilink">浮存金</a>（百万美元）</th></tr>
+<tr><td>1970</td><td>$ 39</td></tr>
+<tr><td>1980</td><td>237</td></tr>
+<tr><td>1990</td><td>1,632</td></tr>
+<tr><td>2000</td><td>27,871</td></tr>
+<tr><td>2010</td><td>65,832</td></tr>
+<tr><td>2013</td><td>77,240</td></tr>
+</table>
+<p><a href="../concepts/保险浮存金.html" class="wikilink">浮存金</a>要进一步增长越来越难了。好的方面是，<a href="../companies/盖可保险.html" class="wikilink">盖可保险</a>的浮存金几乎肯定会继续增长。但在<a href="../companies/国民保险公司.html" class="wikilink">国民保险公司</a> (National Indemnity) 的再保险部门，我们有一些流失中的合同，其浮存金在逐步下降。即便未来某个时候我们的浮存金出现下降，那也会<em>非常</em>缓慢——任何一年最多不超过3%。我们保险合同的性质决定了，相对于我们的现金储备，我们<em>永远</em>不会面临短期的大额资金需求。（在这方面，财产意外险和某些形式的人寿保险有着重要区别。）</p>
+<p>如果我们的保费收入超过了费用和最终赔付的总和，我们就会在<a href="../concepts/保险浮存金.html" class="wikilink">浮存金</a>产生的投资收益之外，额外录得<a href="../concepts/承保纪律.html" class="wikilink">承保利润</a>。赚到这种利润的时候，我们等于是在免费使用这些资金——更妙的是，别人还<em>倒贴</em>给我们钱让我们用。</p>
+<p>不幸的是，所有保险公司都想实现这个美好结果，这就导致了激烈的竞争。竞争如此剧烈，以至于大多数年份整个财产意外险行业都在承受巨额承保<em>亏损</em>。这种亏损实际上就是整个行业为持有<a href="../concepts/保险浮存金.html" class="wikilink">浮存金</a>而支付的成本。比如，美国最大且管理良好的<a href="../companies/州立农业保险.html" class="wikilink">州立农业保险</a>公司 (State Farm)，在截至2012年的12年间有9年出现承保亏损（这是我撰写本文时能获得的最新财务数据）。竞争态势几乎注定了<a href="../concepts/保险业.html" class="wikilink">保险行业</a>——尽管所有公司都享受着浮存金的投资收益——将继续保持其相比其他行业的惨淡回报。</p>
+<p>正如本报告第一部分提到的，我们已经连续11年实现承保盈利，期间税前<a href="../concepts/承保纪律.html" class="wikilink">承保利润</a>累计达220亿美元。展望未来，我相信在大多数年份我们都将继续保持承保盈利。这是我们<em>所有</em>保险<a href="../concepts/管理层.html" class="wikilink">经理人</a>每天关注的焦点，他们深知<a href="../concepts/保险浮存金.html" class="wikilink">浮存金</a>虽然珍贵，但糟糕的承保结果会把它的价值吞噬殆尽。</p>
+<p>那么，<a href="../concepts/保险浮存金.html" class="wikilink">浮存金</a>是怎样影响<a href="../concepts/内在价值.html" class="wikilink">内在价值</a>的呢？计算伯克希尔的<em>账面</em>价值时，浮存金的<em>全部</em>金额都被作为负债扣除了，就好像我们明天就得全部兑付而且再也无法补充。但是，把浮存金严格视为负债是不对的；它更应该被看作一笔循环基金。每天我们都在赔付旧的理赔——2013年向500多万名索赔人支付了约170亿美元——这会减少浮存金。但同样确定的是，我们每天都在承接新业务，从而产生新的理赔，使浮存金增加。如果我们的循环浮存金既不花钱又能长期存在——我相信确实如此——那么这项负债的真实价值就<em>远远</em>低于账面上的负债金额。</p>
+<p>在资产方面，与这项被夸大的负债相对应的是155亿美元的"<a href="../concepts/商誉.html" class="wikilink">商誉</a>"，这些商誉归属于我们的保险公司，并作为资产计入<a href="../concepts/账面价值.html" class="wikilink">账面价值</a>。在很大程度上，这些商誉代表的是我们为保险业务的<a href="../concepts/保险浮存金.html" class="wikilink">浮存金</a>创造能力所支付的对价。然而，商誉的账面成本与其真实价值<em>毫无</em>关系。举个例子，如果一家保险公司长期遭受巨额承保亏损，那么不管最初花了多少钱，其账上的商誉都应该被视为一文不值。</p>
+<p>幸运的是，伯克希尔不是那种情况。查理和我相信，我们保险业务<a href="../concepts/商誉.html" class="wikilink">商誉</a>的真正经济价值——也就是说，我们愿意花多少钱去收购一家能产生<em>同等质量</em><a href="../concepts/保险浮存金.html" class="wikilink">浮存金</a>的保险公司——远远超过其历史<a href="../concepts/账面价值.html" class="wikilink">账面价值</a>。浮存金的价值是我们认为伯克希尔内在商业价值大幅超过账面价值的一个重要原因——一个<em>非常</em>重要的原因。</p>
+<hr>
+<p>伯克希尔迷人的保险经济学之所以存在，是因为我们有一群出色的<a href="../concepts/管理层.html" class="wikilink">经理人</a>，他们经营着纪律严明、拥有强大且难以复制的<a href="../concepts/商业模式.html" class="wikilink">商业模式</a>的保险业务。让我来介绍几家主要公司。</p>
+<p>首先是按<a href="../concepts/保险浮存金.html" class="wikilink">浮存金</a>规模排名第一的<a href="../companies/伯克希尔哈撒韦.html" class="wikilink">伯克希尔·哈撒韦</a>再保险集团 (Berkshire Hathaway Reinsurance Group)，由<a href="../people/阿吉特·贾恩.html" class="wikilink">阿吉特·贾恩</a> (Ajit Jain) 掌管。阿吉特承保的是其他人不愿意承保、或者没有资本承保的风险。他的业务以独一无二的方式将承保能力、速度、果断，以及最重要的——超凡智慧——融为一体。但他从不让伯克希尔暴露于与我们的资源不相称的风险之中。事实上，在规避风险方面，我们比大多数大型保险公司谨慎<em>得多</em>。举个例子，如果保险行业因为某种超级巨灾遭受2500亿美元的损失——大约是历史最高纪录的三倍——凭借其众多的利润来源，伯克希尔作为一个整体，当年仍很可能录得可观利润。而且如果巨灾导致市场陷入恐慌，我们依然坐拥充裕的现金，随时准备抓住大机会。与此同时，其他所有主要保险公司和再保险公司都将深陷亏损，其中一些甚至面临破产。</p>
+<p>从1985年白手起家，<a href="../people/阿吉特·贾恩.html" class="wikilink">阿吉特</a>打造了一家拥有370亿美元<a href="../concepts/保险浮存金.html" class="wikilink">浮存金</a>并积累了巨额<a href="../concepts/承保纪律.html" class="wikilink">承保利润</a>的保险业务，这是其他任何保险公司CEO都望尘莫及的壮举。阿吉特的大脑就是一座创意工厂，时刻在寻找可以纳入现有业务组合的新险种。</p>
+<p>去年6月，一个新项目诞生了——他组建了<a href="../companies/伯克希尔哈撒韦.html" class="wikilink">伯克希尔·哈撒韦</a>专业保险公司 (Berkshire Hathaway Specialty Insurance，"BHSI")。这一举措让我们进入了商业保险领域，全美主要的保险经纪人和企业风险管理人立刻就接受了我们。这些专业人士很清楚，在财务实力方面没有任何其他保险公司能与伯克希尔匹敌，这保证了未来多年产生的合法理赔都能得到及时、全额的赔付。</p>
+<p>BHSI由彼得·伊斯特伍德 (Peter Eastwood) 领导，他是一位在保险界广受尊重的资深承保人。彼得组建了一支出色的团队，已经在为许多财富500强企业以及较小的公司承接大量业务。BHSI将成为伯克希尔的一项重要资产，几年内保费收入将达到数十亿美元。如果各位在年会上见到彼得，请向他致以伯克希尔式的问候。</p>
+<hr>
+<p>我们还有另一家再保险巨头——<a href="../companies/通用再保险.html" class="wikilink">通用再保险</a> (General Re)，由塔德·蒙特罗斯 (Tad Montross) 掌管。</p>
+<p>从根本上说，一家稳健的保险公司必须恪守四条纪律。它必须：(1) 理解所有可能导致保单产生损失的风险敞口；(2) 保守评估风险敞口实际导致损失的概率，以及一旦发生损失可能造成的金额；(3) 设定合理的保费，使之平均而言能在覆盖预期赔付成本和运营费用后实现盈利；(4) 在无法获得合适保费时愿意放弃业务。</p>
+<p>很多保险公司能通过前三条，却栽在第四条上。它们就是无法放弃竞争对手正在疯抢的业务。"别人在做，我们也得做"这句老话在很多行业都惹出麻烦，但在保险业尤其致命。</p>
+<p>塔德严格遵守了全部四条保险戒律，业绩就是证明。在他的领导下，<a href="../companies/通用再保险.html" class="wikilink">通用再保险</a>的巨额<a href="../concepts/保险浮存金.html" class="wikilink">浮存金</a>不但是免费的，反过来还倒贴给我们钱。我们预计这种状况平均而言将持续下去。我们特别看好通用再保险的国际人寿再保险业务，自1998年我们收购该公司以来，这项业务一直在稳步增长并持续盈利。</p>
+<p>大家可能还记得，我们刚收购<a href="../companies/通用再保险.html" class="wikilink">通用再保险</a>时，公司深陷问题泥潭，评论人士——包括我自己，虽然只是短暂地——都觉得我犯了一个天大的错误。那已经是很久以前的事了。通用再保险如今是一颗宝石。</p>
+<hr>
+<p>最后是<a href="../companies/盖可保险.html" class="wikilink">盖可保险</a> (GEICO)，63年前我就是在这家保险公司起步的。盖可由托尼·奈斯利 (Tony Nicely) 掌管，他18岁就加入公司，到2013年已经服务了52年。1993年托尼当上了CEO，从那以后公司就一飞冲天了。</p>
+<p>1951年1月我第一次接触<a href="../companies/盖可保险.html" class="wikilink">盖可保险</a>时，就被它相对于行业巨头所拥有的巨大成本优势所震撼。这种运营效率至今依旧保持，而且是公司最最重要的资产。没有人<em>喜欢</em>买车险。但几乎所有人都喜欢开车。车险是大多数家庭的一笔大开支。省钱对他们很重要——而<em>只有</em>低成本运营的公司才能做到这一点。</p>
+<p><a href="../companies/盖可保险.html" class="wikilink">盖可</a>的成本优势使它能够年复一年地攻城略地。低成本打造了一条<a href="../concepts/护城河.html" class="wikilink">护城河</a>——一条<em>持久</em>的护城河——竞争对手无法跨越。同时，我们的小壁虎继续告诉美国人盖可能帮他们省下多少钱。随着我们最新一轮运营成本的削减，它的故事变得更加引人注目了。</p>
+<p>1995年，我们买下了<a href="../companies/盖可保险.html" class="wikilink">盖可</a>之前未持有的另一半股份，比我们收购的净有形资产多付了14亿美元。这就是"商誉"，它在我们的账面上永远不会变化。然而，随着盖可业务的增长，其<em>真实</em>的<a href="../concepts/商誉.html" class="wikilink">经济商誉</a>也在不断增长。我认为这个数字现在已经接近200亿美元。</p>
+<hr>
+<p>除了三大保险业务之外，我们还有一批规模较小的保险公司，大部分在保险行业的冷门角落耕耘。整体而言，这是一个不断增长的业务群体，持续贡献着<a href="../concepts/承保纪律.html" class="wikilink">承保利润</a>。此外，如下表所示，它们也为我们提供了大量<a href="../concepts/保险浮存金.html" class="wikilink">浮存金</a>。查理和我非常珍视这些公司和它们的<a href="../concepts/管理层.html" class="wikilink">经理人</a>。</p>
+<table>
+<tr><th>保险业务</th><th>2013年<a href="../concepts/承保纪律.html" class="wikilink">承保利润</a>（百万美元）</th><th>2012年承保利润（百万美元）</th><th>2013年末<a href="../concepts/保险浮存金.html" class="wikilink">浮存金</a>（百万美元）</th><th>2012年末浮存金（百万美元）</th></tr>
+<tr><td>伯克希尔再保险</td><td>$ 1,294</td><td>$ 304</td><td>$ 37,231</td><td>$ 34,821</td></tr>
+<tr><td><a href="../companies/通用再保险.html" class="wikilink">通用再保险</a></td><td>283</td><td>355</td><td>20,013</td><td>20,128</td></tr>
+<tr><td><a href="../companies/盖可保险.html" class="wikilink">盖可保险</a></td><td>1,127</td><td>680</td><td>12,566</td><td>11,578</td></tr>
+<tr><td>其他直保</td><td>385</td><td>286</td><td>7,430</td><td>6,598</td></tr>
+<tr><td>合计</td><td>$ 3,089</td><td>$ 1,625</td><td>$ 77,240</td><td>$ 73,125</td></tr>
+</table>
+<hr>
+<p>简单来说，保险就是出售承诺。"客户"现在付钱，保险公司承诺未来某些事件发生时赔钱。</p>
+<p>有时候，这个承诺要过几十年才会被检验。（想想那些二十来岁时买的人寿保险。）因此，保险公司赔付的能力和意愿至关重要——即便到了该赔钱的时候正赶上经济一片混乱。</p>
+<p>伯克希尔的承诺无人能及，近年来的事实也印证了这一点。一些全球最大、最老练的保险公司希望摆脱巨额且超长期的赔付责任，尤其是涉及石棉索赔的保单。也就是说，这些保险公司想把它们的负债"分出"给再保险公司。但如果选错了再保险公司——日后证明财务吃紧或者不讲信用——那这些负债就会原封不动地弹回到原保险公司头上。</p>
+<p>几乎无一例外，所有寻求帮助的最大保险公司最终都来找了伯克希尔。事实上，在有史以来最大的一笔此类交易中，2007年劳合社 (Lloyd's) 将1993年以前承保的数千笔已知理赔，以及同一时期未来必将浮出水面但数量未知的大量理赔，一股脑儿转给了我们。（没错，我们在几十年后还会收到适用于1993年之前发生的事故的索赔。）</p>
+<p>伯克希尔因劳合社交易最终要赔付多少钱，今天还不得而知。但可以确定的是，在我们保单150亿美元的赔付上限之内，伯克希尔会赔付所有有效索赔。没有任何其他保险公司的承诺能像伯克希尔的协议那样让劳合社安心。当时负责处理劳合社理赔的机构CEO说得最妙："劳合社的承保人们想晚上睡个安稳觉，我们觉得我们刚给他们买了世界上最好的床垫。"</p>
+<hr>
+<p>伯克希尔卓越的<a href="../concepts/管理层.html" class="wikilink">经理人</a>团队、首屈一指的财务实力，以及<a href="../concepts/分散投资.html" class="wikilink">多元化</a>且拥有宽阔<a href="../concepts/护城河.html" class="wikilink">护城河</a>的<a href="../concepts/商业模式.html" class="wikilink">商业模式</a>，在保险行业构成了独一无二的组合。这是伯克希尔股东的巨大财富，而且只会随着时间越来越有价值。</p>
+<h1>受管制的、资本密集型业务</h1>
+<p><em>"虽然公用事业行业存在许多监管限制，但我们有可能在这一领域做出更多投资。一旦我们出手，金额将会很大。"</em></p>
+<p>—— 1999年年报</p>
+<p>这一板块有两家大公司：<a href="../companies/BNSF铁路.html" class="wikilink">BNSF</a>铁路和<a href="../companies/中美能源.html" class="wikilink">中美能源</a>，它们有一些重要的共同特征，有别于我们的其他业务。因此我们在这封信中单独为它们开辟一个章节，并在通用会计准则的资产负债表和利润表中单独列示它们的合并财务数据。</p>
+<p>两家公司的一个关键特征是，它们对超长寿命的受管制资产进行了巨额投资，这些资产的部分资金来自伯克希尔<em>不提供</em>担保的大额长期债务。实际上，它们并不需要我们的信用背书，因为即使在极端恶劣的经济环境下，每家公司的盈利能力也远远超过其利息支出。举个例子，去年<a href="../companies/BNSF铁路.html" class="wikilink">BNSF</a>的利息覆盖倍数是9:1。（我们对覆盖倍数的定义是税前利润/利息，<em>而非</em>EBITDA/利息——后者虽然被普遍使用，但我们认为存在严重缺陷。）</p>
+<p>与此同时，有两个因素确保了<a href="../companies/中美能源.html" class="wikilink">中美能源</a>在任何情况下都能偿还债务。第一个是所有公用事业公司都享有的：抗衰退的盈利能力，源于这些公司独家提供不可或缺的基础服务。第二个则是少数公用事业公司才有的优势：<a href="../concepts/分散投资.html" class="wikilink">多元化</a>的收入来源，使我们不会被任何单一监管机构严重伤害。现在，随着收购内华达能源，中美能源的收入基础进一步拓宽了。这一特殊优势加上伯克希尔的股东背景，使中美能源及其电力子公司能够显著降低债务成本。这种优势让我们和我们的客户都受益。</p>
+<p>每一天，我们的两家子公司都在为美国经济提供重要支撑：</p>
+<ul>
+<li><a href="../companies/BNSF铁路.html" class="wikilink">BNSF</a>承担了全国城际货运量（以吨英里计）的约15%，不管是公路、铁路、水路、航空还是管道运输。事实上，我们运输的货物吨英里数超过<em>任何</em>其他公司，这意味着BNSF是美国经济循环系统中最重要的大动脉。2013年，它的龙头地位进一步巩固。</li>
+</ul>
+<p>  和所有铁路公司一样，<a href="../companies/BNSF铁路.html" class="wikilink">BNSF</a>的货物运输方式极其节能和环保——运输一吨货物500英里只需一加仑柴油。卡车完成同样的任务大约要消耗四倍的燃料。</p>
+<ul>
+<li><a href="../companies/中美能源.html" class="wikilink">中美能源</a>的电力设施为11个州的受管制零售客户提供服务。没有任何公用事业公司的服务范围比我们更广。此外，我们是可再生能源领域的领导者：从9年前零起步到现在，中美能源已占全美风力发电装机容量的7%，而且还在增加。我们在太阳能领域的份额更大（尽管大部分仍在建设中）。</li>
+</ul>
+<p>  <a href="../companies/中美能源.html" class="wikilink">中美能源</a>之所以能做这些投资，是因为它保留了<em>全部</em>利润。这里有一个鲜为人知的事实：去年中美能源留存的利润金额——大幅——超过了美国任何其他电力公司。我们和监管部门都把这视为一项重要优势——几乎可以肯定，5年、10年、20年后这一优势仍将存在。</p>
+<p>等我们目前在建的项目全部完工后，<a href="../companies/中美能源.html" class="wikilink">中美能源</a>在可再生能源上的累计投资将达到150亿美元。只要投资能带来合理的回报，我们就乐于做出这样的承诺。在这方面，我们对未来的监管环境寄予厚望。</p>
+<p>我们的信心来自过往的经验，也来自一个基本认识：社会永远需要在交通和能源方面进行大规模投资。政府出于自身利益，会合理对待资本提供者，以确保资金持续流向不可或缺的项目。同时，以获得监管机构及其所代表的人民的认可的方式来经营业务，也符合我们自身的利益。</p>
+<p>去年一项涵盖52家控股公司及其101家运营电力公司的客户满意度调查，就是我们践行这一理念的有力证明。我们的<a href="../companies/中美能源.html" class="wikilink">中美能源</a>排名第一，95.3%的受访者给我们打出"非常满意"，没有一个客户表示"不满意"。顺便说一句，调查中的最低分惨不忍睹——只有34.5%。</p>
+<p>在被<a href="../companies/中美能源.html" class="wikilink">中美能源</a>收购之前，我们旗下的三家公司在这项指标上的排名都低得多。我们在扩张过程中取得的超高客户满意度非常重要：我们希望进入的州的监管部门乐于看到我们，因为他们知道我们是负责任的运营商。</p>
+<p>我们的铁路公司也在积极预判客户需求。你可能听过关于美国基础设施老化破旧的报道，但这完全不适用于<a href="../companies/BNSF铁路.html" class="wikilink">BNSF</a>或整个<a href="../concepts/铁路运输.html" class="wikilink">铁路行业</a>。美国的铁路系统从未像今天这样好，这是行业巨额投资的成果。当然，我们也没有停下脚步：2013年BNSF在铁路上投入了40亿美元，是折旧额的两倍，创下了<em>任何</em>铁路公司的单年投资记录。而且2014年我们还会投入更多。就像早早预见到可靠交通需求的诺亚一样，我们知道未雨绸缪是我们的职责。</p>
+<p>领导我们两家资本密集型企业的分别是<a href="../companies/中美能源.html" class="wikilink">中美能源</a>的<a href="../people/格雷格·阿贝尔.html" class="wikilink">格雷格·阿贝尔</a> (Greg Abel)，以及<a href="../companies/BNSF铁路.html" class="wikilink">BNSF</a>的马特·罗斯 (Matt Rose) 和卡尔·艾斯 (Carl Ice) 团队。三人都是卓越的<a href="../concepts/管理层.html" class="wikilink">经理人</a>，值得我和大家的感谢。以下是他们业务的关键数据：</p>
+<table>
+<tr><th><a href="../companies/中美能源.html" class="wikilink">中美能源</a>（持股89.8%）</th><th>2013年收益（百万美元）</th><th>2012年收益（百万美元）</th><th>2011年收益（百万美元）</th></tr>
+<tr><td>英国公用事业</td><td>$ 362</td><td>$ 429</td><td>$ 469</td></tr>
+<tr><td>爱荷华公用事业</td><td>230</td><td>236</td><td>279</td></tr>
+<tr><td>西部公用事业</td><td>982</td><td>737</td><td>771</td></tr>
+<tr><td>管道业务</td><td>385</td><td>383</td><td>388</td></tr>
+<tr><td>房屋服务</td><td>139</td><td>82</td><td>39</td></tr>
+<tr><td>其他（净额）</td><td>4</td><td>91</td><td>36</td></tr>
+<tr><td>企业利息和所得税前经营利润</td><td>2,102</td><td>1,958</td><td>1,982</td></tr>
+<tr><td>利息</td><td>296</td><td>314</td><td>336</td></tr>
+<tr><td>所得税</td><td>170</td><td>172</td><td>315</td></tr>
+<tr><td>净利润</td><td>$ 1,636</td><td>$ 1,472</td><td>$ 1,331</td></tr>
+<tr><td>归属伯克希尔的利润</td><td>$ 1,470</td><td>$ 1,323</td><td>$ 1,204</td></tr>
+</table>
+<table>
+<tr><th><a href="../companies/BNSF铁路.html" class="wikilink">BNSF</a></th><th>2013年收益（百万美元）</th><th>2012年收益（百万美元）</th><th>2011年收益（百万美元）</th></tr>
+<tr><td>营业收入</td><td>$ 22,014</td><td>$ 20,835</td><td>$ 19,548</td></tr>
+<tr><td>营业费用</td><td>15,357</td><td>14,835</td><td>14,247</td></tr>
+<tr><td>利息和所得税前经营利润</td><td>6,657</td><td>6,000</td><td>5,301</td></tr>
+<tr><td>利息（净额）</td><td>729</td><td>623</td><td>560</td></tr>
+<tr><td>所得税</td><td>2,135</td><td>2,005</td><td>1,769</td></tr>
+<tr><td>净利润</td><td>$ 3,793</td><td>$ 3,372</td><td>$ 2,972</td></tr>
+</table>
+<p>罗恩·佩尔捷 (Ron Peltier) 在继续打造房屋服务公司 (HomeServices)，这是<a href="../companies/中美能源.html" class="wikilink">中美能源</a>旗下的房地产经纪子公司。去年他进行了四笔收购，其中最重要的是收购了Fox & Roach——一家总部位于费城、全美最大的单一市场房地产经纪公司。</p>
+<p>房屋服务公司现在拥有22,114名经纪人，比2012年增加了38%。它还拥有保德信 (Prudential) 和Real Living<a href="../concepts/特许经营权.html" class="wikilink">特许经营</a>业务67%的权益，这些特许经营商正在更名为<a href="../companies/伯克希尔哈撒韦.html" class="wikilink">伯克希尔·哈撒韦</a>房屋服务。如果你还没看到的话，很快就会在"待售"的房屋广告牌上看到我们的名字。</p>
+<h1>制造、服务和<a href="../concepts/零售与消费.html" class="wikilink">零售业</a>务</h1>
+<p><em>"你看那家店，"沃伦指着<a href="../companies/内布拉斯加家具店.html" class="wikilink">内布拉斯加家具店</a> (Nebraska Furniture Mart) 说，"那真是一笔好生意。"</em></p>
+<p><em>"那你为什么不买下来？"我说。</em></p>
+<p><em>"那是家私人企业，"沃伦说。</em></p>
+<p><em>"哦，"我说。</em></p>
+<p><em>"不管怎样，总有一天我会买下来的，"沃伦说。</em></p>
+<p>—— 亚当·斯密 (Adam Smith)《超级金钱》(Supermoney)，1972年</p>
+<p>我们在这一板块的业务包罗万象。先来看看整个集团的资产负债表和利润表要点。</p>
+<p>资产负债表 2013年12月31日（百万美元）</p>
+<table>
+<tr><th>资产</th><th>金额</th><th>负债和权益</th><th>金额</th></tr>
+<tr><td>现金及等价物</td><td>$ 6,625</td><td>应付票据</td><td>$ 1,615</td></tr>
+<tr><td>应收账款和票据</td><td>7,749</td><td>其他流动负债</td><td>8,965</td></tr>
+<tr><td>存货</td><td>9,945</td><td>流动负债合计</td><td>10,580</td></tr>
+<tr><td>其他流动资产</td><td>716</td></tr>
+<tr><td>流动资产合计</td><td>25,035</td></tr>
+<tr><td></td><td></td><td>递延税款</td><td>5,184</td></tr>
+<tr><td><a href="../concepts/商誉.html" class="wikilink">商誉</a>及其他无形资产</td><td>25,617</td><td>长期债务和其他负债</td><td>4,405</td></tr>
+<tr><td>固定资产</td><td>19,389</td><td>少数股东权益</td><td>456</td></tr>
+<tr><td>其他资产</td><td>4,274</td><td>伯克希尔权益</td><td>53,690</td></tr>
+<tr><td></td><td>$ 74,315</td><td></td><td>$ 74,315</td></tr>
+</table>
+<p>利润表（百万美元）</p>
+<table>
+<tr><th></th><th>2013</th><th>2012</th><th>2011</th></tr>
+<tr><td>营业收入</td><td>$ 95,291</td><td>$ 83,255</td><td>$ 72,406</td></tr>
+<tr><td>营业费用</td><td>88,414</td><td>76,978</td><td>67,339</td></tr>
+<tr><td>利息费用</td><td>135</td><td>146</td><td>130</td></tr>
+<tr><td>税前利润</td><td>6,742</td><td>6,131</td><td>5,037</td></tr>
+<tr><td>所得税和少数股东权益</td><td>2,512</td><td>2,432</td><td>1,998</td></tr>
+<tr><td>净利润</td><td>$ 4,230</td><td>$ 3,699</td><td>$ 3,039</td></tr>
+</table>
+<p>我们符合通用会计准则 (GAAP) 的收入和费用数据列示在年报第29页。与之不同的是，上面表格中的营业费用是非GAAP数据，剔除了一些购买法会计调整项目（主要是某些无形资产的摊销）。我们之所以这样呈现数据，是因为查理和我认为，相比GAAP数字，调整后的数字更准确地反映了这些业务真实的经济费用和利润。</p>
+<p>我不打算逐一解释所有的调整——有些细微且晦涩——但认真的投资者必须理解无形资产的本质差异：有些确实会随着时间贬值，而另一些则完全不会。比如说软件，其摊销费用是实打实的成本。但像客户关系的摊销这样的费用，源于购买法会计准则的要求，显然不是真实的成本。GAAP会计准则对这两种费用不加区分。也就是说，计算利润时两者都被记为费用——尽管从投资者的角度来看，它们完全是两码事。</p>
+<p>在年报第29页的GAAP数据中，该板块被扣除了6.48亿美元的摊销费用。我们估计其中约20%是"真实的"，其余的不是。由于我们做了很多收购，这种差异变得越来越显著。随着未来继续收购，差异几乎肯定会进一步扩大。</p>
+<p>当然，最终等到相关资产完全摊销完毕，那些非真实的费用就会消失。但这通常需要15年——唉——届时享受到利润表改善的会是我的接班人。</p>
+<p>然而，我们报告的每一分钱折旧费用都是真实的成本。几乎所有其他公司也是如此。当华尔街的人兜售EBITDA作为估值指标时，请捂紧你们的钱包。</p>
+<p>当然，我们公开的财务报告将继续遵循GAAP准则。但为了认清现实，请记得把我们报告的大部分摊销费用加回来。</p>
+<hr>
+<p>这个板块的公司销售的产品从棒棒糖到喷气式飞机，无所不包。其中一些公司，以无<a href="../concepts/杠杆.html" class="wikilink">杠杆</a>净<em>有形</em>资产的回报率衡量，拥有极为出色的经济特性，税后利润率从25%到远超100%不等。其他一些公司的回报率在12%到20%之间，也很不错。但也有少数几家回报率非常糟糕，这是我在<a href="../concepts/资本配置.html" class="wikilink">资本配置</a>工作中犯下的一些严重错误。我并没有受到误导：我只是错误地判断了公司或其所在行业的经济前景。</p>
+<p>幸运的是，我的失误通常涉及的都是规模较小的收购。我们的大型收购总体表现良好，有几笔甚至非常出色。不过，不管是收购企业还是买股票，我犯的错误肯定不会是最后一个。并非所有事情都会如你所料。</p>
+<p>把这个板块看作一个整体的话，它是一个非常出色的业务。2013年它们平均使用了250亿美元的净有形资产，在持有大量富余现金和极低<a href="../concepts/杠杆.html" class="wikilink">杠杆</a>的情况下，实现了16.7%的税后资本回报率。</p>
+<p>当然，如果收购价过高，即使经济特性再好的企业也可能成为一笔糟糕的投资。我们为大多数企业支付的价格都远超净有形资产，这些溢价反映在我们巨额的<a href="../concepts/商誉.html" class="wikilink">商誉</a>资产中。不过总体来说，我们在这一板块的资本回报还算不错。此外，这些企业的<a href="../concepts/内在价值.html" class="wikilink">内在价值</a>合计也大幅超过<a href="../concepts/账面价值.html" class="wikilink">账面价值</a>。即便如此，保险和受管制行业板块的内在价值与账面价值之间的差距<em>更加</em>巨大。真正的大赢家在那里。</p>
+<hr>
+<p>这个板块的公司太多了，没法逐一点评。而且，现有和潜在的竞争对手都在读这份报告。公开某些公司的数据可能会对它们不利。所以，对于那些规模不大到足以影响伯克希尔估值的业务，我们只披露法规要求的信息。不过，你们可以在年报第80至84页找到许多业务的详细介绍。</p>
+<p>但我实在忍不住要跟大家说说<a href="../companies/内布拉斯加家具店.html" class="wikilink">内布拉斯加家具店</a> (NFM) 进军得克萨斯州的最新进展。我不是因为这件事对伯克希尔有多大的<em>经济</em>意义才拿出来讲的——要在伯克希尔2250亿美元的权益规模上动一动，可不是一家新店能办到的。但我已经和了不起的布鲁姆金 (Blumkin) 家族合作了30年，他们正在达拉斯<a href="../companies/大都会通信.html" class="wikilink">大都会</a>区北部的Colony建造一家令人兴奋的新店——真正的得克萨斯尺寸。</p>
+<p>新店明年建成后，NFM将在433英亩的土地上，在同一屋顶下拥有180万平方英尺的零售和配套仓储空间。可以在 http://www.nfm.com/texas 跟进项目进展。NFM已经拥有全美销售额最高的两家家居零售店了（分别在奥马哈和堪萨斯城），年销售额各约4.5亿美元。我预计得克萨斯新店将打破这些纪录。如果各位住在达拉斯附近，欢迎来看看。</p>
+<p>我常常回想起1983年8月30日——那天恰好是我的生日——我带着一份自己起草的仅一页多的收购提案去拜访<a href="../people/B夫人.html" class="wikilink">B夫人</a>（罗斯·布鲁姆金，Rose Blumkin）。B夫人一字未改就接受了我的报价，整个交易没有投资<a href="../concepts/银行业.html" class="wikilink">银行家</a>或律师参与（这种经历只能用"天堂般"来形容）。虽然公司的财务报表未经审计，我毫不担心。B夫人简单地告诉我公司的实际情况，她的话对我来说就够了。</p>
+<p>那时<a href="../people/B夫人.html" class="wikilink">B夫人</a>89岁，一直工作到103岁——绝对是我欣赏的那种人。看一看年报第116至117页上NFM 1946年的财务报表吧。NFM今天拥有的一切都来自于：(a) 当年72,264美元的净资产和50美元——没错，没有省略任何零——的现金；(b) B夫人、她的儿子路易 (Louie)、以及孙子罗恩 (Ron) 和厄夫 (Irv) 令人难以置信的天赋。</p>
+<p>这个故事最妙的地方在于，<a href="../people/B夫人.html" class="wikilink">B夫人</a>一天学都没上过。而且她从俄国移民到美国时，一个英语单词都不会说。但她热爱这个接纳她的国家：每次家庭聚会，B夫人都会要求大家合唱《上帝保佑美国》。</p>
+<p>有抱负的企业管理者应该好好研究<a href="../people/B夫人.html" class="wikilink">B夫人</a>那些朴素却罕见的品质，正是它们成就了她令人难以置信的成功。每年有40所大学的学生来访问我，我安排他们首先去参观NFM作为一天的开场。如果他们能领悟B夫人的经验，就不需要再向我学什么了。</p>
+<h1>金融和金融产品</h1>
+<p><em>"Clayton的贷款组合几年内很可能增长到至少50亿美元，如果信贷标准合理到位，应能贡献可观的利润。"</em></p>
+<p>—— 2003年年报</p>
+<p>这是我们最小的业务板块，包括两家租赁公司——XTRA（拖车租赁）和科特商业服务公司 (CORT，家具租赁），以及克莱顿房屋 (Clayton Homes)，全美领先的预制房屋生产商和融资商。除了这些全资子公司外，这个板块还包括一些金融资产以及我们在博凯迪亚商业抵押贷款 (Berkadia Commercial Mortgage) 中持有的50%权益。</p>
+<p><a href="../companies/克莱顿房屋.html" class="wikilink">克莱顿</a>之所以被归入这一板块，是因为它持有和管理着326,569笔抵押贷款，总额达136亿美元。近年来，随着预制房销量大跌，克莱顿的利润主要来自抵押贷款业务。</p>
+<p>不过2013年，新房销售开始回暖，制造和零售部分的利润又变得显著了。<a href="../companies/克莱顿房屋.html" class="wikilink">克莱顿</a>仍是美国最大的房屋建筑商：2013年建造了29,547套房屋，约占全国单户住宅建造总量的4.7%。公司CEO凯文·克莱顿 (Kevin Clayton) 出色地带领公司穿越了严重的房地产低迷期。现在他的工作肯定有趣多了——预计2014年利润还会继续增长。</p>
+<p>科特和XTRA也是各自行业的佼佼者。杰夫·佩德森 (Jeff Pederson) 和比尔·弗朗茨 (Bill Franz) 会让它们继续保持领先。我们支持他们购置设备扩大租赁规模的计划。</p>
+<p>以下是这个板块的税前利润汇总：</p>
+<table>
+<tr><th></th><th>2013年（百万美元）</th><th>2012年（百万美元）</th><th>2011年（百万美元）</th></tr>
+<tr><td>博凯迪亚</td><td>$ 80</td><td>$ 35</td><td>$ 25</td></tr>
+<tr><td><a href="../companies/克莱顿房屋.html" class="wikilink">克莱顿</a></td><td>416</td><td>255</td><td>154</td></tr>
+<tr><td>科特</td><td>40</td><td>42</td><td>29</td></tr>
+<tr><td>XTRA</td><td>125</td><td>106</td><td>126</td></tr>
+<tr><td>净金融收入*</td><td>324</td><td>410</td><td>440</td></tr>
+<tr><td>合计</td><td>$ 985</td><td>$ 848</td><td>$ 774</td></tr>
+</table>
+<p>\*不含资本利得或损失</p>
+<h1>投资业务</h1>
+<p><em>"我们的股票投资组合……市值大约低于其<a href="../concepts/账面价值.html" class="wikilink">账面价值</a>（投资成本）1700万美元……但我们相信，几年以后，整个投资组合的价值将超过其成本。"</em></p>
+<p>—— 1974年年报</p>
+<p>下面列出了我们年末市值最大的15项普通股投资：</p>
+<table>
+<tr><th>股数\<em>\</em></th><th>公司</th><th>2013年12月31日持股比例</th><th>2013年12月31日成本（百万美元）\*</th><th>2013年12月31日市值（百万美元）</th></tr>
+<tr><td>151,610,700</td><td><a href="../companies/美国运通.html" class="wikilink">美国运通</a>公司</td><td>14.2</td><td>$ 1,287</td><td>$ 13,756</td></tr>
+<tr><td>400,000,000</td><td><a href="../companies/可口可乐.html" class="wikilink">可口可乐</a>公司</td><td>9.1</td><td>1,299</td><td>16,524</td></tr>
+<tr><td>22,238,900</td><td>DirecTV</td><td>4.2</td><td>1,017</td><td>1,536</td></tr>
+<tr><td>41,129,643</td><td>埃克森美孚公司</td><td>0.9</td><td>3,737</td><td>4,162</td></tr>
+<tr><td>13,062,594</td><td><a href="../companies/高盛.html" class="wikilink">高盛</a>集团</td><td>2.8</td><td>750</td><td>2,315</td></tr>
+<tr><td>68,121,984</td><td>国际商业机器公司 (IBM)</td><td>6.3</td><td>11,681</td><td>12,778</td></tr>
+<tr><td>24,669,778</td><td><a href="../companies/穆迪.html" class="wikilink">穆迪</a>公司</td><td>11.5</td><td>248</td><td>1,936</td></tr>
+<tr><td>20,060,390</td><td>慕尼黑再保险</td><td>11.2</td><td>2,990</td><td>4,415</td></tr>
+<tr><td>20,668,118</td><td>菲利普斯66</td><td>3.4</td><td>660</td><td>1,594</td></tr>
+<tr><td>52,477,678</td><td>宝洁公司</td><td>1.9</td><td>336</td><td>4,272</td></tr>
+<tr><td>22,169,930</td><td>赛诺菲</td><td>1.7</td><td>1,747</td><td>2,354</td></tr>
+<tr><td>301,046,076</td><td>乐购</td><td>3.7</td><td>1,699</td><td>1,666</td></tr>
+<tr><td>96,117,069</td><td><a href="../companies/美国合众银行.html" class="wikilink">合众银行</a></td><td>5.3</td><td>3,002</td><td>3,883</td></tr>
+<tr><td>56,805,984</td><td>沃尔玛</td><td>1.8</td><td>2,976</td><td>4,470</td></tr>
+<tr><td>483,470,853</td><td><a href="../companies/富国银行.html" class="wikilink">富国银行</a></td><td>9.2</td><td>11,871</td><td>21,950</td></tr>
+<tr><td></td><td>其他</td><td></td><td>11,281</td><td>19,894</td></tr>
+<tr><td></td><td>按市值计价的普通股合计</td><td></td><td>$ 56,581</td><td>$ 117,505</td></tr>
+</table>
+<p>\* 此为我们的实际购买价格，同时也是我们的税基；GAAP"成本"在少数情况下有所不同，因为GAAP准则要求进行增值或减值调整。</p>
+<p>\<em>\</em> 不包括伯克希尔子公司养老金基金持有的股份。</p>
+<p>伯克希尔有一项重要的股票投资没有列入上表：在2021年9月之前的任何时候，我们都可以用50亿美元购买<a href="../companies/美国银行.html" class="wikilink">美国银行</a> (Bank of America) 7亿股股票。截至年底，这些股票价值109亿美元。我们很可能会在期权到期前购入。同时，请大家了解，美国银行实际上是我们的第五大股票投资，我们非常看重它。</p>
+<p>除了股票之外，我们也将大量资金投入债券。通常我们的债券投资做得不错。但也不总是如此。</p>
+<p>你们大多数人可能从没听说过"能源未来控股" (Energy Future Holdings) 这家公司。算你们幸运；我当然也希望自己从没听说过。这家公司成立于2007年，目的是对得克萨斯州的一些电力资产进行一笔巨大的<a href="../concepts/杠杆.html" class="wikilink">杠杆</a>收购。权益投资者出了80亿美元，另外还借了一大笔钱。伯克希尔购买了约20亿美元的债务，这是我在没有咨询查理的情况下做的决定。那是一个<em>大</em>错误。</p>
+<p>除非天然气价格飙升，否则EFH几乎注定会在2014年申请破产。去年我们以2.59亿美元卖出了我们的持仓。持有债券期间，我们收到了8.37亿美元的现金利息。因此，总算下来我们的税前损失是8.73亿美元。下次我一定先打电话给查理。</p>
+<p>我们的一些子公司——主要是电力和天然气公用事业公司——在经营中使用<a href="../concepts/衍生品.html" class="wikilink">衍生品</a>。除此之外，我们近年来没有签订任何新的衍生品合约，现有的头寸在逐步到期。已经到期的合约给我们带来了丰厚的利润以及数十亿美元的中期<a href="../concepts/保险浮存金.html" class="wikilink">浮存金</a>。虽然没有百分之百的保证，但我们预计账面上剩余的合约也会有类似的结果。</p>
+<h1>关于投资的一些思考</h1>
+<p><em>最聪明的投资方式，是把它当做一笔生意来看待。</em></p>
+<p>—— 本杰明·<a href="../people/格雷厄姆.html" class="wikilink">格雷厄姆</a> (Benjamin Graham)，《聪明的投资者》</p>
+<p>用本·<a href="../people/格雷厄姆.html" class="wikilink">格雷厄姆</a>的话来开启这个话题再合适不过了，因为我对投资的认知很大程度上都归功于他。稍后我会更多地谈到本，也会谈到股票投资。但先让我讲讲很久以前做过的两笔非股票投资。虽然这两笔投资对我的净资产影响不大，但它们很有启发意义。</p>
+<p>故事从内布拉斯加州说起。1973年到1981年间，中西部经历了农地价格的暴涨，原因是人们普遍认为恶性<a href="../concepts/通货膨胀.html" class="wikilink">通胀</a>即将来临，而农村小银行的宽松贷款政策更是火上浇油。后来泡沫破裂了，价格下跌50%甚至更多，摧毁了那些加了<a href="../concepts/杠杆.html" class="wikilink">杠杆</a>的农场主和他们的债权人。那次泡沫破裂后，爱荷华州和内布拉斯加州倒闭的银行数量是我们这次大衰退中的五倍。</p>
+<p>1986年，我从联邦存款保险公司 (FDIC) 手里买下了一个位于奥马哈以北50英里处的400英亩农场。花了28万美元，比几年前一家倒闭的银行贷给那个农场的金额少了一大截。我对经营农场一窍不通。但我有一个热爱农业的儿子，从他那里我了解到农场能产出多少蒲式耳的玉米和大豆，以及运营成本大概是多少。根据这些估计，我算出农场当时的正常回报率大约是10%。我还认为生产效率可能会随着时间提高，农产品价格也会上涨。后来两个预期都应验了。</p>
+<p>得出"这笔投资下有保底、上有空间"的结论，不需要什么特殊的知识或过人的智慧。当然，偶尔会有歉收的年份，价格有时也会令人失望。但那又怎样？同样也会有好得出奇的年份，而且我永远不会面临被迫出售的压力。如今28年过去了，农场的利润翻了三倍，价值是当初买入价的五倍甚至更多。我依然对农业一窍不通，而且最近才第二次去看了那个农场。</p>
+<p>1993年，我又做了一笔小投资。当我担任<a href="../companies/所罗门.html" class="wikilink">所罗门</a> (Salomon) 公司CEO时，公司的房东拉里·西尔弗斯坦 (Larry Silverstein) 告诉我，重组信托公司 (Resolution Trust Corp.) 正在出售纽约大学旁边的一处零售物业。又是一个泡沫破裂了——这次是商业地产——重组信托公司被专门成立来处置那些因过度乐观的贷款政策而破产的储蓄机构的资产。</p>
+<p>和农场的情况一样，分析很简单。该物业当时无<a href="../concepts/杠杆.html" class="wikilink">杠杆</a>的当期收益率约为10%。但物业之前被重组信托公司管理不善，一旦几个空置店铺租出去，收入就会增加。更重要的是，最大的租户——占了项目约20%的面积——每平方英尺只付5美元的租金，而其他租户的平均租金是70美元。这份廉价租约9年后到期，届时必将大幅推高收入。物业的位置也无可挑剔：纽约大学不会搬走。</p>
+<p>我和拉里以及我的朋友弗雷德·罗斯 (Fred Rose) 等人一起买下了这处物业。弗雷德是一位经验丰富、水准很高的房地产投资者，他和家人将负责物业管理。他们确实做得很好。随着旧租约到期，利润翻了三倍。现在的年度分红已经超过我们初始投资额的35%。而且我们在1996年和1999年两次进行了抵押贷款再融资，使我们获得了相当于初始投资额150%以上的特别分红。我至今还没去看过那处物业。</p>
+<p>农场和纽约大学物业的收入在未来几十年很可能还会继续增长。虽然涨幅不会特别惊人，但对我以及我的孩子、孙子来说，这两笔投资都是可以一辈子稳稳持有的、令人满意的资产。</p>
+<p>我讲这两个故事是为了阐明一些投资的基本原理：</p>
+<ul>
+<li>获得满意的投资回报不需要成为专家。但如果你不是专家，就必须认清自己的局限，走一条确定行之有效的路。保持简单，不要试图挥出全垒打。当有人承诺让你赚快钱时，立刻说"不"。</li>
+</ul>
+<ul>
+<li>关注你正在考虑的那项资产未来的产出能力。如果你觉得没有把握粗略估计它的未来收益，那就放弃，看下一个。没有人有能力评估每一个投资机会。但全知全能并非必要——你只需要理解自己做的事就够了。</li>
+</ul>
+<ul>
+<li>如果你关注的不是资产的产出能力，而是它的价格变动，那你就是在投机。投机没有什么不对。但我知道我自己没有持续投机成功的能力，对于那些声称能做到的人，我也持怀疑态度。掷硬币时第一轮有一半人会赢，但这些赢家如果继续玩下去，谁也别指望赚到钱。而且，一项资产近期上涨这个事实，<em>从来不是</em>买入的理由。</li>
+</ul>
+<ul>
+<li>在我的两笔小投资中，我<em>只</em>考虑资产能产出什么，完全不关心它们每天的估值。比赛是由那些专注于赛场的球员赢得的——而不是那些盯着计分板的人。如果你能在周末不看股价时保持心态轻松，那就试试工作日也这样做。</li>
+</ul>
+<ul>
+<li>自己拍脑袋做宏观判断，或者听别人的宏观和市场预测，都是浪费时间。实际上这还很危险，因为它可能模糊你对真正重要的事实的判断。（每当我听到电视评论员口若悬河地<a href="../concepts/市场预测.html" class="wikilink">预测市场</a>下一步走势时，就会想起米奇·曼特尔（Mickey Mantle，棒球传奇球星）那句一针见血的评论："你不坐到解说席上去，都不知道这比赛原来这么简单。"）</li>
+</ul>
+<ul>
+<li>我的两笔投资分别在1986年和1993年做出。紧接着的1987年和1994年经济、利率或股市会怎样，对我的投资决策毫无影响。我已经不记得当时报纸头条写了什么，专家们又在说什么。不管外面怎么闹腾，内布拉斯加的玉米照长，学生照样涌向纽约大学。</li>
+</ul>
+<p>我的两笔小投资和股票投资有一个重要区别。股票每分钟都给你的持仓报一个价，而我至今也没见过有人给我的农场或纽约大学物业报价。</p>
+<p>对股票投资者来说，持仓估值的剧烈波动本该是一项巨大的优势——对少数投资者来说，确实如此。毕竟，如果有一个喜怒无常的邻居，每天朝你喊出一个价格——要么按这个价买我的农场，要么把他的农场卖给你——而且这个价格随着他的情绪短期内忽上忽下，那我除了从他的癫狂行为中获益，还能怎样呢？如果他报的价低得离谱，而我手头又有闲钱，我就会买下他的农场。如果他喊的价高得荒唐，我要么卖给他，要么继续种地。</p>
+<p>然而，股票投资者往往让其他投资者反复无常、经常不理性的行为带着自己也变得不理性了。因为市面上充斥着太多关于市场、经济、利率和股价走势的嘈杂声音，一些投资者觉得应该听听专家的话——更糟糕的是，觉得应该根据专家的话采取行动。</p>
+<p>那些拥有农场或公寓时可以安安静静持有几十年的人，一旦接触到一连串的股票报价，再加上评论员们暗示"别光坐着，赶紧<em>做点什么</em>"的怂恿，往往就会变得头脑发热。对这些投资者来说，流动性从一项本该无条件受益的优势变成了一种诅咒。</p>
+<p>"闪电暴跌"或其他极端市场波动，对投资者的伤害不会超过一个反复无常、嘴巴不停的邻居对我的农场投资的影响。事实上，如果你手头有现金而市场价格严重偏离价值，暴跌的市场反而会帮到真正的投资者。投资时，恐惧的市场是你的<em>朋友</em>；亢奋的市场才是你的敌人。</p>
+<p>在2008年末那场非同寻常的金融恐慌中，我从来没有想过卖掉我的农场或纽约大学的物业，尽管严重的经济衰退显然正在酝酿。同样，如果我百分之百持有一家基本面扎实、长期前景良好的企业，仅仅<em>想想</em>要不要抛掉它就已经很愚蠢了。那我为什么要卖掉我的股票呢——它们不过是一些优秀企业的小额持股。没错，其中某一家可能最终让人失望，但作为一个组合，它们必定表现出色。难道真有人相信美国令人难以置信的生产性资产和无穷的人类聪明才智会被一把吞噬掉吗？</p>
+<hr>
+<p>查理和我买股票时——我们把股票看作企业的一小部分——我们的分析方法与收购整家企业时非常相似。我们首先要判断的是，能否合理地估计这家企业未来五年或更长时间的收益范围。如果答案是肯定的，而且股票（或企业）的价格相对于我们估计的下限来说是合理的，我们就会买入。如果我们没有能力估计未来收益——通常是这种情况——我们就去看别的。在我们合作的54年里，我们<em>从来没有</em>因为宏观或政治环境，或者其他人的看法而放弃一笔有吸引力的投资。事实上，我们做决策时这些话题根本不会被提起。</p>
+<p>然而，至关重要的是，我们要认清自己"<a href="../concepts/能力圈.html" class="wikilink">能力圈</a>"的边界，并老老实实呆在里面。即便如此，我们在股票和企业收购方面仍然会犯一些错误。但这些错误不会是那种灾难性的——比如，当长期上涨的市场诱导人们基于价格走势的预期去买入，或者仅仅因为想跟上市场热点而买入时，灾难就来了。</p>
+<p>当然，大多数投资者并没有把研究企业前景作为生活中的优先事项。如果他们够聪明的话，会得出这样一个结论：他们对具体企业的了解不足以预测其未来的盈利能力。</p>
+<p>我有一个好消息告诉这些非专业人士：普通投资者根本不需要这项能力。总体而言，美国企业长期以来表现出色，而且将继续如此（当然，上涨的过程一定是不可预测的、跌跌撞撞的）。在整个20世纪，道琼斯工业指数从66点涨到了11,497点，期间还派发了源源不断的<a href="../concepts/股息.html" class="wikilink">股息</a>。21世纪将见证进一步的增长，而且几乎肯定是大幅增长。非专业投资者的目标不应该是挑选赢家——他和他的"顾问"都做不到——而应该是持有一个足够分散的企业组合，整体表现必定不会差。低费率的标普500指数基金就能实现这个目标。</p>
+<p>这就是非专业人士投资的"什么"。"什么时候"也很重要。主要的危险是，胆小或初入市场的投资者在极度亢奋时入场，然后在出现浮亏时幻想破灭。（记住已故的巴顿·比格斯（Barton Biggs，知名投资策略师）的观察："牛市就像性爱，在结束之前的那一刻感觉最好。"）应对错误时机的解药是：长期持续地分批买入，在坏消息频传、股价大跌时永远不要卖出。遵循这些规则，那些"什么都不懂"的投资者只要保持分散化并把<em>成本降到最低</em>，几乎肯定能获得满意的结果。实际上，一个对自身不足有清醒认识的普通投资者，其长期成绩很可能好过那些对自己的弱点视而不见的专业人士。</p>
+<p>如果"投资者"们像买卖菜一样疯狂地相互倒腾农场，庄稼的产量和价格一点也不会增加。唯一的后果就是，农场主群体的整体收益因为寻求建议和频繁换手产生的巨额费用而大幅缩水。</p>
+<p>尽管如此，那些靠提供建议或撮合交易赚钱的人，总会不断地怂恿个人和机构频繁交易。由此产生的摩擦成本可能非常惊人，而且对投资者整体而言毫无益处。所以，别理那些嘈杂的声音，把成本降到最低，像投资农场一样投资股票。</p>
+<p>我应该补充一下，我的钱和我说的话是一致的：我在这里给出的建议，和我在遗嘱中的安排基本相同。有一份遗赠规定将现金交给受托人为我妻子管理。（我不得不用现金来安排个人遗赠，因为我持有的<em>全部</em>伯克希尔股票将在我去世后的十年内捐给特定的慈善组织。）我给受托人的建议简单得不能再简单了：把10%的现金投入短期政府债券，把90%投入一只低费率的标普500指数基金。（我推荐先锋集团 (Vanguard) 的基金。）我相信，这个策略的长期业绩将优于大多数投资者的成绩——不管是养老金、机构还是个人——那些聘请了高收费基金经理的投资者。</p>
+<hr>
+<p>现在回到本·<a href="../people/格雷厄姆.html" class="wikilink">格雷厄姆</a>。这次投资讨论中的大部分观点，我都是从本写的《聪明的投资者》(The Intelligent Investor) 中学到的。1949年我买到这本书，从此改变了我的投资人生。</p>
+<p>在读本的书之前，我在投资的世界里四处游荡，如饥似渴地阅读一切相关文章。我读到的很多东西都让我着迷：我尝试用图表和市场指标预测股价走势。我坐在券商营业厅里盯着行情纸带滚过，听评论员的分析。这一切都很有趣，但我始终无法摆脱那种一事无成的感觉。</p>
+<p>相比之下，本的思想用优雅、通俗易懂的文字进行了逻辑清晰的阐述（没有希腊字母，也没有复杂公式）。对我来说，最关键的内容在后来版本的第8章和第20章。（1949年原版的章节编排有所不同。）这些观点至今仍在指引着我的投资决策。</p>
+<p>这本书还有一些有趣的花絮：后来的版本附有一篇后记，描述了一项让本大赚一笔的匿名投资。本是在1948年写第一版时做的这笔投资——大家准备好了吗——那家神秘的公司就是<a href="../companies/盖可保险.html" class="wikilink">盖可保险</a>。如果本没有在盖可尚处于起步阶段时就发现了它的特殊品质，我和伯克希尔的未来都会大不相同。</p>
+<p>1949年版的书中还推荐了一只铁路股票，当时售价17美元，每股收益约10美元。（我敬佩本的原因之一是，他敢用当下的实例来说明观点，这意味着如果他看走眼就会被嘲笑。）这么低的估值部分原因是当时的会计准则要求铁路公司将其附属公司的大量<a href="../concepts/留存收益.html" class="wikilink">留存收益</a>从报告利润中剔除。</p>
+<p>被推荐的股票就是北太平洋铁路公司 (Northern Pacific)，它最重要的附属公司是芝加哥、伯灵顿和昆西铁路 (Chicago, Burlington and Quincy)。这些铁路如今都是伯克希尔全资拥有的<a href="../companies/BNSF铁路.html" class="wikilink">BNSF</a>铁路的重要组成部分。我当年读到这本书时，北太平洋铁路的市值大约4000万美元。现在它的继承者（当然增加了大量资产）每四天就能<em>赚到</em>这个数字。</p>
+<p>我已经不记得买第一本《聪明的投资者》花了多少钱。不管是多少，它都印证了本的格言：价格是你付出的，价值是你得到的。在我所有的投资中，买这本书是最好的一笔（不算我的两次结婚证的话）。</p>
+<hr>
+<p>美国各地方和各州的财务问题正在加剧，很大程度上是因为政府承诺了自己根本负担不起的养老金。市民和政府官员通常<a href="../concepts/低估.html" class="wikilink">低估</a>了那条巨大的财务"绦虫"——当承诺与支付意愿之间出现矛盾时，这条虫子就悄悄生出来了。不幸的是，养老金的计算对大多数美国人来说至今仍是一团迷雾。</p>
+<p>投资策略在这些问题中同样扮演着重要角色。1975年，我写了一份备忘录给时任<a href="../companies/华盛顿邮报.html" class="wikilink">华盛顿邮报公司</a> (The Washington Post Company) 董事长的凯瑟琳·<a href="../people/格雷厄姆.html" class="wikilink">格雷厄姆</a> (Katharine Graham)，讨论养老金承诺的陷阱和投资策略的重要性。该备忘录收录在年报第118至136页。</p>
+<p>在接下来的十年里，你们会读到很多关于公共养老金计划的新闻——而且是<em>坏</em>新闻。我希望我的那份备忘录能帮助你们理解：在问题已经存在的地方，必须立即采取补救行动。</p>
+<h1>年度股东大会</h1>
+<p>年度股东大会将于5月3日（周六）在CenturyLink中心举行。我们才华横溢的总导演卡丽·索瓦 (Carrie Sova) 将负责一切，总部全体同事都会全力支持她。我们自己的团队不但做得比专业活动策划者更好——没错——还更省钱。</p>
+<p>CenturyLink中心早上7点开门。7:30我们将举行第三届国际报纸投掷挑战赛。目标是<a href="../companies/克莱顿房屋.html" class="wikilink">克莱顿</a>公司生产的房屋门廊，距离投掷线精确35英尺。我少年时代当过报童，大概投过50万份报纸，所以自认为水平相当不错。来挑战我吧：谁把报纸投得比我更靠近门口，我就请他吃一根<a href="../companies/冰雪皇后.html" class="wikilink">DQ</a>的Dilly Bar冰淇淋。比赛用的报纸有36到42页厚，必须自己折叠（不许用橡皮筋捆）。</p>
+<p>8:30将放映一部伯克希尔的新电影。一个小时后，我们进入问答环节，中间在CenturyLink中心的摊位休息吃午餐，一直持续到下午3:30。短暂休息后，查理和我将在3:45召集正式的股东大会。如果你决定在问答环节中途离场的话，请在<em>查理</em>讲话的时候走。</p>
+<p>离场的最好理由当然是去<em>购物</em>。为了方便大家，我们在会场旁边194,300平方英尺的大厅里摆满了伯克希尔旗下几十家子公司的产品。去年大家购物热情高涨，大多数摊位都创下了销售纪录。在9个小时内，我们卖出了1,062双Justin靴子（每32秒一双）、12,792磅<a href="../companies/喜诗糖果.html" class="wikilink">喜诗糖果</a> (See's Candies)、11,162把Quikut小刀（每分钟21把）和6,344双Wells Lamont手套——这些都是热门商品。今年查理和我将进行番茄酱瓶装销售大PK。当然，印着查理头像的那瓶会大幅打折。但如果你们帮忙的话，我那瓶的销量一定能赢过他。这很重要，千万别让我输了面子。</p>
+<p>我们旗下的跑鞋公司Brooks将再次为年会推出一款特制纪念跑鞋。买好之后第二天穿上它参加我们的第二届"伯克希尔5K跑"——早上8点从CenturyLink中心出发。参赛详情会随会议门票一起寄送的《参会指南》里说明。参赛者会发现，和自己并肩跑的都是伯克希尔的<a href="../concepts/管理层.html" class="wikilink">经理人</a>、董事和员工。</p>
+<p><a href="../companies/盖可保险.html" class="wikilink">盖可保险</a>将在购物区设展台，由来自全美各地的顶尖保险顾问为你服务。顺便来看看报价吧。在大多数情况下，盖可能给你一个股东专属折扣（通常是8%）。我们运营的51个辖区中有44个批准了这项特别优惠。（补充说明：这个折扣不能与其他优惠叠加使用，比如给特定群体的折扣。）带上你现有保险的详细信息，看看我们能不能帮你省钱。我相信至少能帮到你们当中一半的人。</p>
+<p>一定要去书虫书店 (Bookworm) 的展位看看。那里将提供大约35种图书和DVD，其中有几本新出的。一本是马克斯·奥尔森 (Max Olson) 编辑的伯克希尔股东信合集，收录了从1965年至今的所有信。书里有一个我觉得特别好用的索引，按人名、公司和主题标注了页码。我还推荐我的儿子霍华德写的《四十次机会》(Forty Chances)。你们一定会喜欢的。</p>
+<p>如果你是大手笔消费者——或者渴望成为一个——周六中午到下午5点之间，去奥马哈机场东侧的Signature航空馆看看。那里将展出NetJets公司的私人飞机编队，保证让你心跳加速。坐大巴来，坐私人飞机回。享受一下人生嘛。</p>
+<p>随同年报附上的委托书材料中有一份附件，说明如何获取参加会议和其他活动所需的凭证。伯克希尔年会期间，<a href="../concepts/航空业.html" class="wikilink">航空公司</a>有时会抬高机票价格。如果你从远方来，比较一下飞堪萨斯城和飞奥马哈的票价。两个城市之间车程大约两个半小时，飞堪萨斯城也许能帮你省下不少钱，特别是如果你本来就打算在奥马哈租车的话。省下的钱一定要花在我们的年会上。</p>
+<p><a href="../companies/内布拉斯加家具店.html" class="wikilink">内布拉斯加家具店</a>坐落在72街上、Dodge街和Pacific街之间的77英亩土地上，我们将再次举办"伯克希尔周末"特惠活动。去年年会期间那一周，这家店做了4020万美元的生意，比以往纪录高出12%。周六还创下了820万美元的单日销售纪录，光床垫就卖了将近100万美元。</p>
+<p>要享受NFM的伯克希尔折扣，你必须在4月29日（周二）到5月5日（周一）期间购买，并出示会议凭证。特惠期间的优惠价格甚至适用于几家知名大牌厂商的产品——它们通常有铁板一块的禁折令——但本着股东周末的精神，它们为你们破了例。我们感谢它们的支持。NFM周一到周六早10点到晚9点营业，周日早10点到晚6点。今年周六下午5:30到晚8点，NFM还将举办野餐会，所有参会者都受邀参加。</p>
+<p>在<a href="../companies/波仙珠宝.html" class="wikilink">波仙珠宝店</a> (Borsheim's)，我们将再次举办两场股东专属活动。第一场是5月2日（周五）下午6点到9点的鸡尾酒会。第二场是重头戏，5月4日（周日）早9点到下午4点。周六营业到下午6点。近年来，年会期间三天的销售额远远超过了整个12月份——而12月通常是珠宝店生意最好的月份。</p>
+<p>周日下午1:15左右，我将亲自在<a href="../companies/波仙珠宝.html" class="wikilink">波仙</a>当售货员。不管你选什么商品，都可以向我要一个"疯狂沃伦"特惠价。随着年龄的增长，我给的价格也越来越离谱了。快来占我的便宜吧。</p>
+<p>整个周末<a href="../companies/波仙珠宝.html" class="wikilink">波仙</a>都会人山人海。为了方便大家，股东优惠价将从4月28日（周一）延续到5月10日（周六）。在此期间，请出示会议凭证或券商出具的持股证明来证明你的股东身份。</p>
+<p>周日在<a href="../companies/波仙珠宝.html" class="wikilink">波仙</a>外面的商场里，两届美国象棋冠军帕特里克·沃尔夫 (Patrick Wolff) 将蒙上双眼，以一敌六接受所有挑战者——当然挑战者们可以睁大眼睛。附近，来自达拉斯的神奇魔术师诺曼·贝克 (Norman Beck) 将为观众带来精彩表演。此外，两位世界顶级桥牌高手鲍勃·汉曼 (Bob Hamman) 和莎伦·奥斯伯格 (Sharon Osberg) 也将在周日下午与股东们打桥牌。千万别跟他们赌钱。</p>
+<p>我的朋友邢延华 (Ariel Hsing) 周日也会在商场里接受乒乓球挑战。去年她在奥运会上的表现让所有美国人——尤其是我——感到自豪。</p>
+<p>我第一次认识邢延华时她才9岁，那时候我就已经一分都赢不了她了。如今她是普林斯顿大学的大一新生，也是美国女子乒乓球冠军。如果你不介意出丑的话，下午1点来和她过招吧。比尔·盖茨 (Bill Gates) 和我将率先上阵，试着帮你们先消耗消耗她的体力。</p>
+<p>5月4日（周日），Gorat's牛排馆和Piccolo's餐厅将再次仅对伯克希尔股东开放。两家都营业到晚10点，Gorat's下午1点开门，Piccolo's下午4点开门。这两家都是我的最爱，周日晚上两家我都会去吃。记住：预订Gorat's请在4月1日（<em>不能提前</em>）拨打402-551-3733；预订Piccolo's请拨打402-342-9038。在Piccolo's记得点一大杯根啤浮冰甜点。只有小气鬼才点小杯的。</p>
+<p>我们将再次邀请三位财经记者主持年会的问答环节，他们会挑选股东通过电子邮件提交的问题来问查理和我。三位记者及其邮箱地址是：《财富》杂志的卡罗尔·卢米斯 (Carol Loomis)，cloomis@fortunemail.com；CNBC的贝基·奎克 (Becky Quick)，BerkshireQuestions@cnbc.com；以及《纽约时报》的安德鲁·罗斯·索尔金 (Andrew Ross Sorkin)，arsorkin@nytimes.com。</p>
+<p>每位记者将从收到的提问中选出6个他或她认为最有趣、最重要的问题。他们告诉我，如果你的问题简洁明了、不是在最后一刻才发过来、与伯克希尔相关，且每封邮件不超过两个问题，被选中的概率最大。（请在邮件中告知记者，如果你的问题被选中，是否希望提到你的名字。）</p>
+<p>我们还将有一个由三位跟踪伯克希尔的分析师组成的提问小组。今年的保险行业专家是巴克莱 (Barclays) 的杰伊·格尔布 (Jay Gelb)。关于非保险业务的问题将由红杉基金 (Ruane, Cunniff & Goldfarb) 的乔纳森·布兰特 (Jonathan Brandt) 负责。</p>
+<p>我们还希望再次邀请一位公认看空伯克希尔的分析师。如果你正在做空伯克希尔，欢迎来信申请（请附上持仓证明）。三位分析师将自带关于伯克希尔的问题，与记者和现场观众轮流提问。</p>
+<p>查理和我相信，所有股东都应该同时获得伯克希尔的最新信息，也应该有充足的时间来分析。这就是我们为什么尽量在周五收盘后或周六一早发布财务信息，也是我们把年会安排在周六的原因。我们不和大型机构投资者或分析师做一对一的沟通，而是对<em>所有</em>股东一视同仁。我们希望记者和分析师提出的问题能帮助股东更深入地了解自己的投资。</p>
+<p>查理和我事先不会得到关于问题的任何提示。我们知道记者和分析师会拿出一些棘手的问题，而这正是我们喜欢的。总共预计至少54个问题：每位分析师和记者各6个，现场观众18个。如果有多余的时间，我们会多回答一些观众的提问。观众提问者将于早上8:15通过抽签确定，15个话筒分布在会场和主要分会场的各个区域。</p>
+<hr>
+<p>我经常高度赞扬我们运营<a href="../concepts/管理层.html" class="wikilink">经理人</a>取得的成就，这是有充分理由的。他们是真正的全明星，经营自己的企业就好像那是他们家族唯一拥有的资产。我相信我们经理人的心态在大型上市公司的世界里是最以<a href="../concepts/股东导向.html" class="wikilink">股东利益</a>为导向的。大多数人从经济上来说完全不需要工作；在经营上打出"全垒打"带来的快乐，对他们来说不亚于薪水支票。</p>
+<p>然而，同样重要的是在总部和我一起工作的24位男女同事。这个团队高效地处理着大量SEC和其他监管要求，制作长达23,000页的联邦所得税申报表以及各州和海外的申报表，回应无数股东和媒体的咨询，寄出年报，筹备全美规模最大的年度股东大会，协调董事会活动——清单还可以列很长很长。</p>
+<p>他们愉快地处理所有这些工作，效率高得令人难以置信，让我的生活轻松而愉快。他们的贡献远超伯克希尔本身的事务：去年他们接待了40所大学（从200所申请者中筛选出来的），这些大学派学生来奥马哈和我进行一天的问答活动。他们还处理我收到的各种请求，安排我的出行，甚至帮我买午餐的汉堡包和薯条（当然要蘸上番茄酱）。没有哪个CEO享受过我这样的待遇。我真的每天都像跳着踢踏舞去上班。</p>
+<p>结束之前，我觉得应该打破我们"不放照片"的惯例，让大家看看我们了不起的总部团队。下面是我们圣诞午餐的合影。有两个人没能到场，否则你们看到的就是伯克希尔总部的全体员工。他们是真正的奇迹创造者。</p>
+<p>明年的信我们将回顾伯克希尔的50年历程，并展望未来的50年。在此之前，请于5月3日来到奥马哈，参加我们的"资本家的伍德斯托克音乐节"。</p>
+<p>2014年2月28日</p>
+<p>沃伦·E·巴菲特</p>
+<p>董事长</p>
+</article>
+<section class="support-section" id="support-section">
+<div class="support-global">
+<div class="support-text"><span class="support-title">喜欢这个知识库？</span><span class="support-desc">如果巴菲特的智慧对你的投资之路有帮助</span></div>
+<a href="/donate" class="kofi-btn">☕ 请我喝杯咖啡</a>
+</div>
+<a href="https://cn.tradingview.com/?aff_id=165343" target="_blank" rel="noopener" class="aff-card">
+<span class="aff-icon">📊</span>
+<div class="aff-body"><strong>用 TradingView 把知识变成行动</strong><span class="aff-desc">专业图表 · 股票筛选 · 全球市场实时数据</span></div>
+<span class="aff-arrow">→</span>
+</a>
+</section></div>
+<aside class="backlinks-panel" id="backlinks-panel">
+<div class="bl-panel-header"><h2 class="bl-panel-title">链接到本页 <span class="bl-count">11</span></h2><div class="bl-panel-actions"><button class="bl-action" onclick="document.querySelectorAll('.bl-group').forEach(g=>g.setAttribute('data-open',''))">展开</button><button class="bl-action" onclick="document.querySelectorAll('.bl-group').forEach(g=>g.removeAttribute('data-open'))">折叠</button></div></div>
+<div class="bl-group" data-open>
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">能力圈</span>
+<span class="bl-mention-count">3</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">误区四：认为坚守能力圈就不会犯错。 巴菲特在<mark>2013 巴菲特致股东信</mark>中明确指出：&quot;至关重要的是，我们要认清自己'能力圈'的边界，并老老实实呆在里面。即便如此，我们在股票和企业收购方面仍然会犯一些错误。&quot;能力圈保护你免于灾难性的错误，但不能保证你不犯任何错误。区别在于：能力圈内的错误是可控的、非致命的...</div>
+<div class="bl-snippet">&quot;至关重要的是，我们要认清自己'能力圈'的边界，并老老实实呆在里面。即便如此，我们在股票和企业收购方面仍然会犯一些错误。但这些错误不会是那种灾难性的。&quot;
+——<mark>2013 巴菲特致股东信</mark></div>
+<div class="bl-snippet bl-more">...还有 1 处提及</div>
+<a href="../concepts/能力圈.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+<div class="bl-group" data-open>
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">市场预测</span>
+<span class="bl-mention-count">2</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">...己拍脑袋做宏观判断，或者听别人的宏观和市场预测，都是浪费时间。实际上这还很危险，因为它可能模糊你对真正重要的事实的判断。（每当我听到电视评论员口若悬河地预测市场下一步走势时，就会想起米奇·曼特尔那句一针见血的评论：'你不坐到解说席上去，都不知道这比赛原来这么简单。'）&quot;
+——<mark>2013 巴菲特致股东信</mark></div>
+<div class="bl-snippet">&quot;自己拍脑袋做宏观判断，或者听别人的宏观和市场预测，都是浪费时间。实际上这还很危险，因为它可能模糊你对真正重要的事实的判断。&quot;
+——<mark>2013 巴菲特致股东信</mark></div>
+<a href="../concepts/市场预测.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+<div class="bl-group" data-open>
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">资本配置</span>
+<span class="bl-mention-count">2</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">伯克希尔在资本配置上拥有一个独特的结构性优势：既可以全资收购企业来运营，也可以在公开市场上购买上市公司的少数股权。巴菲特在<mark>2013 巴菲特致股东信</mark>中引用伍迪·艾伦的俏皮话来形容这种优势：&quot;双性恋的好处就是，周六晚上约到人的概率翻倍了。&quot;</div>
+<div class="bl-snippet">&quot;我们在资本配置上的灵活性——愿意将大笔资金被动投资于非控股企业——使我们相比那些只做自己能运营的收购的公司，拥有显著优势。&quot;——<mark>2013 巴菲特致股东信</mark></div>
+<a href="../concepts/资本配置.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+<div class="bl-group">
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">巴菲特致股东信总览</span>
+<span class="bl-mention-count">1</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">2010 巴菲特致股东信
+2011 巴菲特致股东信
+2012 巴菲特致股东信
+<mark>2013 巴菲特致股东信</mark>
+2014 巴菲特致股东信
+2015 巴菲特致股东信
+2016 巴菲特致股东信
+2017 巴菲特致股东信
+2018 巴菲特致股东信
+2019 巴菲特致股东信
+### 2020年代</div>
+<a href="../index-pages/巴菲特致股东信总览.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+<div class="bl-group">
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">护城河</span>
+<span class="bl-mention-count">1</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">巴菲特在<mark>2013 巴菲特致股东信</mark>中总结道：&quot;盖可的成本优势使它能够年复一年地攻城略地。低成本打造了一条护城河——一条持久的护城河——竞争对手无法跨越。&quot;</div>
+<a href="../concepts/护城河.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+<div class="bl-group">
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">美国银行</span>
+<span class="bl-mention-count">1</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">&quot;我们很可能会在期权到期前购入。同时，请大家了解，美国银行实际上是我们的第五大股票投资，我们非常看重它。&quot;
+—— <mark>2013 巴菲特致股东信</mark></div>
+<a href="../companies/美国银行.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+<div class="bl-group">
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">商业模式</span>
+<span class="bl-mention-count">1</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">...看到扭曲的商业模式如何导致灾难（2003），从国民保险学到商业模式纪律的极致表现（2004）。
+近期（2010-2025）：重心转向强调伯克希尔整体商业模式的不可复制性。保险浮存金、多元化经营、去中心化管理的三位一体，构成了独一无二的企业生态。2011、<mark>2013</mark>、2016、2021反复阐述这一主题。</div>
+<a href="../concepts/商业模式.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+<div class="bl-group">
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">泰德·韦施勒</span>
+<span class="bl-mention-count">1</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">&quot;在大多数基金经理发现无法跑赢标普500的一年里，托德·库姆斯和泰德·韦施勒都轻松做到了。他们各自管理的投资组合都已超过70亿美元。这是他们应得的。&quot;
+—— <mark>2013 巴菲特致股东信</mark></div>
+<a href="../people/泰德·韦施勒.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+<div class="bl-group">
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">账面价值</span>
+<span class="bl-mention-count">1</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">...3 巴菲特致股东信中首次系统阐述账面价值与内在价值的区别与联系。
+差距认知（1994-2017）：越来越明确地指出内在价值远超账面价值。在<mark>2013 巴菲特致股东信</mark>中以账面价值120%设定回购线，隐含承认了两者之间的巨大差距。年报首页增加了市值变化的对照列。
+正式告别（2018年至今）：在2018 巴...</div>
+<a href="../concepts/账面价值.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+<div class="bl-group">
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">州立农业保险</span>
+<span class="bl-mention-count">1</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">&quot;州立农业保险——美国最大且管理良好的保险公司——在截至2012年的12年间有9年出现承保亏损。竞争态势几乎注定了保险行业将继续保持其相比其他行业的惨淡回报。&quot;
+—— <mark>2013 巴菲特致股东信</mark></div>
+<a href="../companies/州立农业保险.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+<div class="bl-group">
+<button class="bl-group-header" onclick="this.parentElement.toggleAttribute('data-open')">
+<span class="bl-caret"></span>
+<span class="bl-source-name">B夫人</span>
+<span class="bl-mention-count">1</span>
+</button>
+<div class="bl-snippets">
+<div class="bl-snippet">&quot;B夫人简单地告诉我公司的实际情况，她的话对我来说就够了。&quot;
+—— <mark>2013 巴菲特致股东信</mark></div>
+<a href="../people/B夫人.html" class="bl-go-link">查看原文 →</a>
+</div>
+</div>
+</aside>
+</main>
+<script src="../nav.js"></script>
+<script src="../search.js"></script>
+<!-- Cloudflare Pages Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "c8e93d0e80f9456280a3c041d2f04677"}'></script><!-- Cloudflare Pages Analytics --></body>
+</html>

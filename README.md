@@ -1,97 +1,76 @@
-# Buffett Shareholder Letters Wiki
+# Buffett Wiki + LightRAG
 
-A bilingual (中文/English) knowledge base built from Warren Buffett's shareholder letters, following the [LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
+基于 [Karpathy 的 LLM Wiki 精神](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)，构建巴菲特知识库。
 
-An Obsidian vault that doubles as an LLM-readable wiki — every claim links back to its source, entities are cross-referenced via `[[wikilinks]]`, and knowledge compounds over time.
+## 项目定位
 
-## Quick Start (for LLM agents)
+1. **原始材料收集** → 下载所有中文/英文巴菲特信（raw 目录）
+2. **Wiki 编译** → 纯中文，概念提取，wikilink 指向英文原文
+3. **LightRAG 集成** → 支持复杂查询，可追溯到原始信
 
-1. **Read [`SCHEMA.md`](SCHEMA.md) first.** It defines all operational conventions, templates, and workflows.
-2. **Read [`index.md`](index.md)** to understand what's already ingested (letters, concepts, companies, people).
-3. **To ingest a new letter** — follow the Ingest workflow in SCHEMA.md.
-4. **To query** — read index.md, navigate to relevant pages, synthesize answers with `[[source-links]]`.
-5. **To lint** — run the Lint workflow in SCHEMA.md.
-
-## Directory Structure
+## 目录结构
 
 ```
-warren_buffett_wiki/            ← Obsidian vault
-├── SCHEMA.md                   # ⚙️  Operational rules for LLM agents
-├── index.md                    # Master index with stats
-├── log.md                      # Append-only changelog
-├── raw/                        # Immutable source material (not wiki)
-│   ├── berkshire/
-│   │   ├── YYYY-letter-en.md   #   English source
-│   │   └── YYYY-letter-zh.txt  #   Chinese source
-│   ├── partnership/            # Partnership letter sources
-│   └── other/                  # Speeches, interviews, etc.
-├── letters/                    # Bilingual paragraph-aligned letters + summaries
-│   ├── YYYY-letter.md
-│   └── YYYY-summary.md
-├── concepts/                   # Investment concepts (内在价值, 烟蒂投资法, ...)
-├── companies/                  # Companies mentioned (可口可乐, 盖可保险, ...)
-├── people/                     # Key people (查理·芒格, B夫人, ...)
-├── analysis/                   # Deep-dive analyses
-└── assets/                     # Images, charts
+├── raw/                    # 原始材料
+│   ├── berkshire/zh/       # 伯克希尔中文 (60封, 1965-2024)
+│   ├── berkshire/en/       # 伯克希尔英文 (30封, 缺2007+)
+│   └── partnership/zh/     # 合伙人中文 (35封)
+├── wiki/                   # 中文 Wiki (60封已编译)
+│   └── letters/            # 信件
+├── rag/                    # RAG 查询
+│   ├── config.py           # 索引配置
+│   └── query.py            # 查询脚本
+└── scripts/                # 下载/编译脚本
+    ├── download_berkshire_zh.py
+    ├── download_berkshire_en.py
+    ├── download_partnership_zh.py
+    └── compile_wiki.py
 ```
 
-## Data Sources
+## 快速开始
 
-| Source | URL | Coverage | Role |
-|--------|-----|----------|------|
-| juliuschun/eco-moat-ai | https://github.com/juliuschun/eco-moat-ai | 1977–2024 | **Primary English source** (Markdown) |
-| buffett-letters-eir | https://buffett-letters-eir.pages.dev | 1956–2024 | **Primary Chinese source** (HTML) |
-| fenwii/WarrenBuffettLetter | https://github.com/fenwii/WarrenBuffettLetter | 1957–2024 | PDF archive, fallback |
-| Berkshire Hathaway (official) | https://www.berkshirehathaway.com/letters/ | 1977–2024 | Official, some early years 404 |
+### 1. 下载信件
 
-## Key Principles
+```bash
+uv run python scripts/download_berkshire_zh.py   # 中文伯克希尔信
+uv run python scripts/download_partnership_zh.py # 中文合伙人信
+uv run python scripts/download_berkshire_en.py   # 英文信
+```
 
-- **Source-backed**: every fact links to its origin letter
-- **Bilingual**: Chinese and English co-located, paragraph-aligned via Obsidian callouts
-- **Cross-linked**: `[[wikilinks]]` connect letters ↔ concepts ↔ companies ↔ people
-- **Compounding**: wiki pages are updated as new letters are ingested, building an evolving knowledge graph
-- **No dangling links**: all `[[wikilinks]]` must resolve to existing `.md` files
-- **`raw/` is immutable**: holds original source material, never modified
+### 2. 编译 Wiki
 
-## Page Types
+```bash
+uv run python scripts/compile_wiki.py
+```
 
-### Concept pages (`concepts/`)
-- 概念解析 / Definition
-- 核心要义 / Key Principles
-- 实践应用 / Practical Application
-- 巴菲特原话精选 / Buffett Quotes
-- 思想演变 / Evolution of Thought (updated as more letters are ingested)
-- 🔗 Related
+### 3. RAG 查询
 
-### Company pages (`companies/`)
-- 公司简介 / Company Overview
-- 伯克希尔的关系 / Berkshire's Relationship
-- 关键事件时间线 / Key Events Timeline
-- 巴菲特原话精选 / Buffett Quotes
-- 🔗 Related
+```bash
+# 命令行
+uv run python rag/query.py "巴菲特如何看待保险业务"
 
-### Person pages (`people/`)
-- 人物简介 / Biography
-- 与巴菲特的关系 / Relationship with Buffett
-- 在股东信中的出现 / Appearances in Letters
-- 🔗 Related
+# 交互模式
+uv run python rag/query.py
+```
 
-### Letter pages (`letters/`)
-- `YYYY-letter.md` — Bilingual paragraph-aligned text with embedded `[[entity links]]`
-- `YYYY-summary.md` — Structured summary: overview, themes, figures, entities, excerpts
+## 当前进度
 
-### Analysis pages (`analysis/`)
-- 分析主题 / Topic
-- 核心论点 / Thesis
-- 论据与原文引用 / Evidence with Source Links
-- 结论 / Conclusion
-- 🔗 Related
+| 类型 | 数量 | 状态 |
+|------|------|------|
+| 伯克希尔中文 | 60封 | ✅ 完成 |
+| 合伙人中文 | 35封 | ✅ 完成 |
+| 伯克希尔英文 | 30/48封 | ⚠️ 部分缺失 |
+| Wiki 编译 | 60封 | ✅ 完成 |
+| RAG 索引 | 60封 | ✅ 完成 |
 
-## Current Progress
+## 数据来源
 
-- Letters ingested: **3** (1977, 1978, 1989) out of ~99
-- Concepts: **14** · Companies: **19** · People: **16**
+- **中文源**: [buffett-letters-eir](https://buffett-letters-eir.pages.dev)
+- **英文源**: Berkshire Hathaway 官网
 
-## For Humans
+## 待完成
 
-Open this directory in [Obsidian](https://obsidian.md/). Enable the `bilingual-reading` CSS snippet for styled paragraph-aligned reading. Use Graph View, Backlinks, and Full-text Search to navigate.
+- [ ] 补全缺失的英文信件 (2007-2024)
+- [ ] 概念提取 (concepts/)
+- [ ] 公司/人物页面 (companies/, people/)
+- [ ] 集成真正的 LLM 支持

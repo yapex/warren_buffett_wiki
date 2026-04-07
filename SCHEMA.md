@@ -1,159 +1,82 @@
-# Buffett Shareholder Letters Wiki — Schema
+# Buffett Wiki 规范
 
-> Operational rules for LLM agents maintaining this wiki. Project overview and reference info are in [README.md](README.md).
+## 项目定位
 
----
+基于 Karpathy 的 LLM Wiki 精神，从巴菲特致股东信构建中文知识库。
 
-## Frontmatter Template
+## 目录结构
 
-Every wiki page (concepts, companies, people, summaries, analysis) uses:
+```
+raw/                    # 原始材料（不可修改）
+├── berkshire/zh/       # 伯克希尔中文信 (1965-2024)
+├── berkshire/en/       # 伯克希尔英文信 (1977-2024)
+└── partnership/zh/     # 合伙人中文信 (1956-1970)
 
-```yaml
----
-type: concept | company | person | letter-summary | analysis
-title_zh: "内在价值"
-title_en: "Intrinsic Value"
-aliases: [IV, 真实价值]
-sources:
-  - "[1989-letter](letters/1989-letter.md)"
-related:
-  - "[[账面价值]]"
-  - "[[安全边际]]"
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
-status: draft | reviewed | mature
----
+wiki/                   # 编译后的中文 Wiki
+├── letters/            # 信件
+├── concepts/           # 概念
+├── companies/          # 公司
+└── people/             # 人物
 ```
 
-| Field | Required | Description |
-|-------|----------|-------------|
-| `type` | ✅ | Page category |
-| `title_zh` | ✅ | Chinese title |
-| `title_en` | ✅ | English title |
-| `aliases` | No | Alternative names for search |
-| `sources` | ✅ | Source letters this page draws from |
-| `related` | No | Links to related wiki pages |
-| `created` | ✅ | Date first created |
-| `updated` | ✅ | Date last modified |
-| `status` | ✅ | `draft` → `reviewed` → `mature` |
+## Wiki 页面模板
 
-### Bilingual conventions (for concept/company/person/summary pages)
-
-- Chinese section first, English section second
-- Quotes: Chinese translation + original English in blockquote, with `[[source-link]]`
-- Related links: `[[账面价值 / Book Value]]`
-
----
-
-## Bilingual Letter Format (`letters/YYYY-letter.md`)
-
-Uses Obsidian callout syntax for paragraph-aligned reading:
+### 信件页 (letters/YYYY-letter.md)
 
 ```markdown
-> [!zh] 🇨🇳
-> 中文段落……
->
-> 多段用空行分隔……
-
-> [!en] 🇺🇸
-> English paragraph...
->
-> Multiple paragraphs separated by blank lines...
-```
-
-**Rules:**
-- `> [!zh] 🇨🇳` and `> [!en] 🇺🇸` alternate, forming aligned pairs
-- Entity names wrapped in `[[wikilinks]]`: `[可口可乐](companies/可口可乐.md)`, `[查理·芒格](people/查理·芒格.md)`, `[内在价值](concepts/内在价值.md)`
-- Styled via `bilingual-reading.css`: Chinese = blue tint 15px, English = gray tint 14px
-
+---
+source: raw/berkshire/zh/YYYY-letter-zh.md
+en: raw/berkshire/en/YYYY-letter-en.md
+year: YYYY
 ---
 
-## Linking Conventions
+# YYYY 巴菲特致股东信
 
-| Target | Link format | Example |
-|--------|-------------|---------|
-| Bilingual letter | `[[YYYY-letter]]` | `[1989-letter](letters/1989-letter.md)` |
-| Letter summary | `[[YYYY-summary]]` | `[1989-summary](letters/1989-summary.md)` |
-| Concept | `[[title_zh]]` | `[内在价值](concepts/内在价值.md)` |
-| Company | `[[title_zh]]` | `[可口可乐](companies/可口可乐.md)` |
-| Person | `[[title_zh]]` | `[查理·芒格](people/查理·芒格.md)` |
+> [!原文]
+> [EN](../raw/berkshire/en/YYYY-letter-en.md)
 
-### File naming
+## 概要
 
-| Category | Pattern | Example |
-|----------|---------|---------|
-| Raw English | `YYYY-letter-en.md` | `1989-letter-en.md` |
-| Raw Chinese | `YYYY-letter-zh.md` | `1989-letter-zh.md` |
-| Bilingual letter | `YYYY-letter.md` | `1989-letter.md` |
-| Letter summary | `YYYY-summary.md` | `1989-summary.md` |
-| Concept | `title_zh.md` | `内在价值.md` |
-| Company | `title_zh.md` | `可口可乐.md` |
-| Person | `title_zh.md` | `查理·芒格.md` |
-| Analysis | `descriptive-name.md` | `收购哲学的演变.md` |
+[LLM 提取的概要]
 
+## 关键主题
+
+- 主题1
+- 主题2
+
+## 涉及实体
+
+- [[公司名]]
+- [[人物名]]
+```
+
+### 概念页 (concepts/概念名.md)
+
+```markdown
+---
+type: concept
+first_appeared: YYYY
 ---
 
-## Operations
+# 概念名
 
-### Ingest
+## 定义
 
-1. **Fetch raw sources**: Both files must be saved to `raw/berkshire/` for traceability.
-   - **English** → `raw/berkshire/YYYY-letter-en.md`
-     - Source: [juliuschun/eco-moat-ai](https://github.com/juliuschun/eco-moat-ai) (Markdown)
-     - Path pattern: `markdown/buffett-letter-YYYY.md` (query the repo tree if unsure)
-   - **Chinese** → `raw/berkshire/YYYY-letter-zh.md`
-     - Source: [buffett-letters-eir](https://buffett-letters-eir.pages.dev) (static HTML, SPA with sidebar navigation)
-     - The site is a static HTML site (not a JS SPA). Each letter has a direct URL at `berkshire/YYYY-巴菲特致股东信.html` (find the exact href from the homepage).
-     - Extract the `<article>` content: remove `<script>`, `<style>`, sidebar/nav noise; keep only the article body text.
-     - The result is plain text with paragraph breaks. Save as `.txt`.
-2. **Align paragraphs**: LLM aligns ZH/EN paragraphs, outputs `letters/YYYY-letter.md` with callout pairs and `[[entity links]]`
-3. **Verify letter completeness (REQUIRED)**: Compare the bilingual letter against the English source section headers and key landmarks to ensure no section is missing or truncated:
-   - Extract section headers from `raw/berkshire/YYYY-letter-en.md` (italicized headers like `_Insurance Underwriting_`, `_Sources of Earnings_`, etc.)
-   - Verify each section has a corresponding `## ` header in `letters/YYYY-letter.md`
-   - Check key landmarks are present in both ZH and EN: opening salutation, signature + date, proper nouns (company names, people names)
-   - Check that `> [!zh]` and `> [!en]` callout pairs are balanced (no orphan ZH/EN blocks)
-   - If the source contains dense data tables (earnings tables, stock portfolios), it is acceptable to omit them in favor of summarizing key numbers in the surrounding narrative prose — but the omission must be noted and the key figures must appear in `YYYY-summary.md`
-   - Fix any gaps before proceeding
-4. **Write summary**: Create `letters/YYYY-summary.md`
-5. **Extract entities**: Identify concepts, companies, people
-6. **Update/create wiki pages**: For each entity, create or update the corresponding page, add quotes, update evolution/timeline
-7. **Verify links (REQUIRED)**: Before updating indexes, run link integrity check on all new and updated pages:
-   - Every `[[wikilink]]` in new/updated files must resolve to an existing `.md` file
-   - If a `[[link]]` in `related:` or `🔗 Related` points to a page that doesn't exist yet, either create that page or remove the link — **no dangling links allowed**
-   - Use the shell check: `grep -oE '\[\[[^]]+\]\]' file.md | sed 's/|.*//' | while read link; do find . -name "${link}.md" ...; done`
-   - Fix all broken links before proceeding
-8. **Update `index.md`**: Add new entries, update stats
-9. **Append to `log.md`**: Record what was done (include completeness check and link verification results)
+## 巴菲特观点
 
-### Query
+## 相关信件
 
-1. Read `index.md` to find relevant pages
-2. Read the relevant wiki pages
-3. Synthesize answer with `[[source-links]]`
-4. If substantial, offer to save as `analysis/` page
-
-### Lint
-
-Periodically:
-- **Broken `[[wikilinks]]`**: Every `[[link]]` must resolve to an existing `.md` file. Scan all wiki pages (excluding `raw/` and `.obsidian/`) and report orphans.
-- **Dangling `related:` references**: Frontmatter `related:` and `🔗 Related` sections must not contain links to nonexistent pages.
-- Orphan pages with no inbound links
-- Missing cross-references
-- Concepts mentioned in letters but lacking their own page
-- Stale claims superseded by newer sources
-
----
-
-## Changelog Format (`log.md`)
-
-Append-only:
-
+- [[YYYY-信件]]
 ```
-## [YYYY-MM-DD] ingest | 1989 Berkshire Shareholder Letter
-- Created: [1989-letter](letters/1989-letter.md), [1989-summary](letters/1989-summary.md)
-- Created concepts: [内在价值](concepts/内在价值.md), [透视收益](concepts/透视收益.md), [烟蒂投资法](concepts/烟蒂投资法.md), ...
-- Created companies: [可口可乐](companies/可口可乐.md), [波仙珠宝](companies/波仙珠宝.md), ...
-- Created people: [查理·芒格](people/查理·芒格.md), [B夫人](people/B夫人.md), ...
-- New pages: 16
-- Updated pages: 0
-```
+
+## 命名规范
+
+- 信件：`YYYY-letter.md`
+- 公司：中文全称
+- 人物：中文名（附英文）
+- 概念：中文核心术语
+
+## 链接规范
+
+- Wikilink：`[[目标]]` 指向 wiki 内部
+- 原文链接：`[EN](raw/berkshire/en/YYYY-letter-en.md)` 指向英文原文
