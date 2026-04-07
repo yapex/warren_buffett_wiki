@@ -2,6 +2,19 @@
 
 <!-- Append-only log. Format: ## [YYYY-MM-DD] action | description -->
 
+## [2026-04-07] ingest | 1985 Berkshire Shareholder Letter
+- Raw sources: [1985-letter](letters/1985-letter.md) already aligned by agent-align (task 154ecd88)
+- Created: [1985-summary](letters/1985-summary.md)
+- QA result: ✅ PASS — letter already verified by agent-align
+- Created companies: [斯科特费泽公司](companies/斯科特费泽公司.md), [消防员基金保险公司](companies/消防员基金保险公司.md), [比阿特丽斯食品](companies/比阿特丽斯食品.md), [世界图书公司](companies/世界图书公司.md)
+- Created people: [拉尔夫·谢伊](people/拉尔夫·谢伊.md), [丹·伯克](people/丹·伯克.md)
+- Updated companies: [大都会通讯公司](companies/大都会通讯公司.md), [华盛顿邮报](companies/华盛顿邮报.md), [盖可保险](companies/盖可保险.md), [美国广播公司](companies/美国广播公司.md), [内布拉斯加家具商场](companies/内布拉斯加家具商场.md), [喜诗糖果](companies/喜诗糖果.md), [布法罗晚报](companies/布法罗晚报.md), [汉迪哈曼](companies/汉迪哈曼.md), [联合出版公司](companies/联合出版公司.md)
+- Updated people: [汤姆·墨菲](people/汤姆·墨菲.md), [杰克·伯恩](people/杰克·伯恩.md), [B夫人](people/B夫人.md), [斯坦·利普西](people/斯坦·利普西.md), [查克·哈金斯](people/查克·哈金斯.md), [比尔·斯奈德](people/比尔·斯奈德.md), [路易·辛普森](people/路易·辛普森.md), [迈克·戈德堡](people/迈克·戈德堡.md)
+- Updated index: Added 1985 to letters table, updated stats
+- Link verification: ✅ All links pass
+- New pages: 6 (summary, 4 companies, 2 people)
+- Updated pages: 18 (companies + people + index)
+
 ## [2026-04-07] ingest | 1984 Berkshire Shareholder Letter
 - Raw sources: EN from juliuschun/eco-moat-ai, ZH from buffett-letters-eir.pages.dev (pre-existing aligned)
 - Created: [1984-letter](letters/1984-letter.md), [1984-summary](letters/1984-summary.md)

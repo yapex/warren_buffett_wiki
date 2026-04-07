@@ -38,6 +38,7 @@
 | 1981 | [1981-letter](letters/1981-letter.md) | [1981-summary](letters/1981-summary.md) | ✅ draft |
 | 1983 | [1983-letter](letters/1983-letter.md) | [1983-summary](letters/1983-summary.md) | ✅ draft |
 | 1984 | [1984-letter](letters/1984-letter.md) | [1984-summary](letters/1984-summary.md) | ✅ draft |
+| 1985 | [1985-letter](letters/1985-letter.md) | [1985-summary](letters/1985-summary.md) | ✅ draft |
 | 1989 | [1989-letter](letters/1989-letter.md) | [1989-summary](letters/1989-summary.md) | ✅ draft |
 
 #### 1990s–2020s
@@ -177,10 +178,10 @@
 
 ## 📊 统计 / Stats
 
-- 信件：7 / 99 (+1)
-- 概念：27 (+1)
-- 公司：32 (+0)
-- 人物：32 (+6)
+- 信件：8 / 99 (+1)
+- 概念：27 (no change)
+- 公司：36 (+4)
+- 人物：34 (+2)
 - 分析：0
 
 ---
