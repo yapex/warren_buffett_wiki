@@ -2,6 +2,20 @@
 
 <!-- Append-only log. Format: ## [YYYY-MM-DD] action | description -->
 
+## [2026-04-07] ingest | 1980 Berkshire Shareholder Letter (ClawTeam pilot)
+- Raw sources: EN from juliuschun/eco-moat-ai, ZH from buffett-letters-eir.pages.dev (pre-existing)
+- Pipeline: ClawTeam with 1 content worker (pi) + 1 QA worker (pi)
+- Created: [1980-letter](letters/1980-letter.md), [1980-summary](letters/1980-summary.md), [tmp/1980-entities.json](tmp/1980-entities.json)
+- QA findings: 6 broken wiki links fixed (韦斯科金融→韦斯科金融公司, 互助储贷→互助储贷公司, 国民保险→国民保险公司, 赛普拉斯保险→Cypress保险)
+- QA result: ✅ PASS — all checks passed (40/40 callout pairs, all sections present, 11 links verified)
+- Created concepts: [收益冰山理论](concepts/收益冰山理论.md), [真正的指数化](concepts/真正的指数化.md), [现金流承保](concepts/现金流承保.md), [权益法](concepts/权益法.md), [持久竞争优势](concepts/持久竞争优势.md)
+- Created companies: [丘博保险](companies/丘博保险.md)
+- Created people: [杰克·伯恩](people/杰克·伯恩.md), [丹·格罗斯曼](people/丹·格罗斯曼.md), [乔治·扬](people/乔治·扬.md), [芭芭拉·斯图尔特](people/芭芭拉·斯图尔特.md)
+- Updated entities: 吉恩·阿贝格, 菲尔·利舍, 弗兰克·德纳尔多, 米尔特·桑顿, 留存收益 (1980 reference added)
+- Link verification: ✅ All links pass — 11 links verified
+- New pages: 10
+- Updated pages: 5
+
 ## [2026-04-07] ingest | 1979 Berkshire Shareholder Letter
 - Raw sources: EN from juliuschun/eco-moat-ai, ZH from buffett-letters-eir.pages.dev (pre-existing)
 - Bilingual letter and summary already existed; verified completeness: all 9 sections present
