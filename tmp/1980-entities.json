@@ -1,0 +1,375 @@
+{
+  "letter_year": 1980,
+  "letter_date": "1981-02-27",
+  "entities": {
+    "companies": [
+      {
+        "name_zh": "盖可保险",
+        "name_en": "GEICO Corp.",
+        "aliases": ["GEICO", "政府员工保险公司"],
+        "description_zh": "美国最大的汽车保险公司之一，伯克希尔最大的非控股持仓，持有33%股权",
+        "description_en": "One of the largest auto insurers in the US, Berkshire's largest non-controlled holding at 33% equity interest",
+        "mentions": 15,
+        "key_quote_zh": "盖可保险可以说代表了最佳投资——将一项极其重要且极难复制的商业优势，与一个卓越的管理团队完美结合",
+        "key_quote_en": "GEICO represents the best of all investment worlds - the coupling of a very important and very hard to duplicate business advantage with an extraordinary management"
+      },
+      {
+        "name_zh": "蓝筹印花",
+        "name_en": "Blue Chip Stamps",
+        "aliases": ["Blue Chip"],
+        "description_zh": "伯克希尔持股60%的子公司，拥有韦斯科金融80%股份",
+        "description_en": "Subsidiary 60% owned by Berkshire, which owns 80% of Wesco Financial",
+        "mentions": 4,
+        "key_quote_zh": "伯克希尔持有60%股权的蓝筹印花属于完全并表类别",
+        "key_quote_en": "Blue Chip Stamps, 60% owned by Berkshire Hathaway Inc., falls into this category"
+      },
+      {
+        "name_zh": "韦斯科金融",
+        "name_en": "Wesco Financial Corporation",
+        "aliases": ["Wesco"],
+        "description_zh": "蓝筹印花持股80%的金融公司，由查理·芒格领导",
+        "description_en": "Financial company 80% owned by Blue Chip Stamps, led by Charlie Munger",
+        "mentions": 4,
+        "key_quote_zh": "韦斯科金融由伯克希尔控制但仅持有48%的股权",
+        "key_quote_en": "Wesco Financial, controlled by Berkshire but only 48% owned"
+      },
+      {
+        "name_zh": "国民保险",
+        "name_en": "National Indemnity",
+        "aliases": ["National Indemnity Company"],
+        "description_zh": "伯克希尔旗下最大的保险子公司，由菲尔·列舍领导",
+        "description_en": "Berkshire's largest insurance subsidiary, led by Phil Liesche",
+        "mentions": 3,
+        "key_quote_zh": "国民保险公司的经理们在1980年超越了自我，承保利润率创历史新高",
+        "key_quote_en": "The National Indemnity managers outdid themselves in 1980, with underwriting margins at an all-time high"
+      },
+      {
+        "name_zh": "喜诗糖果",
+        "name_en": "See's Candies",
+        "aliases": ["See's", "喜诗"],
+        "description_zh": "伯克希尔旗下的糖果制造商，以品牌忠诚度著称",
+        "description_en": "Berkshire-owned candy manufacturer known for brand loyalty",
+        "mentions": 1,
+        "key_quote_zh": "喜诗糖果1980年税后收益421.2万美元",
+        "key_quote_en": "See's Candies generated $4.2 million in after-tax earnings in 1980"
+      },
+      {
+        "name_zh": "伊利诺伊国民银行",
+        "name_en": "Illinois National Bank",
+        "aliases": ["Illinois National Bank and Trust of Rockford"],
+        "description_zh": "Rockford的银行，于1980年12月31日从伯克希尔分拆",
+        "description_en": "Rockford bank spun off from Berkshire on December 31, 1980",
+        "mentions": 5,
+        "key_quote_zh": "吉恩·阿贝格执掌伊利诺伊国民银行将近50年",
+        "key_quote_en": "Gene Abegg ran Illinois National Bank for almost 50 years"
+      },
+      {
+        "name_zh": "联合零售商店",
+        "name_en": "Associated Retail Stores",
+        "aliases": ["Associated Retail"],
+        "description_zh": "由本·罗斯纳经营的零售连锁，1981年3月7日将庆祝50周年",
+        "description_en": "Retail chain operated by Ben Rosner, celebrating 50th anniversary March 7, 1981",
+        "mentions": 2,
+        "key_quote_zh": "本·罗斯纳的业绩继续让我们惊叹，在零售业惨淡的一年中收益依然出色",
+        "key_quote_en": "Ben Rosner's record at Associated Retail Stores continues to amaze us"
+      },
+      {
+        "name_zh": "互助储贷",
+        "name_en": "Mutual Savings and Loan",
+        "aliases": ["Mutual S&L"],
+        "description_zh": "由路易·文森蒂和查理·芒格重新定位的储贷机构",
+        "description_en": "Savings and loan institution repositioned by Louie Vincenti and Charlie Munger",
+        "mentions": 2,
+        "key_quote_zh": "请特别留意路易·文森蒂和查理·芒格在重新定位互助储贷业务方面所做的出色工作",
+        "key_quote_en": "Particularly note the superb job done by Louie Vincenti and Charlie Munger in repositioning Mutual Savings and Loan"
+      },
+      {
+        "name_zh": "赛普拉斯保险",
+        "name_en": "Cypress Insurance Company",
+        "aliases": ["Cypress"],
+        "description_zh": "伯克希尔旗下工伤赔偿保险公司，由米尔特·桑顿领导",
+        "description_en": "Berkshire workers compensation insurer led by Milt Thornton",
+        "mentions": 1,
+        "key_quote_zh": "赛普拉斯保险公司继续保持着出色的业绩",
+        "key_quote_en": "Cypress Insurance Company continues its outstanding record"
+      },
+      {
+        "name_zh": "华盛顿邮报",
+        "name_en": "The Washington Post Company",
+        "aliases": ["Washington Post"],
+        "description_zh": "伯克希尔的持股之一，成本1,062.8万美元，市值4,227.7万美元",
+        "description_en": "Berkshire holding, cost $10.6M, market $42.3M",
+        "mentions": 1,
+        "key_quote_zh": "伯克希尔持有华盛顿邮报约186.86万股",
+        "key_quote_en": "Berkshire holds approximately 1.87 million shares of Washington Post"
+      },
+      {
+        "name_zh": "丘博保险",
+        "name_en": "Chubb Corp.",
+        "aliases": ["Chubb"],
+        "description_zh": "保险公司，其年报分析被巴菲特推荐",
+        "description_en": "Insurance company whose annual report analysis Buffett recommends",
+        "mentions": 1,
+        "key_quote_zh": "丘博的年报一贯呈现业内最深刻、坦诚且文笔出色的行业状况讨论",
+        "key_quote_en": "Chubb's annual report consistently presents the most insightful, candid discussion of industry conditions"
+      },
+      {
+        "name_zh": "通用食品",
+        "name_en": "General Foods",
+        "aliases": [],
+        "description_zh": "伯克希尔持股198.38万股，成本6,250.7万美元，市值5,988.9万美元",
+        "description_en": "Berkshire holding of 1.98M shares, cost $62.5M, market $59.9M",
+        "mentions": 1,
+        "key_quote_zh": "伯克希尔持有通用食品198.38万股",
+        "key_quote_en": "Berkshire holds 1,983,812 shares of General Foods"
+      }
+    ],
+    "people": [
+      {
+        "name_zh": "查理·芒格",
+        "name_en": "Charlie Munger",
+        "aliases": ["芒格", "Munger"],
+        "description_zh": "伯克希尔副董事长，韦斯科金融董事长",
+        "description_en": "Berkshire Vice Chairman, Chairman of Wesco Financial",
+        "mentions": 2,
+        "key_quote_zh": "请特别留意查理·芒格在重新定位互助储贷业务方面所做的出色工作",
+        "key_quote_en": "Note the superb job done by Charlie Munger in repositioning Mutual Savings and Loan"
+      },
+      {
+        "name_zh": "杰克·伯恩",
+        "name_en": "Jack Byrne",
+        "aliases": ["Jack Byrne"],
+        "description_zh": "盖可保险CEO，1976年将公司从破产边缘挽救回来",
+        "description_en": "GEICO CEO who rescued the company from bankruptcy in 1976",
+        "mentions": 4,
+        "key_quote_zh": "杰克·伯恩在上任后大量提供了盖可保险起死回生所需的卓越管理能力",
+        "key_quote_en": "Jack Byrne, upon arrival in 1976, supplied managerial brilliance in abundance for GEICO's resuscitation"
+      },
+      {
+        "name_zh": "菲尔·列舍",
+        "name_en": "Phil Liesche",
+        "aliases": ["Phil Liesche"],
+        "description_zh": "国民保险公司总裁，承保纪律的坚定执行者",
+        "description_en": "President of National Indemnity,坚定的承保纪律执行者",
+        "mentions": 2,
+        "key_quote_zh": "菲尔·列舍领导国民保险在1980年超越自我，承保利润率创历史新高",
+        "key_quote_en": "Phil Liesche led National Indemnity to outdo themselves in 1980"
+      },
+      {
+        "name_zh": "吉恩·阿贝格",
+        "name_en": "Gene Abegg",
+        "aliases": ["Gene Abegg"],
+        "description_zh": "伊利诺伊国民银行创始人，1980年7月2日去世，享年82岁",
+        "description_en": "Founder of Illinois National Bank, died July 2, 1980 at age 82",
+        "mentions": 5,
+        "key_quote_zh": "吉恩·阿贝格，作为朋友、银行家和公民，他都是无人能出其右的",
+        "key_quote_en": "Gene Abegg, as a friend, a banker, and a citizen, he was without peer"
+      },
+      {
+        "name_zh": "弗兰克·德纳多",
+        "name_en": "Frank DeNardo",
+        "aliases": ["Frank DeNardo"],
+        "description_zh": "工伤赔偿保险专家，1980年去世，享年37岁",
+        "description_en": "Workers compensation specialist, died in 1980 at age 37",
+        "mentions": 2,
+        "key_quote_zh": "弗兰克·德纳多天生就有承保人的直觉，是一位出色的技术专家和强悍的竞争者",
+        "key_quote_en": "Frank DeNardo instinctively thought like an underwriter, a superb technician and fierce competitor"
+      },
+      {
+        "name_zh": "丹·格罗斯曼",
+        "name_en": "Dan Grossman",
+        "aliases": ["Dan Grossman"],
+        "description_zh": "接替德纳多管理工伤赔偿保险业务",
+        "description_en": "Took over workers compensation after DeNardo's death",
+        "mentions": 1,
+        "key_quote_zh": "丹·格罗斯曼在弗兰克去世后立即接手，继续运营工伤赔偿业务",
+        "key_quote_en": "Dan Grossman stepped in immediately after Frank's death to continue that operation"
+      },
+      {
+        "name_zh": "米尔特·桑顿",
+        "name_en": "Milt Thornton",
+        "aliases": ["Milton Thornton", "Milt Thornton"],
+        "description_zh": "赛普拉斯保险公司总裁，工伤赔偿保险的典范",
+        "description_en": "President of Cypress Insurance, model for workers compensation",
+        "mentions": 1,
+        "key_quote_zh": "米尔特·桑顿运营着一个远远领先于竞争对手的承保业务",
+        "key_quote_en": "Milt Thornton runs an underwriting operation that far outpaces his competition"
+      },
+      {
+        "name_zh": "乔治·扬",
+        "name_en": "George Young",
+        "aliases": ["George Young"],
+        "description_zh": "再保险业务负责人",
+        "description_en": "Reinsurance business manager",
+        "mentions": 1,
+        "key_quote_zh": "乔治·扬继续为我们在这项业务中做着一流的工作",
+        "key_quote_en": "George Young continues to do a first-class job for us in this business"
+      },
+      {
+        "name_zh": "本·罗斯纳",
+        "name_en": "Ben Rosner",
+        "aliases": ["Ben Rosner"],
+        "description_zh": "联合零售商店经营者，1931年起经营该公司",
+        "description_en": "Operator of Associated Retail Stores since 1931",
+        "mentions": 2,
+        "key_quote_zh": "本·罗斯纳的业绩继续让我们惊叹",
+        "key_quote_en": "Ben Rosner's record continues to amaze us"
+      },
+      {
+        "name_zh": "路易·文森蒂",
+        "name_en": "Louie Vincenti",
+        "aliases": ["Louie Vincenti"],
+        "description_zh": "互助储贷业务重新定位的关键人物",
+        "description_en": "Key figure in repositioning Mutual Savings and Loan",
+        "mentions": 1,
+        "key_quote_zh": "路易·文森蒂在重新定位互助储贷业务方面做出了出色的工作",
+        "key_quote_en": "Louie Vincenti did a superb job repositioning Mutual Savings and Loan"
+      },
+      {
+        "name_zh": "芭芭拉·斯图尔特",
+        "name_en": "Barbara Stewart",
+        "aliases": ["Barbara Stewart"],
+        "description_zh": "丘博保险分析师，发表了关于保险行业竞争态势的精彩分析",
+        "description_en": "Chubb analyst who published excellent analysis of insurance competitive dynamics",
+        "mentions": 1,
+        "key_quote_zh": "芭芭拉·斯图尔特的分析虽然不令人愉快，但我们认为它非常可能是准确的",
+        "key_quote_en": "Mrs. Stewart's analysis may not be cheerful, but we think it is very likely to be accurate"
+      },
+      {
+        "name_zh": "杰克·林沃尔特",
+        "name_en": "Jack Ringwalt",
+        "aliases": ["Jack Ringwalt"],
+        "description_zh": "国民保险公司创始人，建立了严格的承保纪律",
+        "description_en": "Founder of National Indemnity who established strict underwriting discipline",
+        "mentions": 1,
+        "key_quote_zh": "承保纪律由创始人杰克·林沃尔特从公司创立之初便植入其中",
+        "key_quote_en": "Underwriting discipline embedded from origin by the founder, Jack Ringwalt"
+      }
+    ],
+    "concepts": [
+      {
+        "name_zh": "留存收益",
+        "name_en": "Retained Earnings",
+        "aliases": ["未分配收益"],
+        "description_zh": "公司留存在业务中的收益，其价值取决于资金的使用效率和后续回报水平",
+        "description_en": "Earnings retained in the business; value depends on how capital is deployed and returns generated",
+        "mentions": 12,
+        "key_quote_zh": "留存收益的价值并不取决于我们持有的是100%、50%、20%还是1%的股权",
+        "key_quote_en": "The value of retained earnings is not determined by whether we own 100%, 50%, 20% or 1% of the businesses"
+      },
+      {
+        "name_zh": "内在价值",
+        "name_en": "Intrinsic Value",
+        "aliases": ["真实价值"],
+        "description_zh": "投资的真实价值，与市场价格不同步",
+        "description_en": "True value of an investment, different from market price",
+        "mentions": 2,
+        "key_quote_zh": "如果一家优秀的企业在市场上以远低于内在价值的价格出售",
+        "key_quote_en": "If a fine business is selling in the market place for far less than intrinsic value"
+      },
+      {
+        "name_zh": "收益冰山理论",
+        "name_en": "Earnings Iceberg Theory",
+        "aliases": ["冰山理论"],
+        "description_zh": "未入账的留存收益可能超过报告收益，就像冰山只有一小部分浮出水面",
+        "description_en": "Unbooked retained earnings may exceed reported earnings, like an iceberg with only a small portion visible",
+        "mentions": 3,
+        "key_quote_zh": "按照传统会计方法，我们的收益冰山只有不到一半浮出了水面",
+        "key_quote_en": "Conventional accounting only allows less than half of our earnings iceberg to appear above the surface"
+      },
+      {
+        "name_zh": "通胀税",
+        "name_en": "Inflation Tax",
+        "aliases": ["隐性税收", "通货膨胀税"],
+        "description_zh": "高通胀对资本造成的隐性税收，导致名义正回报可能变成实际负回报",
+        "description_en": "Hidden tax on capital caused by high inflation, turning nominal positive returns into real negative returns",
+        "mentions": 8,
+        "key_quote_zh": "高通胀率相当于对资本额外征了一次税",
+        "key_quote_en": "High rates of inflation create a tax on capital"
+      },
+      {
+        "name_zh": "真正的指数化",
+        "name_en": "True Indexing",
+        "aliases": ["指数化增长"],
+        "description_zh": "只有股本回报率上升，即不需追加资本收益就能与物价水平同步增长，才是真正的抗通胀",
+        "description_en": "Only rising ROE where earnings grow proportionally with prices without additional capital constitutes true inflation hedging",
+        "mentions": 3,
+        "key_quote_zh": "要让资本真正实现指数化增长，股本回报率必须上升",
+        "key_quote_en": "For capital to be truly indexed, return on equity must rise"
+      },
+      {
+        "name_zh": "现金流承保",
+        "name_en": "Cash Flow Underwriting",
+        "aliases": ["资产维持式承保"],
+        "description_zh": "不顾预期承保亏损承接业务以获取资金进行投资的做法",
+        "description_en": "Writing business regardless of expected underwriting losses to obtain funds for investment",
+        "mentions": 3,
+        "key_quote_zh": "行业媒体对现金流承保批评甚多",
+        "key_quote_en": "There is much criticism in the trade press of cash flow underwriting"
+      },
+      {
+        "name_zh": "综合比率",
+        "name_en": "Combined Ratio",
+        "aliases": [],
+        "description_zh": "保险行业衡量承保盈利能力的指标（赔付率+费用率），超过100%表示承保亏损",
+        "description_en": "Insurance metric (loss ratio + expense ratio); above 100% indicates underwriting loss",
+        "mentions": 1,
+        "key_quote_zh": "综合比率从1979年的100.6上升至1980年的估计值103.5",
+        "key_quote_en": "The combined ratio rising from 100.6 in 1979 to an estimated 103.5 in 1980"
+      },
+      {
+        "name_zh": "权益法",
+        "name_en": "Equity Method Accounting",
+        "aliases": ["权益法会计"],
+        "description_zh": "持股20%-50%时，按比例计入被投资公司净收益的会计方法",
+        "description_en": "Accounting method that includes proportionate share of investee net income for 20-50% ownership",
+        "mentions": 2,
+        "key_quote_zh": "超过20%的持股应当按照被投资公司方式处理",
+        "key_quote_en": "An interest over 20% would qualify as an investee holding"
+      },
+      {
+        "name_zh": "困境反转",
+        "name_en": "Turnaround",
+        "aliases": ["企业重组"],
+        "description_zh": "从财务困境中恢复的企业，通常需要管理层的根本性改变",
+        "description_en": "Business recovering from financial distress, usually requiring fundamental management change",
+        "mentions": 3,
+        "key_quote_zh": "购买和经营困境反转型企业通常令人失望",
+        "key_quote_en": "Disappointments that usually result from purchase and operation of turnaround businesses"
+      },
+      {
+        "name_zh": "持久竞争优势",
+        "name_en": "Durable Competitive Advantage",
+        "aliases": ["护城河", "经济特许权"],
+        "description_zh": "企业长期保持的、难以复制的竞争优势",
+        "description_en": "Long-term, hard-to-replicate competitive advantage of a business",
+        "mentions": 4,
+        "key_quote_zh": "盖可保险此前一直享有的根本性商业优势在公司内部始终完好无损",
+        "key_quote_en": "The fundamental business advantage GEICO had enjoyed was still intact within the company"
+      }
+    ]
+  },
+  "key_numbers": {
+    "operating_earnings_1980": 41900000,
+    "operating_earnings_1979": 36000000,
+    "return_on_equity": 0.178,
+    "book_value_per_share_1980": 400.80,
+    "book_value_per_share_1965": 19.46,
+    "cagr_16_years": 0.205,
+    "geico_cost": 47138000,
+    "geico_market": 105300000,
+    "geico_shares": 7200000,
+    "geico_equity_interest": 0.33,
+    "total_equity_holdings_cost": 325161000,
+    "total_equity_holdings_market": 529687000,
+    "undistributed_earnings_vs_reported": "greater"
+  },
+  "sources": [
+    {
+      "en": "raw/berkshire/1980-letter-en.md",
+      "zh": "raw/berkshire/1980-letter-zh.txt"
+    }
+  ],
+  "created": "2026-04-07",
+  "status": "draft"
+}
