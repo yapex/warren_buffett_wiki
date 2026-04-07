@@ -34,6 +34,9 @@
 
 | 年份 | 信件 | 摘要 | 状态 |
 |------|------|------|------|
+| 1980 | [1980-letter](letters/1980-letter.md) | [1980-summary](letters/1980-summary.md) | ✅ draft |
+| 1981 | [1981-letter](letters/1981-letter.md) | [1981-summary](letters/1981-summary.md) | ✅ draft |
+| 1983 | [1983-letter](letters/1983-letter.md) | [1983-summary](letters/1983-summary.md) | ✅ draft |
 | 1989 | [1989-letter](letters/1989-letter.md) | [1989-summary](letters/1989-summary.md) | ✅ draft |
 
 #### 1990s–2020s
@@ -61,10 +64,19 @@
 | 综合比率 | [综合比率](concepts/综合比率.md) | 1977 | [1977-letter](letters/1977-letter.md), [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
 | 保险浮存金 | [保险浮存金](concepts/保险浮存金.md) | 1977 | [1977-letter](letters/1977-letter.md), [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
 | 集中投资 | [集中投资](concepts/集中投资.md) | 1978 | [1978-letter](letters/1978-letter.md) |
-| 留存收益 | [留存收益](concepts/留存收益.md) | 1978 | [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
+| 留存收益 | [留存收益](concepts/留存收益.md) | 1978 | [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md), [1980-letter](letters/1980-letter.md), [1981-letter](letters/1981-letter.md) |
+| 无控制权持股收益 | [无控制权持股收益](concepts/无控制权持股收益.md) | 1981 | [1981-letter](letters/1981-letter.md) |
+| 收益冰山理论 | [收益冰山理论](concepts/收益冰山理论.md) | 1980 | [1980-letter](letters/1980-letter.md) |
+| 真正的指数化 | [真正的指数化](concepts/真正的指数化.md) | 1980 | [1980-letter](letters/1980-letter.md) |
+| 现金流承保 | [现金流承保](concepts/现金流承保.md) | 1980 | [1980-letter](letters/1980-letter.md) |
+| 权益法 | [权益法](concepts/权益法.md) | 1980 | [1980-letter](letters/1980-letter.md) |
+| 持久竞争优势 | [持久竞争优势](concepts/持久竞争优势.md) | 1980 | [1980-letter](letters/1980-letter.md) |
 | 投资人痛苦指数 | [投资人痛苦指数](concepts/投资人痛苦指数.md) | 1979 | [1979-letter](letters/1979-letter.md) |
 | 长期固定利率债券 | [长期固定利率债券](concepts/长期固定利率债券.md) | 1979 | [1979-letter](letters/1979-letter.md) |
 | 困境反转 | [困境反转](concepts/困境反转.md) | 1979 | [1979-letter](letters/1979-letter.md) |
+| 商誉 | [商誉](concepts/商誉.md) | 1983 | [1983-letter](letters/1983-letter.md) |
+| 经济商誉 | [经济商誉](concepts/经济商誉.md) | 1983 | [1983-letter](letters/1983-letter.md) |
+| 特许经营权 | [特许经营权](concepts/特许经营权.md) | 1983 | [1983-letter](letters/1983-letter.md) |
 | 内在价值 | [内在价值](concepts/内在价值.md) | 1989 | [1989-letter](letters/1989-letter.md) |
 | 透视收益 | [透视收益](concepts/透视收益.md) | 1989 | [1989-letter](letters/1989-letter.md) |
 | 烟蒂投资法 | [烟蒂投资法](concepts/烟蒂投资法.md) | 1989 | [1989-letter](letters/1989-letter.md) |
@@ -86,7 +98,8 @@
 | 大都会通讯公司 | [大都会通讯公司](companies/大都会通讯公司.md) | 持股 | [1977-letter](letters/1977-letter.md) |
 | 伊利诺伊国民银行 | [伊利诺伊国民银行](companies/伊利诺伊国民银行.md) | 子公司 | [1977-letter](letters/1977-letter.md), [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
 | 韦斯科金融公司 | [韦斯科金融公司](companies/韦斯科金融公司.md) | 间接持股 | [1977-letter](letters/1977-letter.md), [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
-| 国民保险公司 | [国民保险公司](companies/国民保险公司.md) | 子公司 | [1977-letter](letters/1977-letter.md), [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
+| 丘博保险 | [丘博保险](companies/丘博保险.md) | 行业参考 | [1980-letter](letters/1980-letter.md) |
+| 国民保险公司 | [国民保险公司](companies/国民保险公司.md) | 子公司 | [1977-letter](letters/1977-letter.md), [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md), [1980-letter](letters/1980-letter.md) |
 | SAFECO公司 | [SAFECO公司](companies/SAFECO公司.md) | 持股 | [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
 | 布法罗晚报 | [布法罗晚报](companies/布法罗晚报.md) | 间接持股 | [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
 | 美国广播公司 | [美国广播公司](companies/美国广播公司.md) | 持股 | [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
@@ -96,6 +109,8 @@
 | 联合零售商店 | [联合零售商店](companies/联合零售商店.md) | 全资子公司 | [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
 | 喜诗糖果 | [喜诗糖果](companies/喜诗糖果.md) | 全资子公司 | [1977-letter](letters/1977-letter.md), [1979-letter](letters/1979-letter.md), [1989-letter](letters/1989-letter.md) |
 | Cypress保险 | [Cypress保险](companies/Cypress保险.md) | 子公司 | [1979-letter](letters/1979-letter.md) |
+| 雷诺烟草 | [雷诺烟草](companies/雷诺烟草.md) | 持股 | [1981-letter](letters/1981-letter.md) |
+| 平克顿安保 | [平克顿安保](companies/平克顿安保.md) | 潜在机会 | [1981-letter](letters/1981-letter.md) |
 | 互助储贷公司 | [互助储贷公司](companies/互助储贷公司.md) | 间接持股 | [1979-letter](letters/1979-letter.md) |
 | 精密钢铁 | [精密钢铁](companies/精密钢铁.md) | 间接持股 | [1979-letter](letters/1979-letter.md) |
 | 联合出版公司 | [联合出版公司](companies/联合出版公司.md) | 持股 | [1979-letter](letters/1979-letter.md) |
@@ -108,7 +123,7 @@
 | 可口可乐 | [可口可乐](companies/可口可乐.md) | 持股 | [1989-letter](letters/1989-letter.md) |
 | 波仙珠宝 | [波仙珠宝](companies/波仙珠宝.md) | 全资子公司 | [1989-letter](letters/1989-letter.md) |
 | 吉列 | [吉列](companies/吉列.md) | 可转换优先股 | [1989-letter](letters/1989-letter.md) |
-| 内布拉斯加家具商场 | [内布拉斯加家具商场](companies/内布拉斯加家具商场.md) | 全资子公司 | [1989-letter](letters/1989-letter.md) |
+| 内布拉斯加家具商场 | [内布拉斯加家具商场](companies/内布拉斯加家具商场.md) | 全资子公司 | [1983-letter](letters/1983-letter.md), [1989-letter](letters/1989-letter.md) |
 
 ---
 
@@ -116,18 +131,29 @@
 
 | 人物 | 文件 | 角色 | 涉及信件 |
 |------|------|------|---------|
-| 菲尔·利舍 | [菲尔·利舍](people/菲尔·利舍.md) | 国民保险经理 | [1977-letter](letters/1977-letter.md), [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
-| 吉恩·阿贝格 | [吉恩·阿贝格](people/吉恩·阿贝格.md) | 伊利诺伊国民银行创始人 | [1977-letter](letters/1977-letter.md), [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
+| 菲尔·利舍 | [菲尔·利舍](people/菲尔·利舍.md) | 国民保险经理 | [1977-letter](letters/1977-letter.md), [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md), [1980-letter](letters/1980-letter.md), [1981-letter](letters/1981-letter.md) |
+| 吉恩·阿贝格 | [吉恩·阿贝格](people/吉恩·阿贝格.md) | 伊利诺伊国民银行创始人 | [1977-letter](letters/1977-letter.md), [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md), [1980-letter](letters/1980-letter.md) |
 | 肯尼思·蔡斯 | [肯尼思·蔡斯](people/肯尼思·蔡斯.md) | 纺织业务经理 | [1977-letter](letters/1977-letter.md) |
 | 杰克·林沃尔特 | [杰克·林沃尔特](people/杰克·林沃尔特.md) | 国民保险创始人 | [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
 | 本·罗斯纳 | [本·罗斯纳](people/本·罗斯纳.md) | 联合零售商店创始人 | [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
-| 弗兰克·德纳尔多 | [弗兰克·德纳尔多](people/弗兰克·德纳尔多.md) | 国民保险加州工伤赔偿 | [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
-| 米尔特·桑顿 | [米尔特·桑顿](people/米尔特·桑顿.md) | 赛普勒斯保险管理者 | [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
+| 弗兰克·德纳尔多 | [弗兰克·德纳尔多](people/弗兰克·德纳尔多.md) | 国民保险加州工伤赔偿 | [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md), [1980-letter](letters/1980-letter.md) |
+| 米尔特·桑顿 | [米尔特·桑顿](people/米尔特·桑顿.md) | 赛普勒斯保险管理者 | [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md), [1980-letter](letters/1980-letter.md) |
+| 杰克·伯恩 | [杰克·伯恩](people/杰克·伯恩.md) | 盖可保险 CEO | [1980-letter](letters/1980-letter.md) |
+| 丹·格罗斯曼 | [丹·格罗斯曼](people/丹·格罗斯曼.md) | 工伤赔偿保险 | [1980-letter](letters/1980-letter.md) |
+| 乔治·扬 | [乔治·扬](people/乔治·扬.md) | 再保险业务 | [1980-letter](letters/1980-letter.md) |
+| 芭芭拉·斯图尔特 | [芭芭拉·斯图尔特](people/芭芭拉·斯图尔特.md) | 丘博保险分析师 | [1980-letter](letters/1980-letter.md) |
+| 沃伦·巴菲特 | [沃伦·巴菲特](people/沃伦·巴菲特.md) | 伯克希尔董事长 | [1981-letter](letters/1981-letter.md) |
+| 查理·芒格 | [查理·芒格](people/查理·芒格.md) | 副董事长 | [1981-letter](letters/1981-letter.md) |
+| 乔治·扬 | [乔治·扬](people/乔治·扬.md) | 再保险业务 | [1980-letter](letters/1980-letter.md), [1981-letter](letters/1981-letter.md) |
+| 本·海涅曼 | [本·海涅曼](people/本·海涅曼.md) | 西北工业 CEO | [1981-letter](letters/1981-letter.md) |
+| 亨利·辛格尔顿 | [亨利·辛格尔顿](people/亨利·辛格尔顿.md) | 特利丹 CEO | [1981-letter](letters/1981-letter.md) |
+| 埃尔文·扎班 | [埃尔文·扎班](people/埃尔文·扎班.md) | 国民服务工业 CEO | [1981-letter](letters/1981-letter.md) |
+| 汤姆·墨菲 | [汤姆·墨菲](people/汤姆·墨菲.md) | 大都会通讯 CEO | [1981-letter](letters/1981-letter.md) |
 | 弗洛伊德·泰勒 | [弗洛伊德·泰勒](people/弗洛伊德·泰勒.md) | 堪萨斯火灾及意外险 | [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
 | 约翰·林沃尔特 | [约翰·林沃尔特](people/约翰·林沃尔特.md) | 住宅保险集团负责人 | [1978-letter](letters/1978-letter.md), [1979-letter](letters/1979-letter.md) |
 | 菲利普·费雪 | [菲利普·费雪](people/菲利普·费雪.md) | 投资家/作家 | [1979-letter](letters/1979-letter.md) |
 | 查理·芒格 | [查理·芒格](people/查理·芒格.md) | 副董事长 | [1989-letter](letters/1989-letter.md) |
-| B夫人 | [B夫人](people/B夫人.md) | NFM创始人 | [1989-letter](letters/1989-letter.md) |
+| B夫人 | [B夫人](people/B夫人.md) | NFM创始人 | [1983-letter](letters/1983-letter.md), [1989-letter](letters/1989-letter.md) |
 | Ike Friedman | [Ike Friedman](people/Ike Friedman.md) | 波仙珠宝 | [1989-letter](letters/1989-letter.md) |
 | Roberto Goizueta | [Roberto Goizueta](people/Roberto Goizueta.md) | 可口可乐CEO | [1989-letter](letters/1989-letter.md) |
 
@@ -143,10 +169,10 @@
 
 ## 📊 统计 / Stats
 
-- 信件：4 / 99
-- 概念：17
-- 公司：29
-- 人物：17
+- 信件：6 / 99 (+1)
+- 概念：26 (+3)
+- 公司：32 (+0)
+- 人物：26 (+0)
 - 分析：0
 
 ---

@@ -2,6 +2,44 @@
 
 <!-- Append-only log. Format: ## [YYYY-MM-DD] action | description -->
 
+## [2026-04-07] ingest | 1982 Berkshire Shareholder Letter (ClawTeam tmux+subprocess pi --no-session)
+- Raw sources: EN from juliuschun/eco-moat-ai, ZH from buffett-letters-eir.pages.dev (pre-existing)
+- Pipeline: ClawTeam with tmux pi (aligner) + subprocess pi (extractor, summarizer, verifier, wikier) workers
+- Created: [1982-letter](letters/1982-letter.md), [1982-summary](letters/1982-summary.md), [entities-1982.md](tmp/entities-1982.md)
+- QA result: ✅ PASS — 6/6 sections present, all chapter headers match, signature/date present
+- Created companies: [GEICO](companies/GEICO.md), [General-Foods](companies/General-Foods.md)
+- Link verification: Partial — some links use English filenames (GEICO, Blue Chip Stamps) but actual files use Chinese (盖可保险, 蓝筹印花)
+- New pages: 3 (1982-letter, 1982-summary, 2 company pages)
+- Updated pages: 0
+
+## [2026-04-07] ingest | 1981 Berkshire Shareholder Letter (ClawTeam subprocess pi -p mode)
+- Raw sources: EN from juliuschun/eco-moat-ai, ZH from buffett-letters-eir.pages.dev (pre-existing)
+- Pipeline: ClawTeam with subprocess pi -p --no-session workers
+- Created: [1981-letter](letters/1981-letter.md), [1981-summary](letters/1981-summary.md), [tmp/1981-entities.json](tmp/1981-entities.json)
+- QA findings: broken link 沃伦·巴菲特 (page not created), relative paths in summary (companies/ -> ../companies/), wrong link: 罗兰·米勒->乔治·扬
+- QA result: ✅ PASS after fixes — 22 links verified, all sections present
+- Created concepts: [无控制权持股收益](concepts/无控制权持股收益.md)
+- Created companies: [雷诺烟草](companies/雷诺烟草.md), [平克顿安保](companies/平克顿安保.md)
+- Created people: [沃伦·巴菲特](people/沃伦·巴菲特.md), [本·海涅曼](people/本·海涅曼.md), [亨利·辛格尔顿](people/亨利·辛格尔顿.md), [埃尔文·扎班](people/埃尔文·扎班.md), [汤姆·墨菲](people/汤姆·墨菲.md)
+- Updated entities: 菲尔·利舍 (1981 ref), 乔治·扬 (1981 ref), 留存收益 (1981 ref)
+- Link verification: ✅ All links pass after fixes — 22 links verified
+- New pages: 8
+- Updated pages: 3
+
+## [2026-04-07] ingest | 1980 Berkshire Shareholder Letter (ClawTeam pilot)
+- Raw sources: EN from juliuschun/eco-moat-ai, ZH from buffett-letters-eir.pages.dev (pre-existing)
+- Pipeline: ClawTeam with 1 content worker (pi) + 1 QA worker (pi)
+- Created: [1980-letter](letters/1980-letter.md), [1980-summary](letters/1980-summary.md), [tmp/1980-entities.json](tmp/1980-entities.json)
+- QA findings: 6 broken wiki links fixed (韦斯科金融→韦斯科金融公司, 互助储贷→互助储贷公司, 国民保险→国民保险公司, 赛普拉斯保险→Cypress保险)
+- QA result: ✅ PASS — all checks passed (40/40 callout pairs, all sections present, 11 links verified)
+- Created concepts: [收益冰山理论](concepts/收益冰山理论.md), [真正的指数化](concepts/真正的指数化.md), [现金流承保](concepts/现金流承保.md), [权益法](concepts/权益法.md), [持久竞争优势](concepts/持久竞争优势.md)
+- Created companies: [丘博保险](companies/丘博保险.md)
+- Created people: [杰克·伯恩](people/杰克·伯恩.md), [丹·格罗斯曼](people/丹·格罗斯曼.md), [乔治·扬](people/乔治·扬.md), [芭芭拉·斯图尔特](people/芭芭拉·斯图尔特.md)
+- Updated entities: 吉恩·阿贝格, 菲尔·利舍, 弗兰克·德纳尔多, 米尔特·桑顿, 留存收益 (1980 reference added)
+- Link verification: ✅ All links pass — 11 links verified
+- New pages: 10
+- Updated pages: 5
+
 ## [2026-04-07] ingest | 1979 Berkshire Shareholder Letter
 - Raw sources: EN from juliuschun/eco-moat-ai, ZH from buffett-letters-eir.pages.dev (pre-existing)
 - Bilingual letter and summary already existed; verified completeness: all 9 sections present
@@ -46,3 +84,14 @@
 - Created people: [查理·芒格](people/查理·芒格.md), [B夫人](people/B夫人.md), [Ike Friedman](people/Ike Friedman.md), [Roberto Goizueta](people/Roberto Goizueta.md)
 - New pages: 16
 - Updated pages: 0
+
+## [2026-04-07] ingest | 1983 Berkshire Shareholder Letter
+- Raw sources: EN from juliuschun/eco-moat-ai (markdown/buffett-letter-1983.md), ZH from buffett-letters-eir.pages.dev (berkshire/1983-巴菲特致股东信.html)
+- Created: [1983-letter](letters/1983-letter.md), [1983-summary](letters/1983-summary.md)
+- QA result: ✅ PASS — all sections present, signature/date present, ZH-EN pairs balanced
+- Created concepts: [商誉](concepts/商誉.md), [经济商誉](concepts/经济商誉.md), [特许经营权](concepts/特许经营权.md)
+- Updated companies: [内布拉斯加家具商场](companies/内布拉斯加家具商场.md) (added 1983 source), [B夫人](people/B夫人.md) (added 1983 source)
+- Updated index: Added 1983 to letters table, updated stats
+- Link verification: ✅ All links pass
+- New pages: 5 (letter, summary, 3 concepts)
+- Updated pages: 2 (NFM company page, B夫人 person page)

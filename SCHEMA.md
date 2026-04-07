@@ -83,7 +83,7 @@ Uses Obsidian callout syntax for paragraph-aligned reading:
 | Category | Pattern | Example |
 |----------|---------|---------|
 | Raw English | `YYYY-letter-en.md` | `1989-letter-en.md` |
-| Raw Chinese | `YYYY-letter-zh.txt` | `1989-letter-zh.txt` |
+| Raw Chinese | `YYYY-letter-zh.md` | `1989-letter-zh.md` |
 | Bilingual letter | `YYYY-letter.md` | `1989-letter.md` |
 | Letter summary | `YYYY-summary.md` | `1989-summary.md` |
 | Concept | `title_zh.md` | `内在价值.md` |
@@ -101,7 +101,7 @@ Uses Obsidian callout syntax for paragraph-aligned reading:
    - **English** → `raw/berkshire/YYYY-letter-en.md`
      - Source: [juliuschun/eco-moat-ai](https://github.com/juliuschun/eco-moat-ai) (Markdown)
      - Path pattern: `markdown/buffett-letter-YYYY.md` (query the repo tree if unsure)
-   - **Chinese** → `raw/berkshire/YYYY-letter-zh.txt`
+   - **Chinese** → `raw/berkshire/YYYY-letter-zh.md`
      - Source: [buffett-letters-eir](https://buffett-letters-eir.pages.dev) (static HTML, SPA with sidebar navigation)
      - The site is a static HTML site (not a JS SPA). Each letter has a direct URL at `berkshire/YYYY-巴菲特致股东信.html` (find the exact href from the homepage).
      - Extract the `<article>` content: remove `<script>`, `<style>`, sidebar/nav noise; keep only the article body text.
