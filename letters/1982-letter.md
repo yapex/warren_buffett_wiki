@@ -35,13 +35,13 @@
 > [!zh] 🇨🇳
 > 附列的财务报表所反映的"会计"收益，通常包括了我们在持股比例达到20%以上的被投资企业中按比例应享有的收益。然而，持股比例低于20%时，我们的会计数字中只计入实际收到的现金股利；这些持股不到20%的企业的未分配收益则被完全忽略。
 >
-> 当然也有少数例外。比如，我们持有盖可保险 ([GEICO](companies/GEICO.md)) 约35%的股权，但由于我们已将投票权委托出去，会计上被视同持股不到20%。因此，1982年我们从GEICO收到的税后股利350万美元，是唯一计入"会计"收益的项目。另外2,300万美元——也就是我们在GEICO 1982年未分配经营收益中应享有的份额——则被完全排除在报告收益之外。如果GEICO 1982年赚得更少，但多发了100万美元的股利，我们的报告收益反而会增加，尽管企业经营实际变差了。反过来，如果GEICO额外多赚1亿美元并全部留存，我们的报告收益也不会有任何变化。很显然，"会计收益"有时会严重扭曲经济现实。
+> 当然也有少数例外。比如，我们持有盖可保险 ([GEICO](companies/盖可保险.md)) 约35%的股权，但由于我们已将投票权委托出去，会计上被视同持股不到20%。因此，1982年我们从GEICO收到的税后股利350万美元，是唯一计入"会计"收益的项目。另外2,300万美元——也就是我们在GEICO 1982年未分配经营收益中应享有的份额——则被完全排除在报告收益之外。如果GEICO 1982年赚得更少，但多发了100万美元的股利，我们的报告收益反而会增加，尽管企业经营实际变差了。反过来，如果GEICO额外多赚1亿美元并全部留存，我们的报告收益也不会有任何变化。很显然，"会计收益"有时会严重扭曲经济现实。
 >
 > 我们更偏好"经济收益"这个概念——它包含了所有未分配收益，不管持股比例高低。在我们看来，一家企业留存收益对全体股东的价值，取决于这些收益的运用效率，而不是你持股比例的大小。如果你在过去十年中持有伯克希尔万分之一的股份，无论你采用什么会计制度，你都按比例充分享受到了我们留存收益所带来的经济利益，与持股20%以上的"魔法门槛"没有任何差别。但如果过去十年中，你百分之百拥有许多家资本密集型企业，按照标准会计方法，这些留存收益虽然百分之百精确地记录在你的账上，但它们实际带来的经济价值微乎其微，甚至为零。这不是在批评会计准则——我们可不想接手设计一套更好的制度。我只是想说，管理层和投资者都必须明白：会计数字是企业估值的起点，而非终点。
 >
 > 在大多数公司中，低于20%的持股并不重要（部分原因或许在于，它们会妨碍管理层最大化那个受人追捧的报告收益数字），我们刚才讨论的会计收益与经济收益之间的差异也无关紧要。但就我们自身而言，这类持股的重要性巨大且持续增长。正是因为其规模之大，我们认为报告的经营收益数字对伯克希尔的参考意义已相当有限。
 >
-> 在1981年年报中，我们预测1982年我们在四大非控股公司中应享有的未分配收益将合计超过3,500万美元。今年，其中三家公司——盖可保险 ([GEICO](companies/GEICO.md))、通用食品 ([General Foods](companies/General-Foods.md)) 和华盛顿邮报 ([The Washington Post](companies/The-Washington-Post.md)) ——的持股比例未变，第四家雷诺工业 ([R. J. Reynolds](companies/RJ-Reynolds.md)) 则大幅增持，这四家公司1982年未分配经营收益中我们应享有的份额远超4,000万美元。这个数字完全没有反映在我们的报告收益中——我们仅仅列报了从这些公司收到的1,400万美元现金股利。当然，我们还有一些规模较小的非控股投资，合计也有相当可观的未分配收益。
+> 在1981年年报中，我们预测1982年我们在四大非控股公司中应享有的未分配收益将合计超过3,500万美元。今年，其中三家公司——盖可保险 ([GEICO](companies/盖可保险.md))、通用食品 ([General Foods](companies/通用食品.md)) 和华盛顿邮报 ([The Washington Post](companies/华盛顿邮报.md)) ——的持股比例未变，第四家雷诺工业 ([R. J. Reynolds](companies/雷诺烟草.md)) 则大幅增持，这四家公司1982年未分配经营收益中我们应享有的份额远超4,000万美元。这个数字完全没有反映在我们的报告收益中——我们仅仅列报了从这些公司收到的1,400万美元现金股利。当然，我们还有一些规模较小的非控股投资，合计也有相当可观的未分配收益。
 >
 > 我们重视这些数字的大致规模，但没必要精确到小数点后十位。伯克希尔要将这些留存收益通过市场增值加以变现，需缴纳金额可观但尚不确定的税款。虽然多年来，这些公司的留存收益总体上至少已转化为等量的市场价值，但这种转化在不同公司之间极不均衡，在时间节奏上也毫无规律、难以预测。
 >
@@ -51,13 +51,13 @@
 >
 > 我们的部分股权投资方式固然令人满意，但真正让我们手舞足蹈的，是以合理的价格百分之百收购一家优秀企业。这样的壮举我们偶尔做到过（也期望再次做到），但这是一项异常困难的工作——远比以低价买入部分股权要难得多。
 >
-> 回顾1982年其他公司完成的几笔大型收购，我们的反应不是羡慕，而是庆幸我们没有参与其中。因为在许多收购案中，管理层的理智在肾上腺素的冲击下节节败退。追逐的刺激让追逐者对猎物到手后的后果视而不见。[帕斯卡](people/Pascal.md) 的观察恰如其分："让我震惊的是，人的一切不幸，都源于他们无法安安静静地待在一个房间里。"
+> 回顾1982年其他公司完成的几笔大型收购，我们的反应不是羡慕，而是庆幸我们没有参与其中。因为在许多收购案中，管理层的理智在肾上腺素的冲击下节节败退。追逐的刺激让追逐者对猎物到手后的后果视而不见。[帕斯卡](people/帕斯卡.md) 的观察恰如其分："让我震惊的是，人的一切不幸，都源于他们无法安安静静地待在一个房间里。"
 >
 > （你们的董事长去年也不安分地多次离开了那个房间，差点成了"1982年收购闹剧"的主角。回想起来，我们这一年最大的成就，竟然是一笔我们已经坚定承诺要做的巨额收购，因为完全不在我们控制范围内的原因而告吹了。如果这笔交易成了，它将消耗大量的时间和精力，换来的却是一个极不确定的结果。如果我们要在这份报告中加几张图表，来描绘过去一年令人欣喜的商业进展，那么描绘这笔流产交易最合适的插图，就是两页空白。）
 >
 > 只有在我们能够以诱人的价格买到诱人企业的部分股权时，我们的部分所有权策略才能稳健地延续下去。我们需要一个定价适中的股票市场来助我们一臂之力。市场就像上帝一样，帮助那些自助的人。但与上帝不同的是，市场不会原谅那些不知道自己在做什么的人。对投资者来说，即便是一家极其优秀的公司，买入价格过高就可能抵消其后十年靓丽的业务发展。
 >
-> 如果股市大幅走高，我们有效运用资本进行部分股权投资的能力就会减弱甚至完全丧失。这种情况会周期性地出现：就在十年前，两极化市场狂热达到顶峰时（高股本回报率的公司被机构投资者捧上了天），伯克希尔的保险子公司持有的股票市值仅1,800万美元（不含蓝筹印花 ([Blue Chip Stamps](companies/Blue-Chip-Stamps.md)) 的权益）。当时，这类股权投资约占我们保险公司投资组合的15%，而现在这一比例是80%。1972年和1982年一样，也有许多优秀的企业，但1972年股票市场对这些企业的定价简直荒谬。虽然股价高涨会让我们的业绩暂时好看，但对我们的长期商业前景弊大于利。而目前，我们已经看到了这个问题的早期端倪。
+> 如果股市大幅走高，我们有效运用资本进行部分股权投资的能力就会减弱甚至完全丧失。这种情况会周期性地出现：就在十年前，两极化市场狂热达到顶峰时（高股本回报率的公司被机构投资者捧上了天），伯克希尔的保险子公司持有的股票市值仅1,800万美元（不含蓝筹印花 ([Blue Chip Stamps](companies/蓝筹印花.md)) 的权益）。当时，这类股权投资约占我们保险公司投资组合的15%，而现在这一比例是80%。1972年和1982年一样，也有许多优秀的企业，但1972年股票市场对这些企业的定价简直荒谬。虽然股价高涨会让我们的业绩暂时好看，但对我们的长期商业前景弊大于利。而目前，我们已经看到了这个问题的早期端倪。
 
 > [!en] 🇺🇸
 > The appended financial statements reflect "accounting" earnings that generally include our proportionate share of earnings from any underlying business in which our ownership is at least 20%. Below the 20% ownership figure, however, only our share of dividends paid by the underlying business units is included in our accounting numbers; undistributed earnings of such less-than-20%-owned businesses are totally ignored.
@@ -68,7 +68,7 @@
 >
 > In most corporations, less-than-20% ownership positions are unimportant (perhaps, in part, because they prevent maximization of cherished reported earnings) and the distinction between accounting and economic results we have just discussed matters little. But in our own case, such positions are of very large and growing importance. Their magnitude, we believe, is what makes our reported operating earnings figure of limited significance.
 >
-> In our 1981 annual report we predicted that our share of undistributed earnings from four of our major non-controlled holdings would aggregate over $35 million in 1982. With no change in our holdings of three of these companies - [GEICO](companies/GEICO.md), [General Foods](companies/General-Foods.md) and [The Washington Post](companies/The-Washington-Post.md) - and a considerable increase in our ownership of the fourth, [R. J. Reynolds Industries](companies/RJ-Reynolds.md), our share of undistributed 1982 operating earnings of this group came to well over $40 million. This number - not reflected at all in our earnings - is greater than our total reported earnings, which include only the $14 million in dividends received from these companies. And, of course, we have a number of smaller ownership interests that, in aggregate, had substantial additional undistributed earnings.
+> In our 1981 annual report we predicted that our share of undistributed earnings from four of our major non-controlled holdings would aggregate over $35 million in 1982. With no change in our holdings of three of these companies - [GEICO](companies/盖可保险.md), [General Foods](companies/通用食品.md) and [The Washington Post](companies/华盛顿邮报.md) - and a considerable increase in our ownership of the fourth, [R. J. Reynolds Industries](companies/雷诺烟草.md), our share of undistributed 1982 operating earnings of this group came to well over $40 million. This number - not reflected at all in our earnings - is greater than our total reported earnings, which include only the $14 million in dividends received from these companies. And, of course, we have a number of smaller ownership interests that, in aggregate, had substantial additional undistributed earnings.
 >
 > We attach real significance to the general magnitude of these numbers, but we don't believe they should be carried to ten decimal places. Realization by Berkshire of such retained earnings through improved market valuations is subject to very substantial, but indeterminate, taxation. And while retained earnings over the years, and in the aggregate, have translated into at least equal market value for shareholders, the translation has been both extraordinarily uneven among companies and irregular and unpredictable in timing.
 >
@@ -78,13 +78,13 @@
 >
 > Satisfactory as our partial-ownership approach has been, what really makes us dance is the purchase of 100% of good businesses at reasonable prices. We've accomplished this feat a few times (and expect to do so again), but it is an extraordinarily difficult job - far more difficult than the purchase at attractive prices of fractional interests.
 >
-> As we look at the major acquisitions that others made during 1982, our reaction is not envy, but relief that we were non-participants. For in many of these acquisitions, managerial intellect wilted in competition with managerial adrenaline The thrill of the chase blinded the pursuers to the consequences of the catch. [Pascal](people/Pascal.md)'s observation seems apt: "It has struck me that all men's misfortunes spring from the single cause that they are unable to stay quietly in one room."
+> As we look at the major acquisitions that others made during 1982, our reaction is not envy, but relief that we were non-participants. For in many of these acquisitions, managerial intellect wilted in competition with managerial adrenaline The thrill of the chase blinded the pursuers to the consequences of the catch. [Pascal](people/帕斯卡.md)'s observation seems apt: "It has struck me that all men's misfortunes spring from the single cause that they are unable to stay quietly in one room."
 >
 > (Your Chairman left the room once too often last year and almost starred in the Acquisition Follies of 1982. In retrospect, our major accomplishment of the year was that a very large purchase to which we had firmly committed was unable to be completed for reasons totally beyond our control. Had it come off, this transaction would have consumed extraordinary amounts of time and energy, all for a most uncertain payoff. If we were to introduce graphics to this report, illustrating favorable business developments of the past year, two blank pages depicting this blown deal would be the appropriate centerfold.)
 >
 > Our partial-ownership approach can be continued soundly only as long as portions of attractive businesses can be acquired at attractive prices. We need a moderately-priced stock market to assist us in this endeavor. The market, like the Lord, helps those who help themselves. But, unlike the Lord, the market does not forgive those who know not what they do. For the investor, a too-high purchase price for the stock of an excellent company can undo the effects of a subsequent decade of favorable business developments.
 >
-> Should the stock market advance to considerably higher levels, our ability to utilize capital effectively in partial-ownership positions will be reduced or eliminated. This will happen periodically: just ten years ago, at the height of the two-tier market mania (with high-return-on-equity businesses bid to the sky by institutional investors), Berkshire's insurance subsidiaries owned only $18 million in market value of equities, excluding their interest in [Blue Chip Stamps](companies/Blue-Chip-Stamps.md). At that time, such equity holdings amounted to about 15% of our insurance company investments versus the present 80%. There were as many good businesses around in 1972 as in 1982, but the prices the stock market placed upon those businesses in 1972 looked absurd. While high stock prices in the future would make our performance look good temporarily, they would hurt our long-term business prospects rather than help them. We currently are seeing early traces of this problem.
+> Should the stock market advance to considerably higher levels, our ability to utilize capital effectively in partial-ownership positions will be reduced or eliminated. This will happen periodically: just ten years ago, at the height of the two-tier market mania (with high-return-on-equity businesses bid to the sky by institutional investors), Berkshire's insurance subsidiaries owned only $18 million in market value of equities, excluding their interest in [Blue Chip Stamps](companies/蓝筹印花.md). At that time, such equity holdings amounted to about 15% of our insurance company investments versus the present 80%. There were as many good businesses around in 1972 as in 1982, but the prices the stock market placed upon those businesses in 1972 looked absurd. While high stock prices in the future would make our performance look good temporarily, they would hurt our long-term business prospects rather than help them. We currently are seeing early traces of this problem.
 
 ## 长期公司业绩 / Long-Term Corporate Performance
 
@@ -95,7 +95,7 @@
 >
 > 伯克希尔的经济目标依然是：实现远高于美国一般大型企业的长期回报率。我们愿意以部分或全部股权的方式买入具有竞争优势的企业，再加上对买入价格的合理自律，应该能给我们实现这一目标的良好机会。
 >
-> 今年，非控股企业的市值涨幅再次超过了这些企业内在经济价值的增长。举例来说，我们2.08亿美元收益中有7,900万美元归因于GEICO股价的上涨。这家公司持续表现出色，GEICO基本商业理念的竞争力以及杰克·伯恩 ([Jack Byrne](people/Jack-Byrne.md)) 的管理才能，让我们越来越佩服。（虽然在顶尖商学院的教科书里找不到"让杰克来干"这条信条，但作为我们的经营准则，效果相当不错。）
+> 今年，非控股企业的市值涨幅再次超过了这些企业内在经济价值的增长。举例来说，我们2.08亿美元收益中有7,900万美元归因于GEICO股价的上涨。这家公司持续表现出色，GEICO基本商业理念的竞争力以及杰克·伯恩 ([Jack Byrne](people/杰克·伯恩.md)) 的管理才能，让我们越来越佩服。（虽然在顶尖商学院的教科书里找不到"让杰克来干"这条信条，但作为我们的经营准则，效果相当不错。）
 >
 > 然而，GEICO在过去两年市值的增长远超其内在商业价值的增长——尽管后者本身已十分亮眼。我们一直预期这种有利的偏差迟早会出现，因为投资者的认知正在逐步向商业现实靠拢。我们期待未来内在商业价值继续大幅增长，并最终——尽管过程不会一帆风顺——得到市场的充分认可。
 >
@@ -108,7 +108,7 @@
 >
 > Berkshire's economic goal remains to produce a long-term rate of return well above the return achieved by the average large American corporation. Our willingness to purchase either partial or total ownership positions in favorably-situated businesses, coupled with reasonable discipline about the prices we are willing to pay, should give us a good chance of achieving our goal.
 >
-> Again this year the gain in market valuation of partially-owned businesses outpaced the gain in underlying economic value of those businesses. For example, $79 million of our $208 million gain is attributable to an increased market price for [GEICO](companies/GEICO.md). This company continues to do exceptionally well, and we are more impressed than ever by the strength of GEICO's basic business idea and by the management skills of [Jack Byrne](people/Jack-Byrne.md). (Although not found in the catechism of the better business schools, "Let Jack Do It" works fine as a corporate creed for us.)
+> Again this year the gain in market valuation of partially-owned businesses outpaced the gain in underlying economic value of those businesses. For example, $79 million of our $208 million gain is attributable to an increased market price for [GEICO](companies/盖可保险.md). This company continues to do exceptionally well, and we are more impressed than ever by the strength of GEICO's basic business idea and by the management skills of [Jack Byrne](people/杰克·伯恩.md). (Although not found in the catechism of the better business schools, "Let Jack Do It" works fine as a corporate creed for us.)
 >
 > However, GEICO's increase in market value during the past two years has been considerably greater than the gain in its intrinsic business value, impressive as the latter has been. We expected such a favorable variation at some point, as the perception of investors converged with business reality. And we look forward to substantial future gains in underlying business value accompanied by irregular, but eventually full, market recognition of such gains.
 >
@@ -117,7 +117,7 @@
 ## 报告收益的来源 / Sources of Reported Earnings
 
 > [!zh] 🇨🇳
-> 下表列示了伯克希尔报告收益的各项来源。1981年和1982年，伯克希尔持有蓝筹印花约60%的股权，后者又持有韦斯科金融 ([Wesco Financial Corporation](companies/Wesco-Financial.md)) 80%的股权。该表显示了各经营实体的总经营收益，以及伯克希尔所占的份额。各经营实体因非常规资产出售所产生的重大损益，均汇总在表末"证券交易"一栏中，不包含在经营收益之内。
+> 下表列示了伯克希尔报告收益的各项来源。1981年和1982年，伯克希尔持有蓝筹印花约60%的股权，后者又持有韦斯科金融 ([Wesco Financial Corporation](companies/韦斯科金融公司.md)) 80%的股权。该表显示了各经营实体的总经营收益，以及伯克希尔所占的份额。各经营实体因非常规资产出售所产生的重大损益，均汇总在表末"证券交易"一栏中，不包含在经营收益之内。
 
 |                  | 税前收益合计（千美元） |      | 伯克希尔应占税前收益 |      | 伯克希尔应占税后净收益 |      |
 |-----------------|--------------------|------|-------------------|------|-------------------|------|
@@ -154,15 +154,15 @@
 |---------|------|-------------|-------------|
 | 460,650 (a) | 联合出版公司 (Affiliated Publications, Inc.) | $3,516 | $16,929 |
 | 908,800 (c) | 克拉姆与福斯特 (Crum & Forster) | 47,144 | 48,962 |
-| 2,101,244 (b) | 通用食品 ([General Foods](companies/General-Foods.md)) | 66,277 | 83,680 |
-| 7,200,000 (a) | 盖可保险 ([GEICO](companies/GEICO.md)) | 47,138 | 309,600 |
+| 2,101,244 (b) | 通用食品 ([General Foods](companies/通用食品.md)) | 66,277 | 83,680 |
+| 7,200,000 (a) | 盖可保险 ([GEICO](companies/盖可保险.md)) | 47,138 | 309,600 |
 | 2,379,200 (a) | 汉迪与哈曼 (Handy & Harman) | 27,318 | 46,692 |
 | 711,180 (a) | 英特帕布力克集团 (Interpublic Group of Companies, Inc.) | 4,531 | 34,314 |
 | 282,500 (a) | 媒体综合公司 (Media General) | 4,545 | 12,289 |
 | 391,400 (a) | 奥美国际 (Ogilvy & Mather Int'l. Inc.) | 3,709 | 17,319 |
-| 3,107,675 (b) | 雷诺工业 ([R. J. Reynolds Industries](companies/RJ-Reynolds.md)) | 142,343 | 158,715 |
+| 3,107,675 (b) | 雷诺工业 ([R. J. Reynolds Industries](companies/雷诺烟草.md)) | 142,343 | 158,715 |
 | 1,531,391 (a) | 时代公司 (Time, Inc.) | 45,273 | 79,824 |
-| 1,868,600 (a) | 华盛顿邮报 ([The Washington Post Company](companies/The-Washington-Post.md)) | 10,628 | 103,240 |
+| 1,868,600 (a) | 华盛顿邮报 ([The Washington Post Company](companies/华盛顿邮报.md)) | 10,628 | 103,240 |
 | | | **$402,422** | **$911,564** |
 | | 其他普通股持仓 | 21,611 | 34,058 |
 | | | **$424,033** | **$945,622** |
@@ -176,7 +176,7 @@
 > 由于我们控股和非控股的业务覆盖面极广，若在此逐一详述未免太过冗长。控股企业的大量财务和运营信息已包含在第34-39页的管理层讨论以及第45-61页的叙述性报告中。然而，我们最大的业务领域过去是、将来几乎肯定也会继续是财产意外险。因此，有必要对这个行业的发展状况加以说明。
 
 > [!en] 🇺🇸
-> The table below shows the sources of Berkshire's reported earnings. In 1981 and 1982 Berkshire owned about 60% of [Blue Chip Stamps](companies/Blue-Chip-Stamps.md) which, in turn, owned 80% of [Wesco Financial Corporation](companies/Wesco-Financial.md). The table displays aggregate operating earnings of the various business entities, as well as Berkshire's share of those earnings. All of the significant gains and losses attributable to unusual sales of assets by any of the business entities are aggregated with securities transactions in the line near the bottom of the table, and are not included in operating earnings.
+> The table below shows the sources of Berkshire's reported earnings. In 1981 and 1982 Berkshire owned about 60% of [Blue Chip Stamps](companies/蓝筹印花.md) which, in turn, owned 80% of [Wesco Financial Corporation](companies/韦斯科金融公司.md). The table displays aggregate operating earnings of the various business entities, as well as Berkshire's share of those earnings. All of the significant gains and losses attributable to unusual sales of assets by any of the business entities are aggregated with securities transactions in the line near the bottom of the table, and are not included in operating earnings.
 
 |                         | Earnings Before Income Taxes |       | Berkshire Share |       | Berkshire Share After Tax |       |
 |-------------------------|---------------------------|-------|----------------|-------|--------------------------|-------|
@@ -213,15 +213,15 @@
 |---------------|---------|-------------|---------------|
 | 460,650 (a) | Affiliated Publications, Inc. | $3,516 | $16,929 |
 | 908,800 (c) | Crum & Forster | 47,144 | 48,962 |
-| 2,101,244 (b) | [General Foods](companies/General-Foods.md), Inc. | 66,277 | 83,680 |
-| 7,200,000 (a) | [GEICO](companies/GEICO.md) Corporation | 47,138 | 309,600 |
+| 2,101,244 (b) | [General Foods](companies/通用食品.md), Inc. | 66,277 | 83,680 |
+| 7,200,000 (a) | [GEICO](companies/盖可保险.md) Corporation | 47,138 | 309,600 |
 | 2,379,200 (a) | Handy & Harman | 27,318 | 46,692 |
 | 711,180 (a) | Interpublic Group of Companies, Inc. | 4,531 | 34,314 |
 | 282,500 (a) | Media General | 4,545 | 12,289 |
 | 391,400 (a) | Ogilvy & Mather Int'l. Inc. | 3,709 | 17,319 |
-| 3,107,675 (b) | [R. J. Reynolds Industries](companies/RJ-Reynolds.md) | 142,343 | 158,715 |
+| 3,107,675 (b) | [R. J. Reynolds Industries](companies/雷诺烟草.md) | 142,343 | 158,715 |
 | 1,531,391 (a) | Time, Inc. | 45,273 | 79,824 |
-| 1,868,600 (a) | [The Washington Post Company](companies/The-Washington-Post.md) | 10,628 | 103,240 |
+| 1,868,600 (a) | [The Washington Post Company](companies/华盛顿邮报.md) | 10,628 | 103,240 |
 | | | **$402,422** | **$911,564** |
 | | All Other Common Stockholdings | 21,611 | 34,058 |
 | | **Total Common Stocks** | **$424,033** | **$945,622** |
@@ -230,7 +230,7 @@
 (b) Blue Chip and/or Wesco own shares of these companies. All numbers represent Berkshire's net interest in the larger gross holdings of the group.
 (c) Temporary holding as cash substitute.
 
-> In case you haven't noticed, there is an important investment lesson to be derived from this table: nostalgia should be weighted heavily in stock selection. Our two largest unrealized gains are in Washington Post and [GEICO](companies/GEICO.md), companies with which your Chairman formed his first commercial connections at the ages of 13 and 20, respectively. After straying for roughly 25 years, we returned as investors in the mid-1970s. The table quantifies the rewards for even long-delayed corporate fidelity.
+> In case you haven't noticed, there is an important investment lesson to be derived from this table: nostalgia should be weighted heavily in stock selection. Our two largest unrealized gains are in Washington Post and [GEICO](companies/盖可保险.md), companies with which your Chairman formed his first commercial connections at the ages of 13 and 20, respectively. After straying for roughly 25 years, we returned as investors in the mid-1970s. The table quantifies the rewards for even long-delayed corporate fidelity.
 >
 > Our controlled and non-controlled businesses operate over such a wide spectrum that detailed commentary here would prove too lengthy. Much financial and operational information regarding the controlled businesses is included in Management's Discussion on pages 34-39, and in the narrative reports on pages 45-61. However, our largest area of business activity has been, and almost certainly will continue to be, the property-casualty insurance area. So commentary on developments in that industry is appropriate.
 
@@ -299,13 +299,13 @@
 >
 > 当供应最终收缩时，那些拥有雄厚资本实力、愿意投入资本、并且已经建立起完善分销体系的少数公司，将迎来大量的业务机会。届时，我们预期我们的保险子公司将获得巨大的机遇。
 >
-> 1982年，我们的保险承保业绩恶化程度远超行业平均水平。从远高于行业平均的盈利水平，我们滑落到了略低于行业平均的位置。最大的波动出现在国民保险公司 ([National Indemnity](companies/National-Indemnity.md)) 的传统险种上。过去为我们贡献丰厚利润的业务线，如今的定价水平已经注定了承保亏损。展望1983年，我们预计保险集团的业绩将与行业水平大致持平——而在这个行业里，"平均"意味着非常糟糕。
+> 1982年，我们的保险承保业绩恶化程度远超行业平均水平。从远高于行业平均的盈利水平，我们滑落到了略低于行业平均的位置。最大的波动出现在国民保险公司 ([National Indemnity](companies/国民保险公司.md)) 的传统险种上。过去为我们贡献丰厚利润的业务线，如今的定价水平已经注定了承保亏损。展望1983年，我们预计保险集团的业绩将与行业水平大致持平——而在这个行业里，"平均"意味着非常糟糕。
 >
 > 我们的两位明星——赛普拉斯保险 (Cypress) 的米尔特·桑顿 (Milt Thornton) 和堪萨斯火灾意外险 (Kansas Fire and Casualty) 的弗洛伊德·泰勒 (Floyd Taylor) ——延续了他们自加入我们以来每年都实现承保盈利的卓越记录。米尔特和弗洛伊德根本就做不到"平庸"这两个字。他们对各自的业务保持着近乎偏执的主人翁态度，并打造了一种以极致成本意识和客户服务为核心的企业文化。他们的成绩单就是最好的证明。
 >
-> 1982年，母公司对大部分保险业务的管理责任交给了迈克·戈德伯格 ([Mike Goldberg](people/Mike-Goldberg.md))。自从迈克接替我担任这一角色以来，在规划、招聘和监督方面都出现了显著改善。
+> 1982年，母公司对大部分保险业务的管理责任交给了迈克·戈德伯格 ([Mike Goldberg](people/迈克·戈德伯格.md))。自从迈克接替我担任这一角色以来，在规划、招聘和监督方面都出现了显著改善。
 >
-> 盖可保险 ([GEICO](companies/GEICO.md)) 持续以追求效率和客户价值的热忱来管理运营，这几乎保证了非凡的成功。杰克·伯恩 ([Jack Byrne](people/Jack-Byrne.md)) 和比尔·斯奈德 (Bill Snyder) 正在实现人类最难以捉摸的目标——让事情保持简单，并牢记你最初的使命。此外，路易·辛普森 (Lou Simpson) 是财产意外险行业中最优秀的投资经理。我们对GEICO运营的方方面面都感到满意。GEICO正是我们前文讨论同质化产品产能过剩行业时所提到的那种高利润例外的最佳范例——一家拥有既宽且深的可持续成本优势的公司。我们持有GEICO 35%的权益意味着约2.5亿美元的保费量，远超我们自己保险公司直接承保的全部保费。
+> 盖可保险 ([GEICO](companies/盖可保险.md)) 持续以追求效率和客户价值的热忱来管理运营，这几乎保证了非凡的成功。杰克·伯恩 ([Jack Byrne](people/杰克·伯恩.md)) 和比尔·斯奈德 (Bill Snyder) 正在实现人类最难以捉摸的目标——让事情保持简单，并牢记你最初的使命。此外，路易·辛普森 (Lou Simpson) 是财产意外险行业中最优秀的投资经理。我们对GEICO运营的方方面面都感到满意。GEICO正是我们前文讨论同质化产品产能过剩行业时所提到的那种高利润例外的最佳范例——一家拥有既宽且深的可持续成本优势的公司。我们持有GEICO 35%的权益意味着约2.5亿美元的保费量，远超我们自己保险公司直接承保的全部保费。
 
 > [!en] 🇺🇸
 > We show below an updated table of the industry statistics we utilized in last year's annual report. Its message is clear: underwriting results in 1983 will not be a sight for the squeamish.
@@ -368,18 +368,18 @@ Source: Best's Aggregates and Averages
 >
 > When supply ultimately contracts, large amounts of business will be available for the few with large capital capacity, a willingness to commit it, and an in-place distribution system. We would expect great opportunities for our insurance subsidiaries at such a time.
 >
-> During 1982, our insurance underwriting deteriorated far more than did the industry's. From a profit position well above average, we slipped to a performance modestly below average. The biggest swing was in [National Indemnity](companies/National-Indemnity.md)'s traditional coverages. Lines that have been highly profitable for us in the past are now priced at levels that guarantee underwriting losses. In 1983 we expect our insurance group to record an average performance in an industry in which average is very poor.
+> During 1982, our insurance underwriting deteriorated far more than did the industry's. From a profit position well above average, we slipped to a performance modestly below average. The biggest swing was in [National Indemnity](companies/国民保险公司.md)'s traditional coverages. Lines that have been highly profitable for us in the past are now priced at levels that guarantee underwriting losses. In 1983 we expect our insurance group to record an average performance in an industry in which average is very poor.
 >
 > Two of our stars, Milt Thornton at Cypress and Floyd Taylor at Kansas Fire and Casualty, continued their outstanding records of producing an underwriting profit every year since joining us. Both Milt and Floyd simply are incapable of being average. They maintain a passionately proprietary attitude toward their operations and have developed a business culture centered upon unusual cost-consciousness and customer service. It shows on their scorecards.
 >
-> During 1982, parent company responsibility for most of our insurance operations was given to [Mike Goldberg](people/Mike-Goldberg.md). Planning, recruitment, and monitoring all have shown significant improvement since Mike replaced me in this role.
+> During 1982, parent company responsibility for most of our insurance operations was given to [Mike Goldberg](people/迈克·戈德伯格.md). Planning, recruitment, and monitoring all have shown significant improvement since Mike replaced me in this role.
 >
-> [GEICO](companies/GEICO.md) continues to be managed with a zeal for efficiency and value to the customer that virtually guarantees unusual success. [Jack Byrne](people/Jack-Byrne.md) and Bill Snyder are achieving the most elusive of human goals - keeping things simple and remembering what you set out to do. In Lou Simpson, additionally, GEICO has the best investment manager in the property-casualty business. We are happy with every aspect of this operation. GEICO is a magnificent illustration of the high-profit exception we described earlier in discussing commodity industries with over-capacity - a company with a wide and sustainable cost advantage. Our 35% interest in GEICO represents about $250 million of premium volume, an amount considerably greater than all of the direct volume we produce.
+> [GEICO](companies/盖可保险.md) continues to be managed with a zeal for efficiency and value to the customer that virtually guarantees unusual success. [Jack Byrne](people/杰克·伯恩.md) and Bill Snyder are achieving the most elusive of human goals - keeping things simple and remembering what you set out to do. In Lou Simpson, additionally, GEICO has the best investment manager in the property-casualty business. We are happy with every aspect of this operation. GEICO is a magnificent illustration of the high-profit exception we described earlier in discussing commodity industries with over-capacity - a company with a wide and sustainable cost advantage. Our 35% interest in GEICO represents about $250 million of premium volume, an amount considerably greater than all of the direct volume we produce.
 
 ## 发行股份 / Issuance of Equity
 
 > [!zh] 🇨🇳
-> 伯克希尔和蓝筹印花正在考虑于1983年进行合并。如果合并实现，将采用对两家公司适用同一估值方法的股票交换方式。在现任管理层任期内，伯克希尔或其关联公司唯一另一次重大发行新股，是1978年伯克希尔与多元零售公司 ([Diversified Retailing Company](companies/Diversified-Retailing-Company.md)) 的合并。
+> 伯克希尔和蓝筹印花正在考虑于1983年进行合并。如果合并实现，将采用对两家公司适用同一估值方法的股票交换方式。在现任管理层任期内，伯克希尔或其关联公司唯一另一次重大发行新股，是1978年伯克希尔与多元零售公司 ([Diversified Retailing Company](companies/多元零售公司.md)) 的合并。
 >
 > 我们发行新股遵循一条简单的基本原则：除非获得的内在商业价值与付出的一样多，否则不发行。这条原则看似不言自明。你可能会问，谁会傻到拿一块钱去换五毛钱？不幸的是，许多公司的管理者恰恰愿意这么做。
 >
@@ -401,7 +401,7 @@ Source: Best's Aggregates and Averages
 >
 > (a) "我们要收购的公司将来会值更多钱。"（大概被出让的原有业务的权益也一样吧；未来前景已经隐含在企业估值过程中了。如果你用价值2X的东西去换价值X的东西，即使两边的业务价值都翻倍，这种失衡依然存在。）
 >
-> (b) "我们必须成长。"（或许有人该问一句，这个"我们"指的是谁？对现有股东而言，现实是每当公司发行新股，所有现有业务的权益都会被稀释。假如伯克希尔明天发行新股进行收购，伯克希尔将拥有它现在拥有的一切加上新业务，但你们在那些难以复制的企业——比如喜诗糖果 ([See's Candy](companies/See's-Candy.md))、[国民保险](companies/National-Indemnity.md) 等等——中的权益将自动缩水。打个比方，(1) 你家有一座120亩的农场，(2) 你邀请一位拥有60亩同等土地的邻居以合伙方式将他的农场并入——你担任管理合伙人，那么 (3) 你管理的地盘是扩大到了180亩，但你家在土地和收成中的所有权永久缩水了25%。那些想牺牲股东权益来扩张自己版图的管理者，或许更适合去政府部门谋个差事。）
+> (b) "我们必须成长。"（或许有人该问一句，这个"我们"指的是谁？对现有股东而言，现实是每当公司发行新股，所有现有业务的权益都会被稀释。假如伯克希尔明天发行新股进行收购，伯克希尔将拥有它现在拥有的一切加上新业务，但你们在那些难以复制的企业——比如喜诗糖果 ([See's Candy](companies/喜诗糖果.md))、[国民保险](companies/国民保险公司.md) 等等——中的权益将自动缩水。打个比方，(1) 你家有一座120亩的农场，(2) 你邀请一位拥有60亩同等土地的邻居以合伙方式将他的农场并入——你担任管理合伙人，那么 (3) 你管理的地盘是扩大到了180亩，但你家在土地和收成中的所有权永久缩水了25%。那些想牺牲股东权益来扩张自己版图的管理者，或许更适合去政府部门谋个差事。）
 >
 > (c) "我们的股票被低估了，在这笔交易中我们已尽量少发行——但我们必须给卖方51%的股票和49%的现金，好让部分卖方股东享受免税换股。"（这番话等于承认减少发行股份对买方有利，这一点我们赞同。但如果100%用股票会损害老股东的权益，51%同样会。毕竟，一个人不会因为弄脏他草坪的是一只史宾格猎犬而不是一只圣伯纳犬，就觉得可以接受。卖方的意愿不应该成为决定买方最佳利益的因素——要是卖方坚持以更换收购方CEO作为合并条件，那又该怎么办？）
 >
@@ -436,7 +436,7 @@ Source: Best's Aggregates and Averages
 > 在伯克希尔，或者任何由我们决定政策的公司（包括蓝筹印花和韦斯科），我们只有在股东获得的商业价值与我们付出的一样多时，才会发行新股。我们绝不会将活动等同于进步，或将公司规模等同于股东财富。
 
 > [!en] 🇺🇸
-> Berkshire and Blue Chip are considering merger in 1983. If it takes place, it will involve an exchange of stock based upon an identical valuation method applied to both companies. The one other significant issuance of shares by Berkshire or its affiliated companies that occurred during present management's tenure was in the 1978 merger of Berkshire with [Diversified Retailing Company](companies/Diversified-Retailing-Company.md).
+> Berkshire and Blue Chip are considering merger in 1983. If it takes place, it will involve an exchange of stock based upon an identical valuation method applied to both companies. The one other significant issuance of shares by Berkshire or its affiliated companies that occurred during present management's tenure was in the 1978 merger of Berkshire with [Diversified Retailing Company](companies/多元零售公司.md).
 >
 > Our share issuances follow a simple basic rule: we will not issue shares unless we receive as much intrinsic business value as we give. Such a policy might seem axiomatic. Why, you might ask, would anyone issue dollar bills in exchange for fifty-cent pieces? Unfortunately, many corporate managers have been willing to do just that.
 >
@@ -458,7 +458,7 @@ Source: Best's Aggregates and Averages
 >
 > (a) "The company we're buying is going to be worth a lot more in the future." (Presumably so is the interest in the old business that is being traded away; future prospects are implicit in the business valuation process. If 2X is issued for X, the imbalance still exists when both parts double in business value.)
 >
-> (b) "We have to grow." (Who, it might be asked, is the "we"? For present shareholders, the reality is that all existing businesses shrink when shares are issued. Were Berkshire to issue shares tomorrow for an acquisition, Berkshire would own everything that it now owns plus the new business, but your interest in such hard-to-match businesses as [See's Candy Shops](companies/See's-Candy.md), [National Indemnity](companies/National-Indemnity.md), etc. would automatically be reduced. If (1) your family owns a 120-acre farm and (2) you invite a neighbor with 60 acres of comparable land to merge his farm into an equal partnership - with you to be managing partner, then (3) your managerial domain will have grown to 180 acres but you will have permanently shrunk by 25% your family's ownership interest in both acreage and crops. Managers who want to expand their domain at the expense of owners might better consider a career in government.)
+> (b) "We have to grow." (Who, it might be asked, is the "we"? For present shareholders, the reality is that all existing businesses shrink when shares are issued. Were Berkshire to issue shares tomorrow for an acquisition, Berkshire would own everything that it now owns plus the new business, but your interest in such hard-to-match businesses as [See's Candy Shops](companies/喜诗糖果.md), [National Indemnity](companies/国民保险公司.md), etc. would automatically be reduced. If (1) your family owns a 120-acre farm and (2) you invite a neighbor with 60 acres of comparable land to merge his farm into an equal partnership - with you to be managing partner, then (3) your managerial domain will have grown to 180 acres but you will have permanently shrunk by 25% your family's ownership interest in both acreage and crops. Managers who want to expand their domain at the expense of owners might better consider a career in government.)
 >
 > (c) "Our stock is undervalued and we've minimized its use in this deal - but we need to give the selling shareholders 51% in stock and 49% in cash so that certain of those shareholders can get the tax-free exchange they want." (This argument acknowledges that it is beneficial to the acquirer to hold down the issuance of shares, and we like that. But if it hurts the old owners to utilize shares on a 100% basis, it very likely hurts on a 51% basis. After all, a man is not charmed if a spaniel defaces his lawn, just because it's a spaniel and not a St. Bernard. And the wishes of sellers can't be the determinant of the best interests of the buyer - what would happen if, heaven forbid, the seller insisted that as a condition of merger the CEO of the acquirer be replaced?)
 >
@@ -517,7 +517,7 @@ Source: Best's Aggregates and Averages
 >
 > 如果你希望参与未来的计划，我们强烈建议你立即确认你的股份登记在实际持有人名下，而不是"街名"或代持人名下。对于新股东，该计划的更完整描述见第62-63页。
 >
-> 以我们一贯的鲁莽作风，总部办公面积扩大了252平方英尺（17%），这恰好赶上我们在基威特广场 (Kiewit Plaza) 1440号签订了一份新的五年租约。和我一起在这里工作的五个人——琼·阿瑟顿 (Joan Atherton)、迈克·戈德伯格 ([Mike Goldberg](people/Mike-Goldberg.md))、格拉迪斯·凯泽 (Gladys Kaiser)、弗恩·麦肯齐 (Verne McKenzie) 和比尔·斯科特 (Bill Scott) ——产出效率远超许多几倍于我们人数的企业集团团队。精简的组织让我们所有人都把时间花在管理业务上，而不是互相管理上。
+> 以我们一贯的鲁莽作风，总部办公面积扩大了252平方英尺（17%），这恰好赶上我们在基威特广场 (Kiewit Plaza) 1440号签订了一份新的五年租约。和我一起在这里工作的五个人——琼·阿瑟顿 (Joan Atherton)、迈克·戈德伯格 ([Mike Goldberg](people/迈克·戈德伯格.md))、格拉迪斯·凯泽 (Gladys Kaiser)、弗恩·麦肯齐 (Verne McKenzie) 和比尔·斯科特 (Bill Scott) ——产出效率远超许多几倍于我们人数的企业集团团队。精简的组织让我们所有人都把时间花在管理业务上，而不是互相管理上。
 >
 > 不管与蓝筹印花的合并是否成行，我的管理合伙人[查理·芒格](people/查理·芒格.md) 将继续在洛杉矶工作。查理跟我在商业决策上完全可以互相替代。距离对我们毫无妨碍：我们一直觉得一通电话比半天的委员会会议更有成效。
 >
@@ -548,7 +548,7 @@ Source: Best's Aggregates and Averages
 >
 > _If you wish to participate in future programs, we strongly urge that you immediately make sure that your shares are registered in the actual owner's name, not a "street" or nominee name._ For new shareholders, a more complete description of the program is on pages 62-63.
 >
-> In a characteristically rash move, we have expanded World Headquarters by 252 square feet (17%), coincidental with the signing of a new five-year lease at 1440 Kiewit Plaza. The five people who work here with me - Joan Atherton, [Mike Goldberg](people/Mike-Goldberg.md), Gladys Kaiser, Verne McKenzie and Bill Scott - outproduce corporate groups many times their number. A compact organization lets all of us spend our time managing the business rather than managing each other.
+> In a characteristically rash move, we have expanded World Headquarters by 252 square feet (17%), coincidental with the signing of a new five-year lease at 1440 Kiewit Plaza. The five people who work here with me - Joan Atherton, [Mike Goldberg](people/迈克·戈德伯格.md), Gladys Kaiser, Verne McKenzie and Bill Scott - outproduce corporate groups many times their number. A compact organization lets all of us spend our time managing the business rather than managing each other.
 >
 > [Charlie Munger](people/查理·芒格.md), my partner in management, will continue to operate from Los Angeles whether or not the Blue Chip merger occurs. Charlie and I are interchangeable in business decisions. Distance impedes us not at all: we've always found a telephone call to be more productive than a half-day committee meeting.
 >
