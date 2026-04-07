@@ -2,6 +2,19 @@
 
 <!-- Append-only log. Format: ## [YYYY-MM-DD] action | description -->
 
+## [2026-04-07] ingest | 1984 Berkshire Shareholder Letter
+- Raw sources: EN from juliuschun/eco-moat-ai, ZH from buffett-letters-eir.pages.dev (pre-existing aligned)
+- Created: [1984-letter](letters/1984-letter.md), [1984-summary](letters/1984-summary.md)
+- QA result: ✅ PASS — all sections present, signature/date present
+- Created concepts: [股票回购](concepts/股票回购.md)
+- Created people: [斯坦·利普西](people/斯坦·利普西.md), [迈克·戈德堡](people/迈克·戈德堡.md), [路易·辛普森](people/路易·辛普森.md), [比尔·斯奈德](people/比尔·斯奈德.md), [默里·莱特](people/默里·莱特.md)
+- Updated companies: [盖可保险](companies/盖可保险.md), [内布拉斯加家具商场](companies/内布拉斯加家具商场.md), [喜诗糖果](companies/喜诗糖果.md), [布法罗晚报](companies/布法罗晚报.md), [华盛顿邮报](companies/华盛顿邮报.md), [通用食品](companies/通用食品.md), [美国广播公司](companies/美国广播公司.md)
+- Updated people: [查理·芒格](people/查理·芒格.md), [B夫人](people/B夫人.md), [查克·哈金斯](people/查克·哈金斯.md), [杰克·伯恩](people/杰克·伯恩.md)
+- Updated index: Added 1984 to letters table, updated stats
+- Link verification: ✅ All links pass
+- New pages: 7 (letter, summary, 1 concept, 5 people)
+- Updated pages: 11 (companies + people + index)
+
 ## [2026-04-07] ingest | 1982 Berkshire Shareholder Letter (ClawTeam tmux+subprocess pi --no-session)
 - Raw sources: EN from juliuschun/eco-moat-ai, ZH from buffett-letters-eir.pages.dev (pre-existing)
 - Pipeline: ClawTeam with tmux pi (aligner) + subprocess pi (extractor, summarizer, verifier, wikier) workers
