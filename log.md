@@ -2,6 +2,16 @@
 
 <!-- Append-only log. Format: ## [YYYY-MM-DD] action | description -->
 
+## [2026-04-07] ingest | 1982 Berkshire Shareholder Letter (ClawTeam tmux+subprocess pi --no-session)
+- Raw sources: EN from juliuschun/eco-moat-ai, ZH from buffett-letters-eir.pages.dev (pre-existing)
+- Pipeline: ClawTeam with tmux pi (aligner) + subprocess pi (extractor, summarizer, verifier, wikier) workers
+- Created: [1982-letter](letters/1982-letter.md), [1982-summary](letters/1982-summary.md), [entities-1982.md](tmp/entities-1982.md)
+- QA result: ✅ PASS — 6/6 sections present, all chapter headers match, signature/date present
+- Created companies: [GEICO](companies/GEICO.md), [General-Foods](companies/General-Foods.md)
+- Link verification: Partial — some links use English filenames (GEICO, Blue Chip Stamps) but actual files use Chinese (盖可保险, 蓝筹印花)
+- New pages: 3 (1982-letter, 1982-summary, 2 company pages)
+- Updated pages: 0
+
 ## [2026-04-07] ingest | 1981 Berkshire Shareholder Letter (ClawTeam subprocess pi -p mode)
 - Raw sources: EN from juliuschun/eco-moat-ai, ZH from buffett-letters-eir.pages.dev (pre-existing)
 - Pipeline: ClawTeam with subprocess pi -p --no-session workers

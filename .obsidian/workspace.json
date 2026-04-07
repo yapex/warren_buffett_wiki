@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "AUDIT-REPORT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "AUDIT-REPORT"
             }
           }
         ]
@@ -185,6 +185,18 @@
   },
   "active": "c3dc2c2db056b111",
   "lastOpenFiles": [
+    "raw/berkshire/1989-letter-zh.md",
+    "AUDIT-REPORT-1980-1982.md",
+    "SCHEMA.md",
+    "raw/berkshire/1981-letter-zh.md",
+    "raw/berkshire/1980-letter-zh.md",
+    "raw/berkshire/1979-letter-zh.md",
+    "raw/berkshire/1978-letter-zh.md",
+    "raw/berkshire/1977-letter-zh.md",
+    "raw/berkshire/1982-letter-zh.md",
+    "README.md",
+    "AUDIT-REPORT.md",
+    "index.md",
     "companies/General-Foods.md",
     "companies/GEICO.md",
     "companies/The-Washington-Post.md",
@@ -202,21 +214,9 @@
     "tmp/1981-entities.json",
     "tmp",
     "letters/1981-summary.md",
-    "letters/1981-letter.md",
     "_task_content.txt",
     "_task_1981_content.sh",
-    "concepts/真正的指数化.md",
-    "concepts/收益冰山理论.md",
-    "concepts/现金流承保.md",
-    "concepts/持久竞争优势.md",
-    "concepts/权益法.md",
-    "people/芭芭拉·斯图尔特.md",
-    "people/丹·格罗斯曼.md",
-    "people/乔治·扬.md",
-    "people/杰克·伯恩.md",
-    "companies/丘博保险.md",
     "tmp/1980-entities.json",
-    "letters/1980-summary.md",
     "raw/berkshire/1982-letter-zh.txt",
     "raw/berkshire/1981-letter-zh.txt",
     "raw/berkshire/1980-letter-zh.txt",
