@@ -218,7 +218,7 @@ For each letter (YYYY from 1965 to 2024):
        - wiki/concepts/index.md - 添加新概念
        - wiki/companies/index.md - 添加新公司
        - wiki/people/index.md - 添加新人物
-       - wiki/index.md - 添加新信件链接
+       - index.md - 添加新信件链接
     
     5. 记录日志
        ↓
@@ -248,7 +248,7 @@ For each letter (YYYY from 1965 to 2024):
    - `wiki/concepts/index.md` - 添加新概念
    - `wiki/companies/index.md` - 添加新公司
    - `wiki/people/index.md` - 添加新人物
-   - `wiki/index.md` - 添加信件链接和摘要
+   - `index.md` - 添加信件链接和摘要
 6. **记录日志**: 更新 `wiki/log.md`
 
 ### 扩展已有笔记
@@ -285,13 +285,13 @@ raw/berkshire/zh/YYYY-letter-zh.md
 
 | 索引文件 | 内容 | 更新时机 |
 |----------|------|----------|
-| `wiki/index.md` | 总索引，信件列表 | 每封新信件 |
+| `index.md` | 总索引，信件列表 | 每封新信件 |
 | `wiki/concepts/index.md` | 概念索引 | 新增/更新概念 |
 | `wiki/companies/index.md` | 公司索引 | 新增/更新公司 |
 | `wiki/people/index.md` | 人物索引 | 新增/更新人物 |
 | `wiki/log.md` | 变更日志 | 每次更新 |
 
-### wiki/index.md 格式
+### index.md 格式
 
 ```markdown
 # Buffett Wiki 总索引
