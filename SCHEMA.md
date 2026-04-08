@@ -175,6 +175,13 @@ For each letter (YYYY from 1965 to 2024):
        - 更新概念笔记的"演变历程"
        - 更新公司/人物笔记
        - 更新索引
+       
+    5. 更新索引
+       ↓
+       - wiki/concepts/index.md - 添加新概念
+       - wiki/companies/index.md - 添加新公司
+       - wiki/people/index.md - 添加新人物
+       - wiki/index.md - 添加新信件链接
     
     5. 记录日志
        ↓
@@ -200,7 +207,11 @@ For each letter (YYYY from 1965 to 2024):
    - 创建/更新 `wiki/concepts/` 相关概念
    - 创建/更新 `wiki/companies/` 相关公司
    - 创建/更新 `wiki/people/` 相关人物
-5. **更新索引**: 更新 `wiki/concepts/index.md` 等
+5. **更新索引**:
+   - `wiki/concepts/index.md` - 添加新概念
+   - `wiki/companies/index.md` - 添加新公司
+   - `wiki/people/index.md` - 添加新人物
+   - `wiki/index.md` - 添加信件链接和摘要
 6. **记录日志**: 更新 `wiki/log.md`
 
 ### 扩展已有笔记
@@ -210,7 +221,8 @@ For each letter (YYYY from 1965 to 2024):
 1. **查询 RAG**: 获取新信件与已有笔记的关联
 2. **更新演变历程**: 在概念笔记中添加新年份
 3. **添加相关信件**: 在公司/人物笔记中添加新信件链接
-4. **记录日志**: 说明扩展的内容
+4. **更新索引**: 在相关索引页添加/更新条目
+5. **记录日志**: 说明扩展的内容
 
 ## 日志格式
 
@@ -234,10 +246,26 @@ raw/berkshire/zh/YYYY-letter-zh.md
 
 ## 索引维护
 
-- `wiki/concepts/index.md` - 概念索引
-- `wiki/companies/index.md` - 公司索引
-- `wiki/people/index.md` - 人物索引
-- `wiki/log.md` - 变更日志
+| 索引文件 | 内容 | 更新时机 |
+|----------|------|----------|
+| `wiki/index.md` | 总索引，信件列表 | 每封新信件 |
+| `wiki/concepts/index.md` | 概念索引 | 新增/更新概念 |
+| `wiki/companies/index.md` | 公司索引 | 新增/更新公司 |
+| `wiki/people/index.md` | 人物索引 | 新增/更新人物 |
+| `wiki/log.md` | 变更日志 | 每次更新 |
+
+### wiki/index.md 格式
+
+```markdown
+# Buffett Wiki 总索引
+
+## 信件笔记
+
+| 年份 | 摘要 | 分析亮点 |
+|------|------|----------|
+| [1965](./letters/1965-letter.md) | 接管伯克希尔... | +1714% 净利润 |
+| [1966](./letters/1966-letter.md) | ... | ... |
+```
 
 ## 当前进度
 

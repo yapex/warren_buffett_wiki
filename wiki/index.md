@@ -1,24 +1,25 @@
 # Buffett Wiki 总索引
 
-## 概述
+## 信件笔记
 
-巴菲特致股东信知识库，基于 Karpathy LLM Wiki 精神构建。
+| 年份 | 摘要 | 分析亮点 |
+|------|------|----------|
+| [1965](./letters/1965-letter.md) | 接管伯克希尔，净利润同比 +1714% | 回购 12 万股，设备投资 $81 万 |
 
-## 内容
+---
 
-- [信件笔记](./letters/) - 60 封伯克希尔信件
-- [概念笔记](./concepts/) - 投资概念和术语
-- [公司笔记](./companies/) - 投资的公司
-- [人物笔记](./people/) - 相关人物
-- [变更日志](./log.md)
+## 概念索引
 
-## 快速开始
+见 [concepts/index.md](./concepts/index.md)
 
-1. 选择一封信件阅读
-2. 点击链接深入了解相关概念/公司/人物
-3. LLM 会持续扩展和维护这些笔记
+## 公司索引
 
-## 统计
+见 [companies/index.md](./companies/index.md)
 
-- 原始信件: 95 封 (伯克希尔 60 + 合伙人 35)
-- Wiki 笔记: 进行中
+## 人物索引
+
+见 [people/index.md](./people/index.md)
+
+## 变更日志
+
+见 [log.md](./log.md)
