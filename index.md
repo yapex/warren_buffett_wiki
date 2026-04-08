@@ -69,100 +69,167 @@
 
 ## 概念索引
 
-### 投资理念
+### 价值投资核心理念
 
-| 概念 | 英文名 | 说明 | 相关信件 |
+| 概念 | 英文名 | 说明 | 首次提出 |
 |------|--------|------|----------|
-| [内在价值](./concepts/内在价值.md) | Intrinsic Value | 未来现金流的折现值 | [1994](./wiki/letters/1994-letter.md) |
-| [护城河](./concepts/护城河.md) | Economic Moat | 持续的竞争优势 | [1995](./wiki/letters/1995-letter.md) |
+| [内在价值](./concepts/内在价值.md) | Intrinsic Value | 未来现金流折现值 | [1988](./wiki/letters/1988-letter.md) |
 | [安全边际](./concepts/安全边际.md) | Margin of Safety | 价格低于价值的空间 | [1992](./wiki/letters/1992-letter.md) |
-| [股东回报](./concepts/股东回报.md) | Shareholder Return | 分红与回购 | [1965](./wiki/letters/1965-letter.md) |
+| [市场先生](./concepts/市场先生.md) | Mr. Market | 市场情绪波动 | [1987](./wiki/letters/1987-letter.md) |
+| [能力圈](./concepts/能力圈.md) | Circle of Competence | 知道自己知道什么 | [1996](./wiki/letters/1996-letter.md) |
+| [护城河](./concepts/护城河.md) | Economic Moat | 持续的竞争优势 | [1995](./wiki/letters/1995-letter.md) |
 
-### 财务指标
+### 投资策略
 
-| 概念 | 英文名 | 说明 | 相关信件 |
+| 概念 | 英文名 | 说明 | 首次提出 |
 |------|--------|------|----------|
-| [浮存金](./concepts/浮存金.md) | Float | 保险公司的沉淀资金 | [1976](./wiki/letters/1976-letter.md) |
+| [集中投资](./concepts/集中投资.md) | Concentrated Investment | 少数高确信度投资 | [1993](./wiki/letters/1993-letter.md) |
+| [长期持有](./concepts/长期持有.md) | Long-term Holding | 买入并持有优质企业 | [1988](./wiki/letters/1988-letter.md) |
+| [套利](./concepts/套利.md) | Arbitrage | 并购事件套利机会 | [1988](./wiki/letters/1988-letter.md) |
+| [有效市场](./concepts/有效市场.md) | Efficient Market | 对有效市场假说的批判 | [1988](./wiki/letters/1988-letter.md) |
+
+### 财务与估值
+
+| 概念 | 英文名 | 说明 | 首次提出 |
+|------|--------|------|----------|
+| [浮存金](./concepts/浮存金.md) | Float | 保险沉淀资金 | [1976](./wiki/letters/1976-letter.md) |
+| [透视盈余](./concepts/透视盈余.md) | Look-through Earnings | 持股公司的隐含收益 | [1990](./wiki/letters/1990-letter.md) |
+| [所有者收益](./concepts/所有者收益.md) | Owner Earnings | 真实盈利能力 | [1986](./wiki/letters/1986-letter.md) |
+| [经济商誉](./concepts/经济商誉.md) | Economic Goodwill | 超出账面值的商誉 | [1983](./wiki/letters/1983-letter.md) |
 | [账面价值](./concepts/账面价值.md) | Book Value | 股东权益 | [1965](./wiki/letters/1965-letter.md) |
+
+### 企业经营
+
+| 概念 | 英文名 | 说明 | 首次提出 |
+|------|--------|------|----------|
+| [管理层](./concepts/管理层.md) | Management | 诚信能干的管理层 | [1978](./wiki/letters/1978-letter.md) |
+| [资本配置](./concepts/资本配置.md) | Capital Allocation | 资金分配决策 | [1978](./wiki/letters/1978-letter.md) |
+| [回购](./concepts/回购.md) | Share Repurchase | 回购自家股票 | [1965](./wiki/letters/1965-letter.md) |
+| [留存收益](./concepts/留存收益.md) | Retained Earnings | 利润再投资 | [2019](./wiki/letters/2019-letter.md) |
+| [复利](./concepts/复利.md) | Compound Interest | 时间和复利的力量 | [1965](./wiki/letters/1965-letter.md) |
+
+### 风险与行业
+
+| 概念 | 英文名 | 说明 | 首次提出 |
+|------|--------|------|----------|
+| [保险业](./concepts/保险业.md) | Insurance | 浮存金来源 | [1967](./wiki/letters/1967-letter.md) |
+| [银行业](./concepts/银行业.md) | Banking | 社区银行投资 | [1990](./wiki/letters/1990-letter.md) |
+| [衍生品](./concepts/衍生品.md) | Derivatives | 金融大规模杀伤武器 | [2002](./wiki/letters/2002-letter.md) |
+| [通货膨胀](./concepts/通货膨胀.md) | Inflation | 对投资的影响 | [1979](./wiki/letters/1979-letter.md) |
+| [特许经营权](./concepts/特许经营权.md) | Franchise | 无形资产优势 | [1992](./wiki/letters/1992-letter.md) |
 
 ---
 
 ## 公司索引
 
-### 核心持股公司
+### 保险核心
 
-| 公司 | 英文名 | 出现次数 | 首次提及 | 相关概念 |
-|------|--------|----------|----------|----------|
-| [伯克希尔·哈撒韦](./wiki/companies/伯克希尔.md) | Berkshire Hathaway | 163 | 1965 | 投资旗舰 |
-| [GEICO](./wiki/companies/GEICO.md) | Government Employees Insurance | 294 | 1976 | 浮存金、保险 |
-| [可口可乐](./wiki/companies/可口可乐.md) | Coca-Cola | 177 | 1988 | 护城河、消费品牌 |
-| [喜诗糖果](./wiki/companies/喜诗糖果.md) | See's Candies | 121 | 1972 | 护城河、糖果 |
-| [美国运通](./wiki/companies/美国运通.md) | American Express | 114 | 1960s | 信用卡、金融服务 |
-| [富国银行](./wiki/companies/富国银行.md) | Wells Fargo | 81 | 1990 | 银行、社区银行 |
-| [吉列](./wiki/companies/吉列.md) | Gillette | 83 | 1989 | 护城河、消费品 |
-| [华盛顿邮报](./wiki/companies/华盛顿邮报.md) | Washington Post | 78 | 1973 | 媒体、报纸 |
-| [蓝筹印花](./wiki/companies/蓝筹印花.md) | Blue Chip Stamps | 131 | 1970s | 子公司 |
-| [国民保险公司](./wiki/companies/国民保险公司.md) | National Indemnity | 74 | 1967 | 保险、浮存金 |
+| 公司 | 英文名 | 投资时间 | 相关概念 |
+|------|--------|----------|----------|
+| [伯克希尔·哈撒韦](./wiki/companies/伯克希尔.md) | Berkshire Hathaway | 1965 | 投资旗舰 |
+| [GEICO](./wiki/companies/GEICO.md) | GEICO | 1976 | 浮存金典范 |
+| [国民保险公司](./wiki/companies/国民保险公司.md) | National Indemnity | 1967 | 再保险 |
+| [通用再保险](./wiki/companies/通用再保险.md) | General Re | 1998 | 全球再保险 |
+| [阿勒格尼保险](./wiki/companies/阿勒格尼保险.md) | Alleghany | 2022 | 特种保险 |
 
-### 消费品公司
+### 消费品牌
 
-| 公司 | 英文名 | 出现次数 | 特征 |
-|------|--------|----------|------|
-| [可口可乐](./wiki/companies/可口可乐.md) | Coca-Cola | 177 | 全球品牌、护城河 |
-| [吉列](./wiki/companies/吉列.md) | Gillette | 83 | 全球品牌、剃须刀 |
-| [喜诗糖果](./wiki/companies/喜诗糖果.md) | See's Candies | 121 | 区域品牌、溢价能力 |
-| [美国运通](./wiki/companies/美国运通.md) | American Express | 114 | 金融品牌、信用卡 |
+| 公司 | 英文名 | 投资时间 | 相关概念 |
+|------|--------|----------|----------|
+| [可口可乐](./wiki/companies/可口可乐.md) | Coca-Cola | 1988 | 全球品牌、护城河 |
+| [喜诗糖果](./wiki/companies/喜诗糖果.md) | See's Candies | 1972 | 区域定价权 |
+| [吉列](./wiki/companies/吉列.md) | Gillette | 1989 | 全球剃须刀霸主 |
+| [美国运通](./wiki/companies/美国运通.md) | American Express | 1960s | 信用卡护城河 |
+| [宝洁](./wiki/companies/宝洁.md) | P&G | - | 消费品巨头 |
+| [卡夫亨氏](./wiki/companies/卡夫亨氏.md) | Kraft Heinz | 2013 | 食品巨头 |
 
-### 金融公司
+### 金融银行
 
-| 公司 | 英文名 | 出现次数 | 备注 |
-|------|--------|----------|------|
-| [富国银行](./wiki/companies/富国银行.md) | Wells Fargo | 81 | 社区银行典范 |
-| [高盛](./wiki/companies/高盛.md) | Goldman Sachs | - | 2008 投资 |
-| [所罗门兄弟](./wiki/companies/所罗门兄弟.md) | Salomon Brothers | - | 债券交易 |
+| 公司 | 英文名 | 投资时间 | 相关概念 |
+|------|--------|----------|----------|
+| [富国银行](./wiki/companies/富国银行.md) | Wells Fargo | 1990 | 社区银行典范 |
+| [美国银行](./wiki/companies/美国银行.md) | Bank of America | 2011 | 优先股投资 |
+| [高盛](./wiki/companies/高盛.md) | Goldman Sachs | 2008 | 危机投资 |
+| [所罗门兄弟](./wiki/companies/所罗门兄弟.md) | Salomon Brothers | 1987 | 债券交易 |
 
-### 科技公司
+### 媒体出版
 
-| 公司 | 英文名 | 出现次数 | 备注 |
-|------|--------|----------|------|
-| [苹果](./wiki/companies/苹果.md) | Apple | - | 2016 最大持仓 |
-| [IBM](./wiki/companies/IBM.md) | IBM | - | 2011 投资 |
-| [亚马逊](./wiki/companies/亚马逊.md) | Amazon | - | 提及 |
+| 公司 | 英文名 | 投资时间 | 相关概念 |
+|------|--------|----------|----------|
+| [华盛顿邮报](./wiki/companies/华盛顿邮报.md) | Washington Post | 1973 | 媒体投资 |
+| [大都会通讯](./wiki/companies/大都会通讯.md) | Capital Cities | 1985 | 广播电视 |
+| [布法罗新闻报](./wiki/companies/布法罗新闻报.md) | Buffalo News | 1977 | 报纸出版 |
+
+### 零售批发
+
+| 公司 | 英文名 | 投资时间 | 相关概念 |
+|------|--------|----------|----------|
+| [内布拉斯加家具店](./wiki/companies/内布拉斯加家具店.md) | Nebraska Furniture Mart | 1983 | 家居零售 |
+| [波仙珠宝](./wiki/companies/波仙珠宝.md) | Borsheims | 1988 | 珠宝零售 |
+| [沃尔玛](./wiki/companies/沃尔玛.md) | Walmart | - | 零售龙头 |
+
+### 工业制造
+
+| 公司 | 英文名 | 投资时间 | 相关概念 |
+|------|--------|----------|----------|
+| [伯灵顿北方铁路](./wiki/companies/伯灵顿北方铁路.md) | BNSF | 2009 | 铁路运输 |
+| [中美能源](./wiki/companies/中美能源.md) | MidAmerican Energy | 2000 | 公用事业 |
+| [精密铸件](./wiki/companies/精密铸件.md) | Precision Castparts | 2015 | 航空制造 |
+| [斯科特费泽](./wiki/companies/斯科特费泽.md) | Scott & Fetzer | 1985 | 多元制造 |
+| [克莱顿房屋](./wiki/companies/克莱顿房屋.md) | Clayton Homes | 2003 | 预制房屋 |
+
+### 科技能源
+
+| 公司 | 英文名 | 投资时间 | 相关概念 |
+|------|--------|----------|----------|
+| [苹果](./wiki/companies/苹果.md) | Apple | 2016 | 最大科技持仓 |
+| [IBM](./wiki/companies/IBM.md) | IBM | 2011 | 蓝色巨人 |
+| [比亚迪](./wiki/companies/比亚迪.md) | BYD | 2008 | 新能源汽车 |
 
 ---
 
 ## 人物索引
 
-### 核心人物
+### 思想导师
 
-| 人物 | 英文名 | 出现次数 | 角色 | 相关公司 |
-|------|--------|----------|------|----------|
-| [查理·芒格](./wiki/people/查理·芒格.md) | Charlie Munger | 767 | 副董事长、投资伙伴 | 伯克希尔 |
-| [沃伦·巴菲特](./wiki/people/巴菲特.md) | Warren Buffett | 243 | 董事长、CEO | 伯克希尔 |
-| [本杰明·格雷厄姆](./wiki/people/本杰明·格雷厄姆.md) | Benjamin Graham | 93 | 导师、价值投资之父 | 格雷厄姆-纽曼 |
-| [费雪](./wiki/people/费雪.md) | Philip Fisher | - | 成长股投资先驱 | |
+| 人物 | 英文名 | 角色 | 相关概念 |
+|------|--------|------|----------|
+| [本杰明·格雷厄姆](./wiki/people/本杰明·格雷厄姆.md) | Benjamin Graham | 价值投资之父 | 安全边际、内在价值 |
+| [费雪](./wiki/people/费雪.md) | Philip Fisher | 成长股投资先驱 | 集中投资 |
+| [查理·芒格](./wiki/people/查理·芒格.md) | Charlie Munger | 投资伙伴 | 多元心智模型 |
 
 ### 伯克希尔核心高管
 
-| 人物 | 英文名 | 职位 | 相关公司 |
-|------|--------|------|----------|
-| [阿吉特·杰恩](./wiki/people/阿吉特·杰恩.md) | Ajit Jain | 再保险负责人 | 国家雇员保险公司 |
-| [Greg Abel](./wiki/people/Greg-Abel.md) | Greg Abel | 非保险业务负责人 | 伯克希尔能源 |
-| [托德·康布斯](./wiki/people/托德·康布斯.md) | Todd Combs | 投资经理 | |
-| [特德·韦斯勒](./wiki/people/特德·韦斯勒.md) | Ted Weschler | 投资经理 | |
+| 人物 | 英文名 | 职位 | 分工 |
+|------|--------|------|------|
+| [阿吉特·杰恩](./wiki/people/阿吉特·杰恩.md) | Ajit Jain | 再保险负责人 | 保险浮存金 |
+| [格雷格·阿贝尔](./wiki/people/格雷格·阿贝尔.md) | Greg Abel | 非保险业务负责人 | 能源、零售 |
+| [托德·康布斯](./wiki/people/托德·康布斯.md) | Todd Combs | 投资经理 | 股票投资 |
+| [特德·韦斯勒](./wiki/people/特德·韦斯勒.md) | Ted Weschler | 投资经理 | 股票投资 |
 
 ### 早期管理团队
 
 | 人物 | 英文名 | 职位 | 时期 |
 |------|--------|------|------|
-| [肯尼思·蔡斯](./wiki/people/肯尼思·蔡斯.md) | Ken Chace | 纺织业务负责人 | 1965-1970s |
-| [吉恩·阿贝格](./wiki/people/吉恩·阿贝格.md) | Gene Abegg | 伊利诺伊国民银行行长 | 1931-1978 |
-| [B 夫人](./wiki/people/B夫人.md) | Mrs. B | 内布拉斯加家具店 | 1983 |
+| [肯尼思·蔡斯](./wiki/people/肯尼思·蔡斯.md) | Ken Chace | 纺织业务负责人 | 1965-1970 |
+| [吉恩·阿贝格](./wiki/people/吉恩·阿贝格.md) | Gene Abegg | 银行行长 | 1931-1978 |
+| [B夫人](./wiki/people/B夫人.md) | Mrs. B | 家具店创始人 | 1983-2000 |
+| [查克·哈金斯](./wiki/people/查克·哈金斯.md) | Chuck Huggins | 喜诗糖果 CEO | 1972-2000 |
+| [杰克·伯恩](./wiki/people/杰克·伯恩.md) | Jack Byrne | GEICO 救星 | 1970s |
 
-### 外部 CEO
+### 外部卓越 CEO
 
-| 人物 | 公司 | 角色 |
-|------|------|------|
-| [汤姆·墨菲](./wiki/people/汤姆·墨菲.md) | 大都会/ABC | 卓越 CEO 典范 |
-| [凯瑟琳·格雷厄姆](./wiki/people/凯瑟琳·格雷厄姆.md) | 华盛顿邮报 | 女继承人 |
-| [杰克·韦尔奇](./wiki/people/杰克·韦尔奇.md) | 通用电气 | 前 CEO |
+| 人物 | 公司 | 角色 | 特点 |
+|------|------|------|------|
+| [汤姆·墨菲](./wiki/people/汤姆·墨菲.md) | 大都会/ABC | 卓越 CEO | 资本配置典范 |
+| [凯瑟琳·格雷厄姆](./wiki/people/凯瑟琳·格雷厄姆.md) | 华盛顿邮报 | 女继承人 | 华盛顿邮报控制人 |
+| [李·艾科卡](./wiki/people/李·艾科卡.md) | 克莱斯勒/福特 | 汽车业传奇 | 扭亏为盈 |
+| [杰克·韦尔奇](./wiki/people/杰克·韦尔奇.md) | 通用电气 | 前 CEO | 商业精英 |
+
+### 美联储主席
+
+| 人物 | 英文名 | 任期 | |
+|------|--------|------|
+| [艾伦·格林斯潘](./wiki/people/艾伦·格林斯潘.md) | Alan Greenspan | 1987-2006 | |
+| [本·伯南克](./wiki/people/本·伯南克.md) | Ben Bernanke | 2006-2014 | |
+| [保罗·沃尔克](./wiki/people/保罗·沃尔克.md) | Paul Volcker | 1979-1987 | |
