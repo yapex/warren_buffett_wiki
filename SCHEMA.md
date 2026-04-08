@@ -57,8 +57,8 @@ compiled: YYYY-MM-DD
 
 ## 涉及实体
 
-- **公司**: [[公司名]], [[公司名]]
-- **人物**: [[人物名]], [[人物名]]
+- **公司**: [公司名](../companies/公司名.md), [公司名](../companies/公司名.md)
+- **人物**: [人物名](../people/人物名.md), [人物名](../people/人物名.md)
 
 ---
 
@@ -87,20 +87,20 @@ first_appeared: YYYY
 
 ## 相关概念
 
-- [[相关概念1]]
-- [[相关概念2]]
+- [相关概念1](../concepts/相关概念1.md)
+- [相关概念2](../concepts/相关概念2.md)
 
 ## 相关公司
 
-- [[相关公司]]
+- [相关公司](../companies/相关公司.md)
 
 ## 相关人物
 
-- [[相关人物]]
+- [相关人物](../people/相关人物.md)
 
 ## 相关信件
 
-- [[YYYY-letter]]
+- [YYYY-letter](../letters/YYYY-letter.md)
 ```
 
 ### 公司页 (companies/公司名.md)
@@ -125,12 +125,12 @@ first_appeared: YYYY
 
 ## 相关概念
 
-- [[概念1]]
-- [[概念2]]
+- [概念1](../concepts/概念1.md)
+- [概念2](../concepts/概念2.md)
 
 ## 相关信件
 
-- [[YYYY-letter]]
+- [YYYY-letter](../letters/YYYY-letter.md)
 ```
 
 ### 人物页 (people/人物名.md)
@@ -149,15 +149,15 @@ first_appeared: YYYY
 
 ## 相关概念
 
-- [[概念1]]
+- [概念1](../concepts/概念1.md)
 
 ## 相关公司
 
-- [[公司]]
+- [公司](../companies/公司.md)
 
 ## 相关信件
 
-- [[YYYY-letter]]
+- [YYYY-letter](../letters/YYYY-letter.md)
 ```
 
 ### 总索引页 (index.md)
@@ -176,8 +176,8 @@ title: Buffett Wiki 总索引
 
 | 概念 | 说明 |
 |------|------|
-| [[内在价值]] | ... |
-| [[护城河]] | ... |
+| [内在价值](./concepts/内在价值.md) | ... |
+| [护城河](./concepts/护城河.md) | ... |
 
 ## 核心公司
 
@@ -221,9 +221,11 @@ title: Buffett Wiki 总索引
 
 | 类型 | 语法 | 指向 |
 |------|------|------|
-| Wikilink | `[[目标]]` | wiki 内部页面 |
+| Markdown 链接 | `[名称](./path/name.md)` | wiki 内部页面 |
 | 原文链接 | `[EN](path)` | 英文原文 |
-| 索引链接 | `[[concepts/index]]` | 索引页面 |
+| 索引链接 | `[index](./path/index.md)` | 索引页面 |
+
+> 💡 使用标准 Markdown 链接格式，兼容所有阅读器
 
 ## 维护流程
 

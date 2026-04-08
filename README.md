@@ -51,39 +51,35 @@
 
 | 概念 | 英文名 | 首次阐述 |
 |------|--------|----------|
-| [[内在价值]] | Intrinsic Value | 1960s |
-| [[护城河]] | Economic Moat | 1990s |
-| [[浮存金]] | Float | 1967 |
-| [[安全边际]] | Margin of Safety | 1960s |
+| [内在价值](./wiki/concepts/内在价值.md) | Intrinsic Value | 1960s |
+| [护城河](./wiki/concepts/护城河.md) | Economic Moat | 1990s |
+| [浮存金](./wiki/concepts/浮存金.md) | Float | 1967 |
+| [安全边际](./wiki/concepts/安全边际.md) | Margin of Safety | 1960s |
 
 ### 公司 (companies/)
 
 | 公司 | 英文名 | 首次提及 |
 |------|--------|----------|
-| [[伯克希尔·哈撒韦]] | Berkshire Hathaway | 1965 |
-| [[盖可保险]] | GEICO | 1976 |
-| [[可口可乐]] | Coca-Cola | 1988 |
-| [[美国运通]] | American Express | 1960s |
-| [[喜诗糖果]] | See's Candies | 1972 |
+| [伯克希尔·哈撒韦](./wiki/companies/伯克希尔·哈撒韦.md) | Berkshire Hathaway | 1965 |
+| [盖可保险](./wiki/companies/盖可保险.md) | GEICO | 1976 |
+| [可口可乐](./wiki/companies/可口可乐.md) | Coca-Cola | 1988 |
+| [美国运通](./wiki/companies/美国运通.md) | American Express | 1960s |
+| [喜诗糖果](./wiki/companies/喜诗糖果.md) | See's Candies | 1972 |
 
 ### 人物 (people/)
 
 | 人物 | 英文名 | 角色 |
 |------|--------|------|
-| [[沃伦·巴菲特]] | Warren Buffett | 董事长/CEO |
-| [[查理·芒格]] | Charlie Munger | 副董事长 |
-| [[本杰明·格雷厄姆]] | Benjamin Graham | 导师 |
-| [[阿吉特·杰恩]] | Ajit Jain | 再保险负责人 |
+| [沃伦·巴菲特](./wiki/people/沃伦·巴菲特.md) | Warren Buffett | 董事长/CEO |
+| [查理·芒格](./wiki/people/查理·芒格.md) | Charlie Munger | 副董事长 |
+| [本杰明·格雷厄姆](./wiki/people/本杰明·格雷厄姆.md) | Benjamin Graham | 导师 |
+| [阿吉特·杰恩](./wiki/people/阿吉特·杰恩.md) | Ajit Jain | 再保险负责人 |
 
 ## 快速开始
 
 ### 1. 下载信件
 
-```bash
-uv run python scripts/download_berkshire_zh.py   # 中文伯克希尔信
-uv run python scripts/download_partnership_zh.py # 中文合伙人信
-uv run python scripts/download_berkshire_en.py   # 英文信
-```
+信件数据已预下载在 `raw/` 目录，无需手动下载。
 
 ### 2. 编译 Wiki
 
@@ -94,7 +90,7 @@ uv run python scripts/compile_wiki.py
 这会生成包含以下内容的 Wiki 页面：
 - **概要**：信件核心内容概述
 - **关键主题**：识别的主要话题
-- **涉及实体**：提及的公司和人物（带 wikilink）
+- **涉及实体**：提及的公司和人物（带链接）
 - **格式化正文**：易于阅读的排版
 
 ### 3. RAG 查询
@@ -130,15 +126,15 @@ uv run python .rag/query.py
 ## 待完成
 
 - [ ] 补全缺失的英文信件 (2007-2024)
-- [ ] 扩展概念/公司/人物详情页（基于 [[concepts/index|索引]] 继续添加）
+- [ ] 扩展概念/公司/人物详情页（基于 [concepts/index](./wiki/concepts/index.md) 继续添加）
 - [ ] 集成真正的 LLM 支持
-- [ ] 添加 [[companies/index|更多公司]] 详情页
-- [ ] 添加 [[people/index|更多人物]] 详情页
+- [ ] 添加 [companies/index](./wiki/companies/index.md) 更多公司详情页
+- [ ] 添加 [people/index](./wiki/people/index.md) 更多人物详情页
 - [ ] 定期 Lint 检查 Wiki 健康状态
 
 ## Wiki 维护指南
 
-详见 [[SCHEMA.md]] 了解：
+详见 [SCHEMA.md](./SCHEMA.md) 了解：
 - Wiki 页面模板规范
 - 命名和链接规范
 - 新增信件的维护流程

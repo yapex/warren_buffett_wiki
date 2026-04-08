@@ -161,13 +161,13 @@ def compile_letter(year: int) -> bool:
     # 生成涉及实体
     entities_parts = []
     if companies:
-        companies_list = ', '.join([f'[[{c}]]' for c in sorted(companies)])
+        companies_list = ', '.join([f'[{c}](../companies/{c}.md)' for c in sorted(companies)])
         entities_parts.append(f"- **公司**: {companies_list}")
     if people:
         # 去重并过滤掉太短的
         people_filtered = [p for p in people if len(p) >= 2]
         if people_filtered:
-            people_list = ', '.join([f'[[{p}]]' for p in sorted(people_filtered)])
+            people_list = ', '.join([f'[{p}](../people/{p}.md)' for p in sorted(people_filtered)])
             entities_parts.append(f"- **人物**: {people_list}")
     
     entities_section = '\n'.join(entities_parts) if entities_parts else "- （待提取）"
