@@ -20,9 +20,9 @@ wiki/                   # LLM 维护的 Wiki
 ├── letters/           # 信件笔记 [示例](./wiki/letters/1965-letter.md)
 ├── concepts/          # 概念笔记
 ├── companies/        # 公司笔记
-├── people/           # 人物笔记
-├── index.md         # 总索引
-└── log.md           # 变更日志
+└── people/          # 人物笔记
+
+index.md              # 📚 总索引（概念/公司/人物一览）
 
 .rag/                  # RAG 索引和查询
 └── query.py          # uv run python .rag/query.py "查询"
@@ -52,18 +52,24 @@ uv run python .rag/query.py "巴菲特如何看待保险"
 uv run python .rag/query.py
 ```
 
+## 总索引
+
+👉 **[查看 index.md](./index.md)** - 包含 60 封信件、25 个核心概念、32 家公司、25 位人物的完整索引
+
 ## 当前进度
 
 | 类型 | 数量 | 状态 |
 |------|------|------|
-| 伯克希尔中文信 | 60 | 1965 ✅ |
+| 伯克希尔中文信 | 60 | 1965-2024 ✅ |
 | 合伙人中文信 | 35 | ⏳ |
-| 信件笔记 | 60 | 1/60 |
-| 概念笔记 | - | ⏳ |
-| 公司笔记 | - | ⏳ |
-| 人物笔记 | - | ⏳ |
+| 信件笔记 | 60 | ✅ |
+| 概念笔记 | 25+ | ✅ |
+| 公司笔记 | 32+ | ✅ |
+| 人物笔记 | 25+ | ✅ |
 
-## 数据来源
+## 致谢
 
-- **中文源**: [buffett-letters-eir](https://buffett-letters-eir.pages.dev)
-- **英文源**: Berkshire Hathaway 官网
+本 Wiki 的原始数据来源于：
+
+- **[巴菲特致股东信](https://buffett-letters-eir.pages.dev/)** - 提供完整的中文翻译
+- **Berkshire Hathaway 官网** - 提供官方英文原版
