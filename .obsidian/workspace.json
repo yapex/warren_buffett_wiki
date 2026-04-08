@@ -11,14 +11,10 @@
             "id": "9f4080db39004027",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/letters/1966-letter.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1966-letter"
+              "title": "新标签页"
             }
           }
         ]
@@ -185,11 +181,11 @@
   },
   "active": "9f4080db39004027",
   "lastOpenFiles": [
+    "wiki/letters/1966-letter.md",
     "wiki/letters/1965-letter.md",
     "scripts/beautify_letters.py",
     "wiki/letters/1968-letter.md",
     "wiki/letters/1967-letter.md",
-    "wiki/letters/1966-letter.md",
     "raw/berkshire/zh/1965-letter-zh.md",
     "wiki/log.md",
     "wiki/index.md",
