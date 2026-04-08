@@ -8,26 +8,6 @@
 - **RAG 增强**: 提供全局上下文，跨信件关联
 - **持久累积**: Wiki 是 LLM 构建的知识库
 
-## 目录结构
-
-```
-raw/                    # 原始材料（不可修改）
-├── berkshire/zh/       # 伯克希尔中文信 (60封, 1965-2024)
-├── berkshire/en/       # 伯克希尔英文信 (30封)
-└── partnership/zh/     # 合伙人中文信 (35封)
-
-wiki/                   # LLM 维护的 Wiki
-├── letters/           # 信件笔记 [示例](./wiki/letters/1965-letter.md)
-├── concepts/          # 概念笔记
-├── companies/        # 公司笔记
-└── people/          # 人物笔记
-
-index.md              # 📚 总索引（概念/公司/人物一览）
-
-.rag/                  # RAG 索引和查询
-└── query.py          # uv run python .rag/query.py "查询"
-```
-
 ## LLM 工作流
 
 ```
