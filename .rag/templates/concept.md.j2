@@ -1,0 +1,77 @@
+---
+type: concept
+name: {{ name }}
+english_name: {{ english_name }}
+first_appeared: {{ first_appeared }}
+tags:
+{%- for tag in tags %}
+  - {{ tag }}
+{%- endfor %}
+aliases:
+{%- for alias in aliases %}
+  - {{ alias }}
+{%- endfor %}
+---
+
+# {{ name }} ({{ english_name }})
+
+> **原文**: [raw/berkshire/zh/{{ first_appeared }}-letter-zh.md](../../raw/berkshire/zh/{{ first_appeared }}-letter-zh.md)
+> **执笔**: 沃伦·巴菲特
+
+---
+
+## 定义
+
+{{ definition }}
+
+## 巴菲特观点
+
+{{ buffett_viewpoint }}
+
+### 关键原则
+
+{%- for principle in key_principles %}
+- **{{ principle.title }}**: {{ principle.description }}
+{%- endfor %}
+
+## 演变历程
+
+{%- for era in evolution %}
+### {{ era.period }}
+{{ era.description }}
+{%- endfor %}
+
+## 核心要素
+
+{%- for element in elements %}
+### {{ loop.index }}. {{ element.name }}
+{{ element.description }}
+{%- endfor %}
+
+## 相关概念
+
+{%- for concept in related_concepts %}
+- [{{ concept }}]({{ concept }}.md)
+{%- endfor %}
+
+## 相关公司
+
+{%- for company in related_companies %}
+- [{{ company }}](../companies/{{ company }}.md)
+{%- endfor %}
+
+## 相关人物
+
+{%- for person in related_people %}
+- [{{ person }}](../people/{{ person }}.md)
+{%- endfor %}
+
+## 相关信件
+
+{%- for letter in related_letters %}
+- [{{ letter }}](../letters/{{ letter }}.md)
+{%- endfor %}
+
+---
+
+*本笔记由 LLM 维护，基于 RAG 全局上下文分析*
