@@ -69,15 +69,103 @@
 
 ## 概念索引
 
-见 [concepts/index.md](./concepts/index.md)
+### 投资理念
+
+| 概念 | 英文名 | 说明 | 相关信件 |
+|------|--------|------|----------|
+| [内在价值](./concepts/内在价值.md) | Intrinsic Value | 未来现金流的折现值 | [1994](./wiki/letters/1994-letter.md) |
+| [护城河](./concepts/护城河.md) | Economic Moat | 持续的竞争优势 | [1995](./wiki/letters/1995-letter.md) |
+| [安全边际](./concepts/安全边际.md) | Margin of Safety | 价格低于价值的空间 | [1992](./wiki/letters/1992-letter.md) |
+| [股东回报](./concepts/股东回报.md) | Shareholder Return | 分红与回购 | [1965](./wiki/letters/1965-letter.md) |
+
+### 财务指标
+
+| 概念 | 英文名 | 说明 | 相关信件 |
+|------|--------|------|----------|
+| [浮存金](./concepts/浮存金.md) | Float | 保险公司的沉淀资金 | [1976](./wiki/letters/1976-letter.md) |
+| [账面价值](./concepts/账面价值.md) | Book Value | 股东权益 | [1965](./wiki/letters/1965-letter.md) |
+
+---
 
 ## 公司索引
 
-见 [companies/index.md](./companies/index.md)
+### 核心持股公司
+
+| 公司 | 英文名 | 出现次数 | 首次提及 | 相关概念 |
+|------|--------|----------|----------|----------|
+| [伯克希尔·哈撒韦](./wiki/companies/伯克希尔.md) | Berkshire Hathaway | 163 | 1965 | 投资旗舰 |
+| [GEICO](./wiki/companies/GEICO.md) | Government Employees Insurance | 294 | 1976 | 浮存金、保险 |
+| [可口可乐](./wiki/companies/可口可乐.md) | Coca-Cola | 177 | 1988 | 护城河、消费品牌 |
+| [喜诗糖果](./wiki/companies/喜诗糖果.md) | See's Candies | 121 | 1972 | 护城河、糖果 |
+| [美国运通](./wiki/companies/美国运通.md) | American Express | 114 | 1960s | 信用卡、金融服务 |
+| [富国银行](./wiki/companies/富国银行.md) | Wells Fargo | 81 | 1990 | 银行、社区银行 |
+| [吉列](./wiki/companies/吉列.md) | Gillette | 83 | 1989 | 护城河、消费品 |
+| [华盛顿邮报](./wiki/companies/华盛顿邮报.md) | Washington Post | 78 | 1973 | 媒体、报纸 |
+| [蓝筹印花](./wiki/companies/蓝筹印花.md) | Blue Chip Stamps | 131 | 1970s | 子公司 |
+| [国民保险公司](./wiki/companies/国民保险公司.md) | National Indemnity | 74 | 1967 | 保险、浮存金 |
+
+### 消费品公司
+
+| 公司 | 英文名 | 出现次数 | 特征 |
+|------|--------|----------|------|
+| [可口可乐](./wiki/companies/可口可乐.md) | Coca-Cola | 177 | 全球品牌、护城河 |
+| [吉列](./wiki/companies/吉列.md) | Gillette | 83 | 全球品牌、剃须刀 |
+| [喜诗糖果](./wiki/companies/喜诗糖果.md) | See's Candies | 121 | 区域品牌、溢价能力 |
+| [美国运通](./wiki/companies/美国运通.md) | American Express | 114 | 金融品牌、信用卡 |
+
+### 金融公司
+
+| 公司 | 英文名 | 出现次数 | 备注 |
+|------|--------|----------|------|
+| [富国银行](./wiki/companies/富国银行.md) | Wells Fargo | 81 | 社区银行典范 |
+| [高盛](./wiki/companies/高盛.md) | Goldman Sachs | - | 2008 投资 |
+| [所罗门兄弟](./wiki/companies/所罗门兄弟.md) | Salomon Brothers | - | 债券交易 |
+
+### 科技公司
+
+| 公司 | 英文名 | 出现次数 | 备注 |
+|------|--------|----------|------|
+| [苹果](./wiki/companies/苹果.md) | Apple | - | 2016 最大持仓 |
+| [IBM](./wiki/companies/IBM.md) | IBM | - | 2011 投资 |
+| [亚马逊](./wiki/companies/亚马逊.md) | Amazon | - | 提及 |
+
+---
 
 ## 人物索引
 
-见 [people/index.md](./people/index.md)
+### 核心人物
+
+| 人物 | 英文名 | 出现次数 | 角色 | 相关公司 |
+|------|--------|----------|------|----------|
+| [查理·芒格](./wiki/people/查理·芒格.md) | Charlie Munger | 767 | 副董事长、投资伙伴 | 伯克希尔 |
+| [沃伦·巴菲特](./wiki/people/巴菲特.md) | Warren Buffett | 243 | 董事长、CEO | 伯克希尔 |
+| [本杰明·格雷厄姆](./wiki/people/本杰明·格雷厄姆.md) | Benjamin Graham | 93 | 导师、价值投资之父 | 格雷厄姆-纽曼 |
+| [费雪](./wiki/people/费雪.md) | Philip Fisher | - | 成长股投资先驱 | |
+
+### 伯克希尔核心高管
+
+| 人物 | 英文名 | 职位 | 相关公司 |
+|------|--------|------|----------|
+| [阿吉特·杰恩](./wiki/people/阿吉特·杰恩.md) | Ajit Jain | 再保险负责人 | 国家雇员保险公司 |
+| [Greg Abel](./wiki/people/Greg-Abel.md) | Greg Abel | 非保险业务负责人 | 伯克希尔能源 |
+| [托德·康布斯](./wiki/people/托德·康布斯.md) | Todd Combs | 投资经理 | |
+| [特德·韦斯勒](./wiki/people/特德·韦斯勒.md) | Ted Weschler | 投资经理 | |
+
+### 早期管理团队
+
+| 人物 | 英文名 | 职位 | 时期 |
+|------|--------|------|------|
+| [肯尼思·蔡斯](./wiki/people/肯尼思·蔡斯.md) | Ken Chace | 纺织业务负责人 | 1965-1970s |
+| [吉恩·阿贝格](./wiki/people/吉恩·阿贝格.md) | Gene Abegg | 伊利诺伊国民银行行长 | 1931-1978 |
+| [B 夫人](./wiki/people/B夫人.md) | Mrs. B | 内布拉斯加家具店 | 1983 |
+
+### 外部 CEO
+
+| 人物 | 公司 | 角色 |
+|------|------|------|
+| [汤姆·墨菲](./wiki/people/汤姆·墨菲.md) | 大都会/ABC | 卓越 CEO 典范 |
+| [凯瑟琳·格雷厄姆](./wiki/people/凯瑟琳·格雷厄姆.md) | 华盛顿邮报 | 女继承人 |
+| [杰克·韦尔奇](./wiki/people/杰克·韦尔奇.md) | 通用电气 | 前 CEO |
 
 ## 变更日志
 
