@@ -7,10 +7,11 @@ from pathlib import Path
 from collections import defaultdict
 
 # 路径配置
-WORKING_DIR = Path("rag")
-WIKI_DIR = Path("wiki/letters")
-RAW_ZH_DIR = Path("raw/berkshire/zh")
-RAW_EN_DIR = Path("raw/berkshire/en")
+WORKING_DIR = Path(__file__).parent
+RAW_ZH_DIR = Path(__file__).parent.parent / "raw/berkshire/zh"
+RAW_EN_DIR = Path(__file__).parent.parent / "raw/berkshire/en"
+RAW_PARTNERSHIP_DIR = Path(__file__).parent.parent / "raw/partnership/zh"
+WIKI_DIR = Path(__file__).parent.parent / "wiki"
 
 # 倒排索引
 INVERTED_INDEX = defaultdict(list)  # {word: [(doc_id, position)]}
@@ -27,21 +28,26 @@ def tokenize(text: str) -> list[str]:
     return tokens
 
 def build_index():
-    """构建索引"""
+    """构建索引 - 索引 raw 原始信件"""
     global DOCUMENTS, INVERTED_INDEX
     
     DOCS = {}
     
-    # 索引 Wiki 信件
-    for letter_file in WIKI_DIR.glob("*.md"):
-        doc_id = f"wiki/{letter_file.name}"
-        with open(letter_file, 'r', encoding='utf-8') as f:
+    def index_file(filepath: Path, doc_type: str) -> None:
+        """索引单个文件"""
+        doc_id = f"{doc_type}/{filepath.name}"
+        with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
+        
+        # 提取纯文本内容（去掉 HTML 标签）
+        if filepath.suffix == '.html':
+            import re
+            content = re.sub(r'<[^>]+>', ' ', content)
         
         tokens = tokenize(content)
         DOCS[doc_id] = {
-            "source": str(letter_file),
-            "content": content,
+            "source": str(filepath),
+            "content": content[:5000],  # 限制长度
             "tokens": set(tokens),
             "token_count": len(tokens)
         }
@@ -49,6 +55,22 @@ def build_index():
         # 倒排索引
         for token in set(tokens):
             INVERTED_INDEX[token].append(doc_id)
+    
+    # 索引伯克希尔中文信
+    for f in RAW_ZH_DIR.glob("*-letter-zh.md"):
+        index_file(f, "raw/berkshire/zh")
+    
+    # 索引伯克希尔英文信
+    for f in RAW_EN_DIR.glob("*-letter-en.md"):
+        index_file(f, "raw/berkshire/en")
+    
+    # 索引合伙人信
+    for f in RAW_PARTNERSHIP_DIR.glob("*.md"):
+        index_file(f, "raw/partnership/zh")
+    
+    # 索引 Wiki 页面
+    for f in WIKI_DIR.glob("**/*.md"):
+        index_file(f, "wiki")
     
     DOCUMENTS = DOCS
     
