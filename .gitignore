@@ -16,3 +16,8 @@ graphify-out/
 .rag/inverted_index.json
 .rag/paragraphs_content.json
 .rag/paragraphs_meta.json
+
+# 电子书原始内容（版权保护）
+raw/ebooks/
+raw/ebooks-md/
+wiki/ebooks/
