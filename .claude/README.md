@@ -31,6 +31,27 @@ pi "lint wiki --fix"
 
 详见 [wiki-lint/SKILL.md](skills/wiki-lint/SKILL.md)
 
+### wiki-query
+
+Wiki RAG 查询工具。
+
+**使用方法**：
+```bash
+# 基础搜索
+pi "查询 '安全边际'"
+
+# 概念时间线
+pi "查询 '护城河' --timeline"
+
+# 文档内搜索
+pi "在 1985-letter.md 中搜索 '纺织'"
+
+# 年份范围
+pi "搜索 '收购' --year=1970-1980"
+```
+
+详见 [wiki-query/SKILL.md](skills/wiki-query/SKILL.md)
+
 ## 与全局 Skills 的区别
 
 - **全局 Skills** (`~/.pi/agent/skills/`): 跨项目通用的技能
