@@ -14,18 +14,30 @@ import json
 import argparse
 from pathlib import Path
 
-# 添加 .rag 目录到路径
-rag_dir = Path(__file__).parent.parent.parent / '.rag'
-sys.path.insert(0, str(rag_dir))
+# 使用 rag 包（已安装为 Python 项目）
+# 路径：从 .claude/skills/wiki-query/ 到项目根目录需要 3 级 parent
+project_root = Path(__file__).resolve().parent.parent.parent.parent
 
-from config import (
-    search_paragraphs,
-    search_concept_timeline,
-    search_concept_in_doc,
-    get_concept_quote_timeline,
-    DOCUMENTS,
-    PARAGRAPHS,
-)
+# 尝试使用已安装的包，如果失败则添加路径导入
+try:
+    from rag.config import (
+        search_paragraphs,
+        search_concept_timeline,
+        search_concept_in_doc,
+        get_concept_quote_timeline,
+        DOCUMENTS,
+        PARAGRAPHS,
+    )
+except ImportError:
+    sys.path.insert(0, str(project_root))
+    from rag.config import (
+        search_paragraphs,
+        search_concept_timeline,
+        search_concept_in_doc,
+        get_concept_quote_timeline,
+        DOCUMENTS,
+        PARAGRAPHS,
+    )
 
 # 颜色定义
 class Colors:
@@ -130,8 +142,8 @@ def query_wiki(query: str, **kwargs):
     year_range = kwargs.get('year')
     doc_type = kwargs.get('type')
     
-    # 基础搜索
-    results = search_paragraphs(query, limit=limit * 2)
+    # 基础搜索 (API: top_k 而不是 limit)
+    results = search_paragraphs(query, top_k=limit * 2)
     
     # 按年份过滤
     if year_range:

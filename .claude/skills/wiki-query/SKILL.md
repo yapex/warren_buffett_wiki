@@ -237,9 +237,9 @@ pi "查询 '新概念'"
 
 ## 相关文件
 
-- 查询脚本：`.rag/query.py`
+- 查询脚本：`rag/query.py`
 - 索引文件：`.rag/docs.json`, `.rag/inverted_index.json`
-- 配置文件：`.rag/config.py`
+- 配置文件：`rag/config.py`
 - 查询指南：`docs/query-guide.md`
 
 ## 示例查询
@@ -282,23 +282,22 @@ pi "查询 '新概念'"
 
 ### 更新索引
 
-当添加新文档时：
-```bash
-cd /Users/yapex/workspace/warren_buffett_wiki
-uv run python .rag/update_concepts.py
-```
+当添加新文档时，索引会自动在下次查询时加载。
 
 ### 重建索引
 
-如果索引损坏：
+如果需要强制重建索引：
 ```bash
-uv run python .rag/query.py rebuild
+cd /Users/yapex/workspace/warren_buffett_wiki
+uv run buffett-rag rebuild
 ```
 
-### 检查索引状态
+### 手动查询
 
+也可以直接使用命令行工具：
 ```bash
-uv run python .rag/query.py status
+uv run buffett-rag search 安全边际
+uv run buffett-rag timeline 护城河
 ```
 
 ---
