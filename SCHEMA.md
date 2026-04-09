@@ -66,11 +66,19 @@ wiki/                       # LLM 维护的 Wiki
 
 项目内置 RAG 系统（`.rag/`），能对 raw 信件和 wiki 页面做段落级语义搜索，大幅提升跨信件查询效率。
 
-**首次使用或 raw 变更后，需重建索引：**
+**以下操作后必须重建索引：**
+
+- 首次使用
+- `wiki/` 目录文件变更（新增研究笔记、补充原文、修改概念页面等）
+- 从 `raw/` 编译生成新 wiki 页面后
 
 ```bash
 uv run python .rag/query.py rebuild
 ```
+
+> ⚠️ 不重建索引，RAG 将查不到新增/修改的内容。每次 Ingest 或 Query 写回 wiki 后都应执行。
+
+RAG 只索引 `wiki/` 目录，不直接索引 `raw/`。`raw/` 中的原始信件需先编译为 wiki 页面，再通过重建索引纳入检索。
 
 索引文件（`.rag/*.json`）是可重建的缓存，已从 git 排除。代码（`.rag/config.py`、`.rag/query.py` 等）在 git 中。
 
@@ -82,7 +90,7 @@ uv run python .rag/query.py rebuild
 
 ```
 ## YYYY-MM-DD
-**操作**: ingest | query | lint | update
+**操作**: ingest | query | lint | update | rebuild
 ### 完成的工作: ...
 ### 来源: raw 文件或用户提问
 ### RAG 查询（如有）: "查询内容"

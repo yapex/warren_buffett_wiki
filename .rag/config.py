@@ -20,9 +20,6 @@ PARA_BY_DOC = defaultdict(list)  # {doc_id: [para_id]}
 INVERTED_INDEX = defaultdict(list)  # {word: [para_id]}
 DOCUMENTS = {}  # {doc_id: {"source": str, "type": str, "year": Optional[int]}}
 DOC_TYPE_PATTERNS = {
-    "raw/berkshire/zh": ("berkshire_zh", re.compile(r'(\d{4})-letter-zh')),
-    "raw/berkshire/en": ("berkshire_en", re.compile(r'(\d{4})-letter-en')),
-    "raw/partnership/zh": ("partnership_zh", re.compile(r'(\d{4})')),
     "wiki": ("wiki", None)
 }
 
@@ -36,11 +33,7 @@ def tokenize(text: str) -> list[str]:
 
 def extract_year(filename: str, doc_type: str) -> Optional[int]:
     """从文件名提取年份"""
-    if doc_type == "berkshire_zh" or doc_type == "berkshire_en":
-        match = re.search(r'(\d{4})', filename)
-        if match:
-            return int(match.group(1))
-    elif doc_type == "partnership_zh":
+    if doc_type == "wiki":
         match = re.search(r'(\d{4})', filename)
         if match:
             return int(match.group(1))
@@ -129,19 +122,7 @@ def build_paragraph_index():
         
         PARA_BY_DOC[doc_id] = para_ids
     
-    # 索引伯克希尔中文信
-    for f in RAW_ZH_DIR.glob("*-letter-zh.md"):
-        index_file(f, "berkshire_zh")
-    
-    # 索引伯克希尔英文信
-    for f in RAW_EN_DIR.glob("*-letter-en.md"):
-        index_file(f, "berkshire_en")
-    
-    # 索引合伙人信
-    for f in RAW_PARTNERSHIP_DIR.glob("*.md"):
-        index_file(f, "partnership_zh")
-    
-    # 索引 Wiki 页面
+    # 索引 Wiki 页面（raw/ 不直接索引，需先编译为 wiki 页面）
     for f in WIKI_DIR.glob("**/*.md"):
         index_file(f, "wiki")
     
@@ -236,7 +217,7 @@ def search_paragraphs(query: str, top_k: int = 10, doc_filter: Optional[str] = N
     Args:
         query: 查询文本
         top_k: 返回前 k 个结果
-        doc_filter: 可选，限定搜索的文档类型 (berkshire_zh, wiki, 等)
+        doc_filter: 可选，限定搜索的文档类型 (wiki, 等)
     
     Returns:
         [{"para_id": str, "doc_id": str, "content": str, "year": int, "score": float, "jump_url": str}]
@@ -303,14 +284,8 @@ def generate_jump_link(doc_id: str, para_index: int, doc_type: str) -> str:
     year_match = re.search(r'(\d{4})', doc_id)
     year = year_match.group(1) if year_match else ""
     
-    if doc_type == "berkshire_zh":
-        # 链接到 wiki 信件页面
-        return f"./wiki/letters/{year}-letter.md#p{para_index}"
-    elif doc_type == "berkshire_en":
-        return f"./wiki/letters/{year}-letter.md#p{para_index}"
-    elif doc_type == "partnership_zh":
-        return f"./wiki/partnership/{year}-letter.md#p{para_index}"
-    elif doc_type == "wiki":
+    # 现在只有 wiki 类型
+    if doc_type == "wiki":
         filename = doc_id.split("/")[-1]
         return f"./wiki/{filename}#p{para_index}"
     else:
