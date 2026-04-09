@@ -1,314 +1,103 @@
 # Buffett Wiki 规范
 
+> 基于 [Karpathy LLM Wiki 精神](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)：LLM 持久化地增量构建结构化 Wiki，好的分析写回 Wiki 而非消失在对话中。
+
 ## 核心理念
 
-LLM 是 Wiki 的维护者，直接读取 raw 数据，按需更新 wiki 页面。RAG 提供全局上下文，增强 LLM 的跨信件分析能力。
+- **LLM 维护 Wiki**：人类管 raw 数据，LLM 管一切 wiki 内容
+- **知识持久累积**：好的分析写回 `wiki/research/`，不留在对话历史
 
-## 角色分工
+## 三种操作
 
-| 角色 | 职责 |
-|------|------|
-| **人类** | 数据 curation，不修改 raw 以外的内容 |
-| **LLM** | 读取 raw，维护 wiki 页面 |
-| **RAG** | 提供全局索引和跨信件上下文 |
-| **Subagent** | 顺序处理每封信件 |
+| 操作 | 说明 | 产出 |
+|------|------|------|
+| **Ingest** | 新信件放入 raw/ → LLM 读取生成笔记 | `wiki/letters/`、`wiki/concepts/` 等 |
+| **Query** | 用户提问 → 检索相关内容 → 综合分析 → **好的答案写回 Wiki** | `wiki/research/` |
+| **Lint** | 检查孤立页面、断链、缺失交叉引用、过时结论 | 修复现有页面 |
 
-## Subagent 并行处理
+### Query 的关键
 
-当处理大量信件时，可按年代分段由多个 Subagent 并行执行。
+> Karpathy: "Good answers can be filed back into the wiki as new pages. This way your explorations compound."
 
-### 分工策略
+写回 Wiki 的判断标准：
+- ✅ 跨信件的对比分析、主题演变、汇总研究
+- ✅ 用户明确要求保存的分析
+- ❌ 简单事实查询、临时探索性对话
 
-| 年代范围 | 建议 Subagent |
-|----------|---------------|
-| 1986-1995 | worker1 |
-| 1996-2005 | worker2 |
-| 2006-2015 | worker3 |
-| 2016-2024 | worker4 |
-
-### Subagent 工作流程
-
-每个 Subagent 收到任务后按以下流程执行：
+## 目录结构
 
 ```
-For each year in assigned range (YYYY from XX to YY):
-    1. 查询 RAG: uv run python .rag/query.py "YYYY年伯克希尔关键数据"
-    2. 读取原文: raw/berkshire/zh/YYYY-letter-zh.md
-    3. 生成笔记: wiki/letters/YYYY-letter.md
-    4. 更新索引: wiki/index.md, wiki/concepts/index.md 等
-    5. 记录日志: wiki/log.md
-```
+raw/                        # 原始数据（不可变，LLM 只读）
+├── berkshire/zh/           # 伯克希尔股东信中文
+├── partnership/zh/         # 合伙人信件中文
+└── other/                  # 其他资料
 
-### 执行原则
-
-| 原则 | 说明 |
-|------|------|
-| **串联执行** | 各 Subagent 顺序执行，不并发 |
-| **年代分段** | 按年代分配任务，依次完成 |
-| **独立工作** | 每个 Subagent 在独立目录工作 |
-| **RAG 增强** | 处理每封信前先查询 RAG 获取上下文 |
-
----
-
-## 工具
-
-### RAG 查询
-
-```bash
-uv run python .rag/query.py "查询内容"
-```
-
-LLM 可通过 RAG 查询：
-- 某概念在所有信件中的分布
-- 某公司/人物的跨信件关联
-- 历史业绩对比数据
-- 跨信件的关键信息
-
-## 信件笔记模板
-
-```markdown
-# YYYY 年巴菲特致股东信
-
-> **原文**: [raw/berkshire/zh/YYYY-letter-zh.md](../../raw/berkshire/zh/YYYY-letter-zh.md)
-> **执笔**: 沃伦·巴菲特
-
----
-
-## 分析
-
-### 背景
-- ...
-
-### 关键数据
-| 指标 | 数值 |
-|------|------|
-| ... | ... |
-
-### 历史业绩 (YYYY-YYYY+2)
-| 年份 | 伯克希尔 | 标普 500 |
-|------|----------|----------|
-| ... | ... | ... |
-
-> 📊 数据来源: 其他信件中的历史对比表
-
----
-
-## 原文
-
-[原文内容，只做段落分隔]
-
----
-
-## 相关
-
-- [伯克希尔](../companies/伯克希尔.md) | [巴菲特](../people/巴菲特.md)
-- [YYYY+1 年信件](./YYYY+1-letter.md)
+wiki/                       # LLM 维护的 Wiki
+├── letters/                # 信件笔记（每封信一页）
+├── concepts/               # 概念笔记（安全边际、能力圈...）
+├── companies/              # 公司笔记
+├── people/                 # 人物笔记
+├── research/               # 📌 研究笔记（跨信件的深度分析）
+├── partnership/            # 合伙人信件笔记
+└── log.md                  # 变更日志
 ```
 
 ## 页面类型
 
-### 信件笔记 (wiki/letters/YYYY-letter.md)
+页面模板详见 → [docs/page-templates.md](docs/page-templates.md)
 
-- **分析**: 背景、关键数据、历史业绩对比
-- **原文**: 纯净原文，段落分隔
-- **相关**: 关联的公司、人物、后续信件
+| 类型 | 目录 | 说明 |
+|------|------|------|
+| 信件笔记 | `wiki/letters/YYYY-letter.md` | 每封信的分析 + 原文 + 关联 |
+| 概念笔记 | `wiki/concepts/概念名.md` | 定义 + 巴菲特观点 + 演变历程 |
+| 公司笔记 | `wiki/companies/公司名.md` | 简介 + 关键数据 + 投资逻辑 |
+| 人物笔记 | `wiki/people/人物名.md` | 简介 + 思想贡献 + 关联 |
+| **研究笔记** | `wiki/research/主题名.md` | 跨信件的深度分析，Query 产出 |
 
-### 概念笔记 (wiki/concepts/概念名.md)
-
-```markdown
-# 概念名 (英文名)
-
-## 定义
-...
-
-## 巴菲特观点
-...
-
-## 演变历程
-- **年份**: ...
-
-## 相关概念
-- [概念1](概念1.md)
-
-## 相关信件
-- [YYYY-letter](../letters/YYYY-letter.md)
-```
-
-### 公司笔记 (wiki/companies/公司名.md)
-
-```markdown
-# 公司名
-
-## 简介
-...
-
-## 关键数据
-| 项目 | 详情 |
-|------|------|
-| 投资时间 | YYYY |
-| ... | ... |
-
-## 相关信件
-- [YYYY-letter](../letters/YYYY-letter.md)
-```
-
-### 人物笔记 (wiki/people/人物名.md)
-
-```markdown
-# 人物名
-
-## 简介
-...
-
-## 相关概念
-- [内在价值](../concepts/内在价值.md)
-
-## 相关公司
-- [伯克希尔](../companies/伯克希尔.md)
-
-## 相关信件
-- [YYYY-letter](../letters/YYYY-letter.md)
-```
-
-## 链接规范
-
-使用标准 Markdown 链接：
-
-| 类型 | 语法 |
-|------|------|
-| 同级目录 | `[名称](./name.md)` |
-| 上级目录 | `[名称](../path/name.md)` |
-| 原文链接 | `[原文](../../raw/berkshire/zh/YYYY-letter-zh.md)` |
-
-## LLM 工作流
-
-### Subagent 处理信件
-
-LLM 按顺序处理每封信件：
-
-```
-For each letter (YYYY from 1965 to 2024):
-    
-    1. 查询 RAG
-       ↓
-       "查询 YYYY 年的关键信息"
-       - 历史业绩对比
-       - 相关概念/公司/人物
-       - 在其他信中的提及
-    
-    2. 读取原文
-       ↓
-       raw/berkshire/zh/YYYY-letter-zh.md
-    
-    3. 分析并生成笔记
-       ↓
-       wiki/letters/YYYY-letter.md
-       - 提取关键数据
-       - 查询 RAG 获取历史对比
-       - 关联已有概念/公司/人物
-    
-    4. 更新相关笔记
-       ↓
-       - 更新概念笔记的"演变历程"
-       - 更新公司/人物笔记
-       - 更新索引
-       
-    5. 更新索引
-       ↓
-       - wiki/concepts/index.md - 添加新概念
-       - wiki/companies/index.md - 添加新公司
-       - wiki/people/index.md - 添加新人物
-       - index.md - 添加新信件链接
-    
-    5. 记录日志
-       ↓
-       wiki/log.md
-```
-
-### 处理原则
+## 处理原则
 
 | 原则 | 说明 |
 |------|------|
-| **原文优先** | 原文保持纯净，不做修改 |
-| **分析前置** | 分析内容放在开头，便于快速了解 |
-| **隔开段落** | 原文只做段落分隔，便于阅读 |
-| **RAG 增强** | 利用 RAG 获取跨信件上下文 |
-| **关联积累** | 每封信都关联已有的概念/公司/人物笔记 |
+| 原文不可变 | raw/ 目录永远不修改 |
+| 分析持久化 | 好的分析写回 Wiki，不留在对话历史 |
+| 日志可追溯 | 每次操作记录 `wiki/log.md` |
 
-### 首次处理
+## RAG 系统（可选增强）
 
-1. **查询 RAG**: 获取该年份的历史背景
-2. **读取原文**: 完整读取 `raw/berkshire/zh/YYYY-letter-zh.md`
-3. **生成笔记**: 按模板生成 `wiki/letters/YYYY-letter.md`
-4. **关联笔记**: 
-   - 创建/更新 `wiki/concepts/` 相关概念
-   - 创建/更新 `wiki/companies/` 相关公司
-   - 创建/更新 `wiki/people/` 相关人物
-5. **更新索引**:
-   - `wiki/concepts/index.md` - 添加新概念
-   - `wiki/companies/index.md` - 添加新公司
-   - `wiki/people/index.md` - 添加新人物
-   - `index.md` - 添加信件链接和摘要
-6. **记录日志**: 更新 `wiki/log.md`
+项目内置 RAG 系统（`.rag/`），能对 raw 信件和 wiki 页面做段落级语义搜索，大幅提升跨信件查询效率。
 
-### 扩展已有笔记
+**首次使用或 raw 变更后，需重建索引：**
 
-处理新信件时：
+```bash
+uv run python .rag/query.py rebuild
+```
 
-1. **查询 RAG**: 获取新信件与已有笔记的关联
-2. **更新演变历程**: 在概念笔记中添加新年份
-3. **添加相关信件**: 在公司/人物笔记中添加新信件链接
-4. **更新索引**: 在相关索引页添加/更新条目
-5. **记录日志**: 说明扩展的内容
+索引文件（`.rag/*.json`）是可重建的缓存，已从 git 排除。代码（`.rag/config.py`、`.rag/query.py` 等）在 git 中。
+
+**有 RAG 时**：查询用 RAG 多轮迭代，不用 grep/sed。详见 skill → `buffett-rag`
+
+**无 RAG 时**：直接 read raw 文件，功能完整，只是效率更低。
 
 ## 日志格式
 
-```markdown
+```
 ## YYYY-MM-DD
-
-**操作**: 添加 YYYY 年信件笔记
-
-### 完成的工作
-- 创建 wiki/letters/YYYY-letter.md
-- 查询 RAG 获取历史业绩对比
-- 更新 wiki/concepts/XXX.md 演变历程
-- 更新 wiki/companies/XXX.md 相关信件
-
-### 来源
-raw/berkshire/zh/YYYY-letter-zh.md
-
-### RAG 查询
-"YYYY 年 伯克希尔 关键数据"
+**操作**: ingest | query | lint | update
+### 完成的工作: ...
+### 来源: raw 文件或用户提问
+### RAG 查询（如有）: "查询内容"
 ```
 
-## 索引维护
+## 详细参考
 
-| 索引文件 | 内容 | 更新时机 |
-|----------|------|----------|
-| `index.md` | 总索引，信件列表 | 每封新信件 |
-| `wiki/concepts/index.md` | 概念索引 | 新增/更新概念 |
-| `wiki/companies/index.md` | 公司索引 | 新增/更新公司 |
-| `wiki/people/index.md` | 人物索引 | 新增/更新人物 |
-| `wiki/log.md` | 变更日志 | 每次更新 |
-
-### index.md 格式
-
-```markdown
-# Buffett Wiki 总索引
-
-## 信件笔记
-
-| 年份 | 摘要 | 分析亮点 |
-|------|------|----------|
-| [1965](./letters/1965-letter.md) | 接管伯克希尔... | +1714% 净利润 |
-| [1966](./letters/1966-letter.md) | ... | ... |
-```
+| 文档 | 内容 |
+|------|------|
+| `.pi/skills/buffett-rag/` | RAG 查询 skill（自动加载） |
+| [docs/page-templates.md](docs/page-templates.md) | 各类页面的完整模板 |
 
 ## 当前进度
 
 | 年份范围 | 状态 |
 |----------|------|
-| 1965-2024 | ✅ 全部完成 |
-
----
-*本规范由 LLM 维护*
+| 1965-2024 伯克希尔信件 | ✅ |
+| 1956-1969 合伙人信件 | ⏳ |

@@ -5,3 +5,10 @@
 __pycache__/
 *.pyc
 .venv/
+
+# RAG index (rebuild with: uv run python .rag/query.py rebuild)
+.rag/docs.json
+.rag/index.json
+.rag/inverted_index.json
+.rag/paragraphs_content.json
+.rag/paragraphs_meta.json
