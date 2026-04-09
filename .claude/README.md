@@ -55,8 +55,35 @@ pi "搜索 '收购' --year=1970-1980"
 
 ## 与全局 Skills 的区别
 
-- **全局 Skills** (`~/.pi/agent/skills/`): 跨项目通用的技能
+- **全局 Skills** (`~/.pi/agent/skills/` 或 `~/.agents/skills/`): 跨项目通用的技能
 - **项目 Skills** (`.claude/skills/`): 本项目特定的技能
+
+### 项目技能全局使用
+
+本项目技能已软链接到 `~/.agents/skills/`，可在所有项目中通过 pi 使用：
+
+```bash
+# 在任何项目中
+pi "lint wiki /path/to/other/wiki"
+pi "查询 '安全边际'"
+```
+
+### 在其他项目中使用
+
+如果要在其他项目中使用这些技能，添加软链接：
+
+```bash
+ln -s /Users/yapex/workspace/warren_buffett_wiki/.claude/skills/wiki-lint ~/.agents/skills/
+ln -s /Users/yapex/workspace/warren_buffett_wiki/.claude/skills/wiki-query ~/.agents/skills/
+```
+
+或在项目 `.pi/settings.json` 中添加：
+
+```json
+{
+  "skills": ["../warren_buffett_wiki/.claude/skills"]
+}
+```
 
 ## 添加新 Skill
 
