@@ -53,36 +53,47 @@ pi "搜索 '收购' --year=1970-1980"
 
 详见 [wiki-query/SKILL.md](skills/wiki-query/SKILL.md)
 
-## 与全局 Skills 的区别
+## 与 pi 集成
 
-- **全局 Skills** (`~/.pi/agent/skills/` 或 `~/.agents/skills/`): 跨项目通用的技能
-- **项目 Skills** (`.claude/skills/`): 本项目特定的技能
+pi 不会自动加载 `.claude/skills/` 中的技能，需要手动配置。
 
-### 项目技能全局使用
+### 方法 1：全局配置（推荐）
 
-本项目技能已软链接到 `~/.agents/skills/`，可在所有项目中通过 pi 使用：
+在 `~/.pi/agent/settings.json` 中添加：
 
-```bash
-# 在任何项目中
-pi "lint wiki /path/to/other/wiki"
-pi "查询 '安全边际'"
+```json
+{
+  "skills": ["~/.agents/skills"]
+}
 ```
 
-### 在其他项目中使用
-
-如果要在其他项目中使用这些技能，添加软链接：
+然后创建软链接：
 
 ```bash
 ln -s /Users/yapex/workspace/warren_buffett_wiki/.claude/skills/wiki-lint ~/.agents/skills/
 ln -s /Users/yapex/workspace/warren_buffett_wiki/.claude/skills/wiki-query ~/.agents/skills/
 ```
 
-或在项目 `.pi/settings.json` 中添加：
+### 方法 2：项目配置
+
+在项目根目录创建 `.pi/settings.json`：
 
 ```json
 {
-  "skills": ["../warren_buffett_wiki/.claude/skills"]
+  "skills": ["../.claude/skills"]
 }
+```
+
+**注意**：由于 macOS 文件系统限制，软链接可能无法正常工作。推荐使用方法 1 的全局配置。
+
+### 验证配置
+
+```bash
+# 测试 wiki-lint
+pi "lint wiki"
+
+# 测试 wiki-query
+pi "查询 '安全边际'"
 ```
 
 ## 添加新 Skill
