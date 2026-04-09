@@ -341,11 +341,21 @@ class WikiLint:
         
         print(f'\n{Colors.GREEN}共修复 {fixed_count} 个文件{Colors.RESET}')
     
+    def check_root_files(self):
+        """检查根目录的重要文件（如 index.md）"""
+        root_files = ['index.md', 'README.md']
+        for filename in root_files:
+            file_path = self.root_dir / filename
+            if file_path.exists():
+                self.check_file(file_path)
+                print(f'{Colors.BLUE}✓ 检查根目录文件：{filename}{Colors.RESET}')
+    
     def print_report(self):
         """打印检查报告"""
         print(f'\n{Colors.BOLD}🔍 Buffett Wiki Lint 报告{Colors.RESET}\n')
         print(f'{Colors.CYAN}📁 检查范围：{self.wiki_dir}{Colors.RESET}')
-        print(f'{Colors.CYAN}📄 文件总数：{self.files_checked}{Colors.RESET}\n')
+        print(f'{Colors.CYAN}📄 文件总数：{self.files_checked}{Colors.RESET}')
+        print(f'{Colors.CYAN}📄 根目录文件：index.md, README.md{Colors.RESET}\n')
         
         # 按级别分组问题
         errors = [i for i in self.issues if i.level == Level.ERROR]
@@ -414,6 +424,7 @@ def main():
         lint.fix_directory(args.directory)
     else:
         lint.check_directory(args.directory)
+        lint.check_root_files()  # 检查根目录文件
         lint.print_report()
 
 if __name__ == '__main__':

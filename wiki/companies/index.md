@@ -46,7 +46,7 @@ title: 公司索引
 | [喜诗糖果](../companies/喜诗糖果.md) | See's Candies | 121 | 区域品牌、溢价能力 |
 | [美国运通](../companies/美国运通.md) | American Express | 114 | 金融品牌、信用卡 |
 | [沃尔玛](../companies/沃尔玛.md) | Walmart | - | 零售龙头 |
-| [好市多](好市多.md) | Costco | - | 仓储零售 |
+| 好市多 | Costco | - | 仓储零售 |
 | [宝洁](../companies/宝洁.md) | Procter & Gamble | - | 消费品巨头 |
 
 ## 金融公司
@@ -55,8 +55,8 @@ title: 公司索引
 |------|--------|----------|------|
 | [富国银行](../companies/富国银行.md) | Wells Fargo | 81 | 社区银行典范 |
 | [美国银行](../companies/美国银行.md) | Bank of America | - | |
-| [摩根大通](摩根大通.md) | JPMorgan Chase | - | |
-| [摩根士丹利](摩根士丹利.md) | Morgan Stanley | - | |
+| 摩根大通 | JPMorgan Chase | - | |
+| 摩根士丹利 | Morgan Stanley | - | |
 | [高盛](../companies/高盛.md) | Goldman Sachs | - | |
 | [所罗门兄弟](../companies/所罗门兄弟.md) | Salomon Brothers | - | 债券交易 |
 
@@ -66,35 +66,35 @@ title: 公司索引
 |------|--------|----------|------|
 | [华盛顿邮报](../companies/华盛顿邮报.md) | Washington Post | 78 | 1973年投资 |
 | [大都会通讯](../companies/大都会通讯.md) | Capital Cities Communications | - | 广播传媒 |
-| [奈特-里德报业](奈特-里德报业.md) | Knight-Ridder Newspapers | - | 报业集团 |
-| [奥美国际广告](奥美国际广告.md) | Ogilvy & Mather | - | 广告代理 |
+| 奈特-里德报业 | Knight-Ridder Newspapers | - | 报业集团 |
+| 奥美国际广告 | Ogilvy & Mather | - | 广告代理 |
 
 ## 工业与制造
 
 | 公司 | 英文名 | 出现次数 | 备注 |
 |------|--------|----------|------|
-| [凯撒铝业化学公司](凯撒铝业化学公司.md) | Kaiser Aluminum | - | 铝业 |
-| [凯撒工业](凯撒工业.md) | Kaiser Industries | - | 多元化工业 |
-| [明尼苏达矿业](明尼苏达矿业.md) | 3M | - | 多元化制造业 |
+| 凯撒铝业化学公司 | Kaiser Aluminum | - | 铝业 |
+| 凯撒工业 | Kaiser Industries | - | 多元化工业 |
+| 明尼苏达矿业 | 3M | - | 多元化制造业 |
 | [IBM](../companies/IBM.md) | | - | 早期投资 |
 
 ## 其他重要公司
 
 | 公司 | 英文名 | 出现次数 | 备注 |
 |------|--------|----------|------|
-| [迪士尼](迪士尼.md) | Disney | - | 娱乐巨头 |
+| 迪士尼 | Disney | - | 娱乐巨头 |
 | [苹果](../companies/苹果.md) | Apple | - | 科技公司 |
-| [亚马逊](亚马逊.md) | Amazon | - | 电商巨头 |
-| [谷歌](谷歌.md) | Google | - | 科技公司 |
-| [微软](微软.md) | Microsoft | - | 科技公司 |
-| [强生](强生.md) | Johnson & Johnson | - | 制药 |
-| [默克](默克.md) | Merck | - | 制药 |
+| 亚马逊 | Amazon | - | 电商巨头 |
+| 谷歌 | Google | - | 科技公司 |
+| 微软 | Microsoft | - | 科技公司 |
+| 强生 | Johnson & Johnson | - | 制药 |
+| 默克 | Merck | - | 制药 |
 
 ## 相关索引
 
-- [概念索引](../concepts/index)
-- [人物索引](../people/index)
-- [信件索引](../letters/index)
+- [概念索引]()
+- [人物索引]()
+- [信件索引]()
 
 ---
 

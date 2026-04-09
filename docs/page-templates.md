@@ -1,6 +1,8 @@
 # 页面模板
 
 > 各类 Wiki 页面的完整模板。创建新页面时参考。
+> 
+> **最后更新**: 2026-04-09
 
 ## 信件笔记 (wiki/letters/YYYY-letter.md)
 
@@ -26,7 +28,7 @@
 | 年份 | 伯克希尔 | 标普 500 |
 |------|----------|----------|
 
-> 📊 数据来源: 其他信件中的历史对比表
+> 📊 数据来源：其他信件中的历史对比表
 
 ---
 
@@ -48,7 +50,7 @@
 ---
 type: concept
 first_appeared: YYYY
-tags: [标签1, 标签2]
+tags: [标签 1, 标签 2]
 ---
 
 # 概念名 (英文名)
@@ -62,11 +64,11 @@ tags: [标签1, 标签2]
 > 原文引用
 
 ### 演变历程
-- **YYYY年**: ...
-- **YYYY年**: ...
+- **YYYY 年**: ...
+- **YYYY 年**: ...
 
 ## 相关概念
-- [概念1](概念1.md)
+- [概念 1](概念 1.md)
 
 ## 相关信件
 - [YYYY-letter](../letters/YYYY-letter.md)
@@ -127,7 +129,8 @@ first_appeared: YYYY
 ---
 type: research
 created: YYYY-MM-DD
-sources: [1969-合伙人信, 1992-信, 1999-信, ...]
+updated: YYYY-MM-DD  # 可选，最后更新日期
+sources: [1969-合伙人信，1992-信，1999-信，...]
 status: draft | complete
 ---
 
@@ -159,12 +162,104 @@ status: draft | complete
 - [YYYY-letter](../letters/YYYY-letter.md)
 ```
 
+## 案例研究笔记 (wiki/research/cases/公司名 - 年份 - 主题.md)
+
+> 单个投资案例的深度研究，通常基于《巴菲特的第一桶金》等资料。
+
+```markdown
+---
+type: case_study
+company: 公司名
+year: 年份
+source: 来源（如：巴菲特的第一桶金）
+created: YYYY-MM-DD
+theme: 投资主题（可选）
+---
+
+# 公司名：年份 - 主题
+
+> **参考来源**：《巴菲特的第一桶金》案例 X（格伦·阿诺德著）
+
+---
+
+## 案例概述
+- 一句话总结
+- 关键数据表格
+
+## 投资背景
+- 市场环境
+- 公司状况
+- 危机/机会
+
+## 巴菲特的调研/分析
+- 调研方法
+- 关键发现
+- 核心结论
+
+## 投资决策与执行
+- 关键时点
+- 仓位管理
+- 买卖决策
+
+## 投资逻辑分析
+- 为什么符合/不符合格雷厄姆标准
+- 关键洞察
+- 竞争优势分析
+
+## 投资哲学意义
+- 在投资哲学演变中的位置
+- 与前后案例的关联
+- 影响因素（费雪、芒格等）
+
+## 学习要点
+- 3-5 个核心教训
+- 每个要点有具体说明
+
+## 相关链接
+### 公司页面
+- [公司名](../../companies/公司名.md)
+
+### 信件
+- [YYYY-letter](../../letters/YYYY-letter.md)
+
+### 概念
+- [概念 1](../../concepts/概念 1.md)
+
+### 其他案例
+- [相关案例](./相关案例.md)
+
+## 原文摘录
+- 2-3 段关键原文引用
+
+---
+
+> **研究笔记**：本案例研究基于格伦·阿诺德《巴菲特的第一桶金》案例 X。
+```
+
 ## 链接规范
 
 使用标准 Markdown 链接（不用 `[[]]`）：
 
-| 类型 | 语法 |
-|------|------|
-| 同级 | `[名称](./name.md)` |
-| 上级 | `[名称](../path/name.md)` |
-| 原文 | `[原文](../../raw/berkshire/zh/YYYY-letter-zh.md)` |
+| 类型 | 语法 | 示例 |
+|------|------|------|
+| 同级 | `[名称](./name.md)` | `[1966 年信件](./1966-letter.md)` |
+| 上级 | `[名称](../path/name.md)` | `[伯克希尔](../companies/伯克希尔.md)` |
+| 原文 | `[原文](../../raw/berkshire/zh/YYYY-letter-zh.md)` | `[原文](../../raw/berkshire/zh/1965-letter-zh.md)` |
+| 跨目录 | `[名称](../../dir/name.md)` | `[案例](../../research/cases/案例.md)` |
+
+---
+
+## Frontmatter 字段说明
+
+| 字段 | 类型 | 必填 | 说明 | 示例 |
+|------|------|------|------|------|
+| `type` | string | ✅ | 页面类型 | `letter`, `concept`, `company`, `person`, `research`, `case_study` |
+| `created` | date | ✅ | 创建日期 | `2026-04-09` |
+| `updated` | date | ❌ | 最后更新日期 | `2026-04-09` |
+| `sources` | array | ✅ (research) | 数据来源列表 | `[1969-合伙人信，1992-信]` |
+| `status` | string | ✅ (research) | 完成状态 | `draft`, `complete` |
+| `first_appeared` | number | ❌ | 首次出现年份 | `1965` |
+| `tags` | array | ❌ | 标签列表 | `["估值", "投资哲学"]` |
+| `company` | string | ❌ (case_study) | 所属公司 | `美国运通` |
+| `year` | number | ❌ (case_study) | 案例年份 | `1964` |
+| `theme` | string | ❌ (case_study) | 案例主题 | `色拉油危机` |
