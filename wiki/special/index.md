@@ -35,7 +35,7 @@
 
 ## 相关
 
-- [[../letters/index|信件笔记]]
-- [[../companies/index|公司索引]]
-- [[../concepts/index|概念索引]]
-- [[../people/index|人物索引]]
+- [信件笔记](../letters/index)
+- [公司索引](../companies/index)
+- [概念索引](../concepts/index)
+- [人物索引](../people/index)
