@@ -1,3 +1,7 @@
+---
+type: company
+---
+
 # IBM
 
 ## 简介

@@ -1,3 +1,7 @@
+---
+type: company
+---
+
 # GEICO 盖可保险
 
 > **原文**: [GEICO官网](https://www.geico.com)

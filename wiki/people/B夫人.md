@@ -1,3 +1,7 @@
+---
+type: person
+---
+
 # B夫人 (Mrs. B / Rose Blumkin)
 
 ## 简介

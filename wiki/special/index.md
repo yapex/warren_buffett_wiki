@@ -1,6 +1,6 @@
 # 特别信件索引
 
-> **原文目录**: [raw/special/](../raw/special/)
+> **原文目录**: [raw/special/](./)
 
 ## 特别信件
 
@@ -35,7 +35,7 @@
 
 ## 相关
 
-- [信件笔记](../letters/index)
-- [公司索引](../companies/index)
-- [概念索引](../concepts/index)
-- [人物索引](../people/index)
+- [信件笔记](../letters/index.md)
+- [公司索引](../companies/index.md)
+- [概念索引](../concepts/index.md)
+- [人物索引](../people/index.md)

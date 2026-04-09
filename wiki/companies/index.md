@@ -1,5 +1,5 @@
 ---
-type: index
+type: index_companies
 title: 公司索引
 ---
 
@@ -28,14 +28,14 @@ title: 公司索引
 |------|--------|----------|----------|
 | [GEICO](../companies/GEICO.md) | | 294 | 杰克·伯恩 |
 | [国民保险公司](../companies/国民保险公司.md) | National Indemnity | 74 | 菲尔·利舍 |
-| [中央火险意外险公司](中央火险意外险公司.md) | Central Fire and Casualty | - | |
-| [赛普拉斯保险公司](赛普拉斯保险公司.md) | Cypress Insurance | - | 米尔特·桑顿 |
-| [德州联合保险公司](德州联合保险公司.md) | Texas United Insurance | - | |
-| [莱克兰火险意外险公司](莱克兰火险意外险公司.md) | Lakeland Fire and Casualty | - | 吉姆·斯托多卡 |
-| [堪萨斯火险意外险公司](堪萨斯火险意外险公司.md) | Kansas Fire and Casualty | - | 弗洛伊德·泰勒 |
-| [内布拉斯加意外险公司](内布拉斯加意外险公司.md) | Cornhusker Casualty | - | 约翰·林沃特 |
-| [家庭和汽车保险公司](家庭和汽车保险公司.md) | Home and Automobile | - | 约翰·休厄德 |
-| [伊利诺伊国民银行](伊利诺伊国民银行.md) | Illinois National Bank | - | 吉恩·阿贝格 |
+| 中央火险意外险公司 | Central Fire and Casualty | - | |
+| 赛普拉斯保险公司 | Cypress Insurance | - | 米尔特·桑顿 |
+| 德州联合保险公司 | Texas United Insurance | - | |
+| 莱克兰火险意外险公司 | Lakeland Fire and Casualty | - | 吉姆·斯托多卡 |
+| 堪萨斯火险意外险公司 | Kansas Fire and Casualty | - | 弗洛伊德·泰勒 |
+| 内布拉斯加意外险公司 | Cornhusker Casualty | - | 约翰·林沃特 |
+| 家庭和汽车保险公司 | Home and Automobile | - | 约翰·休厄德 |
+| 伊利诺伊国民银行 | Illinois National Bank | - | 吉恩·阿贝格 |
 
 ## 消费品公司
 
