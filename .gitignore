@@ -10,12 +10,8 @@ __pycache__/
 # Generated outputs (rebuild with: /graphify)
 graphify-out/
 
-# RAG index (rebuild with: uv run python .rag/query.py rebuild)
-.rag/docs.json
-.rag/index.json
-.rag/inverted_index.json
-.rag/paragraphs_content.json
-.rag/paragraphs_meta.json
+# RAG index (rebuild with: buffett-rag rebuild)
+.rag/*.json
 
 # 电子书原始内容（版权保护）
 raw/ebooks/

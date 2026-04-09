@@ -28,12 +28,23 @@ For each letter (1965-2024):
 
 ## 快速开始
 
-```bash
-# RAG 查询
-uv run python .rag/query.py "巴菲特如何看待保险"
+### RAG 查询
 
-# 交互模式
-uv run python .rag/query.py
+```bash
+# 搜索段落
+uv run buffett-rag search 安全边际
+uv run buffett-rag s 护城河
+
+# 概念时间线
+uv run buffett-rag timeline 内在价值
+uv run buffett-rag t 浮存金
+
+# 重建索引
+uv run buffett-rag rebuild
+
+# 或者使用 Python 模块方式
+uv run python -m rag search 巴菲特
+uv run python -m rag timeline 能力圈
 ```
 
 ## 总索引
@@ -44,13 +55,13 @@ uv run python .rag/query.py
 
 | 类型 | 数量 | 状态 |
 |------|------|------|
-| 伯克希尔中文信 | 60 | 1965-2024 ✅ |
-| 合伙人中文信 | 35 | 1957-1970 ✅ |
-| 信件笔记 | 95 | ✅ |
-| 概念笔记 | 25+ | ✅ |
-| 公司笔记 | 54+ | ✅ |
-| 人物笔记 | 25+ | ✅ |
-| 案例研究 | 22 | 《巴菲特的第一桶金》✅ |
+| 伯克希尔股东信笔记 | 60 | 1965-2024 ✅ |
+| 合伙人信笔记 | 15 | 1956-1970 ✅ |
+| 概念笔记 | 25 | ✅ |
+| 公司笔记 | 31 | ✅ |
+| 人物笔记 | 23 | ✅ |
+| 研究笔记 | 2 | ✅ |
+| 经典案例 | 24 | ✅ |
 
 ## 致谢
 

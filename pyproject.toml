@@ -1,14 +1,19 @@
 [project]
-name = "warren-buffett-wiki"
+name = "buffett-rag"
 version = "0.1.0"
-description = "Add your description here"
+description = "Buffett Wiki RAG - 段落级检索 + 概念时间线"
 requires-python = ">=3.12"
-dependencies = [
-    "beautifulsoup4>=4.14.3",
-    "curl-cffi>=0.15.0",
-    "httpx>=0.28.1",
-    "lightrag-hku>=1.4.13",
-    "requests>=2.33.1",
-    "scrapling>=0.4.5",
-    "selectolax>=0.4.7",
-]
+dependencies = []
+
+[project.scripts]
+buffett-rag = "rag.query:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["rag"]
+
+[tool.uv.workspace]
+members = []

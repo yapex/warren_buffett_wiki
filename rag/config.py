@@ -8,11 +8,13 @@ from collections import defaultdict
 from typing import Optional
 
 # 路径配置
-WORKING_DIR = Path(__file__).parent
-RAW_ZH_DIR = Path(__file__).parent.parent / "raw/berkshire/zh"
-RAW_EN_DIR = Path(__file__).parent.parent / "raw/berkshire/en"
-RAW_PARTNERSHIP_DIR = Path(__file__).parent.parent / "raw/partnership/zh"
-WIKI_DIR = Path(__file__).parent.parent / "wiki"
+PACKAGE_DIR = Path(__file__).parent  # rag/
+PROJECT_ROOT = PACKAGE_DIR.parent     # 项目根目录
+INDEX_DIR = PROJECT_ROOT / ".rag"     # .rag/ (隐藏，存储索引)
+RAW_ZH_DIR = PROJECT_ROOT / "raw/berkshire/zh"
+RAW_EN_DIR = PROJECT_ROOT / "raw/berkshire/en"
+RAW_PARTNERSHIP_DIR = PROJECT_ROOT / "raw/partnership/zh"
+WIKI_DIR = PROJECT_ROOT / "wiki"
 
 # 全局索引
 PARAGRAPHS = {}  # {para_id: {"doc_id": str, "index": int, "content": str, "tokens": set}}
@@ -139,7 +141,7 @@ def save_paragraph_index():
         }
         for doc_id, doc in DOCUMENTS.items()
     }
-    with open(WORKING_DIR / "docs.json", 'w', encoding='utf-8') as f:
+    with open(INDEX_DIR / "docs.json", 'w', encoding='utf-8') as f:
         json.dump(doc_meta, f, ensure_ascii=False)
     
     # 保存段落元数据（不包含content，节省空间）
@@ -151,7 +153,7 @@ def save_paragraph_index():
         }
         for para_id, p in PARAGRAPHS.items()
     }
-    with open(WORKING_DIR / "paragraphs_meta.json", 'w', encoding='utf-8') as f:
+    with open(INDEX_DIR / "paragraphs_meta.json", 'w', encoding='utf-8') as f:
         json.dump(para_meta, f, ensure_ascii=False)
     
     # 保存段落内容
@@ -159,12 +161,12 @@ def save_paragraph_index():
         para_id: p["content"]
         for para_id, p in PARAGRAPHS.items()
     }
-    with open(WORKING_DIR / "paragraphs_content.json", 'w', encoding='utf-8') as f:
+    with open(INDEX_DIR / "paragraphs_content.json", 'w', encoding='utf-8') as f:
         json.dump(para_content, f, ensure_ascii=False)
     
     # 保存倒排索引
     inv_index = {k: list(set(v)) for k, v in INVERTED_INDEX.items()}
-    with open(WORKING_DIR / "inverted_index.json", 'w', encoding='utf-8') as f:
+    with open(INDEX_DIR / "inverted_index.json", 'w', encoding='utf-8') as f:
         json.dump(inv_index, f, ensure_ascii=False)
     
     print(f"💾 已保存索引到磁盘")
@@ -173,10 +175,10 @@ def load_paragraph_index() -> bool:
     """加载段落索引"""
     global PARAGRAPHS, DOCUMENTS, INVERTED_INDEX
     
-    docs_file = WORKING_DIR / "docs.json"
-    para_meta_file = WORKING_DIR / "paragraphs_meta.json"
-    para_content_file = WORKING_DIR / "paragraphs_content.json"
-    inv_file = WORKING_DIR / "inverted_index.json"
+    docs_file = INDEX_DIR / "docs.json"
+    para_meta_file = INDEX_DIR / "paragraphs_meta.json"
+    para_content_file = INDEX_DIR / "paragraphs_content.json"
+    inv_file = INDEX_DIR / "inverted_index.json"
     
     if not all(f.exists() for f in [docs_file, para_meta_file, para_content_file, inv_file]):
         return False
