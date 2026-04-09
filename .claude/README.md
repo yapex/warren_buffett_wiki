@@ -7,7 +7,8 @@
 ```
 .claude/
 ├── skills/           # 项目特定 skills
-│   └── wiki-lint/   # Wiki 质量检查工具
+│   ├── wiki-lint/   # Wiki 质量检查工具
+│   └── wiki-query/  # Wiki RAG 查询工具
 └── README.md        # 本文件
 ```
 
