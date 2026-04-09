@@ -401,5 +401,5 @@ CTB（农业设备）Vic Mancinelli
 
 ## 相关
 
-- [伯克希尔](../companies/伯克希尔.md) | [巴菲特](../people/巴菲特.md)
+- [伯克希尔·哈撒韦](../companies/伯克希尔·哈撒韦.md) | [巴菲特](../people/巴菲特.md)
 - [2008 年信件](./2008-letter.md) | [2010 年信件](./2010-letter.md)

@@ -108,7 +108,7 @@
 
 ## 相关
 
-- [伯克希尔](../companies/伯克希尔.md) | [巴菲特](../people/巴菲特.md)
+- [伯克希尔·哈撒韦](../companies/伯克希尔·哈撒韦.md) | [巴菲特](../people/巴菲特.md)
 - [1976 年信件](./1976-letter.md) | [1978 年信件](./1978-letter.md)
 - [喜诗糖果](../companies/喜诗糖果.md) | [蓝筹印花](../companies/蓝筹印花.md)
 - [盖可保险](../companies/盖可保险.md) | [华盛顿邮报](../companies/华盛顿邮报.md)

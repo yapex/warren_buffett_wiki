@@ -80,6 +80,6 @@
 
 ## 相关
 
-- [伯克希尔](../companies/伯克希尔.md) | [巴菲特](../people/巴菲特.md)
+- [伯克希尔·哈撒韦](../companies/伯克希尔·哈撒韦.md) | [巴菲特](../people/巴菲特.md)
 - [1979 年信件](./1979-letter.md) | [1981 年信件](./1981-letter.md)
 - [GEICO](../companies/盖可保险.md) | [吉恩·阿贝格](../people/吉恩·阿贝格.md)
