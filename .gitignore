@@ -6,6 +6,9 @@ __pycache__/
 *.pyc
 .venv/
 
+# Generated outputs (rebuild with: /graphify)
+graphify-out/
+
 # RAG index (rebuild with: uv run python .rag/query.py rebuild)
 .rag/docs.json
 .rag/index.json
