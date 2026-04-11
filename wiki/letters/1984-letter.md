@@ -1,3 +1,12 @@
+---
+type: letter
+year: 1984
+title: 1984年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 1984 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/1984-letter-zh.md](../../raw/berkshire/zh/1984-letter-zh.md)
@@ -270,4 +279,6 @@ _本表不包含结构化结算和损失准备金假设业务。_
 ## 相关
 
 - [伯克希尔·哈撒韦](../companies/伯克希尔·哈撒韦.md) | [巴菲特](../people/巴菲特.md)
+- [保罗·沃尔克](../people/保罗·沃尔克.md)
+
 - [1983 年信件](./1983-letter.md) | [1985 年信件](./1985-letter.md)

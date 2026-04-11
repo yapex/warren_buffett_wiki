@@ -1,3 +1,8 @@
+---
+name: wiki-lint
+description: Buffett Wiki 知识库质量检查工具。检查链接有效性、文件命名规范、frontmatter 完整性和内容质量。当用户提到 "lint wiki"、"检查 wiki"、"验证链接"、"质量检查" 时触发。
+---
+
 # wiki-lint
 
 Buffett Wiki 知识库质量检查工具。

@@ -1,3 +1,12 @@
+---
+type: letter
+year: 2019
+title: 2019年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 2019 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/2019-letter-zh.md](../../raw/berkshire/zh/2019-letter-zh.md)

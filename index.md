@@ -8,9 +8,9 @@
 | 经典案例 | 24 | ✅ 完整 |
 | 伯克希尔股东信 | 60 | ✅ 完整 (1965-2024) |
 | 合伙人信 | 15 | ✅ 完整 (1956-1970) |
-| 概念笔记 | 25 | ✅ 完整 |
-| 公司笔记 | 31 | ✅ 完整 |
-| 人物笔记 | 23 | ✅ 完整 |
+| 概念笔记 | 95 | ✅ 完整 |
+| 公司笔记 | 57 | ✅ 完整 |
+| 人物笔记 | 41 | ✅ 完整 |
 
 ### 快速导航
 
@@ -109,6 +109,8 @@
 | [1970](./wiki/partnership/1970 年 2 月 - 巴菲特致合伙人信.md) | 债券指南 | 免税债券投资指导 |
 
 **[合伙人信完整索引](./wiki/partnership/index.md)** | 十二年复合收益率 29.6%
+
+> 📌 除年度信外，还有 22 封中期/补充信件（年中、11月、12月），详见[合伙人信完整索引](./wiki/partnership/index.md)
 
 ---
 
@@ -237,6 +239,85 @@
 | [通货膨胀](./wiki/concepts/通货膨胀.md) | Inflation | 对投资的影响 | [1979](./wiki/letters/1979-letter.md) |
 | [特许经营权](./wiki/concepts/特许经营权.md) | Franchise | 无形资产优势 | [1992](./wiki/letters/1992-letter.md) |
 
+### 补充概念
+
+> 以下概念页面已创建但未在主分类中列出
+
+| 概念 | 英文名 | 说明 |
+|------|--------|------|
+| [价值投资](./wiki/concepts/价值投资.md) | Value Investing | 投资哲学核心 |
+| [优先股](./wiki/concepts/优先股.md) | Preferred Stock | 可转换优先股投资 |
+| [可转换优先股](./wiki/concepts/可转换优先股.md) | Convertible Preferred | 所罗门、GE等 |
+| [可转换证券](./wiki/concepts/可转换证券.md) | Convertible Securities | 可转换投资工具 |
+| [低估](./wiki/concepts/低估.md) | Undervalued | 格雷厄姆式选股 |
+| [净流动资产价值](./wiki/concepts/净流动资产价值.md) | NCAV | 资产底部估值 |
+| [买入价格](./wiki/concepts/买入价格.md) | Entry Price | 买入时机与价格 |
+| [合理价格](./wiki/concepts/合理价格.md) | Fair Price | 以合理价格买好公司 |
+| [优秀企业](./wiki/concepts/优秀企业.md) | Wonderful Company | 伟大企业标准 |
+| [品牌](./wiki/concepts/品牌.md) | Brand | 品牌价值与护城河 |
+| [商誉](./wiki/concepts/商誉.md) | Goodwill | 会计商誉 vs 经济商誉 |
+| [商业模式](./wiki/concepts/商业模式.md) | Business Model | 企业运营模式 |
+| [定价权](./wiki/concepts/定价权.md) | Pricing Power | 提价不流失客户 |
+| [利基市场](./wiki/concepts/利基市场.md) | Niche Market | 细分市场优势 |
+| [竞争优势](./wiki/concepts/竞争优势.md) | Competitive Advantage | 持续竞争优势 |
+| [规模效应](./wiki/concepts/规模效应.md) | Scale Advantage | 规模经济 |
+| [经济特许权](./wiki/concepts/经济特许权.md) | Economic Franchise | 经济特许权 |
+| [企业文化传播](./wiki/concepts/企业文化.md) | Corporate Culture | 企业文化 |
+| [不干预管理](./wiki/concepts/不干预管理.md) | Hands-off Management | 信任管理 |
+| [管理层评估](./wiki/concepts/管理层评估.md) | Management Assessment | 管理层评估方法 |
+| [所有权思维](./wiki/concepts/所有权思维.md) | Owner Mindset | 像所有者一样思考 |
+| [诚信](./wiki/concepts/诚信.md) | Integrity | 管理层首要品质 |
+| [声誉资产](./wiki/concepts/声誉资产.md) | Reputation | 声誉是最宝贵资产 |
+| [股东导向](./wiki/concepts/股东导向.md) | Shareholder Orientation | 以股东利益为先 |
+| [公平对待股东](./wiki/concepts/公平对待股东.md) | Fair to Shareholders | 公平对待每位股东 |
+| [股东回报](./wiki/concepts/股东回报.md) | Shareholder Return | 分红与回购 |
+| [分红](./wiki/concepts/分红.md) | Dividend | 分红政策 |
+| [税收效率](./wiki/concepts/税收效率.md) | Tax Efficiency | 税务优化 |
+| [承保利润](./wiki/concepts/承保利润.md) | Underwriting Profit | 保险承保盈利 |
+| [承保纪律](./wiki/concepts/承保纪律.md) | Underwriting Discipline | 保险承保纪律 |
+| [综合比率](./wiki/concepts/综合比率.md) | Combined Ratio | 保险综合成本率 |
+| [保险浮存金](./wiki/concepts/保险浮存金.md) | Insurance Float | 保险浮存金详解 |
+| [杠杆](./wiki/concepts/杠杆.md) | Leverage | 杠杆的利与弊 |
+| [现金流](./wiki/concepts/现金流.md) | Cash Flow | 自由现金流 |
+| [现金流折现](./wiki/concepts/现金流折现.md) | DCF | 折现现金流估值 |
+| [市盈率](./wiki/concepts/市盈率.md) | P/E Ratio | 市盈率估值 |
+| [分散投资](./wiki/concepts/分散投资.md) | Diversification | 分散 vs 集中 |
+| [集中持股](./wiki/concepts/集中持股.md) | Concentrated Positions | 重仓持有 |
+| [套利交易](./wiki/concepts/套利交易.md) | Risk Arbitrage | 并购套利 |
+| [永久持有](./wiki/concepts/永久持有.md) | Permanent Holdings | 永久持有策略 |
+| [永久性持股](./wiki/concepts/永久性持股.md) | Permanent Holdings | 四大永久持股 |
+| [长期关系](./wiki/concepts/长期关系.md) | Long-term Relationship | 长期合作关系 |
+| [逆向投资](./wiki/concepts/逆向投资.md) | Contrarian Investing | 在别人恐惧时贪婪 |
+| [在别人恐惧时贪婪](./wiki/concepts/在别人恐惧时贪婪.md) | Be Greedy When Fearful | 经典名言 |
+| [机会成本](./wiki/concepts/机会成本.md) | Opportunity Cost | 投资的机会成本 |
+| [风险管理](./wiki/concepts/风险管理.md) | Risk Management | 风险管理框架 |
+| [风险](./wiki/concepts/风险.md) | Risk | 投资风险 |
+| [保守经营](./wiki/concepts/保守经营.md) | Conservative Operation | 保守经营原则 |
+| [成本控制](./wiki/concepts/成本控制.md) | Cost Control | 成本意识 |
+| [收购](./wiki/concepts/收购.md) | Acquisition | 收购原则与案例 |
+| [惯性驱使](./wiki/concepts/惯性驱使.md) | Institutional Imperative | 机构惯性驱使 |
+| [传闻研究](./wiki/concepts/传闻研究.md) | Scuttlebutt | 费雪的闲聊法 |
+| [行业经验](./wiki/concepts/行业经验.md) | Industry Experience | 行业知识积累 |
+| [全球化](./wiki/concepts/全球化.md) | Globalization | 全球投资视野 |
+| [美国顺风](./wiki/concepts/美国顺风.md) | American Tailwind | 美国经济顺风 |
+| [能源](./wiki/concepts/能源.md) | Energy | 能源行业投资 |
+| [公用事业](./wiki/concepts/公用事业.md) | Utilities | 公用事业投资 |
+| [公共服务价值](./wiki/concepts/公共服务价值.md) | Public Service Value | 公共服务价值 |
+| [航空业](./wiki/concepts/航空业.md) | Airlines | 航空业投资教训 |
+| [铁路运输](./wiki/concepts/铁路运输.md) | Railroad | 铁路运输投资 |
+| [纺织业务](./wiki/concepts/纺织业务.md) | Textile Business | 伯克希尔纺织业务 |
+| [科技与互联网](./wiki/concepts/科技与互联网.md) | Tech & Internet | 科技投资 |
+| [媒体与出版](./wiki/concepts/媒体与出版.md) | Media & Publishing | 媒体投资 |
+| [零售与消费](./wiki/concepts/零售与消费.md) | Retail & Consumer | 零售消费投资 |
+| [家族企业](./wiki/concepts/家族企业.md) | Family Business | 家族企业投资 |
+| [债券](./wiki/concepts/债券.md) | Bonds | 固定收益投资 |
+| [公司治理](./wiki/concepts/公司治理.md) | Corporate Governance | 公司治理 |
+| [市场波动](./wiki/concepts/市场波动.md) | Market Volatility | 市场波动 |
+| [市场预测](./wiki/concepts/市场预测.md) | Market Forecast | 市场预测分析 |
+| [雪茄烟蒂](./wiki/concepts/雪茄烟蒂.md) | Cigar Butt | 烟蒂投资法 |
+| [透视收益](./wiki/concepts/透视收益.md) | Look-through Income | 透视收益(别名) |
+| [商誉](./wiki/concepts/商誉.md) | Goodwill | 会计商誉 vs 经济商誉 |
+
 > 🔗 [查看完整概念关系图与分类导航](./wiki/concepts/index.md)
 
 ---
@@ -306,6 +387,36 @@
 | [苹果](./wiki/companies/苹果.md) | Apple | 2016 | 最大科技持仓 |
 | [IBM](./wiki/companies/IBM.md) | IBM | 2011 | 蓝色巨人 |
 | [比亚迪](./wiki/companies/比亚迪.md) | BYD | 2008 | 新能源汽车 |
+| [国民赔偿保险](./wiki/companies/国民赔偿保险.md) | National Indemnity | 1967 | 保险浮存金 |
+| [盖可保险](./wiki/companies/盖可保险.md) | GEICO | 1951 | 汽车保险 |
+| [蓝筹印花](./wiki/companies/蓝筹印花.md) | Blue Chip Stamps | 1970 | 浮存金模式 |
+| [阿勒格尼保险](./wiki/companies/阿勒格尼保险.md) | Alleghany | 2022 | 特种保险 |
+| [内布拉斯加家具城](./wiki/companies/内布拉斯加家具城.md) | NFM | 1983 | 家居零售 |
+| [冰雪皇后](./wiki/companies/冰雪皇后.md) | Dairy Queen | 1998 | 快餐连锁 |
+| [卡夫亨氏](./wiki/companies/卡夫亨氏.md) | Kraft Heinz | 2015 | 食品巨头 |
+| [美国家庭服务](./wiki/companies/美国家庭服务.md) | American Home Products | - | 消费品 |
+| [鲜果布衣](./wiki/companies/鲜果布衣.md) | Fruit of the Loom | 2002 | 服装制造 |
+| [伊利诺伊国民银行](./wiki/companies/伊利诺伊国民银行.md) | Illinois National Bank | 1969 | 银行业 |
+| [房地美](./wiki/companies/房地美.md) | Freddie Mac | 1988 | 抵押贷款 |
+| [穆迪](./wiki/companies/穆迪.md) | Moody's | 2000 | 信用评级 |
+| [美国合众银行](./wiki/companies/美国合众银行.md) | US Bancorp | 2006 | 社区银行 |
+| [伯克希尔·哈撒韦](./wiki/companies/伯克希尔·哈撒韦.md) | Berkshire Hathaway | 1965 | 投资旗舰 |
+| [利捷航空](./wiki/companies/利捷航空.md) | NetJets | 1998 | 公务航空 |
+| [飞安公司](./wiki/companies/飞安公司.md) | FlightSafety | 1996 | 航空培训 |
+| [马蒙集团](./wiki/companies/马蒙集团.md) | Marmon Group | 2007 | 多元工业 |
+| [麦克莱恩](./wiki/companies/麦克莱恩.md) | McLane | 2003 | 物流批发 |
+| [路博润](./wiki/companies/路博润.md) | Lubrizol | 2011 | 特种化工 |
+| [伊斯卡](./wiki/companies/伊斯卡.md) | Iscar | 2006 | 金属切削 |
+| [斯科特费泽](./wiki/companies/斯科特费泽.md) | Scott & Fetzer | 1985 | 多元制造 |
+| [克莱顿房屋](./wiki/companies/克莱顿房屋.md) | Clayton Homes | 2003 | 预制房屋 |
+| [全美航空](./wiki/companies/全美航空.md) | US Airways | 1989 | 航空业 |
+| [韦斯科](./wiki/companies/韦斯科.md) | Wesco Financial | 1972 | 芒格影响 |
+| [通用电气](./wiki/companies/通用电气.md) | GE | 1987 | 工业集团 |
+| [三井物产](./wiki/companies/三井物产.md) | Mitsui | 2020 | 日本商社 |
+| [三菱商事](./wiki/companies/三菱商事.md) | Mitsubishi Corp | 2020 | 日本商社 |
+| [伊藤忠商事](./wiki/companies/伊藤忠商事.md) | Itochu | 2020 | 日本商社 |
+| [西方石油](./wiki/companies/西方石油.md) | Occidental | 2019 | 石油能源 |
+| [雪佛龙](./wiki/companies/雪佛龙.md) | Chevron | 2020 | 石油能源 |
 
 ---
 
@@ -336,9 +447,14 @@
 |------|--------|------|------|
 | [肯尼思·蔡斯](./wiki/people/肯尼思·蔡斯.md) | Ken Chace | 纺织业务负责人 | 1965-1970 |
 | [吉恩·阿贝格](./wiki/people/吉恩·阿贝格.md) | Gene Abegg | 银行行长 | 1931-1978 |
-| [B 夫人](./wiki/people/B 夫人.md) | Mrs. B | 家具店创始人 | 1983-2000 |
+| [B 夫人](./wiki/people/B夫人.md) | Mrs. B | 家具店创始人 | 1983-2000 |
+| [B夫人](./wiki/people/B夫人.md) | Mrs. B (alt) | 家具店创始人 | 1983-2000 |
 | [查克·哈金斯](./wiki/people/查克·哈金斯.md) | Chuck Huggins | 喜诗糖果 CEO | 1972-2000 |
 | [杰克·伯恩](./wiki/people/杰克·伯恩.md) | Jack Byrne | GEICO 救星 | 1970s |
+| [杰克·拜恩](./wiki/people/杰克·拜恩.md) | Jack Byrne (alt) | GEICO/消防员基金 | 保险传奇 |
+| [杰克·林沃特](./wiki/people/杰克·林沃特.md) | Jack Ringwalt | 国民保险创始人 | 保险业 |
+| [肯·蔡斯](./wiki/people/肯·蔡斯.md) | Ken Chace (alt) | 纺织业务负责人 | 早期管理 |
+| [斯坦·利普西](./wiki/people/斯坦·利普西.md) | Stan Lipsey | 布法罗新闻报 | 媒体出版 |
 
 ### 外部卓越 CEO
 
@@ -348,6 +464,21 @@
 | [凯瑟琳·格雷厄姆](./wiki/people/凯瑟琳·格雷厄姆.md) | 华盛顿邮报 | 女继承人 | 华盛顿邮报控制人 |
 | [李·艾科卡](./wiki/people/李·艾科卡.md) | 克莱斯勒/福特 | 汽车业传奇 | 扭亏为盈 |
 | [杰克·韦尔奇](./wiki/people/杰克·韦尔奇.md) | 通用电气 | 前 CEO | 商业精英 |
+| [唐·基奥](./wiki/people/唐·基奥.md) | 可口可乐 | 总裁 | 消费品牌 |
+| [罗伯托·戈伊苏埃塔](./wiki/people/罗伯托·戈伊苏埃塔.md) | 可口可乐 | CEO | 消费品牌 |
+| [彼得·林奇](./wiki/people/彼得·林奇.md) | 麦哲伦基金 | 基金经理 | 成长投资 |
+| [托尼·奈斯利](./wiki/people/托尼·奈斯利.md) | GEICO | CEO | 汽车保险 |
+| [丹·伯克](./wiki/people/丹·伯克.md) | 大都会/ABC | 联合CEO | 资本配置 |
+
+
+### 家族与别名
+
+| 人物 | 英文名 | 角色 | 备注 |
+|------|--------|------|------|
+| [巴菲特](./wiki/people/巴菲特.md) | Warren Buffett | 董事会主席 | 别名页 |
+| [沃伦·巴菲特](./wiki/people/沃伦·巴菲特.md) | Warren Buffett | 董事会主席 | 详细页 |
+| [霍华德·巴菲特](./wiki/people/霍华德·巴菲特.md) | Howard Buffett | 巴菲特长子 | 董事 |
+| [多丽丝·巴菲特](./wiki/people/多丽丝·巴菲特.md) | Doris Buffett | 巴菲特姐姐 | 慈善 |
 
 ### 美联储主席
 
@@ -356,3 +487,7 @@
 | [艾伦·格林斯潘](./wiki/people/艾伦·格林斯潘.md) | Alan Greenspan | 1987-2006 |
 | [本·伯南克](./wiki/people/本·伯南克.md) | Ben Bernanke | 2006-2014 |
 | [保罗·沃尔克](./wiki/people/保罗·沃尔克.md) | Paul Volcker | 1979-1987 |
+| [尤金·迈耶](./wiki/people/尤金·迈耶.md) | Eugene Meyer | 华盛顿邮报前东主 |
+| [约翰·古夫兰](./wiki/people/约翰·古夫兰.md) | John Gutfreund | 所罗门兄弟CEO |
+| [鲍勃·德纳姆](./wiki/people/鲍勃·德纳姆.md) | Bob Denham | 所罗门律师 |
+| [德里克·莫恩](./wiki/people/德里克·莫恩.md) | Derrick Mormann | 所罗门兄弟 |

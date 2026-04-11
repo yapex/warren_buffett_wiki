@@ -1,3 +1,12 @@
+---
+type: letter
+year: 1991
+title: 1991年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 1991 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/1991-letter-zh.md](../../raw/berkshire/zh/1991-letter-zh.md)

@@ -189,7 +189,7 @@ type: concept
 
 - [公司索引](../companies/index.md)
 - [人物索引](../people/index.md)
-- [信件索引](../letters/index.md)
+- [信件索引](../../index.md)
 
 ---
 

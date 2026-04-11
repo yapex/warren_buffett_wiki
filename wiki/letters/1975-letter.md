@@ -1,3 +1,12 @@
+---
+type: letter
+year: 1975
+title: 1975年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 1975 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/1975-letter-zh.md](../../raw/berkshire/zh/1975-letter-zh.md)

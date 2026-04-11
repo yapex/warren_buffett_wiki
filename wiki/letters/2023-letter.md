@@ -1,3 +1,12 @@
+---
+type: letter
+year: 2023
+title: 2023年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 2023 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/2023-letter-zh.md](../../raw/berkshire/zh/2023-letter-zh.md)

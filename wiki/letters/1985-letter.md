@@ -1,3 +1,12 @@
+---
+type: letter
+year: 1985
+title: 1985年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 1985 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/1985-letter-zh.md](../../raw/berkshire/zh/1985-letter-zh.md)
@@ -283,4 +292,7 @@
 ## 相关
 
 - [伯克希尔·哈撒韦](../companies/伯克希尔·哈撒韦.md) | [巴菲特](../people/巴菲特.md)
+- [斯科特费泽](../companies/斯科特费泽.md)
+- [丹·伯克](../people/丹·伯克.md)
+
 - [1984 年信件](./1984-letter.md) | [1986 年信件](./1986-letter.md)

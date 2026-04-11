@@ -1,3 +1,12 @@
+---
+type: letter
+year: 1988
+title: 1988年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 1988 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/1988-letter-zh.md](../../raw/berkshire/zh/1988-letter-zh.md)
@@ -310,4 +319,7 @@ B夫人的儿子路易 (Louie)，以及他的儿子们罗恩 (Ron) 和艾文 (Ir
 ## 相关
 
 - [伯克希尔·哈撒韦](../companies/伯克希尔·哈撒韦.md) | [巴菲特](../people/巴菲特.md)
+- [房地美](../companies/房地美.md)
+- [彼得·林奇](../people/彼得·林奇.md)
+
 - [1987 年信件](./1987-letter.md) | [1989 年信件](./1989-letter.md)

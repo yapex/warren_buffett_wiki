@@ -1,3 +1,12 @@
+---
+type: letter
+year: 1999
+title: 1999年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 1999 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/1999-letter-zh.md](../../raw/berkshire/zh/1999-letter-zh.md)

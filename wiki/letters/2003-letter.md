@@ -1,3 +1,12 @@
+---
+type: letter
+year: 2003
+title: 2003年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 2003 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/2003-letter-zh.md](../../raw/berkshire/zh/2003-letter-zh.md)
@@ -492,4 +501,6 @@ GEICO将设立展位，派出来自全国各地的顶级业务代表，随时为
 ## 相关
 
 - [伯克希尔·哈撒韦](../companies/伯克希尔·哈撒韦.md) | [巴菲特](../people/巴菲特.md)
+- [克莱顿房屋](../companies/克莱顿房屋.md)
+
 - [2002 年信件](./2002-letter.md) | [2004 年信件](./2004-letter.md)

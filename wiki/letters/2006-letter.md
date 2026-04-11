@@ -1,3 +1,12 @@
+---
+type: letter
+year: 2006
+title: 2006年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 2006 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/2006-letter-zh.md](../../raw/berkshire/zh/2006-letter-zh.md)
@@ -376,4 +385,6 @@ GEICO1,3141,2217,1716,692
 ## 相关
 
 - [伯克希尔·哈撒韦](../companies/伯克希尔·哈撒韦.md) | [巴菲特](../people/巴菲特.md)
+- [美国合众银行](../companies/美国合众银行.md)
+
 - [2005 年信件](./2005-letter.md) | [2007 年信件](./2007-letter.md)

@@ -1,3 +1,12 @@
+---
+type: letter
+year: 1973
+title: 1973年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 1973 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/1973-letter-zh.md](../../raw/berkshire/zh/1973-letter-zh.md)
@@ -124,6 +133,8 @@
 ## 相关
 
 - [伯克希尔·哈撒韦](../companies/伯克希尔·哈撒韦.md) | [巴菲特](../people/巴菲特.md)
+- [斯坦·利普西](../people/斯坦·利普西.md)
+
 - [1972 年信件](./1972-letter.md) | [1974 年信件](./1974-letter.md)
 - [喜诗糖果](../companies/喜诗糖果.md) | [蓝筹印花](../companies/蓝筹印花.md)
 - [杰克·林沃特](../people/杰克·林沃特.md) | 菲尔·利舍

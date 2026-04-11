@@ -1,3 +1,12 @@
+---
+type: letter
+year: 1969
+title: 1969年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 1969 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/1969-letter-zh.md](../../raw/berkshire/zh/1969-letter-zh.md)
@@ -84,6 +93,8 @@
 ## 相关
 
 - [伯克希尔·哈撒韦](../companies/伯克希尔·哈撒韦.md) | [巴菲特](../people/巴菲特.md)
+- [伊利诺伊国民银行](../companies/伊利诺伊国民银行.md)
+
 - [1968 年信件](./1968-letter.md) | [1970 年信件](./1970-letter.md)
 - 伊利诺伊国民银行
 - [杰克·林沃特](../people/杰克·林沃特.md)

@@ -1,3 +1,12 @@
+---
+type: letter
+year: 1990
+title: 1990年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 1990 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/1990-letter-zh.md](../../raw/berkshire/zh/1990-letter-zh.md)

@@ -1,3 +1,12 @@
+---
+type: letter
+year: 1977
+title: 1977年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 1977 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/1977-letter-zh.md](../../raw/berkshire/zh/1977-letter-zh.md)

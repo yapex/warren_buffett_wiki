@@ -1,3 +1,12 @@
+---
+type: letter
+year: 1998
+title: 1998年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 1998 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/1998-letter-zh.md](../../raw/berkshire/zh/1998-letter-zh.md)

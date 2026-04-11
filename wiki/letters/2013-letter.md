@@ -1,3 +1,12 @@
+---
+type: letter
+year: 2013
+title: 2013年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 2013 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/2013-letter-zh.md](../../raw/berkshire/zh/2013-letter-zh.md)

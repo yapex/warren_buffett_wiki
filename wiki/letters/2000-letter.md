@@ -1,3 +1,12 @@
+---
+type: letter
+year: 2000
+title: 2000年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 2000 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/2000-letter-zh.md](../../raw/berkshire/zh/2000-letter-zh.md)

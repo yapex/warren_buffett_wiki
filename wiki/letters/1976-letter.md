@@ -1,3 +1,12 @@
+---
+type: letter
+year: 1976
+title: 1976年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 1976 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/1976-letter-zh.md](../../raw/berkshire/zh/1976-letter-zh.md)

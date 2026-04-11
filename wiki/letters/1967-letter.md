@@ -1,3 +1,12 @@
+---
+type: letter
+year: 1967
+title: 1967年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 1967 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/1967-letter-zh.md](../../raw/berkshire/zh/1967-letter-zh.md)

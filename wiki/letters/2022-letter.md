@@ -1,3 +1,12 @@
+---
+type: letter
+year: 2022
+title: 2022年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 2022 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/2022-letter-zh.md](../../raw/berkshire/zh/2022-letter-zh.md)

@@ -1,3 +1,12 @@
+---
+type: letter
+year: 1980
+title: 1980年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 1980 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/1980-letter-zh.md](../../raw/berkshire/zh/1980-letter-zh.md)

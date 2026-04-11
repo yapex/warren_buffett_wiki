@@ -1,3 +1,12 @@
+---
+type: letter
+year: 1971
+title: 1971年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 1971 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/1971-letter-zh.md](../../raw/berkshire/zh/1971-letter-zh.md)
@@ -93,6 +102,8 @@
 ## 相关
 
 - [伯克希尔·哈撒韦](../companies/伯克希尔·哈撒韦.md) | [巴菲特](../people/巴菲特.md)
+- [肯·蔡斯](../people/肯·蔡斯.md)
+
 - [1970 年信件](./1970-letter.md) | [1972 年信件](./1972-letter.md)
 - [家庭和汽车保险公司](../companies/美国家庭服务.md)
-- [维克多·拉布](../people/维克多·拉布.md)
+- 维克多·拉布

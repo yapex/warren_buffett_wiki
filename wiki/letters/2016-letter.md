@@ -1,3 +1,12 @@
+---
+type: letter
+year: 2016
+title: 2016年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 2016 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/2016-letter-zh.md](../../raw/berkshire/zh/2016-letter-zh.md)

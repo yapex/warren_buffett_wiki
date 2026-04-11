@@ -1,3 +1,12 @@
+---
+type: letter
+year: 2024
+title: 2024年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 2024 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/2024-letter-zh.md](../../raw/berkshire/zh/2024-letter-zh.md)
@@ -299,4 +308,4 @@ BNSF铁路5,0315,087
 ## 相关
 
 - [伯克希尔·哈撒韦](../companies/伯克希尔·哈撒韦.md) | [巴菲特](../people/巴菲特.md) | [芒格](../people/查理·芒格.md)
-- [2023 年信件](./2023-letter.md) | [2025 年信件](./2025-letter.md)
+- [2023 年信件](./2023-letter.md) 

@@ -1,3 +1,12 @@
+---
+type: letter
+year: 1978
+title: 1978年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 1978 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/1978-letter-zh.md](../../raw/berkshire/zh/1978-letter-zh.md)

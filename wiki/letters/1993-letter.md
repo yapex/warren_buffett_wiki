@@ -1,3 +1,12 @@
+---
+type: letter
+year: 1993
+title: 1993年巴菲特致股东信
+tags:
+  - 伯克希尔
+  - 致股东信
+---
+
 # 1993 年巴菲特致股东信
 
 > **原文**: [raw/berkshire/zh/1993-letter-zh.md](../../raw/berkshire/zh/1993-letter-zh.md)
