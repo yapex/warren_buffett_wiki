@@ -1,5 +1,19 @@
 # Buffett Wiki 变更日志
 
+## 2026-04-12
+
+**操作**: 新增访谈与演讲类型
+
+### 完成的工作
+- 新建 `wiki/interviews/` 目录和 index.md
+- 更新 SCHEMA.md 添加访谈类型到目录结构和页面类型表
+- 更新 docs/page-templates.md 添加访谈笔记模板（含 frontmatter 字段）
+- 创建第一篇访谈笔记：1998-佛罗里达大学演讲.md
+
+### 来源
+- 借鉴 https://buffet.tina-ai.fun 的访谈格式
+- 1998 佛罗里达大学演讲内容来自 Tina 知识库
+
 ## 2026-04-08
 
 **操作**: 完成 2016-2024 年信件笔记 (worker4)

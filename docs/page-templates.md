@@ -236,6 +236,86 @@ theme: 投资主题（可选）
 > **研究笔记**：本案例研究基于格伦·阿诺德《巴菲特的第一桶金》案例 X。
 ```
 
+## 访谈笔记 (wiki/interviews/YYYY-标题.md)
+
+> 借鉴 Tina 巴菲特知识库的访谈格式：核心要点 → 详细摘要 → 交叉引用 → 金句 → 原文。
+
+```markdown
+---
+type: interview
+year: YYYY
+subtype: speech | interview | shareholder_meeting | dialogue
+venue: 场所/机构
+date: YYYY-MM-DD（精确日期，未知用年份）
+tags: [标签 1, 标签 2]
+---
+
+# YYYY 年标题
+
+> **类型**: 演讲 / 专访 / 股东大会问答 / 对谈
+> **场合**: 场所或机构
+> **日期**: YYYY-MM-DD
+
+---
+
+## 核心要点
+
+1. **要点一**：一句话概括（加粗关键词）
+2. **要点二**：一句话概括
+3. ...
+
+---
+
+## 详细摘要
+
+### 主题一
+
+2-3 段详细阐述，包含原文引用和背景说明。
+
+### 主题二
+
+...
+
+---
+
+## 提到的概念
+
+- [概念名](../concepts/概念名.md) — 一句话说明在本次访谈中的含义
+- ...
+
+## 提到的公司
+
+- [公司名](../companies/公司名.md) — 一句话说明
+- ...
+
+## 提到的人物
+
+- [人物名](../people/人物名.md) — 一句话说明
+- ...
+
+---
+
+## 原文金句
+
+> "金句一"
+
+> "金句二"
+
+---
+
+## 原文
+
+[完整原文或可展开的原文链接]
+
+---
+
+## 相关
+
+- [相关信件](../letters/YYYY-letter.md)
+- [相关概念](../concepts/概念.md)
+- [下一年访谈](./YYYY+1-标题.md)
+```
+
 ## 链接规范
 
 使用标准 Markdown 链接（不用 `[[]]`）：
@@ -253,7 +333,7 @@ theme: 投资主题（可选）
 
 | 字段 | 类型 | 必填 | 说明 | 示例 |
 |------|------|------|------|------|
-| `type` | string | ✅ | 页面类型 | `letter`, `concept`, `company`, `person`, `research`, `case_study` |
+| `type` | string | ✅ | 页面类型 | `letter`, `concept`, `company`, `person`, `research`, `case_study`, `interview` |
 | `created` | date | ✅ | 创建日期 | `2026-04-09` |
 | `updated` | date | ❌ | 最后更新日期 | `2026-04-09` |
 | `sources` | array | ✅ (research) | 数据来源列表 | `[1969-合伙人信，1992-信]` |
@@ -263,3 +343,6 @@ theme: 投资主题（可选）
 | `company` | string | ❌ (case_study) | 所属公司 | `美国运通` |
 | `year` | number | ❌ (case_study) | 案例年份 | `1964` |
 | `theme` | string | ❌ (case_study) | 案例主题 | `色拉油危机` |
+| `subtype` | string | ❌ (interview) | 访谈子类型 | `speech`, `interview`, `shareholder_meeting`, `dialogue` |
+| `venue` | string | ❌ (interview) | 访谈场合 | `佛罗里达大学` |
+| `date` | string | ❌ (interview) | 精确日期 | `1998-10-15` |

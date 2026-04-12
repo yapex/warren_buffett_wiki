@@ -34,6 +34,7 @@ raw/                        # 原始数据（不可变，LLM 只读）
 
 wiki/                       # LLM 维护的 Wiki
 ├── letters/                # 信件笔记（每封信一页）
+├── interviews/             # 📌 访谈与演讲笔记
 ├── concepts/               # 概念笔记（安全边际、能力圈...）
 ├── companies/              # 公司笔记
 ├── people/                 # 人物笔记
@@ -49,6 +50,7 @@ wiki/                       # LLM 维护的 Wiki
 | 类型 | 目录 | 说明 |
 |------|------|------|
 | 信件笔记 | `wiki/letters/YYYY-letter.md` | 每封信的分析 + 原文 + 关联 |
+| **访谈笔记** | `wiki/interviews/YYYY-标题.md` | 访谈/演讲的核心要点 + 摘要 + 交叉引用 |
 | 概念笔记 | `wiki/concepts/概念名.md` | 定义 + 巴菲特观点 + 演变历程 |
 | 公司笔记 | `wiki/companies/公司名.md` | 简介 + 关键数据 + 投资逻辑 |
 | 人物笔记 | `wiki/people/人物名.md` | 简介 + 思想贡献 + 关联 |
