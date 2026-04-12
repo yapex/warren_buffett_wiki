@@ -35,7 +35,7 @@
 
 ## 相关
 
-- [信件笔记](../letters/index.md)
+- [股东信](../letters/1965-letter.md)（从1965年开始）
 - [公司索引](../companies/index.md)
 - [概念索引](../concepts/index.md)
 - [人物索引](../people/index.md)
