@@ -90,12 +90,55 @@ title: 公司索引
 | 强生 | Johnson & Johnson | - | 制药 |
 | 默克 | Merck | - | 制药 |
 
+## 其他已收录公司
+
+以下公司已有独立页面，但尚未归入上述分类：
+
+| 公司 | 英文名 | 类型 | 首次出现 |
+|------|--------|------|----------|
+| [三井物产](../companies/三井物产.md) | — | 综合商事 | 2019 |
+| [三菱商事](../companies/三菱商事.md) | Mitsubishi Corporation | 综合商事 | 2019 |
+| [中美能源](../companies/中美能源.md) | MidAmerican Energy | 能源 | 2000 |
+| [伊利诺伊国民银行](../companies/伊利诺伊国民银行.md) | Illinois National Bank | 银行 | 1969 |
+| [伊斯卡](../companies/伊斯卡.md) | ISCAR | 金属切削 | 2006 |
+| [伊藤忠商事](../companies/伊藤忠商事.md) | Itochu | 综合商事 | 2019 |
+| [伯灵顿北方铁路](../companies/伯灵顿北方铁路.md) | BNSF Railway | 铁路 | 2009 |
+| [克莱顿房屋](../companies/克莱顿房屋.md) | Clayton Homes | 住宅制造 | 2003 |
+| [全美航空](../companies/全美航空.md) | USAir | 航空 | 1989 |
+| [内布拉斯加家具城](../companies/内布拉斯加家具城.md) | Nebraska Furniture Mart | 零售 | 1983 |
+| [内布拉斯加家具店](../companies/内布拉斯加家具店.md) | Nebraska Furniture Mart | 零售 | 1983 |
+| [冰雪皇后](../companies/冰雪皇后.md) | Dairy Queen | 餐饮 | 1997 |
+| [利捷航空](../companies/利捷航空.md) | NetJets | 航空 | 1998 |
+| [卡夫亨氏](../companies/卡夫亨氏.md) | Kraft Heinz | 食品饮料 | 2013 |
+| [国民赔偿保险](../companies/国民赔偿保险.md) | National Indemnity | 保险 | 1967 |
+| [布法罗新闻报](../companies/布法罗新闻报.md) | Buffalo News | 媒体 | 1977 |
+| [房地美](../companies/房地美.md) | Freddie Mac | 金融 | 2000 |
+| [斯科特费泽](../companies/斯科特费泽.md) | Scott & Fetzer | 多元化 | 1986 |
+| [比亚迪](../companies/比亚迪.md) | BYD | 汽车/新能源 | 2008 |
+| [波仙珠宝](../companies/波仙珠宝.md) | Borsheims | 珠宝零售 | 1993 |
+| [盖可保险](../companies/盖可保险.md) | GEICO | 保险 | 1976 |
+| [穆迪](../companies/穆迪.md) | Moody's | 评级机构 | 2000 |
+| [精密铸件](../companies/精密铸件.md) | Precision Castparts | 航空制造 | 2015 |
+| [美国合众银行](../companies/美国合众银行.md) | U.S. Bancorp | 银行 | 2000 |
+| [美国家庭服务](../companies/美国家庭服务.md) | American Family Service | — | — |
+| [西方石油](../companies/西方石油.md) | Occidental Petroleum | 能源 | 2019 |
+| [路博润](../companies/路博润.md) | Lubrizol | 化工 | 2011 |
+| [通用再保险](../companies/通用再保险.md) | General Re | 再保险 | 1998 |
+| [通用电气](../companies/通用电气.md) | General Electric | 工业 | 1960s |
+| [阿勒格尼保险](../companies/阿勒格尼保险.md) | Allegheny Insurance | 保险 | 1960s |
+| [雪佛龙](../companies/雪佛龙.md) | Chevron | 能源 | 2020 |
+| [韦斯科](../companies/韦斯科.md) | Wesco Financial | 保险/投资 | 1998 |
+| [飞安公司](../companies/飞安公司.md) | FlightSafety | 航空培训 | 1996 |
+| [马蒙集团](../companies/马蒙集团.md) | Marmon Group | 多元化 | 2008 |
+| [鲜果布衣](../companies/鲜果布衣.md) | Fruit of the Loom | 服装制造 | 2002 |
+| [麦克莱恩](../companies/麦克莱恩.md) | McLane | 批发分销 | 2003 |
+
 ## 相关索引
 
-- [概念索引]()
-- [人物索引]()
-- [信件索引]()
+- [概念索引](../concepts/index.md)
+- [人物索引](../people/index.md)
+- [信件索引](../../index.md)
 
 ---
 
-*本索引由实体提取脚本自动生成，基于 1965-2024 年巴菲特致股东信*
+*本索引最后更新于 2026-04-13，已收录全部 54 家有独立页面的公司*
