@@ -1,5 +1,5 @@
 ---
-type: index_people
+type: index
 title: 人物索引
 ---
 
