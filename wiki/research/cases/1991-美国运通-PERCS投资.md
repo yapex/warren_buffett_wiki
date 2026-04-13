@@ -382,16 +382,16 @@ Byrne估计这些收购损失了30-40亿美元股东资金。
 
 ### 相关概念
 
-- [经济护城河](../../concepts/经济护城河.md) - 1999年信中的核心投资理念
+- [经济特许权](../../concepts/经济特许权.md) - 1999年信中的核心投资理念
 - [安全边际](../../concepts/安全边际.md) - PERCS 8.85%股息提供下行保护
-- [优先股投资](../../concepts/优先股投资.md) - PERCS的结构设计
+- [优先股](../../concepts/优先股.md) - PERCS的结构设计
 - [市场先生](../../concepts/市场先生.md) - 1991年恐慌导致的机会
 
 ### 相关人物
 
-- [James D. Robinson III](../../people/James-D-Robinson-III.md) - 美国运通CEO（1983-1993）
-- [Harvey Golub](../../people/Harvey-Golub.md) - 美国运通CEO（1993-1997）
-- [Frank Olson](../../people/Frank-Olson.md) - 赫兹CEO，高尔夫球对话中的关键人物
+- James D. Robinson III - 美国运通CEO（1983-1993）
+- Harvey Golub - 美国运通CEO（1993-1997）
+- Frank Olson - 赫兹CEO，高尔夫球对话中的关键人物
 
 ---
 

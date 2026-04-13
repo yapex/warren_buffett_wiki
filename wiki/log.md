@@ -1,3 +1,7 @@
+---
+type: special
+---
+
 # Buffett Wiki 变更日志
 
 ## 2026-04-13

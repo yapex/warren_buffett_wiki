@@ -1,5 +1,5 @@
 ---
-type: index_companies
+type: index
 title: 公司索引
 ---
 

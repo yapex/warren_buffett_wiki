@@ -1,3 +1,7 @@
+---
+type: special
+---
+
 # 案例研究（Case Study）编写规范
 
 > **文档目的**：记录 `wiki/research/cases/` 目录下投资案例研究的结构规范，方便后续生成新案例时参考。
