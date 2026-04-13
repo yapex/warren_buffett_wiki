@@ -1,3 +1,7 @@
+---
+type: index
+---
+
 # Buffett Wiki
 
 基于 [Karpathy LLM Wiki 精神](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)，构建巴菲特知识库。

@@ -182,7 +182,7 @@ class WikiLint:
                     '添加 type: letter/company/concept/person/case_study'
                 ))
             else:
-                valid_types = ['letter', 'company', 'concept', 'person', 'case_study']
+                valid_types = ['letter', 'company', 'concept', 'person', 'case_study', 'interview', 'research', 'special', 'index']
                 if frontmatter['type'] not in valid_types:
                     self.issues.append(Issue(
                         Level.WARNING,

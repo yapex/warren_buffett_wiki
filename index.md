@@ -1,3 +1,7 @@
+---
+type: index
+---
+
 # Buffett Wiki 总索引
 
 ## 项目概览
