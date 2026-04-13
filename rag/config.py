@@ -26,11 +26,13 @@ DOC_TYPE_PATTERNS = {
 }
 
 def tokenize(text: str) -> list[str]:
-    """中文分词（简单版）"""
+    """中文分词（简单版） - 提取单字 + 双字组合"""
     tokens = re.findall(r'[\w]+', text.lower())
     chinese = re.findall(r'[\u4e00-\u9fff]+', text)
     for chars in chinese:
-        tokens.extend(list(chars))
+        tokens.extend(list(chars))                      # 单字
+        if len(chars) >= 2:
+            tokens.extend([chars[i:i+2] for i in range(len(chars)-1)])  # 双字组合
     return tokens
 
 def extract_year(filename: str, doc_type: str) -> Optional[int]:
@@ -333,7 +335,7 @@ def search_concept_in_doc(concept: str, doc_id: str, top_k: int = 5) -> list[dic
     
     Args:
         concept: 概念名称
-        doc_id: 文档ID，格式 "type/filename"
+        doc_id: 文档ID，格式 "type/filename" 或 "type/subdir/.../filename"
         top_k: 返回结果数量
     
     Returns:
@@ -345,7 +347,15 @@ def search_concept_in_doc(concept: str, doc_id: str, top_k: int = 5) -> list[dic
         if not load_paragraph_index():
             build_paragraph_index()
     
-    if doc_id not in DOCUMENTS:
+    # 标准化 doc_id：提取文件名部分，匹配 DOCUMENTS 的存储格式
+    # 输入可能是 "wiki/research/cases/1989-USAir-优先股投资.md" -> 转为 "wiki/1989-USAir-优先股投资.md"
+    normalized_doc_id = doc_id
+    if '/' in doc_id:
+        filename = doc_id.rsplit('/', 1)[-1]
+        doc_type = doc_id.split('/')[0]
+        normalized_doc_id = f"{doc_type}/{filename}"
+    
+    if normalized_doc_id not in DOCUMENTS:
         return []
     
     query_tokens = set(tokenize(concept))
@@ -353,7 +363,7 @@ def search_concept_in_doc(concept: str, doc_id: str, top_k: int = 5) -> list[dic
     
     # 搜索该文档中的所有段落
     for para_id, p in PARAGRAPHS.items():
-        if p["doc_id"] != doc_id:
+        if p["doc_id"] != normalized_doc_id:
             continue
         
         # 计算匹配分数
@@ -365,7 +375,7 @@ def search_concept_in_doc(concept: str, doc_id: str, top_k: int = 5) -> list[dic
                 "para_index": p["index"],
                 "score": len(matched),
                 "matched_tokens": list(matched),
-                "jump_url": generate_jump_link(doc_id, p["index"], DOCUMENTS[doc_id].get("type", ""))
+                "jump_url": generate_jump_link(normalized_doc_id, p["index"], DOCUMENTS[normalized_doc_id].get("type", ""))
             })
     
     # 按分数排序
