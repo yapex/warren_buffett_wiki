@@ -3,7 +3,9 @@ name = "buffett-rag"
 version = "0.1.0"
 description = "Buffett Wiki RAG - 段落级检索 + 概念时间线"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "matplotlib>=3.10.8",
+]
 
 [project.scripts]
 buffett-rag = "rag.query:main"
