@@ -37,7 +37,7 @@ brk_idx, snp_idx = [100], [100]
 for b, s in zip(brk_pct, snp_pct):
     brk_idx.append(brk_idx[-1] * (1 + b / 100))
     snp_idx.append(snp_idx[-1] * (1 + s / 100))
-brk_idx, snp_idx = brk_idx[1:], snp_idx[1:]
+brk_idx, snp_idx = brk_idx[:-1], snp_idx[:-1]   # 60个元素，对齐1965-2024
 
 fig, (ax1, ax2) = plt.subplots(
     2, 1, figsize=(16, 14),
@@ -131,7 +131,7 @@ for f, d, l in zip(fund_pct, dow_pct, lp_pct):
     fund_idx.append(fund_idx[-1] * (1 + f/100))
     dow_idx.append(dow_idx[-1]  * (1 + d/100))
     lp_idx.append(lp_idx[-1]    * (1 + l/100))
-fund_idx, dow_idx, lp_idx = fund_idx[1:], dow_idx[1:], lp_idx[1:]
+fund_idx, dow_idx, lp_idx = fund_idx[:-1], dow_idx[:-1], lp_idx[:-1]  # 13个元素，对齐1957-1969
 
 fig, (ax1, ax2) = plt.subplots(
     2, 1, figsize=(14, 12),
