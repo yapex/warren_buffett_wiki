@@ -60,11 +60,20 @@ if command -v uv &> /dev/null; then
     echo "使用 uv 安装依赖..."
     uv sync
     echo_success "Python 依赖已安装"
-    else
-        echo_warn "uv 未安装，请先安装：curl -LsSf https://astral.sh/uv/install.sh | sh"
-        echo "或使用 pip 安装依赖："
-        printf "  ${YELLOW}pip install -e .${NC}\n"
-    fi
+    
+    # 创建别名（可选，方便使用）
+    ALIAS_CMD="alias buffett-wiki='cd $REPO_ROOT && uv run buffett-wiki'"
+    echo ""
+    echo "💡 提示：添加以下别名到 ~/.zshrc 或 ~/.bashrc 可简化使用："
+    echo "   $ALIAS_CMD"
+    echo ""
+    echo "   或直接用 uv run："
+    echo "   cd $REPO_ROOT && uv run buffett-wiki search 安全边际"
+else
+    echo_warn "uv 未安装，请先安装：curl -LsSf https://astral.sh/uv/install.sh | sh"
+    echo "或使用 pip 安装依赖："
+    printf "  ${YELLOW}pip install -e .${NC}\n"
+fi
 
 # ═══════════════════════════════════════════════
 # Step 3: 创建 .env.meilisearch 配置文件

@@ -49,45 +49,42 @@ cd warren_buffett_wiki
 
 ### 🔍 搜索功能（Meilisearch）
 
-**统一 CLI 入口**：
+**使用方式**：
 ```bash
-# 安装（首次）
-uv pip install -e .
+cd warren_buffett_wiki
 
-# 使用
-buffett-wiki search 安全边际
-buffett-wiki timeline 护城河
-```
-
-**完整命令**：
-```bash
 # 搜索段落
-buffett-wiki search 安全边际
-buffett-wiki s 护城河
+uv run buffett-wiki search 安全边际
+uv run buffett-wiki s 护城河
 
 # 概念时间线
-buffett-wiki timeline 内在价值
-buffett-wiki t 浮存金
+uv run buffett-wiki timeline 内在价值
+uv run buffett-wiki t 浮存金
 
 # 文档内搜索
-buffett-wiki doc 安全边际 wiki/concepts/安全边际.md
+uv run buffett-wiki doc 安全边际 wiki/concepts/安全边际.md
 
 # 带过滤搜索
-buffett-wiki filter 投资 --type letters --from 1980
-buffett-wiki f 可口可乐 --type companies
+uv run buffett-wiki filter 投资 --type letters --from 1980
+uv run buffett-wiki f 可口可乐 --type companies
 
 # 分面统计
-buffett-wiki facets doc_type
-buffett-wiki facets year
+uv run buffett-wiki facets doc_type
+uv run buffett-wiki facets year
 
 # 重建索引（文件变更后）
-buffett-wiki rebuild
+uv run buffett-wiki rebuild
 
 # 性能测试
-buffett-wiki benchmark
+uv run buffett-wiki benchmark
 ```
 
 **性能**：平均查询时间 < 10ms
+
+**💡 提示**：添加别名到 `~/.zshrc` 可简化使用：
+```bash
+alias buffett-wiki='cd ~/workspace/warren_buffett_wiki && uv run buffett-wiki'
+```
 
 ### 📜 旧版 RAG 命令（保留兼容）
 
