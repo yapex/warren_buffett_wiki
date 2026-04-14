@@ -11,7 +11,7 @@ title: 公司索引
 
 | 公司 | 英文名 | 出现次数 | 首次提及 | 相关概念 |
 |------|--------|----------|----------|----------|
-| [GEICO](../companies/GEICO.md) | Government Employees Insurance Company | 294 | 1976 | [浮存金](../concepts/浮存金.md)、保险 |
+| [GEICO](../companies/盖可保险.md) | Government Employees Insurance Company | 294 | 1976 | [浮存金](../concepts/浮存金.md)、保险 |
 | [可口可乐](../companies/可口可乐.md) | Coca-Cola Company | 177 | 1988 | [护城河](../concepts/护城河.md)、消费品牌 |
 | [伯克希尔·哈撒韦](../companies/伯克希尔·哈撒韦.md) | Berkshire Hathaway | 163 | 1965 | 投资旗舰 |
 | [蓝筹印花](../companies/蓝筹印花.md) | Blue Chip Stamps | 131 | 1970s | 子公司 |
@@ -26,7 +26,7 @@ title: 公司索引
 
 | 公司 | 英文名 | 出现次数 | 相关人物 |
 |------|--------|----------|----------|
-| [GEICO](../companies/GEICO.md) | | 294 | 杰克·伯恩 |
+| [GEICO](../companies/盖可保险.md) | | 294 | 杰克·伯恩 |
 | [国民保险公司](../companies/国民保险公司.md) | National Indemnity | 74 | 菲尔·利舍 |
 | 中央火险意外险公司 | Central Fire and Casualty | - | |
 | 赛普拉斯保险公司 | Cypress Insurance | - | 米尔特·桑顿 |
@@ -104,7 +104,8 @@ title: 公司索引
 | [伊藤忠商事](../companies/伊藤忠商事.md) | Itochu | 综合商事 | 2019 |
 | [伯灵顿北方铁路](../companies/伯灵顿北方铁路.md) | BNSF Railway | 铁路 | 2009 |
 | [克莱顿房屋](../companies/克莱顿房屋.md) | Clayton Homes | 住宅制造 | 2003 |
-| [全美航空](../companies/全美航空.md) | USAir | 航空 | 1989 |
+| [R.C.-Willey](../companies/R.C.-Willey.md) | R.C. Willey | 家具零售 | 1995 |
+| [全美航空](../companies/全美航空.md) | USAir | 航空公司 | 1989 |
 | [内布拉斯加家具城](../companies/内布拉斯加家具城.md) | Nebraska Furniture Mart | 零售 | 1983 |
 | [内布拉斯加家具店](../companies/内布拉斯加家具店.md) | Nebraska Furniture Mart | 零售 | 1983 |
 | [冰雪皇后](../companies/冰雪皇后.md) | Dairy Queen | 餐饮 | 1997 |
@@ -133,6 +134,37 @@ title: 公司索引
 | [鲜果布衣](../companies/鲜果布衣.md) | Fruit of the Loom | 服装制造 | 2002 |
 | [麦克莱恩](../companies/麦克莱恩.md) | McLane | 批发分销 | 2003 |
 
+## 2026-04-14 新增公司页面（24 家）
+
+本次批量创建的公司页面，覆盖巴菲特早期投资案例：
+
+| 公司 | 英文名 | 类型 | 首次出现 |
+|------|--------|------|----------|
+| [洛克伍德公司](../companies/洛克伍德公司.md) | Rockwood & Co. | 巧克力制造 | 1956 |
+| [桑伯恩地图](../companies/桑伯恩地图.md) | Sanborn Map Company | 地图出版 | 1958 |
+| [邓普斯特农机](../companies/邓普斯特农机.md) | Dempster Mill Manufacturing | 农机制造 | 1961 |
+| [迪士尼](../companies/迪士尼.md) | The Walt Disney Company | 娱乐媒体 | 1966 |
+| [联合棉纺](../companies/联合棉纺.md) | Associated Cotton Shops | 纺织零售 | 1968 |
+| [奥马哈太阳报](../companies/奥马哈太阳报.md) | Omaha Sun | 地方报纸 | 1969 |
+| [韦斯科金融](../companies/韦斯科金融.md) | Wesco Financial Corporation | 金融控股 | 1972 |
+| [水牛城新闻晚报](../companies/水牛城新闻晚报.md) | Buffalo Evening News | 地方报纸 | 1977 |
+| [大都会-ABC](../companies/大都会-ABC.md) | Capital Cities/ABC | 媒体集团 | 1986 |
+| [斯科特·费泽](../companies/斯科特·费泽.md) | Scott Fetzer Company | 多元化集团 | 1986 |
+| [全美航空](../companies/全美航空.md) | USAir | 航空公司 | 1989 |
+| [吉列 - 宝洁](../companies/吉列 - 宝洁.md) | Gillette / P&G | 消费品 | 1989 |
+| [鞋业集团](../companies/鞋业集团.md) | The Shoe Group | 鞋业制造 | 1991 |
+| [威利家具](../companies/威利家具.md) | R.C. Willey | 家具零售 | 1995 |
+| [赫兹伯格钻石](../companies/赫兹伯格钻石.md) | Helzberg Diamonds | 珠宝零售 | 1995 |
+| [飞安国际](../companies/飞安国际.md) | FlightSafety International | 航空培训 | 1996 |
+| [国际冰雪皇后](../companies/国际冰雪皇后.md) | International Dairy Queen | 冰淇淋连锁 | 1997 |
+| [城市服务](../companies/城市服务.md) | Cities Service | 能源公司 | 1942 |
+| [霍希尔德 - 科恩](../companies/霍希尔德 - 科恩.md) | Hochschild-Kohn | 百货商店 | 1966 |
+| [巴菲特合伙公司](../companies/巴菲特合伙公司.md) | Buffett Partnership Ltd. | 投资合伙 | 1956 |
+| [伯克希尔保险业务](../companies/伯克希尔保险业务.md) | Berkshire Insurance | 保险业务 | 1967 |
+| [国民赔偿保险](../companies/国民赔偿保险.md) | National Indemnity Company | 保险 | 1967 |
+| [伯克希尔·哈撒韦](../companies/伯克希尔·哈撒韦.md) | Berkshire Hathaway | 投资控股 | 1962 |
+| [克利夫兰精纺厂](../companies/克利夫兰精纺厂.md) | Cleveland Cotton Mills | 纺织/加油站 | 1951 |
+
 ## 相关索引
 
 - [概念索引](../concepts/index.md)
@@ -141,4 +173,4 @@ title: 公司索引
 
 ---
 
-*本索引最后更新于 2026-04-13，已收录全部 54 家有独立页面的公司*
+*本索引最后更新于 2026-04-14，已收录全部 81 家公司（含 24 家新增公司页面）*
