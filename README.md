@@ -32,7 +32,40 @@ For each letter (1965-2024):
 
 ## 快速开始
 
-### RAG 查询
+### 🚀 首次安装
+
+克隆仓库后，运行一键安装脚本：
+
+```bash
+cd warren_buffett_wiki
+./scripts/install.sh
+```
+
+安装脚本会自动完成：
+- ✅ Git Hooks 配置（自动索引更新）
+- ✅ Python 依赖安装（uv sync）
+- ✅ Meilisearch 配置（.env.meilisearch）
+- ✅ 服务状态检查
+
+### 🔍 搜索功能（Meilisearch）
+
+```bash
+# 搜索段落
+uv run python -m rag search 安全边际
+uv run python -m rag s 护城河
+
+# 概念时间线
+uv run python -m rag timeline 内在价值
+uv run python -m rag t 浮存金
+
+# 增量更新索引（最近 1 小时修改的文件）
+uv run python scripts/incremental_update.py --recent 60
+
+# 全量重建索引
+uv run python scripts/step3_migrate_data.py
+```
+
+### 📜 旧版 RAG 命令（保留兼容）
 
 ```bash
 # 搜索段落
@@ -45,10 +78,6 @@ uv run buffett-rag t 浮存金
 
 # 重建索引
 uv run buffett-rag rebuild
-
-# 或者使用 Python 模块方式
-uv run python -m rag search 巴菲特
-uv run python -m rag timeline 能力圈
 ```
 
 ## 总索引
