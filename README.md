@@ -51,18 +51,29 @@ cd warren_buffett_wiki
 
 ```bash
 # 搜索段落
-uv run python -m rag search 安全边际
-uv run python -m rag s 护城河
+buffett-wiki search 安全边际
+buffett-wiki s 护城河
 
 # 概念时间线
-uv run python -m rag timeline 内在价值
-uv run python -m rag t 浮存金
+buffett-wiki timeline 内在价值
+buffett-wiki t 浮存金
+
+# 文档内搜索
+buffett-wiki doc 安全边际 wiki/concepts/安全边际.md
+
+# 带过滤搜索
+buffett-wiki filter 投资 --type letters --from 1980
+buffett-wiki f 可口可乐 --type companies
+
+# 分面统计
+buffett-wiki facets doc_type
+buffett-wiki facets year
 
 # 增量更新索引（最近 1 小时修改的文件）
-uv run python scripts/update_index.py --recent 60
+buffett-wiki rebuild
 
-# 全量重建索引
-uv run python scripts/rebuild_index.py
+# 性能测试
+buffett-wiki benchmark
 ```
 
 ### 📜 旧版 RAG 命令（保留兼容）
