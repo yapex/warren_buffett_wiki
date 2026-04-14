@@ -79,7 +79,14 @@ def show_doc_results(results: list, doc_id: str):
 
 def cmd_rebuild(args: list[str] = None):
     """重建索引"""
-    rebuild_index()
+    print("🔨 正在调用全量重建脚本...")
+    import subprocess
+    script_path = Path(__file__).parent.parent / "scripts" / "rebuild_index.py"
+    if script_path.exists():
+        subprocess.run([sys.executable, str(script_path)], check=True)
+        print("✅ 索引重建完成")
+    else:
+        print("❌ 找不到重建脚本：scripts/rebuild_index.py")
 
 
 def export_timeline_json(concept: str, output_file: str = None):

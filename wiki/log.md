@@ -4,6 +4,61 @@ type: special
 
 # Buffett Wiki 变更日志
 
+## 2026-04-14
+
+**操作**: Meilisearch 迁移完成 + 项目大清理
+
+### 完成的工作
+
+#### 1. Meilisearch 迁移
+- ✅ 统一 CLI 入口：`uv run buffett-wiki`
+- ✅ 删除旧 RAG 文件（config.py, batch_timeline.py, update_concepts.py）
+- ✅ 删除旧索引文件（.rag/ 63MB）
+- ✅ 更新 rag/__init__.py 使用 meilisearch_search
+- ✅ 性能：< 10ms 查询
+
+#### 2. 访谈文件迁移
+- ✅ 17 个摘要笔记重命名为 `*_summary.md`
+- ✅ 从 raw 复制 17 篇原文到 wiki/interviews/
+- ✅ 更新 30 个概念页面的引用链接
+- ✅ 更新 interviews/index.md 索引
+
+#### 3. 补充子索引页
+- ✅ wiki/letters/index.md — 60 封股东信索引
+- ✅ wiki/research/index.md — 深度研究索引
+- ✅ 删除 assets/index.md（资源目录不需要）
+
+#### 4. 文档更新
+- ✅ docs/OVERVIEW.md — 项目概览（新增）
+- ✅ README.md — 更新使用方式
+- ✅ skills 更新：meilisearch-migration, buffett-wiki-research
+
+#### 5. 脚本整理
+- ✅ 重命名：step3→rebuild_index.py, incremental→update_index.py
+- ✅ 删除：step2_create_index.py, step2b_chinese_optimization.py
+- ✅ 保留：install.sh, meilisearch.sh, test_search.py
+
+### Git 提交
+- aacbd61 docs: 删除 assets/index.md
+- 0e5dd9a docs: 添加缺失的子索引页
+- 08b03dd migrate: 访谈文件迁移
+- 9969899 docs: 添加项目概览文档
+- 2db14d2 fix: 更新 rag/__init__.py
+- 9524932 chore: 删除旧 RAG 文件
+- 9cce4a6 docs: 更新 README
+- f9e2fea docs: 更新 skills
+- 12bdd05 feat: 统一 CLI 入口
+- 8e2837b chore: 删除计划文档
+- 06ad1dc refactor: 重命名脚本
+
+### 统计数据
+- 修改文件：64+ 个
+- 新增内容：+8329 行
+- 删除内容：-1193 行
+- 清理空间：~63MB
+
+---
+
 ## 2026-04-13
 
 **操作**: P0 核心概念页从访谈/演讲反向充实
