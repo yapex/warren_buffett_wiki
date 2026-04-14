@@ -13,7 +13,12 @@ graphify-out/
 # RAG index (rebuild with: buffett-rag rebuild)
 .rag/*.json
 
-# 电子书原始内容（版权保护）
+graphify-out/
 raw/ebooks/
 raw/ebooks-md/
 wiki/ebooks/
+
+# Meilisearch
+data.ms/
+.env.meilisearch
+wiki/__enqueued__/
