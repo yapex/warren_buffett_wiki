@@ -49,6 +49,17 @@ cd warren_buffett_wiki
 
 ### 🔍 搜索功能（Meilisearch）
 
+**统一 CLI 入口**：
+```bash
+# 安装（首次）
+uv pip install -e .
+
+# 使用
+buffett-wiki search 安全边际
+buffett-wiki timeline 护城河
+```
+
+**完整命令**：
 ```bash
 # 搜索段落
 buffett-wiki search 安全边际
@@ -69,12 +80,14 @@ buffett-wiki f 可口可乐 --type companies
 buffett-wiki facets doc_type
 buffett-wiki facets year
 
-# 增量更新索引（最近 1 小时修改的文件）
+# 重建索引（文件变更后）
 buffett-wiki rebuild
 
 # 性能测试
 buffett-wiki benchmark
 ```
+
+**性能**：平均查询时间 < 10ms
 
 ### 📜 旧版 RAG 命令（保留兼容）
 
