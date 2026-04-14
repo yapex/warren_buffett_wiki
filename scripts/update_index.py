@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-增量更新 Meilisearch 索引
+Meilisearch 索引增量更新
 
 使用场景：
 1. 新增/修改单个文档后，手动运行更新
@@ -9,19 +9,19 @@
 
 用法：
     # 更新单个文件
-    uv run python scripts/incremental_update.py --file wiki/concepts/新概念.md
+    uv run python scripts/update_index.py --file wiki/concepts/新概念.md
     
     # 更新多个文件
-    uv run python scripts/incremental_update.py --files wiki/concepts/a.md wiki/concepts/b.md
+    uv run python scripts/update_index.py --files wiki/concepts/a.md wiki/concepts/b.md
     
     # 更新最近修改的文件（过去 1 小时）
-    uv run python scripts/incremental_update.py --recent 60
+    uv run python scripts/update_index.py --recent 60
     
     # 删除文档
-    uv run python scripts/incremental_update.py --delete wiki/concepts/旧概念.md
+    uv run python scripts/update_index.py --delete wiki/concepts/旧概念.md
     
     # 查看待更新的变更（dry-run）
-    uv run python scripts/incremental_update.py --recent 60 --dry-run
+    uv run python scripts/update_index.py --recent 60 --dry-run
 """
 import argparse
 import hashlib

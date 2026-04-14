@@ -59,10 +59,10 @@ uv run python -m rag timeline 内在价值
 uv run python -m rag t 浮存金
 
 # 增量更新索引（最近 1 小时修改的文件）
-uv run python scripts/incremental_update.py --recent 60
+uv run python scripts/update_index.py --recent 60
 
 # 全量重建索引
-uv run python scripts/step3_migrate_data.py
+uv run python scripts/rebuild_index.py
 ```
 
 ### 📜 旧版 RAG 命令（保留兼容）

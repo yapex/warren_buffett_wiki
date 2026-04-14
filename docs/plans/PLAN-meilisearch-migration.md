@@ -727,18 +727,18 @@ git commit -m "feat: 添加新笔记"
 
 ```bash
 # 增量更新（最近 1 小时修改的文件）
-uv run python scripts/incremental_update.py --recent 60
+uv run python scripts/update_index.py --recent 60
 
 # 更新指定文件
-uv run python scripts/incremental_update.py \
+uv run python scripts/update_index.py \
   --files wiki/concepts/a.md wiki/companies/b.md
 
 # 删除文档
-uv run python scripts/incremental_update.py \
+uv run python scripts/update_index.py \
   --delete wiki/旧文件.md
 
 # 全量重建（定期维护）
-uv run python scripts/step3_migrate_data.py
+uv run python scripts/rebuild_index.py
 ```
 
 ### 服务管理
@@ -766,7 +766,7 @@ curl -H "Authorization: Bearer meilisearch-buffett-wiki-key" \
 
 **解决**:
 1. 检查 Git Hook 是否执行：`git log -1`
-2. 手动运行增量更新：`./scripts/incremental_update.py --recent 60`
+2. 手动运行增量更新：`./scripts/update_index.py --recent 60`
 3. 检查 Meilisearch 服务状态
 
 **问题**: Meilisearch 服务未响应

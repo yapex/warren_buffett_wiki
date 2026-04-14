@@ -34,7 +34,7 @@ echo ""
 
 # 更新最近 5 分钟修改的文件（覆盖本次提交的所有变更）
 cd "$REPO_ROOT"
-uv run python scripts/incremental_update.py --recent 5
+uv run python scripts/update_index.py --recent 5
 
 echo ""
 echo "✅ 索引更新完成"
