@@ -1,0 +1,29 @@
+{
+  "year": 1997,
+  "company": "Berkshire Hathaway",
+  "event": "Annual Shareholders Meeting",
+  "date": "May 5, 1997",
+  "location": "Omaha, Nebraska",
+  "source": "CNBC Warren Buffett Archive",
+  "crawled_at": "2026-04-18T20:06:19.406903",
+  "urls": {
+    "meeting_page": "https://buffett.cnbc.com/1997-berkshire-hathaway-annual-meeting/",
+    "morning": "https://buffett.cnbc.com/video/1997/.../morning-session---1997-berkshire-hathaway-annual-meeting.html",
+    "afternoon": "https://buffett.cnbc.com/video/1997/.../afternoon-session---1997-berkshire-hathaway-annual-meeting.html"
+  },
+  "files": {
+    "morning_session": "1997-morning-session.md",
+    "afternoon_session": "1997-afternoon-session.md"
+  },
+  "statistics": {
+    "morning_paragraphs": 744,
+    "afternoon_paragraphs": 909,
+    "morning_duration": "~2h30m",
+    "afternoon_duration": "~3h30m"
+  },
+  "participants": [
+    "Warren Buffett (CEO)",
+    "Charlie Munger (Vice Chairman)"
+  ],
+  "notes": null
+}
