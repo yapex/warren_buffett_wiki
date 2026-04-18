@@ -12,9 +12,12 @@
 
 ```
 en/
-├── YYYY-full-meeting.md       # 完整版本（上午场 + 下午场）
+├── YYYY-morning-session.md    # 上午场原始文字稿
+├── YYYY-afternoon-session.md  # 下午场原始文字稿
 └── YYYY-metadata.json         # 元数据
 ```
+
+**说明**: 保持 CNBC 原始结构，不合并为完整版本。
 
 ## 2022 年数据
 
@@ -29,7 +32,8 @@ en/
   - Ajit Jain (Vice Chairman, Insurance Operations)
 
 ### 文件
-- `2022-full-meeting.md` (280KB, 1420 段) - 包含上午场 + 下午场
+- `2022-morning-session.md` (117KB, 759 段落)
+- `2022-afternoon-session.md` (161KB, 661 段落)
 - `2022-metadata.json`
 
 ### 关键话题
