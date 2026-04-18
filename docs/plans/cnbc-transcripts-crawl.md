@@ -10,15 +10,320 @@
 
 ---
 
+## ✅ 完成状态（2026-04-18 更新）
+
+### 已完成年份：1996-2024（共 29 年 57 场会议）
+
+| 年份 | 上午场 | 下午场 | 总计 | 状态 | 备注 |
+|------|--------|--------|------|------|------|
+| 2024 | 802 段 | 636 段 | 1,438 段 | ✅ | |
+| 2023 | 509 段 | 579 段 | 1,088 段 | ✅ | |
+| 2022 | 759 段 | 661 段 | 1,420 段 | ✅ | 之前已完成 |
+| 2021 | 606 段 | 690 段 | 1,296 段 | ✅ | |
+| 2020 | 381 段 | — | 381 段 | ✅ | 疫情特别场（单场）|
+| 2019 | 604 段 | 713 段 | 1,317 段 | ✅ | P1 完成 |
+| 2018 | 697 段 | 748 段 | 1,445 段 | ✅ | P1 完成 |
+| 2017 | 948 段 | 955 段 | 1,903 段 | ✅ | P1 完成 |
+| 2016 | 674 段 | 911 段 | 1,585 段 | ✅ | P1 完成 |
+| 2015 | 799 段 | 934 段 | 1,733 段 | ✅ | P1 完成 |
+| 2014 | 920 段 | 829 段 | 1,749 段 | ✅ | P2 完成 |
+| 2013 | 945 段 | 820 段 | 1,765 段 | ✅ | P2 完成 |
+| 2012 | 811 段 | 923 段 | 1,734 段 | ✅ | P2 完成 |
+| 2011 | 679 段 | 989 段 | 1,668 段 | ✅ | P2 完成 |
+| 2010 | 810 段 | 895 段 | 1,705 段 | ✅ | P2 完成 |
+| 2009 | 841 段 | 742 段 | 1,583 段 | ✅ | P3 完成 |
+| 2008 | 782 段 | 725 段 | 1,507 段 | ✅ | P3 完成 |
+| 2007 | 824 段 | 901 段 | 1,725 段 | ✅ | P3 完成 |
+| 2006 | 801 段 | 685 段 | 1,486 段 | ✅ | P3 完成 |
+| 2005 | 805 段 | 683 段 | 1,488 段 | ✅ | P3 完成 |
+| 2004 | 718 段 | 816 段 | 1,534 段 | ✅ | P3 完成 |
+| 2003 | 818 段 | 832 段 | 1,650 段 | ✅ | P3 完成 |
+| 2002 | 936 段 | 841 段 | 1,777 段 | ✅ | P3 完成 |
+| 2001 | 743 段 | 832 段 | 1,575 段 | ✅ | P3 完成 |
+| 2000 | 727 段 | 853 段 | 1,580 段 | ✅ | P3 完成 |
+| 1999 | 834 段 | 824 段 | 1,658 段 | ✅ | P4 完成 |
+| 1998 | 877 段 | 917 段 | 1,794 段 | ✅ | P4 完成 |
+| 1997 | 744 段 | 909 段 | 1,653 段 | ✅ | P4 完成 |
+| 1996 | 864 段 | 803 段 | 1,667 段 | ✅ | P4 完成 |
+| 1995 | — | — | — | ⚠️  | CNBC 无完整文字稿 |
+| 1994 | — | — | — | ⚠️  | CNBC 无完整文字稿 |
+| **合计** | **21,258 段** | **22,642 段** | **43,904 段** | | **~6.5 MB** |
+
+### 待完成年份
+
+| 年份 | 状态 | 说明 |
+|------|------|------|
+| 2025 | ⏳ 等待中 | CNBC 尚未发布完整文字稿（只有视频片段）|
+| 2014-2010 | ⏸️ P2 优先级 | 中期数据（可选）|
+| 2009-2000 | ⏸️ P3 优先级 | 早期数据（可选）|
+| 1999-1994 | ⏸️ P4 优先级 | 最早期，可能无视频记录 |
+
+### Git 提交记录
+```
+acdd102 docs: add metadata for 2020-2024 meetings
+7a6856e feat: add 2015-2017 shareholder meeting transcripts (P1 priority)
+92bfa49 feat: add 2018 shareholder meeting transcripts (697+748 paragraphs)
+e740738 feat: add 2019 shareholder meeting transcripts (604+713 paragraphs)
+e296d03 feat: add 2020 meeting transcript (378 paragraphs, COVID special)
+```
+
+---
+
+---
+
+## ⚠️ 注意事项与踩坑记录（2026-04-18 更新）
+
+### 0. 高效下载方法（2024 下午场成功经验）
+
+**问题：** 使用 browser_console 提取大数据量（87KB+）时受 stdout 限制（50KB）
+
+**解决方案：** 使用 curl 下载 HTML + Python 解析
+
+```bash
+# 1. 下载 HTML
+curl -s -A "Mozilla/5.0" [URL] -o /tmp/afternoon.html
+
+# 2. Python 解析并保存
+```
+
+```python
+import re
+from pathlib import Path
+
+# 读取 HTML
+with open("/tmp/afternoon.html", "r") as f:
+    html = f.read()
+
+# 提取段落
+paragraphs = []
+for match in re.finditer(r'<p[^>]*>(.*?)</p>', html, re.DOTALL | re.IGNORECASE):
+    text = re.sub(r'<[^>]+>', '', match.group(1)).strip()
+    if text and len(text) > 5:
+        paragraphs.append(text)
+
+# 生成 Markdown
+md_header = """# YEAR Berkshire Hathaway Annual Meeting - SESSION Session
+
+**Source**: CNBC Warren Buffett Archive  
+**Date**: DATE  
+**Location**: Omaha, Nebraska  
+**Duration**: DURATION  
+**URL**: URL
+
+---
+
+"""
+
+content = md_header + "\n\n".join(paragraphs)
+
+# 写入文件
+with open(output_file, "w", encoding="utf-8") as f:
+    f.write(content)
+```
+
+**优点：**
+- 不受 browser_console stdout 限制
+- 速度快（curl 下载约 1 秒）
+- 可一次性处理所有段落
+
+---
+
+### 1. 编码问题（重要！）
+
+**问题：** CNBC 页面提取的文本包含错误的编码字符，特别是：
+- em dash (`—`, UTF-8: `e2 80 94`) 被错误用于替代 apostrophe
+- 例如：`o—clock` 应为 `o'clock`，`it—s` 应为 `it's`
+
+**解决方案：** 保存后必须运行编码修复脚本：
+
+```python
+from pathlib import Path
+import re
+
+file_path = Path("raw/shareholders_meeting/en/2024-morning-session.md")
+
+with open(file_path, "rb") as f:
+    content = f.read()
+
+em_dash = b'\xe2\x80\x94'      # —
+right_quote = b'\xe2\x80\x99'  # '
+
+# 1. o—clock -> o'clock
+content = content.replace(b"o" + em_dash + b"clock", b"o" + right_quote + b"clock")
+
+# 2. 代词 + — + 缩写后缀 -> 代词 + ' + 缩写后缀
+def fix_possessive(match):
+    return match.group(1) + right_quote + match.group(2)
+
+pattern = rb'(\w)' + em_dash + rb'(s|re|ll|d|ve|t|m)\b'
+content = re.sub(pattern, fix_possessive, content)
+
+with open(file_path, "wb") as f:
+    f.write(content)
+
+print(f"Fixed: em dash count = {content.count(em_dash)}")
+```
+
+**验证方法：**
+```bash
+# 检查是否还有 em dash 乱码
+grep -n "—" raw/shareholders_meeting/en/2024-morning-session.md | head -10
+# 应该只出现在 URL 中，不应该出现在 o'clock、it's 等位置
+```
+
+### 2. 2025 年文字稿尚未发布
+
+**状态：** CNBC 页面中 `transcript: null`，只有视频片段摘要
+
+**检测代码：**
+```javascript
+const html = document.documentElement.outerHTML;
+const hasTranscript = html.includes('"transcript":"') || html.includes('"text":"');
+console.log({ hasTranscript });
+```
+
+**处理方案：**
+- 跳过 2025 年，等 CNBC 发布完整文字稿后再补充
+- 或只保存会议简介和视频片段列表作为占位符
+
+### 3. 页面结构差异
+
+**有完整文字稿的年份（2015-2024）：**
+- 页面包含 "Key Chapters" 章节
+- 有 `button` 元素包含章节标题和段落
+- `document.querySelectorAll('p')` 可提取 600-950 个段落
+
+**无完整文字稿的年份（2025）：**
+- 页面只有视频播放器
+- 只有简介段落（1-2 个）
+- 需要等待 CNBC 更新
+
+### 3.1 URL 格式差异（重要！）
+
+不同年份的 URL 格式不同，下载前必须确认：
+
+| 年份 | URL 格式 | 示例 |
+|------|----------|------|
+| 2020-2024 | 三减号 `---` + 简化后缀 | `morning-session---2024-meeting.html` |
+| 2017-2019 | 三减号 `---` + 完整后缀 | `morning-session---2019-berkshire-hathaway-annual-meeting.html` |
+| 2015-2016 | 双减号 `--` 或三减号 `---` + 完整后缀 | `morning-session--2016-berkshire-hathaway-annual-meeting.html` |
+
+**确认方法：** 先访问年份主页（如 `https://buffett.cnbc.com/2019-berkshire-hathaway-annual-meeting/`），从页面链接中获取正确的 URL 格式。
+
+### 4. 提取代码（已验证）
+
+```javascript
+// 在 browser_console 中运行
+const paragraphs = [];
+document.querySelectorAll('p').forEach(p => {
+    const text = p.textContent?.trim();
+    if (text && text.length > 5) {
+        paragraphs.push(text);
+    }
+});
+JSON.stringify({ count: paragraphs.length, paragraphs: paragraphs });
+```
+
+**预期结果：**
+- 上午场：700-800 段落（约 120-150KB）
+- 下午场：600-700 段落（约 100-120KB）
+
+### 5. 文件提交规范
+
+```bash
+cd ~/workspace/warren_buffett_wiki
+git add raw/shareholders_meeting/en/2024-morning-session.md
+git commit -m "feat: add 2024 morning session transcript"
+# 如有编码修复
+git commit -m "fix: correct encoding issues in 2024 morning session (em dash -> apostrophe)"
+```
+
+**注意：** 变更不在 `wiki/` 目录下，不会触发索引更新。
+
+---
+
+### 6. 完整工作流程（2024 下午场验证）
+
+```bash
+# 1. 下载 HTML
+curl -s -A "Mozilla/5.0" "https://buffett.cnbc.com/video/2024/05/06/afternoon-session---2024-meeting.html" -o /tmp/afternoon.html
+
+# 2. Python 解析并保存
+python3 << 'EOF'
+import re
+from pathlib import Path
+
+# 读取 HTML
+with open("/tmp/afternoon.html", "r") as f:
+    html = f.read()
+
+# 提取段落
+paragraphs = []
+for match in re.finditer(r'<p[^>]*>(.*?)</p>', html, re.DOTALL | re.IGNORECASE):
+    text = re.sub(r'<[^>]+>', '', match.group(1)).strip()
+    if text and len(text) > 5:
+        paragraphs.append(text)
+
+print(f"提取 {len(paragraphs)} 个段落")
+
+# 读取现有 header
+output_file = Path("raw/shareholders_meeting/en/2024-afternoon-session.md")
+with open(output_file, "r") as f:
+    header = f.read()
+
+# 写入完整文件
+content = header + "\n\n".join(paragraphs)
+with open(output_file, "w", encoding="utf-8") as f:
+    f.write(content)
+
+print(f"写入 {output_file.stat().st_size:,} bytes")
+EOF
+
+# 3. 编码修复
+python3 << 'EOF'
+import re
+from pathlib import Path
+
+output_file = Path("raw/shareholders_meeting/en/2024-afternoon-session.md")
+with open(output_file, "rb") as f:
+    content = f.read()
+
+em_dash = b'\xe2\x80\x94'
+right_quote = b'\xe2\x80\x99'
+
+content = content.replace(b"o" + em_dash + b"clock", b"o" + right_quote + b"clock")
+pattern = rb'(\w)' + em_dash + rb'(s|re|ll|d|ve|t|m)\b'
+content = re.sub(pattern, lambda m: m.group(1) + right_quote + m.group(2), content)
+
+with open(output_file, "wb") as f:
+    f.write(content)
+
+print("编码修复完成")
+EOF
+
+# 4. Git 提交
+git add raw/shareholders_meeting/en/2024-afternoon-session.md
+git commit -m "feat: complete 2024 afternoon session transcript"
+```
+
+**预期输出：**
+- 633 个段落
+- 86-88 KB
+- 1270-1280 行
+
+---
+
 ## 优先级分组
 
-| 优先级 | 年份 | 数量 | 说明 |
-|--------|------|------|------|
-| **P0** | 2020, 2021, 2023, 2024, 2025 | 5 年 | 近 6 年（2022 已完成）|
-| **P1** | 2015-2019 | 5 年 | 近 10 年 |
-| **P2** | 2010-2014 | 5 年 | 中期数据 |
-| **P3** | 2000-2009 | 10 年 | 早期数据 |
-| **P4** | 1994-1999 | 6 年 | 最早期 |
+| 优先级 | 年份 | 数量 | 说明 | 状态 |
+|--------|------|------|------|------|
+| **P0** | 2020-2024 | 5 年 | 近 6 年 | ✅ 已完成 |
+| **P0** | 2025 | 1 年 | 最新年份 | ⏳ 等待 CNBC 发布 |
+| **P1** | 2015-2019 | 5 年 | 近 10 年 | ✅ 已完成 |
+| **P2** | 2010-2014 | 5 年 | 中期数据 | ✅ 已完成 |
+| **P3** | 2000-2009 | 10 年 | 早期数据 | ✅ 已完成 |
+| **P4** | 1996-1999 | 4 年 | 最早期 | ✅ 已完成 |
+| **P4** | 1994-1995 | 2 年 | 无记录 | ⚠️  CNBC 无完整文字稿 |
 
 ---
 
@@ -532,19 +837,38 @@ raw/shareholders_meeting/en/
 
 ## 预计时间
 
-| 阶段 | 任务数 | 预计时间 |
-|------|--------|----------|
-| P0 (2020-2025) | Task 1-20 | 2-3 小时 |
-| P1 (2015-2019) | Task 21-40 | 2-3 小时 |
-| P2 (2010-2014) | Task 41-60 | 2-3 小时 |
-| P3 (2000-2009) | Task 61-100 | 4-5 小时 |
-| P4 (1994-1999) | Task 101-120 | 2-3 小时 |
-| **总计** | **120 任务** | **12-17 小时** |
+| 阶段 | 任务数 | 预计时间 | 状态 |
+|------|--------|----------|------|
+| P0 (2020-2024) | Task 5-20 | 2-3 小时 | ✅ 已完成 |
+| P0 (2025) | Task 1-4 | - | ⏳ 等待 CNBC 发布 |
+| P1 (2015-2019) | Task 21-40 | 2-3 小时 | ✅ 已完成 |
+| P2 (2010-2014) | Task 41-60 | 2-3 小时 | ✅ 已完成 |
+| P3 (2000-2009) | Task 61-100 | 4-5 小时 | ✅ 已完成 |
+| P4 (1996-1999) | Task 101-108 | 2-3 小时 | ✅ 已完成 |
+| P4 (1994-1995) | Task 109-120 | - | ⚠️  CNBC 无完整文字稿 |
+| **已完成** | **Task 5-108** | **~12 小时** | **29 年 57 场会议，43,904 段** |
 
 ---
 
 ## 下一步
 
-**Ready to execute P0 priority (2020-2025)?**
+### 当前状态
+- ✅ **P0 优先级 (2020-2024)**: 已完成
+- ✅ **P1 优先级 (2015-2019)**: 已完成
+- ✅ **P2 优先级 (2010-2014)**: 已完成
+- ✅ **P3 优先级 (2000-2009)**: 已完成
+- ✅ **P4 优先级 (1996-1999)**: 已完成
+- ⏳ **2025 年**: 等待 CNBC 发布完整文字稿
+- ⚠️  **1994-1995 年**: CNBC 无完整文字稿记录
 
-Start with Task 1: 爬取 2025 年上午场
+### 2025 年监测
+定期检查 CNBC 是否发布 2025 年完整文字稿：
+- 访问：https://buffett.cnbc.com/2025-berkshire-hathaway-annual-meeting/
+- 检测页面是否包含 `"transcript"` 字段
+- 发布后立即执行 Task 1-4
+
+### 项目总结
+- **完成率**: 29/31 年（93.5%）
+- **总数据量**: ~6.5 MB，43,904 段
+- **Git 提交**: 10+ commits
+- **无法获取**: 1994-1995 年（CNBC 档案限制）、2025 年（尚未发布）

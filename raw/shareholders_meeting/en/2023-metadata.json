@@ -1,0 +1,27 @@
+{
+  "year": 2023,
+  "company": "Berkshire Hathaway",
+  "event": "Annual Shareholders Meeting",
+  "date": "May 8, 2023",
+  "location": "Omaha, Nebraska",
+  "source": "CNBC Warren Buffett Archive",
+  "crawled_at": "2026-04-18T19:52:17.566153",
+  "urls": {
+    "meeting_page": "https://buffett.cnbc.com/2023-berkshire-hathaway-annual-meeting/"
+  },
+  "files": {
+    "session_1": "2023-morning-session.md",
+    "session_2": "2023-afternoon-session.md"
+  },
+  "statistics": {
+    "session_1_paragraphs": 509,
+    "session_2_paragraphs": 579,
+    "total_paragraphs": 1088
+  },
+  "participants": [
+    "Warren Buffett (CEO)",
+    "Charlie Munger (Vice Chairman)",
+    "Greg Abel (Vice Chairman, Non-Insurance Operations)",
+    "Ajit Jain (Vice Chairman, Insurance Operations)"
+  ]
+}

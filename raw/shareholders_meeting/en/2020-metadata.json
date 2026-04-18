@@ -1,0 +1,26 @@
+{
+  "year": 2020,
+  "company": "Berkshire Hathaway",
+  "event": "Annual Shareholders Meeting",
+  "date": "May 2, 2020",
+  "location": "Online (COVID-19 Special)",
+  "source": "CNBC Warren Buffett Archive",
+  "crawled_at": "2026-04-18T19:52:17.567156",
+  "urls": {
+    "meeting_page": "https://buffett.cnbc.com/2020-berkshire-hathaway-annual-meeting/"
+  },
+  "files": {
+    "session": "2020-session.md"
+  },
+  "statistics": {
+    "session_1_paragraphs": 381,
+    "session_2_paragraphs": null,
+    "total_paragraphs": 381
+  },
+  "participants": [
+    "Warren Buffett (CEO)",
+    "Charlie Munger (Vice Chairman)",
+    "Greg Abel (Vice Chairman, Non-Insurance Operations)",
+    "Ajit Jain (Vice Chairman, Insurance Operations)"
+  ]
+}

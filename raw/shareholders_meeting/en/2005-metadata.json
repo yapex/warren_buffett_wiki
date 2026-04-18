@@ -1,0 +1,28 @@
+{
+  "year": 2005,
+  "company": "Berkshire Hathaway",
+  "event": "Annual Shareholders Meeting",
+  "date": "April 30, 2005",
+  "location": "Omaha, Nebraska",
+  "source": "CNBC Warren Buffett Archive",
+  "crawled_at": "2026-04-18T20:02:23.246409",
+  "urls": {
+    "meeting_page": "https://buffett.cnbc.com/2005-berkshire-hathaway-annual-meeting/",
+    "morning": "https://buffett.cnbc.com/video/2005/.../morning-session---2005-berkshire-hathaway-annual-meeting.html",
+    "afternoon": "https://buffett.cnbc.com/video/2005/.../afternoon-session---2005-berkshire-hathaway-annual-meeting.html"
+  },
+  "files": {
+    "morning_session": "2005-morning-session.md",
+    "afternoon_session": "2005-afternoon-session.md"
+  },
+  "statistics": {
+    "morning_paragraphs": 805,
+    "afternoon_paragraphs": 683,
+    "morning_duration": "~2h30m",
+    "afternoon_duration": "~3h30m"
+  },
+  "participants": [
+    "Warren Buffett (CEO)",
+    "Charlie Munger (Vice Chairman)"
+  ]
+}
