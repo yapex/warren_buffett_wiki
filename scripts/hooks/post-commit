@@ -1,0 +1,40 @@
+#!/bin/bash
+# Git post-commit hook: 自动更新 Meilisearch 索引
+# 当有 markdown 文件提交时，自动增量更新索引
+
+set -e
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+WIKI_DIR="$REPO_ROOT/wiki"
+
+# 获取本次提交修改的 .md 文件列表
+CHANGED_FILES=$(git diff-tree --no-commit-id --name-only -r HEAD | grep '\.md$' || true)
+
+if [ -z "$CHANGED_FILES" ]; then
+    echo "📝 没有 markdown 文件变更，跳过索引更新"
+    exit 0
+fi
+
+echo "📝 检测到 markdown 文件变更:"
+echo "$CHANGED_FILES" | while read file; do
+    echo "   - $file"
+done
+
+# 检查是否在 wiki 目录下
+WIKI_CHANGES=$(echo "$CHANGED_FILES" | grep '^wiki/' || true)
+
+if [ -z "$WIKI_CHANGES" ]; then
+    echo "📝 变更不在 wiki/ 目录下，跳过索引更新"
+    exit 0
+fi
+
+echo ""
+echo "🔄 开始更新 Meilisearch 索引..."
+echo ""
+
+# 更新最近 5 分钟修改的文件（覆盖本次提交的所有变更）
+cd "$REPO_ROOT"
+uv run python scripts/update_index.py --recent 5
+
+echo ""
+echo "✅ 索引更新完成"

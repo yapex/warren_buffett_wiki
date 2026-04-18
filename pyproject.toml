@@ -1,14 +1,15 @@
 [project]
-name = "buffett-rag"
-version = "0.1.0"
-description = "Buffett Wiki RAG - 段落级检索 + 概念时间线"
+name = "buffett-wiki"
+version = "0.2.0"
+description = "Buffett Wiki CLI - 基于 Meilisearch 的知识库查询工具"
 requires-python = ">=3.12"
 dependencies = [
     "matplotlib>=3.10.8",
+    "meilisearch>=0.40.0",
 ]
 
 [project.scripts]
-buffett-rag = "rag.query:main"
+buffett-wiki = "rag.query:main"
 
 [build-system]
 requires = ["hatchling"]

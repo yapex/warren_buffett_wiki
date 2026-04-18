@@ -10,10 +10,19 @@ __pycache__/
 # Generated outputs (rebuild with: /graphify)
 graphify-out/
 
-# RAG index (rebuild with: buffett-rag rebuild)
-.rag/*.json
+# Meilisearch data
+data.ms/
+.env.meilisearch
 
-# 电子书原始内容（版权保护）
+# Old RAG index (deprecated)
+.rag/
+
+graphify-out/
 raw/ebooks/
 raw/ebooks-md/
 wiki/ebooks/
+
+# Meilisearch
+data.ms/
+.env.meilisearch
+wiki/__enqueued__/

@@ -32,7 +32,61 @@ For each letter (1965-2024):
 
 ## 快速开始
 
-### RAG 查询
+### 🚀 首次安装
+
+克隆仓库后，运行一键安装脚本：
+
+```bash
+cd warren_buffett_wiki
+./scripts/install.sh
+```
+
+安装脚本会自动完成：
+- ✅ Git Hooks 配置（自动索引更新）
+- ✅ Python 依赖安装（uv sync）
+- ✅ Meilisearch 配置（.env.meilisearch）
+- ✅ 服务状态检查
+
+### 🔍 搜索功能（Meilisearch）
+
+**使用方式**：
+```bash
+cd warren_buffett_wiki
+
+# 搜索段落
+uv run buffett-wiki search 安全边际
+uv run buffett-wiki s 护城河
+
+# 概念时间线
+uv run buffett-wiki timeline 内在价值
+uv run buffett-wiki t 浮存金
+
+# 文档内搜索
+uv run buffett-wiki doc 安全边际 wiki/concepts/安全边际.md
+
+# 带过滤搜索
+uv run buffett-wiki filter 投资 --type letters --from 1980
+uv run buffett-wiki f 可口可乐 --type companies
+
+# 分面统计
+uv run buffett-wiki facets doc_type
+uv run buffett-wiki facets year
+
+# 重建索引（文件变更后）
+uv run buffett-wiki rebuild
+
+# 性能测试
+uv run buffett-wiki benchmark
+```
+
+**性能**：平均查询时间 < 10ms
+
+**💡 提示**：添加别名到 `~/.zshrc` 可简化使用：
+```bash
+alias buffett-wiki='cd ~/workspace/warren_buffett_wiki && uv run buffett-wiki'
+```
+
+### 📜 旧版 RAG 命令（保留兼容）
 
 ```bash
 # 搜索段落
@@ -45,10 +99,6 @@ uv run buffett-rag t 浮存金
 
 # 重建索引
 uv run buffett-rag rebuild
-
-# 或者使用 Python 模块方式
-uv run python -m rag search 巴菲特
-uv run python -m rag timeline 能力圈
 ```
 
 ## 总索引
