@@ -48,7 +48,7 @@ But the job of putting this together has been handled by the same fellow that ha
 
 And I just would appreciate it if you could just put the spotlight on Brad Underwood for just a minute. (Applause)
 
-WARREN BUFFETT: OK. We put out some results for the first quarter this morning at 7 o—clock our time.
+WARREN BUFFETT: OK. We put out some results for the first quarter this morning at 7 o’clock our time.
 
 And some  a few sharp-eyed analysts and press people already picked up one or two items from it, which I’m sure we’ll get some questions on later.
 
@@ -62,7 +62,7 @@ And Ajit Jain wants me to point out to everyone that you cannot take the insuran
 
 While we insure storms around the world  the major storms, for example, that would affect our earnings would be  probably number one would be something that went along the  that came in at the wrong place from our standpoint  and that just kept going up the East Coast. And that’s our number one risk as we evaluate things.
 
-But we’re in all kinds of risk. There can be an earthquake tomorrow. There can be an earthquake ten years from now. And then they—re going to  you know  we’re in that sort of business.
+But we’re in all kinds of risk. There can be an earthquake tomorrow. There can be an earthquake ten years from now. And then they’re going to  you know  we’re in that sort of business.
 
 But the first quarter does  it does  hit the  it should be our best quarter. Certainly shouldn’t be our worst quarter. The most likely quarter to be the worst quarter is the third quarter.
 
@@ -84,13 +84,13 @@ But we should not immediately  but we should be earning somewhat more money than
 
 And if you want, every Wednesday, you can get car loadings from the previous week.
 
-It—s a little deranged if you do get them, but I get them every week. They’re available and you’ll see that car loadings have been running  for the industry  have been running down modestly. And
+It’s a little deranged if you do get them, but I get them every week. They’re available and you’ll see that car loadings have been running  for the industry  have been running down modestly. And
 
 These earnings are  were as is expected. But we should earn somewhat more money than that on the equivalent amount of car loadings. And
 
 We  in the energy company, we had better earnings, but our earnings were distorted. Well, they were affected by conditions that I wrote about in the annual report, and we’ll undoubtedly discuss more this morning. But off a low base of last year, they were up somewhat.
 
-And so, you get down to the final figure, and 11.2 billion is  it—s quite an improvement from last year.
+And so, you get down to the final figure, and 11.2 billion is  it’s quite an improvement from last year.
 
 But we would expect our earnings should go up modestly from year to year, because after all, we’re retaining like 37 billion last year of earnings.
 
@@ -118,7 +118,7 @@ And sometimes  sometimes, we’ve done things that were big mistakes, and
 
 But  but never  we never get close to fatal mistakes. And every now and then we do something that really works.
 
-And, as Charlie pointed out in the past, you know, there’s really  there—s probably been half a dozen to a dozen  over 57 or 58 years  whatever it would be  really important, big decisions. And there’s been nothing close to fatal. So that continues to be the guideline, and
+And, as Charlie pointed out in the past, you know, there’s really  there’s probably been half a dozen to a dozen  over 57 or 58 years  whatever it would be  really important, big decisions. And there’s been nothing close to fatal. So that continues to be the guideline, and
 
 We have accumulated 571 billion, and I couldn’t help but look at who’s second. And JPMorgan had 327 billion at year end, and they’re up to 338, I believe, at the end of the quarter. But they pay significant dividends. They repurchase shares.
 
@@ -130,13 +130,13 @@ And we have a group of shareholders  we had a group of partners originally, Char
 
 And left their money with like  in that film you just saw. You saw Eddie and Dorothy Davis. And the Davis family and the children and the grandchildren periodically did some other things with the money. But they also basically left it with us, and
 
-And we were a savings vehicle. And they were able to do  live very well. But they weren’t  they weren—t trying to live like the kings and queens of earlier in capitalism and used to build the houses in New England and, you know, have a servant standing behind everybody eating and all that sort of thing.
+And we were a savings vehicle. And they were able to do  live very well. But they weren’t  they weren’t trying to live like the kings and queens of earlier in capitalism and used to build the houses in New England and, you know, have a servant standing behind everybody eating and all that sort of thing.
 
 So, we’ve had very few what I would call “look at me” type people that are attracted
 
 There’s nothing wrong with it, but they just go someplace else. And they are spending  sort of unbelievable sums after a while, by the standards of the past.
 
-And our people  nobody  we—ve had nobody that’s a  that—s a miser or a hoarder or anything like that in our group. They live very well.
+And our people  nobody  we’ve had nobody that’s a  that’s a miser or a hoarder or anything like that in our group. They live very well.
 
 But the math of compounding and a long  long runway have done wonders. And we will talk a little later  right before lunch, we’ll give an illustration of that, of what can be done with that sort of philosophy.
 
@@ -146,7 +146,7 @@ And I think it’s a fair assumption that they’ll probably be about 200 billio
 
 We’d love to spend it, but we won’t spend it unless we think there  doing something that has very little risk and can make us a lot of money, and
 
-And our stock is at a level where it—s  it—s  adds slightly to the value when we buy-in shares.
+And our stock is at a level where it’s  it’s  adds slightly to the value when we buy-in shares.
 
 But we would  we would really buy it in in a big way, except you can’t buy it in in a big way because people don’t want to sell it in a big way.
 
@@ -154,7 +154,7 @@ But under certain market conditions, we could deploy quite a bit of money in  in
 
 And, as you’ll see on the final slide, we have bought-in in the last five years.
 
-We can’t buy them like a great many other companies because it just doesn’t  it doesn—t trade that way. The volume isn’t the same because we have investors, and the investors  you know, the people in this room, really  they don’t think about selling. They probably
+We can’t buy them like a great many other companies because it just doesn’t  it doesn’t trade that way. The volume isn’t the same because we have investors, and the investors  you know, the people in this room, really  they don’t think about selling. They probably
 
 I would hope many of you don’t even check the price daily, or weekly. You know, it
 
@@ -194,7 +194,7 @@ But when we look at Coca-Cola, and American Express, and Apple, we look at them 
 
 Now, there’s differences in tax factors. There’s difference in managerial responsibility, a whole bunch of things.
 
-But in terms of deploying your money, we always look at every stock as a business. And we don—t  we have no way  no attempt made to predict markets. We have no attempt made to pick stocks.
+But in terms of deploying your money, we always look at every stock as a business. And we don’t  we have no way  no attempt made to predict markets. We have no attempt made to pick stocks.
 
 I went through many, many years doing the wrong thing. I got interested in stocks very early. And I was fascinated by them.
 
@@ -244,7 +244,7 @@ And if we send in a check like we did last year  we sent in over five billion do
 
 No Social Security taxes, no estate taxes, no  It’s open down the line.
 
-Now that—s  I would like to  I hope things develop well enough with Berkshire that we say we’re in the 800 club, and maybe even move up a few notches. It doesn’t bother me in the least to write that check.
+Now that’s  I would like to  I hope things develop well enough with Berkshire that we say we’re in the 800 club, and maybe even move up a few notches. It doesn’t bother me in the least to write that check.
 
 And I would really hope with all that America’s done for all of you, that it shouldn’t bother you that we do it.
 
@@ -264,7 +264,7 @@ The companies we invest in in the United States  American Express does business 
 
 I mean, they are the preferred soft drink, you know, in something maybe like 170 or 180 out of 200 company  200 countries. Those are rough approximations from a few years back, probably.
 
-But that degree of acceptance worldwide is  I think it—s almost unmatched. I can’t really think of any company that has  American Express has a position in the credit card field which I think is extremely strong. And part of that was one of the directors  one of the reasons for that is one of the directors that I introduced a few minutes ago, Ken Chenault.
+But that degree of acceptance worldwide is  I think it’s almost unmatched. I can’t really think of any company that has  American Express has a position in the credit card field which I think is extremely strong. And part of that was one of the directors  one of the reasons for that is one of the directors that I introduced a few minutes ago, Ken Chenault.
 
 But it has strengthened dramatically over the last 20 years for a lot of reasons.
 
@@ -286,7 +286,7 @@ So I  we will be American-oriented.
 
 I mean, if we do something really big, it’s extremely likely to be in the United States.
 
-Charlie, in all those years, there—s only two times he’s told me that, you know, this one is really  you know?
+Charlie, in all those years, there’s only two times he’s told me that, you know, this one is really  you know?
 
 He would always go along with me, you know, and say, well  when I was suggesting something, he’d say, “Well, this is really not that great, but it’s probably the best you’ll come up with, so I’ll go along with the idea.” (Laughs)
 
@@ -328,11 +328,11 @@ But I would say our feeling is that Utah is actually very likely to treat us fai
 
 In the 1930s, George Norris, the senator from Nebraska, just turned Nebraska into a public-power state. And our experience in Iowa would indicate that free enterprise has its role. And that we can run a privately owned utility company that will be more efficient for society than, at least in most states, people can do with public power.
 
-But what has happened is that there’s going to be enormous amounts of money  enormous amounts of money  spent on power. And we—ve been  we—re
+But what has happened is that there’s going to be enormous amounts of money  enormous amounts of money  spent on power. And we’ve been  we’re
 
 if you’re going to do it with private owners, there’s nobody better situated than Berkshire to satisfy the portion  but a large portion  of the needs of the country.
 
-And we will do it at a rate of return that is not, you know, it—s not designed to make us make us rich or anything like that. It’s a sensible rate of return.
+And we will do it at a rate of return that is not, you know, it’s not designed to make us make us rich or anything like that. It’s a sensible rate of return.
 
 But we won’t do it if we think we’re not going to get any return. It’d be kind of crazy.
 
@@ -340,17 +340,17 @@ And we’ve seen actions in a few states where some of the costs associated with
 
 Well, believe me, if it was publicly owned, they would’ve incurred it too.
 
-But we’ll do what society tells us. And we have got the money. We—ve got  we—ve got the knowledge to participate big in something that is enormously important for the country.
+But we’ll do what society tells us. And we have got the money. We’ve got  we’ve got the knowledge to participate big in something that is enormously important for the country.
 
-But we’re not going to do  we—re not going  we—re not going to throw good money after bad.
+But we’re not going to do  we’re not going  we’re not going to throw good money after bad.
 
-I don—t worry about  my understanding is, and Greg’s going to elaborate on this now immediately, but I don’t regard Utah as being unfriendly to the idea of utilities being treated fairly.
+I don’t worry about  my understanding is, and Greg’s going to elaborate on this now immediately, but I don’t regard Utah as being unfriendly to the idea of utilities being treated fairly.
 
 Charlie?
 
 Oh, Charlie. I’m so used to it. (Laughter and applause)
 
-I had actually checked myself a couple times already. But I’ll slip  I—ll slip again.
+I had actually checked myself a couple times already. But I’ll slip  I’ll slip again.
 
 GREG ABEL: That’s a great honor.
 
@@ -376,11 +376,11 @@ So when we come to the wildfires, that’s been a substantial challenge because 
 
 And that’s really the dialogue we’re in. And does that properly work?
 
-When I think of the wildfires, there’s been many claims and a recent additional claim last week for 30 billion dollars. And it—s  we don’t take that lightly. But it is an incremental claim to an already existing lawsuit that’s in place.
+When I think of the wildfires, there’s been many claims and a recent additional claim last week for 30 billion dollars. And it’s  we don’t take that lightly. But it is an incremental claim to an already existing lawsuit that’s in place.
 
-And when I think of PacifiCorp, we’re in a place where, first and foremost, all that litigation will be challenged because the basis for it, at least we believe, there—s places where it’s unfounded. And we’ll continue to challenge it. And it will take many years to be able to resolve this, as Warren highlighted in the letter.
+And when I think of PacifiCorp, we’re in a place where, first and foremost, all that litigation will be challenged because the basis for it, at least we believe, there’s places where it’s unfounded. And we’ll continue to challenge it. And it will take many years to be able to resolve this, as Warren highlighted in the letter.
 
-But if you think of PacifiCorp and the litigation there, number one, how we think and operate those assets have to change. Because we—ve had a regulatory  we have worked with the states, across all our states, for many years with the fundamental goal to be to keep the power on.
+But if you think of PacifiCorp and the litigation there, number one, how we think and operate those assets have to change. Because we’ve had a regulatory  we have worked with the states, across all our states, for many years with the fundamental goal to be to keep the power on.
 
 And our teams and our employees worked incredibly hard to keep the power on day in, day out, through storms, unfortunately through the 2020 fires. The instincts were not to turn off the power. The instinct was to keep the power on to keep hospitals, fire stations responding.
 
@@ -412,11 +412,11 @@ It is part of PacifiCorp, so there’s a certain amount of balance there as to h
 
 One, it caps non-economic damages on wildfire claims.
 
-So if you go back to the wildfires we have in Oregon, and the claims you’re hearing filed for, there—s economic damages associated with them. And those harms should receive the economic damages associated with that.
+So if you go back to the wildfires we have in Oregon, and the claims you’re hearing filed for, there’s economic damages associated with them. And those harms should receive the economic damages associated with that.
 
-But unfortunately, and even though there’s legislature and case law in Oregon that says wildfire, non-economic damages should not be awarded, there—s very substantial non-economic damages being awarded there.
+But unfortunately, and even though there’s legislature and case law in Oregon that says wildfire, non-economic damages should not be awarded, there’s very substantial non-economic damages being awarded there.
 
-Utah took a very proactive position to say we will cap those non-economic damages, and increase an environment again  it’s back to that is there an environment where you want to invest in, yes. And then incrementally, they—ve created a very substantial fund.
+Utah took a very proactive position to say we will cap those non-economic damages, and increase an environment again  it’s back to that is there an environment where you want to invest in, yes. And then incrementally, they’ve created a very substantial fund.
 
 It’s literally called The Wildfire Fund for fires in Utah that will help facilitate both liquidity and the ability to resolve the situation.
 
@@ -436,7 +436,7 @@ But the electric utility industry will never be as good as  I mean, just remotel
 
 I mean, you look at the return on tangible equity at Coca-Cola or American Express or, to really top it off, Apple.
 
-It’s just  it—s, you know  it—s just a whole different game.
+It’s just  it’s, you know  it’s just a whole different game.
 
 But in utilities the trade has been  the compact has been  that you get a modest return.
 
@@ -456,7 +456,7 @@ How do you think about the role of technological advances, especially generative
 
 WARREN BUFFETT: Yeah. I made a mistake in calling on four, but I’ll get back to two later on. (Laughs)
 
-The  I don’t know anything about AI. But I do  I do have  I don—t  that doesn’t mean I deny its existence or importance or anything of the sort.
+The  I don’t know anything about AI. But I do  I do have  I don’t  that doesn’t mean I deny its existence or importance or anything of the sort.
 
 And last year I said, you know, that we let the genie out of the bottle when we developed nuclear weapons, and that genie has been doing some terrible things lately.
 
@@ -514,7 +514,7 @@ So it isn’t  it’s not in the least a survival question, and it isn’t even 
 
 But we roughly  I think in the month of March we were just  we didn’t lose policyholders, and we’ve got 16 million, or whatever it is, of them. And we’ve got the lowest cost of operation.
 
-So, it’s not a threat  it’s not remotely a threat  to survival. It’s not a throat  it—s not a threat to even profitability.
+So, it’s not a threat  it’s not remotely a threat  to survival. It’s not a throat  it’s not a threat to even profitability.
 
 But on the other hand, we would like to be growing with something that is the best model around in the insurance business of delivering at a low cost.
 
@@ -526,7 +526,7 @@ But our low costs have masked the fact that, for a while, that we could do witho
 
 And now Todd has been working intensively at that, and he’s made a lot of progress. But there’s still work to be do  be done.
 
-But in the meantime, we’re not going to shrink, and we—re going  we should make underwriting profits than most companies in the auto insurance business.
+But in the meantime, we’re not going to shrink, and we’re going  we should make underwriting profits than most companies in the auto insurance business.
 
 WARREN BUFFETT: OK. I’m going to back up and go to  I think I left station two out of it earlier. So
 
@@ -548,7 +548,7 @@ I think my children have gotten a whole lot wiser over the years. And so I liste
 
 You know, I listen to my daughter on who to vote for locally because she knows a lot more about that than I do.
 
-And I—ll  I—ll listen to my wife on a lot of things. And I won’t get into details. (Laughs)
+And I’ll  I’ll listen to my wife on a lot of things. And I won’t get into details. (Laughs)
 
 So it  it is  it is important.
 
@@ -696,7 +696,7 @@ So it  we do not feel uncomfortable in any way, shape, or form putting our money
 
 But, you know, they still have to meet our standards in terms of what we get for our money.
 
-But they don’t have a  they don—t have a mental  we don—t have any mental blocks about that country.
+But they don’t have a  they don’t have a mental  we don’t have any mental blocks about that country.
 
 And of course, there’s a lot of countries we don’t understand at all.
 
@@ -736,7 +736,7 @@ You know, I’d been in the business  when he came in 1986, you know  I’d firs
 
 But we needed  we needed an Ajit.
 
-And, fortunately, he came into the office on a Saturday. And he was tired of working at something where he really didn—t  it just didn’t challenge his intellect.
+And, fortunately, he came into the office on a Saturday. And he was tired of working at something where he really didn’t  it just didn’t challenge his intellect.
 
 And I said, well, we’ve got a lot of challenges, so -(Laughs)
 
@@ -762,7 +762,7 @@ And, in addition to that, I go a step further and identify a particular individu
 
 Obviously, that could be subject to change, but we take this issue fairly seriously. And I think, at the end of the day, as Tim Cook has proved to us, it’ll be the biggest non-issue of the day. The Earth will keep  still keep revolving around the axis.
 
-WARREN BUFFETT: OK. We know what we -(applause) we know what we will do. We know it’s a good answer. But we know isn—t  we won’t have another Ajit.
+WARREN BUFFETT: OK. We know what we -(applause) we know what we will do. We know it’s a good answer. But we know isn’t  we won’t have another Ajit.
 
 WARREN BUFFETT: Station five.
 
@@ -786,7 +786,7 @@ And this, you may find kind of interesting, we had as much fun, perhaps even mor
 
 And, in a sense, there’s more fun  having somebody that’s your partner and digging your way out of a foxhole than there is just sitting there and watching an idea that you got ten years ago just continually produce more and more profit. So
 
-It wasn—t  you know  he really  he really fooled me, though, on  he went to 99.9 years. I mean
+It wasn’t  you know  he really  he really fooled me, though, on  he went to 99.9 years. I mean
 
 If you had picked two guys, you know  he publicly said he never did a day of exercise, except what was required when he was in the Army. So, he never did a day of voluntarily exercise. He never thought about what he ate, you know? It  you know
 
@@ -798,7 +798,7 @@ And so if I’d had another day with him, we’d probably do the same thing we w
 
 And we wouldn’t have wanted to know that we only had one day. (Laughs)
 
-There’s a great advantage in not knowing where you—re going  what day you’re going to die.
+There’s a great advantage in not knowing where you’re going  what day you’re going to die.
 
 And Charlie always said, you know, just tell me where I’m going to die so I’ll never go there. (Laughter)
 
@@ -806,7 +806,7 @@ It  the truth is  you know  he went everywhere, with his mind. And therefore, he
 
 You know, they  he  he  I would  I told him, in the last few years, I’d never seen anybody that was peaking, you know, at 99. And -(Laughs)
 
-The world wanted to come and see him. I mean, they actually wanted to go out to 351 North June Street. And whether it was  well, I could name a whole bunch of names  but just  I—ll start with Elon Musk, but go down the list, and they all wanted to meet Charlie. And Charlie was happy to talk with them.
+The world wanted to come and see him. I mean, they actually wanted to go out to 351 North June Street. And whether it was  well, I could name a whole bunch of names  but just  I’ll start with Elon Musk, but go down the list, and they all wanted to meet Charlie. And Charlie was happy to talk with them.
 
 And the only  the only person I could think of, otherwise, was the Dalia Lama. I don’t know that they had a lot else in common, but -(laughs)
 
@@ -832,7 +832,7 @@ And he eliminated all of the trouble of going to restaurants to meet them or any
 
 He had met Ben Franklin. And he really  he was remarkable. He’s had, really, no one else to meet because he’d read all their stuff. And he liked Ben Franklin’s stuff better than he liked mine, but
 
-But Ben Franklin, he just had to read about it. He didn’t have to  he didn—t have to go have lunch with him or anything of the sort.
+But Ben Franklin, he just had to read about it. He didn’t have to  he didn’t have to go have lunch with him or anything of the sort.
 
 But it’s an interesting question. What you should probably ask yourself is that, who do you feel that you’d want to start spending the last day of your life with, and then figure out a way to start meeting them tomorrow.
 
@@ -870,7 +870,7 @@ To the extent that they need to write it so as to satisfy certain client needs, 
 
 So it is projected to be a huge business. My guess is, at some point, it might become a huge business, but it might be associated with huge losses. And our approach is to sort of stay away from it right now, until we can have access to some meaningful data and hang our hat on data.
 
-WARREN BUFFETT: Well, you’ve just made  you—ve just heard heard why Ajit is invaluable, because
+WARREN BUFFETT: Well, you’ve just made  you’ve just heard heard why Ajit is invaluable, because
 
 When you insure something, you really want to think of what  how much can you lose. And the question  I remember the first time it was it happened, I think, in the 1968, when there were the riots in various cities because  I think it was the Bobby Kennedy death that set it off or the Martin Luther King death. I’m not sure which one.
 
@@ -906,7 +906,7 @@ WARREN BUFFETT: And thank you, Maria. Greg, you want to?
 
 GREG ABEL: Sure. Thank you.
 
-So, as we touched on, with NV Energy even earlier, there’s a lot going on there. And when I think of  there’s no question solar—s a great opportunity for NV Energy and we’ll continue to utilize it as a resource and continue to invest in it in that utility and the other utility we have in Nevada.
+So, as we touched on, with NV Energy even earlier, there’s a lot going on there. And when I think of  there’s no question solar’s a great opportunity for NV Energy and we’ll continue to utilize it as a resource and continue to invest in it in that utility and the other utility we have in Nevada.
 
 We’re also in a point where when you think of a transition that’s going on within the energy sector, we are transitioning from carbon resources to renewable resources, as was noted. But it will not occur overnight. That transition will take many years.
 
@@ -932,7 +932,7 @@ So thank you for your comments. (Applause)
 
 WARREN BUFFETT: And we’ve got the capital to do whatever makes the most sense in a place like Nevada. And Nevada, I don’t know, each state calls their ruling commission something different, but they probably call it the Public Service Commission or something like  and they’re making the decision as to what they think can and should be done in terms of getting from  a vastly complicated utility business moves toward something different without messing things up in the meantime, and, you know, having the lights go off.
 
-They  I think they would probably agree with you very much, Maria, that they  what they  where they want to get. But they can’t  they can—t do it tomorrow, you know, because of the intermittent problems.
+They  I think they would probably agree with you very much, Maria, that they  what they  where they want to get. But they can’t  they can’t do it tomorrow, you know, because of the intermittent problems.
 
 And their job is to make sure the lights stay on. And their job is also to move toward better sources. But solar will never be the only source of electricity because it  well, Greg may know more about this, but barring some real breakthroughs in storage and that sort of thing.
 
@@ -950,13 +950,13 @@ So, delicate balance of both delivering reliability but doing it in an affordabl
 
 WARREN BUFFETT: Yeah. My friend, Bill Gates  he’s working on shortening up that  or lengthening the time the battery works.
 
-And so you’ve had some very smart people working on it. But it isn—t something that you actually do overnight. And I can understand why people want it done overnight.
+And so you’ve had some very smart people working on it. But it isn’t something that you actually do overnight. And I can understand why people want it done overnight.
 
 But it is going to take a lot of money. It’s going to take a lot of good ideas and smart people, like Bill and Greg  not me. I don’t understand why the damn lights go on when I even turn the switch. But those fellows really do know. And there’s plenty of them working on it. And we’ve got plenty of money to implement it.
 
 But there are certain things that just take a certain amount of time.
 
-My daughter hates it when I use this example, but it’s really true that you can’t create a baby in one month by getting nine women pregnant. I mean, that—s just, you know -(laughter)
+My daughter hates it when I use this example, but it’s really true that you can’t create a baby in one month by getting nine women pregnant. I mean, that’s just, you know -(laughter)
 
 You may want  you may want a baby, but
 
@@ -968,7 +968,7 @@ BECKY QUICK: This question comes from Rich McCloskey in Dunedin, Florida.
 
 He says, “Warren and Ajit, would you let us know what you think about the car and property insurance situation in Florida? As a resident, both seem out of control. Since the Florida market seems to be so mismanaged, is this an opportunity for Berkshire?”
 
-AJIT JAIN: Yeah. The Florida market, both for auto insurance and for homeowner—s insurance, has had a few tough years.
+AJIT JAIN: Yeah. The Florida market, both for auto insurance and for homeowner’s insurance, has had a few tough years.
 
 The two problems we face in Florida, and all the risk bearers face in Florida, one is the lawyers and the amount of corruption that takes place in the Florida market is  keeps skyrocketing, making it difficult for us to price the product and make a profit.
 
@@ -1000,7 +1000,7 @@ But I would like  I would like  really sort of use Charlie’s advice of thinkin
 
 Well, Charlie would say you are offering some similar benefit to the partner.
 
-And, you know, the opportunity in this country is, you know, it—s basically limitless.
+And, you know, the opportunity in this country is, you know, it’s basically limitless.
 
 But when you think of going back not that many centuries, you know, if you were going to be a shepherd or something like that, you know, a hundred years from now, you know, your grandson was  granddaughter  was going to be a shepherd.
 
@@ -1008,13 +1008,13 @@ I mean, nothing really happened. And what has happened in the last 200 years wit
 
 And many of us were lucky enough to be born in the United States as well.
 
-You know, you  you—ve had the  you’re entering the best world that’s ever existed. And you want to find the people to share it with and the activities to participate in that fit you.
+You know, you  you’ve had the  you’re entering the best world that’s ever existed. And you want to find the people to share it with and the activities to participate in that fit you.
 
 And if you get lucky, like Charlie and I did, you find things that interest you young. But if you don’t find them right away, you keep looking.
 
 And I always tell students to take the job that you  I mean, find the job that you want  would like to have if you didn’t need a job. And sometimes you can find that very early. And sometimes  sometimes you go through various experiences.
 
-But don’t forget what you—re trying  actually are trying to do. And there’s no place to do it like this country. And find the person that you like to share your life with, in many cases.
+But don’t forget what you’re trying  actually are trying to do. And there’s no place to do it like this country. And find the person that you like to share your life with, in many cases.
 
 And, you know, sometimes you get lucky and do that early. And sometimes you make mistakes.
 
@@ -1028,13 +1028,13 @@ BECKY QUICK: This question comes from Axel Meyersiek in Hamburg, Germany.
 
 What has changed for Berkshire’s operating CEOs since Greg Abel and Ajit Jain became vice chairmen? For example, can and do the operating CEOs still reach out to Warren Buffett directly?
 
-WARREN BUFFETT: Well, that—s  the answer might surprise you. But they  overwhelmingly, the operating executives, well they prefer to talk to Greg or to Ajit. (Laughs)
+WARREN BUFFETT: Well, that’s  the answer might surprise you. But they  overwhelmingly, the operating executives, well they prefer to talk to Greg or to Ajit. (Laughs)
 
 And that’s understandable because I don’t really do much. And I don’t operate at the same level of efficiency that I would have 30 years ago or 40 years ago.
 
 I don’t know the managers as well as I would have when we were smaller and when I could get more accomplished in a day than I can now.
 
-And you—ve got  when you’ve got somebody like Greg and Ajit, you know, why settle for me, I mean, basically? (Laughs)
+And you’ve got  when you’ve got somebody like Greg and Ajit, you know, why settle for me, I mean, basically? (Laughs)
 
 So it’s worked out extremely well.
 
@@ -1050,11 +1050,11 @@ He can deliver  he can deliver news very well to people who
 
 You know, there’ll be some people, if you have 20 children and you’re very rich, you’ll have some that will be go-getters anyway. And you’ll have some that won’t. And we are a very, very rich company.
 
-And we don—t  we haven’t had a history of being very tough on people that coasted. And we’ve had some that would do that.
+And we don’t  we haven’t had a history of being very tough on people that coasted. And we’ve had some that would do that.
 
 And Greg will do something about it. And Charlie and I wouldn’t have. Not because we didn’t know it should be done, but because we were doing so well ourselves. (Laughs)
 
-It just wasn—t  we didn—t  we wouldn’t make the effort. We didn’t want to change our lives that way. Plus, we slowed down in various ways physically and everything.
+It just wasn’t  we didn’t  we wouldn’t make the effort. We didn’t want to change our lives that way. Plus, we slowed down in various ways physically and everything.
 
 So, I would  I would say that the number of calls I get from managers is essentially awfully close to zero. And Greg is handling those.
 
@@ -1062,7 +1062,7 @@ And I don’t know quite how he does it. But  but we’ve got the right person. 
 
 And with Ajit, he does less physical moving. And the insurance people are more used to working with Ajit, obviously, over the years.
 
-So, I wouldn’t say that changing the title really changes much there. Because he was in charge of insurance anyway. So that—s  you know, you can  you can go to a business school, and they can give you way better answers than I’ve just given you. But that’s the way we do it at Berkshire. (Laughs)
+So, I wouldn’t say that changing the title really changes much there. Because he was in charge of insurance anyway. So that’s  you know, you can  you can go to a business school, and they can give you way better answers than I’ve just given you. But that’s the way we do it at Berkshire. (Laughs)
 
 BECKY QUICK: Ajit raised his hand.
 
@@ -1074,7 +1074,7 @@ After the transition, when they would continue to do so, Warren would very skill
 
 So as a result of which, you know, the transition took place, people got the message. They got the message and were very responsive to it. And it’s a non-issue as far as today is concerned.
 
-GREG ABEL: Ajit, I—d probably add -(applause) yeah  Ajit, the only thing I would add is we do have an exceptional set of managers across both the non-insurance and insurance.
+GREG ABEL: Ajit, I’d probably add -(applause) yeah  Ajit, the only thing I would add is we do have an exceptional set of managers across both the non-insurance and insurance.
 
 And yes, Warren made it incredibly easy, but so did they. It was a very easy transition because they care deeply about Berkshire. They care deeply about the culture. And they very much wanted it to be a success.
 
@@ -1082,7 +1082,7 @@ And we’re fortunate to have those managers in insurance and non-insurance. So,
 
 WARREN BUFFETT: Yeah -(applause) what Greg is talking about is they really wanted more direction in some cases than I gave them.
 
-You know, I mean  I just sat there reading the Wall Street Journal or whatever. And  Greg is  I don—t  you know, there  one way or another, there are more than 24 hours in his day, you know?
+You know, I mean  I just sat there reading the Wall Street Journal or whatever. And  Greg is  I don’t  you know, there  one way or another, there are more than 24 hours in his day, you know?
 
 And I just don’t know how he covers the ground he does. But he knows more about the people.
 
@@ -1094,7 +1094,7 @@ But it’s working very well. And this place, if anything happened to me, it wou
 
 I don’t get any phone calls. You could actually  we can rig something up, so we get some answering machine that people think I’m still around, you know, or something, in terms -(Laughter)
 
-So anyway, that’s  that—s much  much less than you’d learn in business school. But that’s the way we do it at Berkshire.
+So anyway, that’s  that’s much  much less than you’d learn in business school. But that’s the way we do it at Berkshire.
 
 WARREN BUFFETT: OK. Station eight.
 
@@ -1180,7 +1180,7 @@ I’ve seen all these corporate policies on that which are kind of crazy when yo
 
 But in any event, we do  Greg is going to have to tell the directors about  what  if something happened tomorrow, he has to tell the directors about what should be done if anything happens to him. And that’s not an easy thing to do.
 
-I don—t have  well, it will be his decision. And then the directors really have to decide whether he’s made the right one.
+I don’t have  well, it will be his decision. And then the directors really have to decide whether he’s made the right one.
 
 But he will make the right one. And what you really have to hope is that you get lucky on how long managers stick around. You might need three in a century. And you might need six or seven.
 
@@ -1218,7 +1218,7 @@ And, we would appreciate it if we can get your views as well as your representat
 
 WARREN BUFFETT: Yeah. I don’t think I want to give individual appraisals.
 
-But really what you’re doing is  in terms of capital allocation, which is my job  I don—t go out and sell insurance policies or anything of the sort. And you represent a group of shareholders like we do represent.
+But really what you’re doing is  in terms of capital allocation, which is my job  I don’t go out and sell insurance policies or anything of the sort. And you represent a group of shareholders like we do represent.
 
 We are totally clear on our mission. And, you know, it may be that other people don’t agree with them. But I would say that in great many places, you know, I just don’t agree with their mission. (Laughs)
 
@@ -1260,11 +1260,11 @@ And it was just a wonderful lesson in life to get just to be able to view someth
 
 I mean, it’s like watching a great golfer or a great tennis player. And you ought to learn something about the kind of swing you’re trying to develop or something of the sort.
 
-So that’s not a great answer for you. But it—s  so far it’s worked. And I think it works  I’m very sure it works with Greg.
+So that’s not a great answer for you. But it’s  so far it’s worked. And I think it works  I’m very sure it works with Greg.
 
 And it’s up to people in the future when, you know, I’m underground or wherever they put me, to really make a decision every 20 years or something like that on average. It’s the right decision. But correct it if it turns out to be the wrong decision.
 
-That’s what a board of directors is for. And we’ve got the people on the board that really understand that responsibility. They take it seriously. But they don’t take themselves too seriously. And so therefore they don’t  they don—t want to  they don—t necessarily want to do a lot of things just to look busy.
+That’s what a board of directors is for. And we’ve got the people on the board that really understand that responsibility. They take it seriously. But they don’t take themselves too seriously. And so therefore they don’t  they don’t want to  they don’t necessarily want to do a lot of things just to look busy.
 
 And they aren’t using us as a steppingstone to get on other boards.
 
@@ -1280,7 +1280,7 @@ And, you know, we  there aren’t as many things to do, but we can do a few big 
 
 And at those times, we want to be sure that the U.S. government thinks we’re an asset to the situation and not a liability or a supplicant, you know, as the banks were, we’ll say in 2008 and ’09. They were all tarred with the same brush.
 
-But we want to be sure that the brush that determines our future, you know, is not tarred. And I think we—re in the  I don’t think anybody’s got a better position to do it than Berkshire. (Applause)
+But we want to be sure that the brush that determines our future, you know, is not tarred. And I think we’re in the  I don’t think anybody’s got a better position to do it than Berkshire. (Applause)
 
 WARREN BUFFETT: Becky?
 
@@ -1298,7 +1298,7 @@ I would not like to be running 10 billion now. Ten million I think we could  I t
 
 But that  if we had 10 billion, we wouldn’t  I wouldn’t basically see many more opportunities than we’ve found.
 
-Now, it’s true that something like Japan we could’ve done if the company had had a 30 or 40 billion and we’d make  we—d have had great returns on equity.
+Now, it’s true that something like Japan we could’ve done if the company had had a 30 or 40 billion and we’d make  we’d have had great returns on equity.
 
 But if I saw one of those now, I’d do it for Berkshire.
 
@@ -1458,13 +1458,13 @@ So, if you multiple the number of accidents times the cost of each accident, I�
 
 Tesla has been toying with the idea of writing insurance directly or indirectly, and so far, it hasn’t really sort of been much of a success. Time will tell, but I think, you know, automation just shifts a lot of the expense from the operator to the equipment provider.
 
-WARREN BUFFETT: OK. We’re getting close to noon when we’re going to break for lunch. I just want to tell everybody that I would appreciate it very much if they will get in their seats and be ready at one o—clock when we reconvene because we will have another very short little movie and we’ll just have a little explanation of something that I think will be of interest  certainly of interest to me.
+WARREN BUFFETT: OK. We’re getting close to noon when we’re going to break for lunch. I just want to tell everybody that I would appreciate it very much if they will get in their seats and be ready at one o’clock when we reconvene because we will have another very short little movie and we’ll just have a little explanation of something that I think will be of interest  certainly of interest to me.
 
-But it  so I would like them  we will break promptly at 12, and I would like everybody to really make an attempt to be in their seat and quiet at one o—clock. And if you can’t do that, if you’ll wait a few minutes and watch in the halls all that.
+But it  so I would like them  we will break promptly at 12, and I would like everybody to really make an attempt to be in their seat and quiet at one o’clock. And if you can’t do that, if you’ll wait a few minutes and watch in the halls all that.
 
-But we will  we do not want to be seating people and have people milling here at one o—clock. And just like a play in New York or something we’ll  it’ll take a few minutes and only a few minutes to cover what we’re going to at one o—clock. But we don’t want to be seating people during that period.
+But we will  we do not want to be seating people and have people milling here at one o’clock. And just like a play in New York or something we’ll  it’ll take a few minutes and only a few minutes to cover what we’re going to at one o’clock. But we don’t want to be seating people during that period.
 
-WARREN BUFFETT: But now let’s  we’ll go on till 12 o—clock and then we’ll have a break until 1 o—clock. And we will go to station 11.
+WARREN BUFFETT: But now let’s  we’ll go on till 12 o’clock and then we’ll have a break until 1 o’clock. And we will go to station 11.
 
 AUDIENCE MEMBER: My name is Humphrey Liu, and I’m from Charlottesville, Virginia.
 
@@ -1546,7 +1546,7 @@ And so Carol went to lunch with Ty Cobb at 21, and I think he subsequently had o
 
 But those of you who follow baseball may have noticed that in the 1990s they found that the statistics had been faulty when Ty Cobb played and that he actually only batted. 366, that there were a couple of at-bats they didn’t count.
 
-So, the real question I want to know from Carol, and I think she should maybe tell us, is that would she have dated Ty Cobb (laughter) if she’d known  I mean, I know she wouldn’t have  I know she wouldn—t have dated Ty Cobb if his batting average had been. 300 or something like that. (Laughter)
+So, the real question I want to know from Carol, and I think she should maybe tell us, is that would she have dated Ty Cobb (laughter) if she’d known  I mean, I know she wouldn’t have  I know she wouldn’t have dated Ty Cobb if his batting average had been. 300 or something like that. (Laughter)
 
 But where was the cutoff point at which she would’ve told Ty Cobb to stay in Atlanta and forget about coming up to New York?
 
@@ -1592,7 +1592,7 @@ But some of you may have noticed, whenever it was, a few weeks back, when Ruth G
 
 Ruth doesn’t like a lot of attention drawn to herself, but here’s how they felt at Albert Einstein when they announced that Ruth Gottesman had just made a decision to take care of all the  all of the costs costs of education at Albert Einstein. And it’s going to be in perpetuity. So, let’s just show the film.
 
-RUTH GOTTESMAN (on video): I—m happy to share with you that starting in August this year, the Albert Einstein College of Medicine will be tuition-free.
+RUTH GOTTESMAN (on video): I’m happy to share with you that starting in August this year, the Albert Einstein College of Medicine will be tuition-free.
 
 (Audience of students shown in video erupts into extended cheers and applause)
 
@@ -1600,7 +1600,7 @@ WARREN BUFFETT: And that’s why Charlie and I have had such fun running Berkshi
 
 She transferred a billion dollars to other people. She happened to do it with Berkshire stock.
 
-And, you know, they offered to rename the school after her and everything like that, but she said, Albert Einstein, that’s a  that—s a pretty good name to start with, so
+And, you know, they offered to rename the school after her and everything like that, but she said, Albert Einstein, that’s a  that’s a pretty good name to start with, so
 
 You know, there’s no ego involved, you know, nothing. She just decided that she’d rather have a hundred-plus  closer to 150, eventually  students be able to start out debt-free and proceed in life.
 
