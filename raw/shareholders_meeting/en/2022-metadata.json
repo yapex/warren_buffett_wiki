@@ -1,0 +1,43 @@
+{
+  "year": 2022,
+  "company": "Berkshire Hathaway",
+  "event": "Annual Shareholders Meeting",
+  "date": "April 30, 2022",
+  "location": "Omaha, Nebraska",
+  "source": "CNBC Warren Buffett Archive",
+  "crawled_at": "2026-04-18T17:10:28.099725",
+  "urls": {
+    "morning": "https://buffett.cnbc.com/video/2022/05/02/morning-session---2022-meeting.html",
+    "afternoon": "https://buffett.cnbc.com/video/2022/05/02/afternoon-session---2022-meeting.html",
+    "meeting_page": "https://buffett.cnbc.com/2022-berkshire-hathaway-annual-meeting/"
+  },
+  "files": {
+    "morning_session": "2022-morning-session.md",
+    "afternoon_session": "2022-afternoon-session.md",
+    "full_meeting": "2022-full-meeting.md"
+  },
+  "statistics": {
+    "morning_paragraphs": 759,
+    "afternoon_paragraphs": 661,
+    "total_paragraphs": 1420,
+    "morning_duration": "2h40m",
+    "afternoon_duration": "3h30m",
+    "total_duration": "~6h"
+  },
+  "participants": [
+    "Warren Buffett (CEO)",
+    "Charlie Munger (Vice Chairman)",
+    "Greg Abel (Vice Chairman, Non-Insurance Operations)",
+    "Ajit Jain (Vice Chairman, Insurance Operations)"
+  ],
+  "key_topics": [
+    "$40 billion buying spree in March 2022",
+    "Alleghany insurance acquisition",
+    "Occidental Petroleum stake",
+    "Stock repurchases",
+    "Inflation",
+    "Bitcoin criticism",
+    "Political neutrality",
+    "Index funds influence"
+  ]
+}
