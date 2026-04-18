@@ -142,6 +142,149 @@ EOF
 - [ ] 按话题分类整理
 - [ ] 添加中文翻译版本（可选）
 
+## 附录：下载解析最佳实践
+
+### 完整脚本（单场会议）
+
+```bash
+#!/bin/bash
+# 用法：./fetch_session.sh YEAR SESSION
+# 示例：./fetch_session.sh 2024 morning
+
+YEAR=$1
+SESSION=$2
+
+# URL 构建（根据年份调整格式）
+if [ $YEAR -ge 2020 ]; then
+    SUFFIX="${YEAR}-meeting.html"
+else
+    SUFFIX="${YEAR}-berkshire-hathaway-annual-meeting.html"
+fi
+
+URL="https://buffett.cnbc.com/video/${YEAR}/05/0${SESSION:0:1}/${SESSION}-session---${SUFFIX}"
+
+echo "📥 下载：$URL"
+curl -s -A "Mozilla/5.0" "$URL" -o "/tmp/${YEAR}_${SESSION}.html"
+
+echo "📝 解析并保存..."
+python3 << PYEOF
+import re
+from pathlib import Path
+from datetime import datetime
+
+with open("/tmp/${YEAR}_${SESSION}.html", "r") as f:
+    html = f.read()
+
+paragraphs = []
+for match in re.finditer(r'<p[^>]*>(.*?)</p>', html, re.DOTALL | re.IGNORECASE):
+    text = re.sub(r'<[^>]+>', '', match.group(1)).strip()
+    if text and len(text) > 5:
+        paragraphs.append(text)
+
+print(f"提取 {len(paragraphs)} 个段落")
+
+md_header = f"""# {YEAR} Berkshire Hathaway Annual Meeting - ${SESSION^()} Session
+
+**Source**: CNBC Warren Buffett Archive  
+**Date**: ...  
+**Location**: Omaha, Nebraska  
+**Duration**: ~{"2h30m" if "$SESSION" == "morning" else "3h30m"}  
+**URL**: $URL  
+**Crawled at**: {datetime.now().isoformat()}
+
+---
+
+"""
+
+content = md_header + "\\n\\n".join(paragraphs)
+output_file = Path("raw/shareholders_meeting/en/${YEAR}-${SESSION}-session.md")
+
+with open(output_file, "w", encoding="utf-8") as f:
+    f.write(content)
+
+# 编码修复
+with open(output_file, "rb") as f:
+    content = f.read()
+
+em_dash = b'\\xe2\\x80\\x94'
+right_quote = b'\\xe2\\x80\\x99'
+
+content = content.replace(b"o" + em_dash + b"clock", b"o" + right_quote + b"clock")
+pattern = rb'(\\w)' + em_dash + rb'(s|re|ll|d|ve|t|m)\\b'
+content = re.sub(pattern, lambda m: m.group(1) + right_quote + m.group(2), content)
+
+with open(output_file, "wb") as f:
+    f.write(content)
+
+print(f"✅ 保存：{output_file} ({output_file.stat().st_size:,} bytes)")
+PYEOF
+```
+
+### 编码修复脚本（独立）
+
+```python
+#!/usr/bin/env python3
+"""修复 CNBC 文字稿中的 em dash 编码问题"""
+
+import re
+from pathlib import Path
+import sys
+
+def fix_encoding(file_path):
+    with open(file_path, "rb") as f:
+        content = f.read()
+    
+    em_dash = b'\\xe2\\x80\\x94'      # —
+    right_quote = b'\\xe2\\x80\\x99'  # '
+    
+    # 1. o—clock -> o'clock
+    content = content.replace(b"o" + em_dash + b"clock", b"o" + right_quote + b"clock")
+    
+    # 2. 代词 + — + 缩写后缀 -> 代词 + ' + 缩写后缀
+    pattern = rb'(\\w)' + em_dash + rb'(s|re|ll|d|ve|t|m)\\b'
+    content = re.sub(pattern, lambda m: m.group(1) + right_quote + m.group(2), content)
+    
+    with open(file_path, "wb") as f:
+        f.write(content)
+    
+    remaining = content.count(em_dash)
+    print(f"✅ {file_path}: 剩余 em dash = {remaining}（应只出现在 URL 中）")
+
+if __name__ == "__main__":
+    for file_path in sys.argv[1:]:
+        fix_encoding(Path(file_path))
+```
+
+### 验证命令
+
+```bash
+# 检查文件大小（应 > 100KB）
+ls -lh raw/shareholders_meeting/en/2024-*.md
+
+# 检查行数（应 > 1000 行）
+wc -l raw/shareholders_meeting/en/2024-*.md
+
+# 检查编码问题（应只出现在 URL 中）
+grep -n "—" raw/shareholders_meeting/en/2024-morning-session.md | head
+
+# 统计段落数
+python3 -c "
+content = open('raw/shareholders_meeting/en/2024-morning-session.md').read()
+print(f'段落数：{len([l for l in content.split(\"\\n\\n\") if l.strip()])}')
+"
+```
+
+### 常见问题排查
+
+| 问题 | 原因 | 解决方案 |
+|------|------|----------|
+| 文件 < 100KB | URL 错误或 CNBC 无记录 | 检查年份主页确认 URL 格式 |
+| 段落数 < 10 | 页面结构变化 | 检查页面是否有 "Key Chapters" |
+| 乱码 `o—clock` | 编码未修复 | 运行编码修复脚本 |
+| 404 错误 | 年份/日期错误 | 访问年份主页获取正确日期 |
+
+---
+
 ## 相关资源
 
 - [巴菲特 Wiki 项目](../README.md)
