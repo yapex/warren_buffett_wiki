@@ -1,0 +1,28 @@
+{
+  "year": 2015,
+  "company": "Berkshire Hathaway",
+  "event": "Annual Shareholders Meeting",
+  "date": "May 2, 2015",
+  "location": "Omaha, Nebraska",
+  "source": "CNBC Warren Buffett Archive",
+  "crawled_at": "2026-04-18T19:40:17.647502",
+  "urls": {
+    "meeting_page": "https://buffett.cnbc.com/2015-berkshire-hathaway-annual-meeting/",
+    "morning": "https://buffett.cnbc.com/video/2015/.../may-session...",
+    "afternoon": "https://buffett.cnbc.com/video/2015/.../afternoon-session..."
+  },
+  "files": {
+    "morning_session": "2015-morning-session.md",
+    "afternoon_session": "2015-afternoon-session.md"
+  },
+  "statistics": {
+    "morning_paragraphs": 799,
+    "afternoon_paragraphs": 934,
+    "morning_duration": "~2h30m",
+    "afternoon_duration": "~3h30m"
+  },
+  "participants": [
+    "Warren Buffett (CEO)",
+    "Charlie Munger (Vice Chairman)"
+  ]
+}
