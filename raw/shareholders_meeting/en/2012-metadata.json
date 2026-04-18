@@ -1,0 +1,28 @@
+{
+  "year": 2012,
+  "company": "Berkshire Hathaway",
+  "event": "Annual Shareholders Meeting",
+  "date": "May 5, 2012",
+  "location": "Omaha, Nebraska",
+  "source": "CNBC Warren Buffett Archive",
+  "crawled_at": "2026-04-18T19:55:40.335739",
+  "urls": {
+    "meeting_page": "https://buffett.cnbc.com/2012-berkshire-hathaway-annual-meeting/",
+    "morning": "https://buffett.cnbc.com/video/2012/.../morning-session---2012-berkshire-hathaway-annual-meeting.html",
+    "afternoon": "https://buffett.cnbc.com/video/2012/.../afternoon-session---2012-berkshire-hathaway-annual-meeting.html"
+  },
+  "files": {
+    "morning_session": "2012-morning-session.md",
+    "afternoon_session": "2012-afternoon-session.md"
+  },
+  "statistics": {
+    "morning_paragraphs": 811,
+    "afternoon_paragraphs": 923,
+    "morning_duration": "~2h30m",
+    "afternoon_duration": "~3h30m"
+  },
+  "participants": [
+    "Warren Buffett (CEO)",
+    "Charlie Munger (Vice Chairman)"
+  ]
+}
