@@ -10,6 +10,110 @@
 
 ---
 
+## ⚠️ 注意事项与踩坑记录（2026-04-18 更新）
+
+### 1. 编码问题（重要！）
+
+**问题：** CNBC 页面提取的文本包含错误的编码字符，特别是：
+- em dash (`—`, UTF-8: `e2 80 94`) 被错误用于替代 apostrophe
+- 例如：`o—clock` 应为 `o'clock`，`it—s` 应为 `it's`
+
+**解决方案：** 保存后必须运行编码修复脚本：
+
+```python
+from pathlib import Path
+import re
+
+file_path = Path("raw/shareholders_meeting/en/2024-morning-session.md")
+
+with open(file_path, "rb") as f:
+    content = f.read()
+
+em_dash = b'\xe2\x80\x94'      # —
+right_quote = b'\xe2\x80\x99'  # '
+
+# 1. o—clock -> o'clock
+content = content.replace(b"o" + em_dash + b"clock", b"o" + right_quote + b"clock")
+
+# 2. 代词 + — + 缩写后缀 -> 代词 + ' + 缩写后缀
+def fix_possessive(match):
+    return match.group(1) + right_quote + match.group(2)
+
+pattern = rb'(\w)' + em_dash + rb'(s|re|ll|d|ve|t|m)\b'
+content = re.sub(pattern, fix_possessive, content)
+
+with open(file_path, "wb") as f:
+    f.write(content)
+
+print(f"Fixed: em dash count = {content.count(em_dash)}")
+```
+
+**验证方法：**
+```bash
+# 检查是否还有 em dash 乱码
+grep -n "—" raw/shareholders_meeting/en/2024-morning-session.md | head -10
+# 应该只出现在 URL 中，不应该出现在 o'clock、it's 等位置
+```
+
+### 2. 2025 年文字稿尚未发布
+
+**状态：** CNBC 页面中 `transcript: null`，只有视频片段摘要
+
+**检测代码：**
+```javascript
+const html = document.documentElement.outerHTML;
+const hasTranscript = html.includes('"transcript":"') || html.includes('"text":"');
+console.log({ hasTranscript });
+```
+
+**处理方案：**
+- 跳过 2025 年，等 CNBC 发布完整文字稿后再补充
+- 或只保存会议简介和视频片段列表作为占位符
+
+### 3. 页面结构差异
+
+**有完整文字稿的年份（2022-2024）：**
+- 页面包含 "Key Chapters" 章节
+- 有 `button` 元素包含章节标题和段落
+- `document.querySelectorAll('p')` 可提取 700-800 个段落
+
+**无完整文字稿的年份（2025）：**
+- 页面只有视频播放器
+- 只有简介段落（1-2 个）
+- 需要等待 CNBC 更新
+
+### 4. 提取代码（已验证）
+
+```javascript
+// 在 browser_console 中运行
+const paragraphs = [];
+document.querySelectorAll('p').forEach(p => {
+    const text = p.textContent?.trim();
+    if (text && text.length > 5) {
+        paragraphs.push(text);
+    }
+});
+JSON.stringify({ count: paragraphs.length, paragraphs: paragraphs });
+```
+
+**预期结果：**
+- 上午场：700-800 段落（约 120-150KB）
+- 下午场：600-700 段落（约 100-120KB）
+
+### 5. 文件提交规范
+
+```bash
+cd ~/workspace/warren_buffett_wiki
+git add raw/shareholders_meeting/en/2024-morning-session.md
+git commit -m "feat: add 2024 morning session transcript"
+# 如有编码修复
+git commit -m "fix: correct encoding issues in 2024 morning session (em dash -> apostrophe)"
+```
+
+**注意：** 变更不在 `wiki/` 目录下，不会触发索引更新。
+
+---
+
 ## 优先级分组
 
 | 优先级 | 年份 | 数量 | 说明 |
