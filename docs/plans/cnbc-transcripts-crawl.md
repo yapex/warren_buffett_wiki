@@ -12,6 +12,61 @@
 
 ## ⚠️ 注意事项与踩坑记录（2026-04-18 更新）
 
+### 0. 高效下载方法（2024 下午场成功经验）
+
+**问题：** 使用 browser_console 提取大数据量（87KB+）时受 stdout 限制（50KB）
+
+**解决方案：** 使用 curl 下载 HTML + Python 解析
+
+```bash
+# 1. 下载 HTML
+curl -s -A "Mozilla/5.0" [URL] -o /tmp/afternoon.html
+
+# 2. Python 解析并保存
+```
+
+```python
+import re
+from pathlib import Path
+
+# 读取 HTML
+with open("/tmp/afternoon.html", "r") as f:
+    html = f.read()
+
+# 提取段落
+paragraphs = []
+for match in re.finditer(r'<p[^>]*>(.*?)</p>', html, re.DOTALL | re.IGNORECASE):
+    text = re.sub(r'<[^>]+>', '', match.group(1)).strip()
+    if text and len(text) > 5:
+        paragraphs.append(text)
+
+# 生成 Markdown
+md_header = """# YEAR Berkshire Hathaway Annual Meeting - SESSION Session
+
+**Source**: CNBC Warren Buffett Archive  
+**Date**: DATE  
+**Location**: Omaha, Nebraska  
+**Duration**: DURATION  
+**URL**: URL
+
+---
+
+"""
+
+content = md_header + "\n\n".join(paragraphs)
+
+# 写入文件
+with open(output_file, "w", encoding="utf-8") as f:
+    f.write(content)
+```
+
+**优点：**
+- 不受 browser_console stdout 限制
+- 速度快（curl 下载约 1 秒）
+- 可一次性处理所有段落
+
+---
+
 ### 1. 编码问题（重要！）
 
 **问题：** CNBC 页面提取的文本包含错误的编码字符，特别是：
@@ -111,6 +166,77 @@ git commit -m "fix: correct encoding issues in 2024 morning session (em dash -> 
 ```
 
 **注意：** 变更不在 `wiki/` 目录下，不会触发索引更新。
+
+---
+
+### 6. 完整工作流程（2024 下午场验证）
+
+```bash
+# 1. 下载 HTML
+curl -s -A "Mozilla/5.0" "https://buffett.cnbc.com/video/2024/05/06/afternoon-session---2024-meeting.html" -o /tmp/afternoon.html
+
+# 2. Python 解析并保存
+python3 << 'EOF'
+import re
+from pathlib import Path
+
+# 读取 HTML
+with open("/tmp/afternoon.html", "r") as f:
+    html = f.read()
+
+# 提取段落
+paragraphs = []
+for match in re.finditer(r'<p[^>]*>(.*?)</p>', html, re.DOTALL | re.IGNORECASE):
+    text = re.sub(r'<[^>]+>', '', match.group(1)).strip()
+    if text and len(text) > 5:
+        paragraphs.append(text)
+
+print(f"提取 {len(paragraphs)} 个段落")
+
+# 读取现有 header
+output_file = Path("raw/shareholders_meeting/en/2024-afternoon-session.md")
+with open(output_file, "r") as f:
+    header = f.read()
+
+# 写入完整文件
+content = header + "\n\n".join(paragraphs)
+with open(output_file, "w", encoding="utf-8") as f:
+    f.write(content)
+
+print(f"写入 {output_file.stat().st_size:,} bytes")
+EOF
+
+# 3. 编码修复
+python3 << 'EOF'
+import re
+from pathlib import Path
+
+output_file = Path("raw/shareholders_meeting/en/2024-afternoon-session.md")
+with open(output_file, "rb") as f:
+    content = f.read()
+
+em_dash = b'\xe2\x80\x94'
+right_quote = b'\xe2\x80\x99'
+
+content = content.replace(b"o" + em_dash + b"clock", b"o" + right_quote + b"clock")
+pattern = rb'(\w)' + em_dash + rb'(s|re|ll|d|ve|t|m)\b'
+content = re.sub(pattern, lambda m: m.group(1) + right_quote + m.group(2), content)
+
+with open(output_file, "wb") as f:
+    f.write(content)
+
+print("编码修复完成")
+EOF
+
+# 4. Git 提交
+git add raw/shareholders_meeting/en/2024-afternoon-session.md
+git commit -m "feat: complete 2024 afternoon session transcript"
+```
+
+**预期输出：**
+- 633 个段落
+- 86-88 KB
+- 1270-1280 行
 
 ---
 
