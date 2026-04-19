@@ -4,9 +4,7 @@ type: section
 
 # 伯克希尔股东大会
 
-> 1994-2025 年股东大会记录。原文来自白湖水整理的《伯克希尔股东大会实录1994~2025》。共收录 27 年（缺 5 年：2005, 2015, 2017, 2018, 2019）。
-
-## 目录
+> 1994-2025 年股东大会记录。原文来自白湖水整理的《伯克希尔股东大会实录1994~2025》。共收录 32 年（缺 0 年：）。
 
 
 | 年份 | 概要 | 原文 | 备注 |
@@ -24,7 +22,7 @@ type: section
 | 2002 | [概要](./shareholders_meeting/2002-股东大会_summary.md) | [原文](./shareholders_meeting/2002-股东大会.md) | |
 | 2003 | [概要](./shareholders_meeting/2003-股东大会_summary.md) | [原文](./shareholders_meeting/2003-股东大会.md) | |
 | 2004 | [概要](./shareholders_meeting/2004-股东大会_summary.md) | [原文](./shareholders_meeting/2004-股东大会.md) | |
-| 2005 | — | — | ⚠️ 待补 |
+| 2005 | [概要](./shareholders_meeting/2005-股东大会_summary.md) | [原文](./shareholders_meeting/2005-股东大会.md) | |
 | 2006 | [概要](./shareholders_meeting/2006-股东大会_summary.md) | [原文](./shareholders_meeting/2006-股东大会.md) | |
 | 2007 | [概要](./shareholders_meeting/2007-股东大会_summary.md) | [原文](./shareholders_meeting/2007-股东大会.md) | |
 | 2008 | [概要](./shareholders_meeting/2008-股东大会_summary.md) | [原文](./shareholders_meeting/2008-股东大会.md) | |
@@ -34,11 +32,11 @@ type: section
 | 2012 | [概要](./shareholders_meeting/2012-股东大会_summary.md) | [原文](./shareholders_meeting/2012-股东大会.md) | |
 | 2013 | [概要](./shareholders_meeting/2013-股东大会_summary.md) | [原文](./shareholders_meeting/2013-股东大会.md) | |
 | 2014 | [概要](./shareholders_meeting/2014-股东大会_summary.md) | [原文](./shareholders_meeting/2014-股东大会.md) | |
-| 2015 | — | — | ⚠️ 待补 |
+| 2015 | [概要](./shareholders_meeting/2015-股东大会_summary.md) | [原文](./shareholders_meeting/2015-股东大会.md) | |
 | 2016 | [概要](./shareholders_meeting/2016-股东大会_summary.md) | [原文](./shareholders_meeting/2016-股东大会.md) | |
-| 2017 | — | — | ⚠️ 待补 |
-| 2018 | — | — | ⚠️ 待补 |
-| 2019 | — | — | ⚠️ 待补 |
+| 2017 | [概要](./shareholders_meeting/2017-股东大会_summary.md) | [原文](./shareholders_meeting/2017-股东大会.md) | |
+| 2018 | [概要](./shareholders_meeting/2018-股东大会_summary.md) | [原文](./shareholders_meeting/2018-股东大会.md) | |
+| 2019 | [概要](./shareholders_meeting/2019-股东大会_summary.md) | [原文](./shareholders_meeting/2019-股东大会.md) | |
 | 2020 | [概要](./shareholders_meeting/2020-股东大会_summary.md) | [原文](./shareholders_meeting/2020-股东大会.md) | |
 | 2021 | [概要](./shareholders_meeting/2021-股东大会_summary.md) | [原文](./shareholders_meeting/2021-股东大会.md) | |
 | 2022 | [概要](./shareholders_meeting/2022-股东大会_summary.md) | [原文](./shareholders_meeting/2022-股东大会.md) | |
