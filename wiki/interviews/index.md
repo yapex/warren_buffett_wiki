@@ -19,9 +19,38 @@ type: index
 
 | 年份 | 标题 | 类型 |
 |------|------|------|
-| 2025 | [股东大会](./2025-股东大会.md) | 股东大会 |
-| 2024 | [股东大会](./2024-股东大会.md) | 股东大会 |
-| 2023 | [股东大会](./2023-股东大会.md) | 股东大会 |
+| 2025 | [股东大会](../shareholders_meeting/2025-股东大会.md) | 股东大会 |
+| 2024 | [股东大会](../shareholders_meeting/2024-股东大会.md) | 股东大会 |
+| 2023 | [股东大会](../shareholders_meeting/2023-股东大会.md) | 股东大会 |
+| 2022 | [股东大会](../shareholders_meeting/2022-股东大会.md) | 股东大会 |
+| 2021 | [股东大会](../shareholders_meeting/2021-股东大会.md) | 股东大会 |
+| 2020 | [股东大会](../shareholders_meeting/2020-股东大会.md) | 股东大会 |
+| 2019 | [股东大会](../shareholders_meeting/2019-股东大会.md) | 股东大会 |
+| 2018 | [股东大会](../shareholders_meeting/2018-股东大会.md) | 股东大会 |
+| 2017 | [股东大会](../shareholders_meeting/2017-股东大会.md) | 股东大会 |
+| 2016 | [股东大会](../shareholders_meeting/2016-股东大会.md) | 股东大会 |
+| 2015 | [股东大会](../shareholders_meeting/2015-股东大会.md) | 股东大会 |
+| 2014 | [股东大会](../shareholders_meeting/2014-股东大会.md) | 股东大会 |
+| 2013 | [股东大会](../shareholders_meeting/2013-股东大会.md) | 股东大会 |
+| 2012 | [股东大会](../shareholders_meeting/2012-股东大会.md) | 股东大会 |
+| 2011 | [股东大会](../shareholders_meeting/2011-股东大会.md) | 股东大会 |
+| 2010 | [股东大会](../shareholders_meeting/2010-股东大会.md) | 股东大会 |
+| 2009 | [股东大会](../shareholders_meeting/2009-股东大会.md) | 股东大会 |
+| 2008 | [股东大会](../shareholders_meeting/2008-股东大会.md) | 股东大会 |
+| 2007 | [股东大会](../shareholders_meeting/2007-股东大会.md) | 股东大会 |
+| 2006 | [股东大会](../shareholders_meeting/2006-股东大会.md) | 股东大会 |
+| 2005 | [股东大会](../shareholders_meeting/2005-股东大会.md) | 股东大会 |
+| 2004 | [股东大会](../shareholders_meeting/2004-股东大会.md) | 股东大会 |
+| 2003 | [股东大会](../shareholders_meeting/2003-股东大会.md) | 股东大会 |
+| 2002 | [股东大会](../shareholders_meeting/2002-股东大会.md) | 股东大会 |
+| 2001 | [股东大会](../shareholders_meeting/2001-股东大会.md) | 股东大会 |
+| 2000 | [股东大会](../shareholders_meeting/2000-股东大会.md) | 股东大会 |
+| 1999 | [股东大会](../shareholders_meeting/1999-股东大会.md) | 股东大会 |
+| 1998 | [股东大会](../shareholders_meeting/1998-股东大会.md) | 股东大会 |
+| 1997 | [股东大会](../shareholders_meeting/1997-股东大会.md) | 股东大会 |
+| 1996 | [股东大会](../shareholders_meeting/1996-股东大会.md) | 股东大会 |
+| 1995 | [股东大会](../shareholders_meeting/1995-股东大会.md) | 股东大会 |
+| 1994 | [股东大会](../shareholders_meeting/1994-股东大会.md) | 股东大会 |
 | 2022 | [查理·罗斯对谈](./2022-查理罗斯对谈.md) | 对谈 |
 | 2020 | [CNBC 专访](./2020-CNBC专访.md) | 媒体专访 |
 | 2019 | [雅虎财经专访](./2019-雅虎财经专访.md) | 媒体专访 |
@@ -44,8 +73,8 @@ type: index
 | 1990 | [斯坦福大学演讲](./1990-斯坦福大学演讲.md) | 大学演讲 |
 | 1985 | [电视采访](./1985-电视采访.md) | 媒体专访 |
 
-<!-- 共 24 篇摘要页，对应 24 篇中文原文 + 1 篇英文原文 -->
+<!-- 共 21 篇访谈/演讲摘要 + 32 年股东大会记录 -->
 
 ---
 
-*最后更新：2026-04-12*
+*最后更新：2026-04-24*

@@ -9,13 +9,14 @@ type: index
 | 类别 | 数量 | 状态 |
 |------|------|------|
 | 研究笔记 | 6 | ✅ 完整 |
-| 经典案例 | 41 | ✅ 完整 |
+| 经典案例 | 42 | ✅ 完整 |
 | 伯克希尔股东信 | 60 | ✅ 完整 (1965-2024) |
-| 合伙人信 | 36 | ✅ 完整 (1956-1970) |
-| 访谈与演讲 | 24 | ✅ 完整 (1985-2025) |
-| 概念笔记 | 121 | ✅ 完整 |
-| 公司笔记 | 80 | ✅ 完整 |
-| 人物笔记 | 63 | ✅ 完整 |
+| 合伙人信 | 35 | ✅ 完整 (1956-1970) |
+| 访谈与演讲 | 21 | ✅ 完整 (1985-2025) |
+| 股东大会 | 32 | ✅ 完整 (1994-2025) |
+| 概念笔记 | 120 | ✅ 完整 |
+| 公司笔记 | 79 | ✅ 完整 |
+| 人物笔记 | 62 | ✅ 完整 |
 
 ## 伯克希尔 60 年业绩总览
 
@@ -27,7 +28,8 @@ type: index
 
 - [研究笔记](#研究笔记) - 6 项专题研究
 - [经典案例](#经典案例) - 41 个投资案例
-- [访谈与演讲](#访谈与演讲-1985-2025) - 24 篇访谈/演讲/股东大会摘要
+- [访谈与演讲](#访谈与演讲-1985-2025) - 21 篇访谈/演讲
+- [股东大会](#股东大会) - 32 年股东大会记录（1994-2025）
 - [概念索引](#概念索引) - 32 个投资理念核心概念（另有 69 个补充概念）
 - [公司索引](#公司索引) - 54 家重要公司
 - [人物索引](#人物索引) - 36 位关键人物
@@ -124,17 +126,50 @@ type: index
 
 ## 访谈与演讲 (1985-2025)
 
-> 📊 共 **24** 篇访谈/演讲/股东大会摘要，按年份倒序排列
+> 📊 共 **21** 篇访谈/演讲摘要，按年份倒序排列
 >
 > 🔗 [查看完整访谈索引](./wiki/interviews/index.md)
 
 ### 股东大会
 
-| 年份 | 标题 | 亮点 |
+> 📊 共 **32** 年股东大会记录（1994-2025），按年份倒序排列
+>
+> 🔗 [查看完整索引](./wiki/shareholders_meeting/index.md)
+
+| 年份 | 链接 | 概要 |
 |------|------|------|
-| 2025 | [股东大会](./wiki/shareholders_meeting/2025-股东大会.md) | 第 60 届，各项记录创新高 |
-| 2024 | [股东大会](./wiki/shareholders_meeting/2024-股东大会.md) | 纪念芒格专场，《穷查理宝典》售出 2400 本 |
-| 2023 | [股东大会](./wiki/shareholders_meeting/2023-股东大会.md) | 芒格最后一次亮相，"咱们也有一位查尔斯国王" |
+| 2025 | [原文](./wiki/shareholders_meeting/2025-股东大会.md) · [概要](./wiki/shareholders_meeting/2025-股东大会_summary.md) | **类型**: 股东大会 |
+| 2024 | [原文](./wiki/shareholders_meeting/2024-股东大会.md) · [概要](./wiki/shareholders_meeting/2024-股东大会_summary.md) | **类型**: 股东大会 |
+| 2023 | [原文](./wiki/shareholders_meeting/2023-股东大会.md) · [概要](./wiki/shareholders_meeting/2023-股东大会_summary.md) | **类型**: 股东大会 |
+| 2022 | [原文](./wiki/shareholders_meeting/2022-股东大会.md) · [概要](./wiki/shareholders_meeting/2022-股东大会_summary.md) | **类型**: 股东大会 |
+| 2021 | [原文](./wiki/shareholders_meeting/2021-股东大会.md) · [概要](./wiki/shareholders_meeting/2021-股东大会_summary.md) | **类型**: 股东大会 |
+| 2020 | [原文](./wiki/shareholders_meeting/2020-股东大会.md) · [概要](./wiki/shareholders_meeting/2020-股东大会_summary.md) | **类型**: 股东大会 |
+| 2019 | [原文](./wiki/shareholders_meeting/2019-股东大会.md) · [概要](./wiki/shareholders_meeting/2019-股东大会_summary.md) | **类型**: 股东大会 |
+| 2018 | [原文](./wiki/shareholders_meeting/2018-股东大会.md) · [概要](./wiki/shareholders_meeting/2018-股东大会_summary.md) | **类型**: 股东大会 |
+| 2017 | [原文](./wiki/shareholders_meeting/2017-股东大会.md) · [概要](./wiki/shareholders_meeting/2017-股东大会_summary.md) | **类型**: 股东大会 |
+| 2016 | [原文](./wiki/shareholders_meeting/2016-股东大会.md) · [概要](./wiki/shareholders_meeting/2016-股东大会_summary.md) | **类型**: 股东大会 |
+| 2015 | [原文](./wiki/shareholders_meeting/2015-股东大会.md) · [概要](./wiki/shareholders_meeting/2015-股东大会_summary.md) | **类型**: 股东大会 |
+| 2014 | [原文](./wiki/shareholders_meeting/2014-股东大会.md) · [概要](./wiki/shareholders_meeting/2014-股东大会_summary.md) | **类型**: 股东大会 |
+| 2013 | [原文](./wiki/shareholders_meeting/2013-股东大会.md) · [概要](./wiki/shareholders_meeting/2013-股东大会_summary.md) | **类型**: 股东大会 |
+| 2012 | [原文](./wiki/shareholders_meeting/2012-股东大会.md) · [概要](./wiki/shareholders_meeting/2012-股东大会_summary.md) | **类型**: 股东大会 |
+| 2011 | [原文](./wiki/shareholders_meeting/2011-股东大会.md) · [概要](./wiki/shareholders_meeting/2011-股东大会_summary.md) | **类型**: 股东大会 |
+| 2010 | [原文](./wiki/shareholders_meeting/2010-股东大会.md) · [概要](./wiki/shareholders_meeting/2010-股东大会_summary.md) | **类型**: 股东大会 |
+| 2009 | [原文](./wiki/shareholders_meeting/2009-股东大会.md) · [概要](./wiki/shareholders_meeting/2009-股东大会_summary.md) | **类型**: 股东大会 |
+| 2008 | [原文](./wiki/shareholders_meeting/2008-股东大会.md) · [概要](./wiki/shareholders_meeting/2008-股东大会_summary.md) | **类型**: 股东大会 |
+| 2007 | [原文](./wiki/shareholders_meeting/2007-股东大会.md) · [概要](./wiki/shareholders_meeting/2007-股东大会_summary.md) | **类型**: 股东大会 |
+| 2006 | [原文](./wiki/shareholders_meeting/2006-股东大会.md) · [概要](./wiki/shareholders_meeting/2006-股东大会_summary.md) | **类型**: 股东大会 |
+| 2005 | [原文](./wiki/shareholders_meeting/2005-股东大会.md) · [概要](./wiki/shareholders_meeting/2005-股东大会_summary.md) | **类型**: 股东大会 |
+| 2004 | [原文](./wiki/shareholders_meeting/2004-股东大会.md) · [概要](./wiki/shareholders_meeting/2004-股东大会_summary.md) | **类型**: 股东大会 |
+| 2003 | [原文](./wiki/shareholders_meeting/2003-股东大会.md) · [概要](./wiki/shareholders_meeting/2003-股东大会_summary.md) | **类型**: 股东大会 |
+| 2002 | [原文](./wiki/shareholders_meeting/2002-股东大会.md) · [概要](./wiki/shareholders_meeting/2002-股东大会_summary.md) | **类型**: 股东大会 |
+| 2001 | [原文](./wiki/shareholders_meeting/2001-股东大会.md) · [概要](./wiki/shareholders_meeting/2001-股东大会_summary.md) | **类型**: 股东大会 |
+| 2000 | [原文](./wiki/shareholders_meeting/2000-股东大会.md) · [概要](./wiki/shareholders_meeting/2000-股东大会_summary.md) | **类型**: 股东大会 |
+| 1999 | [原文](./wiki/shareholders_meeting/1999-股东大会.md) · [概要](./wiki/shareholders_meeting/1999-股东大会_summary.md) | **类型**: 股东大会 |
+| 1998 | [原文](./wiki/shareholders_meeting/1998-股东大会.md) · [概要](./wiki/shareholders_meeting/1998-股东大会_summary.md) | **类型**: 股东大会 |
+| 1997 | [原文](./wiki/shareholders_meeting/1997-股东大会.md) · [概要](./wiki/shareholders_meeting/1997-股东大会_summary.md) | **类型**: 股东大会 |
+| 1996 | [原文](./wiki/shareholders_meeting/1996-股东大会.md) · [概要](./wiki/shareholders_meeting/1996-股东大会_summary.md) | **类型**: 股东大会 |
+| 1995 | [原文](./wiki/shareholders_meeting/1995-股东大会.md) · [概要](./wiki/shareholders_meeting/1995-股东大会_summary.md) | **类型**: 股东大会 |
+| 1994 | [原文](./wiki/shareholders_meeting/1994-股东大会.md) · [概要](./wiki/shareholders_meeting/1994-股东大会_summary.md) | **类型**: 股东大会 |
 
 ### 媒体专访与对谈
 
