@@ -11,39 +11,39 @@ type: section
 
 |------|------|------|------|
 
-| 1994 | [概要](./shareholders_meeting/1994-股东大会_summary.md) | [原文](./shareholders_meeting/1994-股东大会.md) | |
-| 1995 | [概要](./shareholders_meeting/1995-股东大会_summary.md) | [原文](./shareholders_meeting/1995-股东大会.md) | |
-| 1996 | [概要](./shareholders_meeting/1996-股东大会_summary.md) | [原文](./shareholders_meeting/1996-股东大会.md) | |
-| 1997 | [概要](./shareholders_meeting/1997-股东大会_summary.md) | [原文](./shareholders_meeting/1997-股东大会.md) | |
-| 1998 | [概要](./shareholders_meeting/1998-股东大会_summary.md) | [原文](./shareholders_meeting/1998-股东大会.md) | |
-| 1999 | [概要](./shareholders_meeting/1999-股东大会_summary.md) | [原文](./shareholders_meeting/1999-股东大会.md) | |
-| 2000 | [概要](./shareholders_meeting/2000-股东大会_summary.md) | [原文](./shareholders_meeting/2000-股东大会.md) | |
-| 2001 | [概要](./shareholders_meeting/2001-股东大会_summary.md) | [原文](./shareholders_meeting/2001-股东大会.md) | |
-| 2002 | [概要](./shareholders_meeting/2002-股东大会_summary.md) | [原文](./shareholders_meeting/2002-股东大会.md) | |
-| 2003 | [概要](./shareholders_meeting/2003-股东大会_summary.md) | [原文](./shareholders_meeting/2003-股东大会.md) | |
-| 2004 | [概要](./shareholders_meeting/2004-股东大会_summary.md) | [原文](./shareholders_meeting/2004-股东大会.md) | |
-| 2005 | [概要](./shareholders_meeting/2005-股东大会_summary.md) | [原文](./shareholders_meeting/2005-股东大会.md) | |
-| 2006 | [概要](./shareholders_meeting/2006-股东大会_summary.md) | [原文](./shareholders_meeting/2006-股东大会.md) | |
-| 2007 | [概要](./shareholders_meeting/2007-股东大会_summary.md) | [原文](./shareholders_meeting/2007-股东大会.md) | |
-| 2008 | [概要](./shareholders_meeting/2008-股东大会_summary.md) | [原文](./shareholders_meeting/2008-股东大会.md) | |
-| 2009 | [概要](./shareholders_meeting/2009-股东大会_summary.md) | [原文](./shareholders_meeting/2009-股东大会.md) | |
-| 2010 | [概要](./shareholders_meeting/2010-股东大会_summary.md) | [原文](./shareholders_meeting/2010-股东大会.md) | |
-| 2011 | [概要](./shareholders_meeting/2011-股东大会_summary.md) | [原文](./shareholders_meeting/2011-股东大会.md) | |
-| 2012 | [概要](./shareholders_meeting/2012-股东大会_summary.md) | [原文](./shareholders_meeting/2012-股东大会.md) | |
-| 2013 | [概要](./shareholders_meeting/2013-股东大会_summary.md) | [原文](./shareholders_meeting/2013-股东大会.md) | |
-| 2014 | [概要](./shareholders_meeting/2014-股东大会_summary.md) | [原文](./shareholders_meeting/2014-股东大会.md) | |
-| 2015 | [概要](./shareholders_meeting/2015-股东大会_summary.md) | [原文](./shareholders_meeting/2015-股东大会.md) | |
-| 2016 | [概要](./shareholders_meeting/2016-股东大会_summary.md) | [原文](./shareholders_meeting/2016-股东大会.md) | |
-| 2017 | [概要](./shareholders_meeting/2017-股东大会_summary.md) | [原文](./shareholders_meeting/2017-股东大会.md) | |
-| 2018 | [概要](./shareholders_meeting/2018-股东大会_summary.md) | [原文](./shareholders_meeting/2018-股东大会.md) | |
-| 2019 | [概要](./shareholders_meeting/2019-股东大会_summary.md) | [原文](./shareholders_meeting/2019-股东大会.md) | |
-| 2020 | [概要](./shareholders_meeting/2020-股东大会_summary.md) | [原文](./shareholders_meeting/2020-股东大会.md) | |
-| 2021 | [概要](./shareholders_meeting/2021-股东大会_summary.md) | [原文](./shareholders_meeting/2021-股东大会.md) | |
-| 2022 | [概要](./shareholders_meeting/2022-股东大会_summary.md) | [原文](./shareholders_meeting/2022-股东大会.md) | |
-| 2023 | [概要](./shareholders_meeting/2023-股东大会_summary.md) | [原文](./shareholders_meeting/2023-股东大会.md) | |
-| 2024 | [概要](./shareholders_meeting/2024-股东大会_summary.md) | [原文](./shareholders_meeting/2024-股东大会.md) | |
-| 2025 | [概要](./shareholders_meeting/2025-股东大会_summary.md) | [原文](./shareholders_meeting/2025-股东大会.md) | |
+| 1994 | [概要](./1994-股东大会_summary.md) | [原文](./1994-股东大会.md) | |
+| 1995 | [概要](./1995-股东大会_summary.md) | [原文](./1995-股东大会.md) | |
+| 1996 | [概要](./1996-股东大会_summary.md) | [原文](./1996-股东大会.md) | |
+| 1997 | [概要](./1997-股东大会_summary.md) | [原文](./1997-股东大会.md) | |
+| 1998 | [概要](./1998-股东大会_summary.md) | [原文](./1998-股东大会.md) | |
+| 1999 | [概要](./1999-股东大会_summary.md) | [原文](./1999-股东大会.md) | |
+| 2000 | [概要](./2000-股东大会_summary.md) | [原文](./2000-股东大会.md) | |
+| 2001 | [概要](./2001-股东大会_summary.md) | [原文](./2001-股东大会.md) | |
+| 2002 | [概要](./2002-股东大会_summary.md) | [原文](./2002-股东大会.md) | |
+| 2003 | [概要](./2003-股东大会_summary.md) | [原文](./2003-股东大会.md) | |
+| 2004 | [概要](./2004-股东大会_summary.md) | [原文](./2004-股东大会.md) | |
+| 2005 | [概要](./2005-股东大会_summary.md) | [原文](./2005-股东大会.md) | |
+| 2006 | [概要](./2006-股东大会_summary.md) | [原文](./2006-股东大会.md) | |
+| 2007 | [概要](./2007-股东大会_summary.md) | [原文](./2007-股东大会.md) | |
+| 2008 | [概要](./2008-股东大会_summary.md) | [原文](./2008-股东大会.md) | |
+| 2009 | [概要](./2009-股东大会_summary.md) | [原文](./2009-股东大会.md) | |
+| 2010 | [概要](./2010-股东大会_summary.md) | [原文](./2010-股东大会.md) | |
+| 2011 | [概要](./2011-股东大会_summary.md) | [原文](./2011-股东大会.md) | |
+| 2012 | [概要](./2012-股东大会_summary.md) | [原文](./2012-股东大会.md) | |
+| 2013 | [概要](./2013-股东大会_summary.md) | [原文](./2013-股东大会.md) | |
+| 2014 | [概要](./2014-股东大会_summary.md) | [原文](./2014-股东大会.md) | |
+| 2015 | [概要](./2015-股东大会_summary.md) | [原文](./2015-股东大会.md) | |
+| 2016 | [概要](./2016-股东大会_summary.md) | [原文](./2016-股东大会.md) | |
+| 2017 | [概要](./2017-股东大会_summary.md) | [原文](./2017-股东大会.md) | |
+| 2018 | [概要](./2018-股东大会_summary.md) | [原文](./2018-股东大会.md) | |
+| 2019 | [概要](./2019-股东大会_summary.md) | [原文](./2019-股东大会.md) | |
+| 2020 | [概要](./2020-股东大会_summary.md) | [原文](./2020-股东大会.md) | |
+| 2021 | [概要](./2021-股东大会_summary.md) | [原文](./2021-股东大会.md) | |
+| 2022 | [概要](./2022-股东大会_summary.md) | [原文](./2022-股东大会.md) | |
+| 2023 | [概要](./2023-股东大会_summary.md) | [原文](./2023-股东大会.md) | |
+| 2024 | [概要](./2024-股东大会_summary.md) | [原文](./2024-股东大会.md) | |
+| 2025 | [概要](./2025-股东大会_summary.md) | [原文](./2025-股东大会.md) | |
 
 ---
 
-**说明**：原文文件均来自 `raw/shareholders_meeting/zh/` 目录，为不可变原始资料。
+**说明**：原文文件均来自 `ra./zh/` 目录，为不可变原始资料。
