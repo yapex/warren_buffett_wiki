@@ -1,194 +1,1170 @@
-S�KA�I���*0v7�:����-�������B�	"�[�VGI*��m-ɣ=.�L��G����-+��Y�ܥT�1�Ң)�
-}ι�6�9�3���UD�"
-ݽ�z&Z��}�
-���
-�
-3����=M���ڢM�Ҥi��&m�k������"m��*��n��fڲ���_��/�mO?�,�R��̪S���4����tV#5*ٟ�/I,yBO#������41ʂt9��_���o����o{	|�z�&s�m�9pk�Qj����@��t�����XZTU��q�>�l��L�݄�gCl��7���Y:m+{ G����\��t�I�4���s\�m/(\��;�\^~�rO ����4�u�*o���w�����Q�|��v�m���]ml��|KJ����ӧl8��w�������o�`����0quaau���*�R�Gܿ��i����ӗ���u����	��O�}zԿ���*�q�E�6B=���%��:k��7��jC�B��}�o�}�B�?��?�헻�oϯ�}��û��'�vx��O���Dݿ��7���
-Š��a���?��_o�/7�ۛ���o_�{��{�����;�;����������*�)��$����WX��>5��,N}7��)�kf���0�R0�碱�{�Es�X~_����0TK���u�R�p�>�ó70p�@(P��Z��y^,��YEc��'�V�����t�8��D�����'�a�?Y{w�[�mR���-��?�Ҍ�s
-�'4E� MV��A�9���f@�_�/��@��\��9#�0�(@�!8c58gIN��"��jhvI�;��Ӭ������˕n߾��lw��u��ۧ<�/��O7v����l�T������w�����t��^}��^eq�p�S%�;Z���;)��,x}>&�`o�1dO��Z��a���غ���
-�mr�$P�Ɖ����q���;��y�'�ʋeOA��sw��v����\�+�a����)*�*��ؾ=��^�Qq�'1�8�t�E�Pi��i�{��&p��C0�����J,�3M����[���^Xp�o���0P���8#�4�װ=��Ժ�:���@��#�G�38k���.�����a`57�ΙwB�`�+
-/e�GZ!�+��B����{�9�
-���V��??��Ɯ?N�2j��pp�C
-���0�=Dэ|����x�XڦPܣ���Ǹ�l��{Y�k�z�+phx-*��
-J/��EEKX���/���d��7H ԆÔlſ?H��S�
-�o�\s���ё�� ��a �LnZ�BL���C��tBq#�P@ܐ��n�C�X<"礻'BuP�N�`Xj�.��9�r���
-;�&^�L��~��|��5?�[Bj7�tg�
-���� �y$)��,�i��-���
-f^���{̀�=����|NƸB�6��YOCt�m_avt��8V�����#'腰�b��.����$�P2d�&q
-��2���hR&�0J0J-7Fl;��1?Yu�T�!�C�|���X��.#�@H��|�\mg�e�w�d�@͢(+�R���-�X��3��	�R肛gUU��'h�#�Tx:�펰a�� �S E��m4r���@�v�;p��g-j��*������x2H�X��}~�i�C���������,�8 �����D��)[��[j6P�a�
-Vt��|5�0/(�5w#���Z
-a��-�Ɛ���G�ڪ>z����+�ds_�ث۹�'����ko�4$-��ד���=�<�ݗ�4/�dz�=����;cZ�;D�||�y��;$�ܨ�ߝ�M��f49����tFKD������CEۘ��TX� (���
-g5ɳ4,Ӳ'��j������f�p���_R4K�a�
-�1M�"�ޖ���kx`�n�Oȣ3��anx����ĉ��������~���hF��I�Ɯ��@�w�ؘx�mz��Ī@�dC�Y��5��V��EW��F� e�ɕ�����K��H�������xĕ%o��l�Xr�d�L�m79w��NC��C������s�ؐ�C��0F$�����	�-�O�q
-|:H��@0��#��}��=:گ����0F�=h���ܢ�/��|��׍��^�|��|�6pF�e���8��.,;�Lb�wu0���� 0
-�}\�'r�Uqˠ;>��ޟw��~gy�Q�	�,�w�E@����
-Ga�`�Rse�i(�]�A���´�ط���@.d��f�Y�+>�qk5GS��(!sv���u:��h���;�����Ob�|+4HQR����">�zUz�����ʊ_��Z�b%�	���x���D#�U� LBi�ŧbx�N��5M�	�z�bc��"�M���s��[7GaE�尫��V\��u¶�/�Y^8�g@<]��2yؕ��A`�RC�Ka�kgD��Z���5o;���D�`D�!g�&*�㰊��Pڏ:��t<�Z��z'N���t��xk.;�p�ެ��a-*"����t�'^��Y�Nډ��Rw�o}S�'�Y
-;�y�+���ӂH8�tk���l�0�P%�]
-�B�kЋ�@�C�%�����6@�
-w�z���̀�_��٧a�"y����i4�(5���ȥ��0��}��t�^�|��Q4�g��PR�
-ʜ>,��n�\.>ϩ�šP�t���8#9Yik8���<�?�0;��Y�����f$�{;��i�$�j���bot�u���px�γ����#��Lȓ5B�Fry�=ܐ�&�c��:�0�
-)�r�Vdȗ�(��X�o�.��uo ����xù���x�ņKI�
-�a�P�����$Ts�7�2VR�
-@>�6�j�����
-w@�8��V���;��+�6��]��A`1]>�(>�ܾ�~x���O�4�u���(�[�a��>�s�p�ѓJHX�tF�4��W.�P|���3خ�ٔ!M;���|��A��X�I��v
-�-��r"�~����|�u+[֡�39��EkB�I�)Z�`5={��/�������
-�NZt�����X�0H	6��%:��8�����0hh2E@ͥ�!Bt����@l	ғIv� |4a��� ���Ѐt>r߃t�w	`(�W��&v���
-���l�[�'Zp���%l�w�.��d��M������k�X��q��p�i�z�3H[ۘ�H}�$�BL4��$��7�O�k4���t���vE��������k�ۛ��EQ(����;�ʈ�E���F��������OX� ��*��4<;��W��m��h��^�c����͕0OY�ǔ�5�&��0{x�.�C3��n�}�@4�F���T0`�o�	�^���S�WB_"e}�Ң(9g���=K�^��F9�	tWb!C/~q�W`����U"h �8���p���+��"[���n���Њl�A���+���.����Z�M���u�������A�1��W����RmE����lʷ��G1��.�s5v�p���W�
-f �[?&�R��!�Cݟ��[��o7�����̍�S��<�
-bh��5{�򁼺��(����wb����Z�DA�VJ<"��'�W�sly�e4(}4���1εpA���)q?Wp�a�/��,$�š��=��|�9���<>eEYt�![dJQ���.����~����M�q����]9+��CÀ )G���g�Z��N�����2�.�[�Y���*�J-�a��1F�o��Lv�Sl`�~��j-����bl�cJ�M-X�/�K_��D�l����grE���U����{Ik!�oJc�5;߉x������q�Bf�W|�!�]�t�8���<�n�ƾ��j:�����t�lĤwuH2K0�.�d��]�
-��Ԛ6(-)��0�h2���Â�?�����1�jCl~�Oޫgu�E�����-qp�/z�D*L��!*a�Z'RG��}>h��@Og�о�H7%ry������"Ns�Qڙ�O�`_�a8�O�	�d��i~a����å���:�ڇ���V�u�w��m4�C�m)؜�ɼ!�%��O�����[-�`�^~�rW�/f��u�x����C,ؕ�By��͐1+��Jjk�,&��(TrCE鼝Y�P�}4w�vBK�i�>;V���{P>Uӏ�n�_�p-����2Zl�@��)Gk-�i�Y��U��T�`[Z`uN��b��f�b0��T����V:��e
-XʋkoA�"���{Kb�o5+�"���E�Ŗ�QP�|�C"6v!Ot:�X�-aL����Yt ��l�B�c���)�t_�����`�o���c��N��zK��(�
-���=�v��y��(�l�qm�qC��q�s+�+�|��8��mМ��)����9'�,&\�yr�^�Ms�uPCo�>����ko����͇xj	�h��]�2ܔ!���z���v0����u��;Niv�I�Pk�����S�|�v
-9Jl%Dey�g{/)\�'���X�ܢ��>���w�vz߂��0��6��"6�ZcS��U$hN��R�B�	�l��������H_x���0���Vv�Ac2Wp'#�ME@�fRtF1�����# ��.]��e�:�~�O�M^��J�/����}�Ε���C��W�@����K/�ҷΛ�-�nw��	��ůk��3�����'G>5��D��!���2��8N�w523:*��Jv0�H8�/nR�����w�&��X�VT�����n��uFtgr�3Հ^���������zS���?�xU��ݛx��a�-�,�\��{�(Oh�@�
-A���z��O�2�AX�Xi�OK>8\ob���_i�t�����=��W����F�/�e�k�~�O���v���a1�O��6ACF(L��S����q9���U�������bLc��`�|�&�#$�hSyK���RW����[�1ǤV1���8,M�_�MEY�N��"�H�4�����JG&���
-��������n�+����ISt2��~x�F��{M�J�%��Pd���3�����~��􇳻p��2�F������묅����������^#AK�������nZ�3�<��R�U�����L�����
-9��uu5�XQ>�6ʄ��;!v����F����2�d��{�a�d��{�ad�S�oq������݉�z$*�e;w���]��K��B�Γ�
-h�+�EA�̩U�|�'���,�_U
-�or�[�i�	|I��؃�O/������AKM��:�@8͕�z����aeӢ�f�g�;���5k�Q��H�;��195G�-���O1��6�X?n�L�s�MrV0������e����i_��{h�N�U��S$Z���@�ʗpL��-���)�����s��1�xa'0��)�*�Bͩ��2�<=u��;�GT��n#쏈����!J�p�0�
-����^����\������p��w:�g;�G~��G��?T�L2�Дܐz'i�tƟX<���|��E?�&O"��l������.�F�tE���l�e'�jsm��\M~�kWWo�MY�2F�n���J8�l(D�A���5�\l��i;���oӯZ����%<�+�}�D�g�$�?��Ӭ�7�4"��
-�
-n�[�t�P���և�c��ͺ��0�[ɝ�@HY��R�2��J���k�B����3�rE� `Ҽx��3~T�K��Nh�N�Ҷ�(�.���R
-�V��͔̯���h�:od��w1�'�R��D΢�u��']�����	N1H=�S�� u����k2;��T��rP����:�^�����p�$��G��MX�n����'�vމ�Z���t��^�g��_����Q���f�7M��$��"7]�Ź�J��޷����I=��' N��!R��M�������^c���<��۰���u�tdkJ����q|	�24��\�*0J�H��KC#�cw��~[(��66�V��g�r	�\��I��6�����
-z��f���RtV�q�)���ܽk9��P?���lLjIż-��wZ�s�������������	�]�C���
-]R�A�36��3u�H��5�k,'���,M���+;;n�QǓ�l�l���X��
-�tk}\��K/�8���gnhv��kp���!KsYq�S����--:�Z?щ�-?����t�s��x���id<@f{Ͳ�g
-x@��쌱!uТHuF��7�6f�Ñ��RX�w1!K�w�[Q~
-s��:3Zc{ف�!�wR�V�ɀ��\��� j��մ�����x!�G��k%y*���M������Ȅ>WW�Ɲ���!�2�_d_y��xq܈!R[��;q�P�D+Z�����+�c�?�h��rݚ�L��3tX[�!ЗN
-'��֪=�G�K�uHb�2��Z��I0�o{5��V���ݦm4z��(���
-��#�.�����?�~�z;��$��"�s�9�k_���݋��G܃BS�~le+xZ2�ɡB���1J
-vӟ֎��V^ë`�ݏ���v��`�05~~'��@�ۆ��i�����R����7���,y�i���AK�
-�e�	�o�]�~��20�Q�BŘ�.<7�nfެm8>�!�4��_��� 1�y%Ň9��<%����!����X�"~ܮ�N���Ul5�&��t�n����'7��/0��t��c��]`�7^��N�G��d���I/��
-��zOGs�e�v%6A���;��䔇v����nN)�K��Q��a]�4�?����#�;�'?l^'������?k��.v��\V�4-Z���3�s����^V�f5�����տ%IJ��*hYOK��1MŞ���FYv^�9ɿ���蕼|"y�Y9���%�W���:�ޥ�^�^�Ò&e�M�lI��'��k­��q�����4ݟe����7^����YB��k�*nWY��3��7��Õ啴|bq���y��|zu��T��g��O/I��/d1��O���VZ���3�f�{�>��*�����H~:a4�ʟ/I��K��ey�bZ�(ݟHS*�Q��Qˋ�e����������q�~�<���ׯh]uy3O�r5�I>oZ��
-��`Q�xKu���~OCY��<=u���j��E$�������O���(��錦U���:�T�|�1?�2��塞�iyb]\��M��a�'ͳ��@��-�դ�g����(��P���IV"�߃���u�]TuN���}s�
->,��<����Gy)����>�x|�\-����p;,h�߾�O5%q^����*߫�j��|�	�j��(~j)�d �^�0�x�lI�:�d�V��oA�;�����րW�Lɾ&�4�4
-u6c���0H-ϓ�f/V�e� �4~�?�������vIL����V�S���w l�ך�T�V�Z�:�3�[�[P��l��~���q`��ʕ9W^58)�?�`/ꞻ��o*�.�e���0�Y��\nA�s��2�=g�����a��HJalzBNS��a/��,�7.%!q�]4��rk����]Qʼ��u�9 �	�<��ֈB4o�/���x��3�0#����$��g:��A^��2��ŉ�ۻ��m�|ۮ�'�t�޹CH�J(,��+x�Kh�[��;�t6��!��Έ���/	�}�z�¢�HU#�g�;H\��UTF��z�A*am��	~R�#�̺C������9�Q�A]P�=m4�m�ļ���k{a���FȄ[|�F�P�J<�oP
-J��އ��`�K5�jY�S�$�	�[�+6+w2�֍��p�`�H-U��`�4&�����$���X����qC�3c�������jӥ��9�]��ä<݈�[��+٧Ր-���+bdy=��X�H7?�Ƒ	O�X��1V)�n������g�Hx������E R��k�MV�L�f���	3ܙ��k��#�ݢ̘K�0�t�iU5���mvA�O=jY����Z�WIX²��F��:Q;QM�m���i�;���-1Ҹ&���0��>fq?
-�'(43N�s���r�(��'�N$K\}񨔲N:
-|y���
-dV=Vu�*�"�>�#z�~�`:��ln�/߫�0�*�S��o���C5�=@�3�����W�˟�
-3}��C��1�n�@V�W�l�E�ڜV�	��
-|�@�Bss �/Y
-�;3_����|��y��Ս��:�]?	+�94z�P�� ���p�
-E'Y�Jf�Eώ���j�W q��m����i5�O��@���y=6_�%e~�h��t��a�)�zOW�T�6��v%8
-DE���p����P�P�;�}��t�>��:�]���vu=�l�����0S+|r�|eJ����N�����	�K8n`f}���V��s���* ��9�l�Z�`[��c��Š^mYvH��m����'��Њ��N$�?�<-���=6�%�U��:�
-p�/b�w'�܍���(�oZ�
-��]LX������I����-,).|:K�n
-����vZPx£֝�gG��b�CGw�~~6w�2���D��
-����p��W/D���۶���u}>}7v�aT�{"Za��|������l�D)�t"1�ѰZi���h���Մ��=�0x"���������f\�X��H�L�	pƵ(˕���04�]�B%h#���2�Y�Tt�.�(m5�������\���m8�\%:z�����ꬿ
-��D��O���\��r�
-w{�:���@�?zc�ő*'�q�?�t�
-�:�����_MM��Č���N-5f��:�T��RA�5x'ܷ#<���J��R΂�d�81��YRW�|ξ�U��v�T�:�q���@��X�M50@<�	{C`B�	� ������	N�q���b�joY�[82P�� ˜2��S%�6��c�'�})IM�Qۈ����àZ���XD�m	%�H�$Ӯ�e�Qx���k���2�s?o�� �$[8�o`Q�����L���%P���.���!�W��2 ӫ�
-��i��^�{qď�8�ۉ���ŷ��`+>��]OR}'Y3�p���^��*���J��l;B?g�A�󜁲�g�^���C��$P=���7Sˌ�	�@�$
-@�0i̹0*�+��:��
-@�U�!���B�����}�2AXI����:i�)6��c;�X+(�D��H4�G�1۟����+�V�E�O�1�?���l	N���V��A*u0yAuQ&0?aJ.͒�{LP5�@.���y)	w�^���۰�n��,$7h/��]��T8
-�:��f%
-���cK@(��j�#��S�N(���0�U�� D��������̒��V� ^,�u�*����M����x&粲�@��<�H���#ӛw2B���6����<P��8gi4��-q����Y2%$�9>��s�NH�ʶ�8��w����B�eӝw�K��rE�=`іF;GfL�-=|3;�p;mx����,�uԻ���ɻ��JI7��0�W���+�[�b��I���W��"̧˲*�S��3Px���Zr�p\(��h���"
-��4��w,~�$����!~ ��#W��+L쾠�!�K4�?lâ*��<ϣ��Vg	4�^�Ph��z$��Zg�	Tă�q�1J����]��D�� �w(f�LA�Sz$�h!9�)��[��2B��_�a��$>��$RwI���R������X�PEzbH"���J��gK54���hN���$���B�Y(pp�n���8kPکNMy��z��c@��| �����ެ<�`�B�!���f�^��at�5h&�J�#/hr��~9��Y��SXo7���)����z�"q,��4�cG+��V� 3(g��tW��_�@��~�Y!op���@G2]zq�+�	M��5�1���H�#�q�1�@r�z]q��1{��/��c�ٰ&}��hb�3H<�T��J�[�キe$֚(I�&���X|�� Zn��J�\�I���h�Q�wg� i��0&���E�81���
-?�����O9�?ά87��!�j?�d�Jj��Ż\���E�q�ٹУ���p�Y)�M
-;����y�!`�0��Ō�w�0Z�<\O'�E�ϦyF*�еo�%$f��y�7�]������/���$����n�g�����oK�)-��n�o/X�q���Oo����kq�/_��������YM��/ܻm����YM��/ܻm"8�XLdIr��{΀S�����P46�F};�`L#�e���<�
-��{"�l;�A�T�A�gS�~�(���B��o�ɹ�����g���<�~��ʻ�P%��:=KT����eX:�X卡k����򒯞R�N1�W�y�)uHΣz{�X���_kx7 � ��׭t�������#�#�N�h����hw����AW�P6�xk��NP��C�b�PM���6���� �[�m��\$67B�`qCD�F`>7:��
-v�z�j?��W�w~zvԂ�zP�s��2`�(�(�!�����@%��h����Z��:�ND0F]f�K��4
-0��)P�Y}���.$/�F���9ܸ5p{}JrQx&�w;�4��H6@��Ð�pƒ����w��|�O�[�}��$`K�� N(�Y�d��&*t�F��=�z����ww0��L���o�>d	G�� ��ĩ`�����@�ʿ*@�F����s]�Q/v��N!A�N�|�MpR�	�<��"T��
-(��ǧ�O�烶��q�FgJ�\E)C�LT$��{��z��f��1�Bу���i#&4�QS�Fuy���2�ts�$�C��\�'(�*��IP�?'H�M-���a�H�{d�x��D1L��+PL,��̐.!(`�1p���v�<|���y
-|�/u����*�Z�	G��nn�I0����,�����76jt9��\��:i��A>��6��G&����+S¬˔�oF�c��9���JYq�0���c���V>�9��3��hXB��9#*0���D+rr΁���
-��i^��;�/�RRJm;[�i��5Ϧ�9l�>��y�����%w�*���-�<�T�y`=#�`�<8-�a$f'_)`�|�)�C~:>^s��`�B�Wi����U��U�Fm�E�Kv��0�N�0�������[x�ò;d���]@=���ĞY5{s���ZWA�Hn=�R��H�,N����8�ST�7Q�Ut�H.8v�.VU��U��7<�}�b�=Xd��tՔD�4fW� �;�֞��{��0r�.�$�DE����c*��r�
-rL��\��ŖW3�I���%�t[]3��t���LO$���`�4"��A��4ǹ���&p��/��˻�h�Nts*��Y)=��q�7�ͨY���Q�hլ��^�����h�A6z������8H����$t����u�=�����Q��Me���g �X�?��g
-�gV�_���{xB�]���m�W(�o������T(߈���w|��eS��٧O��)t���4bnAA�Z�/��=��:L���+��+��\PV��/����LxɪJ�����Oxk�s����
-rh���d��,DI�a�>g%6Ţb-kx���E��9ɽ��[�j+g�aR��E��ۨ��{~leՍϊ�`�걟1?��98G���VY��]g���eN�_�6uI�?؉i��Cd�v����6��ǷoX���MS^��r�Q�B&�F��Vۼ�y��k��l��Ӕ�`S��l��r 9S�>�����&N;[Y�/_U�:�N�.Κ�_�H��#F�dh}�Vg���j���O�0��y1�2Bޡ��LHV%we\�3��i���*�k��JK��D<7����X�>KH�`K�z��2eo�1R����B_�k��5�U�:��m�s��p�}��¼��2�����A��n��
-��aY��~m����[xsB9��L`�(x"6�r? �צ߲��k0��j��)�=���/^QB:)n��6l҂;
-��	g�"����������]
-�#�U���w0N.D}�[.��0���󸃯(5hs	(�\zf��\Q�?���9��@~%�u	�o��K�9�-0~��Y�;�H�&��#�\�,�]�87~{�;R�S�ӷx)�8j8L�zbK���hF�G�VC��ᎋ[�jIT���F�� 7���&��'�:�){xW�^�A<����8m���Ǭd!xY��>.�u�~�Թq�R��]�F�2��!(����Y���^-\������sJ|�$
-�s>p�']J"Gq��nd-�(a�K����;QkC���%��jf����w��zߤδ�$<7����]�##�!�xTc����s�)�.�q��ɣ�V�u�臷��]Bٱk��Iu��Kg��Zl�h@|e�0c�Aw��?�}���d�P}`��°D�F���J9If��[��AW��y=U��߯�p�hE�ҡ_1Qi�6���T2��$����7M�Qtr`�0k��o���r��h��*"f2/`N�FA�� �jE��E~'�"��bCm�ə��8���!���(n8D���D`��=���l��Z�<�
-Ȼ41��I�����r���٠!�W��.ݒ@�IH�
-�����6JN�P��
-���������h��9b�M��2����BBl��F�d��J�W��j��U�Oz�
-P|m�׾i}��$����s_e�2]��{��]d��\6�BN�VN�*��
-Iđ�%57�&&�M,��@���2�œ���0t��R��D�+�(o�&��Q�F�w=����΀e�P�p�:��#f�M���!���$i��'fO�<����Ͳ�W�n�(��$�-μ�y�?B���XRq����
-��
-���N��6!O���M�H)�3�EԃgW�"^)4d�}ʍ��/#��	��������w�f̭�h������i\�`��?T>�j���#��ƈ�VE�Y
-���ȸV�	��m�֫�q�-kr���p
-1��ާ��6�8��h$����a �
-�_E����ԹX�Gg�m>�d	^f�JfFtf�����@�焵�a�z�)V�l����%�-�U-y�J/��#��k}ʰ��|㢵�%f�&[�9oVYK5T\HRY�a6T�k�yo��l;��7�!o��mUҘ��]�i{���k�j�al�L�
-5is_V���Mo�ր��J���ͅD�$��%���'�c^kA���+����c-���X�&��H��T����� �Nm�(O�ٲ�#�G����ȵ��}	�^�#|�(w�_�Ul?R�*lн�#u�{J���h��ӄ�?&��o^�<���PwI�5{���]���L]�V����g�X��6��\DO푏/�Ŵ$Rvx�
-O3�k�!|�;��V��V���,�澳|�����NJ��!q��Ľdr��rk�]ܭ��<�a���S��=�G�%).[󞢦_�E��K�-���3�\Zב�2�4yj�J���g�e�'|J��.�2C��E�h�ΐ��TOmoov�V=�/��qr`!�;n"�7�6�ּS�l(�x�=f�����l�<� ��������.i�2ْ�.̤�^uN��EL29GC�?��@�Pڰ��8_ ��f!�9_����Wv(
-abX�y�&�\���Xk[Z����PR|�iH3	�9*���M�^S.0D���|�+�����`j��{Kj�ݡ���A��#������O߃�3|@W�����C�w������F!S�=߾�~:�����Jm`�\UB�'��q�Nf��tP۹�W�8-L�� ��m����]Ú�v��RN?H�`N���tZe�.��7�\�!n0����BJNC�p�����T�쁂��.a>Z��&m�Э8Ect^���D�码~�s��;	L���j�	w�C�G�=ETK��W�6u�=�f�����P{�&7�Au�M�z�\�3�`���-��\��8�kkB��T�K���쁩a��j�� ���wg�Y�#��V���tP�!4BlVq�������jU9��7ֵ�ó&47G�B�U��V7p�j�f���==e�z3�7}DyZ|h����h����1���_¦e�%����^��HÏnPf�kWcm���r�4�_�~��ۄ�牏\�
-tB<�Cwcr�
-��K�YC�IC>to\�+�����Xf!��`�RS�.t5���s���j.����ks�#�G���$#d��v���ևakgi59��
-�̙j5�3j�4[�V��bb��6@|�9q�Á�wL]��^�ӂ�4"���k'�?4�=eXy$C�dqr�];�R�RӴ� C�72Îˇ���(�fY�d�Ix��y=
-D:��h�L*'�����ZO�����|�,�I����Z�K�o�WX���l8�e0��+�X(���]5vӬ\y~&h��>�o�q�(IXr>�����$#�L��5�)	0UT.�5>�J���W�l5��/��6����E:�k�i�%�R�ݥ���6|b
-v6?�P���.ޱ����
-iˏ�Z5e#�ԯ�9�B��x;�[�v�Ձ��@`PmV�u6]&�� H�Pˢ�(�������z�`�s�\Z��f�\�<b���9�N
-�	3\���P�Q���
-W{V��2G���OXt���������i��8:����$Z{��M�T�x�sG�x-�閤�9r�=/!%��c�r},��G<�Qyr�X�\�n.��_
-�����椬�����,ExM(H�el'��B�d�c�.��rϽQX=nz"��O������ÆA�����c��Rx޽L�?=K�On&�Gm��mEM�nO���{ID�݉q��r"���+W|e��D�OPk�_C��i�{��ݳ���uC����������pH��v�Vz0ғn�Qkg緽�n
-�o~��Y�J	��]`fp.�8\ۄ��_��)^
-�T�f��V�A��{���.X4�p
-f��[ݓ�S'�rԖw��������4�	�)1�@��/%�������,oϜD7�
-c�8����A�,C��/�[s��|c��<
-��t8X�H����浚|1L�I�EӁ��܋���1���
-ne����ճz�{��4֌��|��K)N�D����/�;�\��̳��e=.��}�r�C]5��k���9��%��t0��&bi���P�����R��Z�s;p>n:�<�G�M���)�����eM�g�D��p�c24��i���ەͶt<�6�F�8��x@�E'��c��L�iI���u�̎�0(���d�0d�F`��g^�.�:��5�ݑ��G��h����F��F�j�T��5|E�a��J^w/hz���_)")w�x�7Z0˹k�߂��հ�(-÷L�3 ?�����$4hg�$�+��N�7x'�\��j����v�Xba���z�'ܻ�V�!�l�����*�Qn�7°�E�OӸ�#Ks:��/nࡑ���2�
-�Rg��k��B�d�p�=P��{�����/�e>��H__�tͫ��7������G��h�L��$vb�f���&�ƌ>$o:*��}XFH�H\��<��潠��ᔔ^:7���qٖ�6�������v��EKnc�\�5䣭wkq���n�v��En��k� 'Ka-11�*�o���r6FQve\�fp8'��U�C'bMu*t Q�����3�pP�)+hs�ܥ�&�z>�
-턕�oa�L5G�f���g2��8f����nKkP^fY�T#q�.������2��YHi�����kQ�0�<4F6>��Q��FIEX��'Y�1�$�g��}.�Q7�?3�'c�6	�<��?�ؾ�	w�vv�9R�	�6F�{��0eiS�.�p�g*܇��QP�	�;I����^�y��T��V.p��JIݏ�_8=�Q:5�"I��yi�p5E&ʐ3,�����f�����ڊn����c��U��u��s�bC_����΍�!��E#��0���Z�b�ƻE�'N'hz՜��֧��ʌN��H���9��)�4&���P�b���7�7��D8�c#w��10l�fK�G1������8H 6��v-�g+��z��S�̎�(�d�rx�J�3�5��t�4���!�F�Q�l&o�`�d��<�=���*��5�D7G���/V}�,��;�S�m;�#/p[h��K+�����<}!k�'�Zb��
-@���e�|��FNH���
-6�1'��Г11;�U/j��/�-�^�0�n������ZĀ~e|xd���t6T�_�uy�$ђ��k���[��C��g���]��L# f�������z����>?�l
-��m�O����$� �]X�fl�M1ċ��nZ|���D���M&F��j#����zXaqU��Ű���s0h2`\�,$����RO�|rԵȚ7D�I�k�u��,�Gmm1t�P���B^r3�P��hQH��cW߻��O��.�I+I�8�\�X
-�̯����_y=�A?>�q�� �̃R^9�}@
-��\&���IC&�}���!�y#eIC&�}���!�y#efa}���o(��(�#¼
-��jF�2�i�Bc�x�>tR�(�@aزK0^!
-a�&O�"n�H�3�x�Uk}Y�tj>v'4����u�fX�\�u%�w'm�:R�7$WB�|"4-XQ
-3��;g��l@Gb�M#�H���k=�2�D�kMk1;4:v@�*u���8JJ�~�|@ֽ�N�(���M�|ufxR,�Y!������p�9���e�E�!5"�ݥ�����i�
-^�5�yLx	M���l1�
-��\v�<;7�/M�����P?b��ح�< �dR��PM�KLH 7�Ȱ��z��VF�1��(��C���
-�M���<�M4G���:�SE䅮uED�K-�e�-��S>D�k2�a	�ŀ���ξ���-RǦc�>�ͳ�4'K��m�`�ͫ|lGޜAivr#�=|G;r����������1����Z�u1�WP<&�cM���5��VR�����]��j���eC՟Ͼ)�r�_����7�l섓z	��=5c���}uv��N9e���8g�.$&Y�9����V6c MZ)G��������Ɖ�<����2��nq��v4qm�N��?��I�B�Zy�R�ԎV�[����d?���	p��୻d|�M��Q�e
-˩�m����4�k�K�(?� ����Z
-m�a$���R+;�t��,%�q��
-qpݑv:žBBKMf�r�s;��Qw�;��O��]���`��/�:F��B��2�*@�Ws.�Ѻ�g��b�w�Yi(�li���^�+�'�v眨 �{n9F,�8]t�rN�[����5�G���
-Q�7a@��҈�����e�|oN���a*��M{x��t�߁HAX��m㍾��$�|kTHǎ�79;o#��L�8�jv;��J)���AJ��RS�f�k�����C�JI�`M�ǘ
-�V������׎�9����c�ܒ4�=�Y��Oa%Of��n6k����*bD��o����w:(I\�r	~�[a�}}�51~܂V�9�@	QfЁZ���c��,�����Í�6��]+��ג�����U�׿�\��B�R#�sG�ޅ\XH>���.�д3����Nd8>bH����r*Ay��FS�-�:�stx���0�,L�/
-����Xl�Ō��d�:���/��a��B��"cٮ��P��!S�F�f`��8P��}�2�A����8O��'�mz
-N(ʯ��mT^!̶���5��<2��{ᲬM5���"�1Ċy�h&
-s�A�F��su��Mv�{��K��D���g_D=)��kb�,!.��g�De=	��h�������v�ᄝ�1b7e�,���MtS;�<��_myd6dn�9`��e�i*���	�ӶE
-mC������Oz9X�T�*�,�%�ﱓ���0t�E�D&)G
-���{b�e޸�;�6��j��"L*U~u.N&�߱�K���d	�E�6�@�j���[=!��-�5�p��!ᘷ���6`�ya�%v��M�_�C�9�9i�?Q�I�2xx3���������i�َ�Ɛ�N����2ش��iA�u�T��V��P���%i�_>q��郎�B�^|�(�D��4W/��2y� \X�=|�žE�-~y�_D��da�:�mVW����1��T�����E���js�s��|�i#&�ĆR����
-q]�>艘��{�(�����?�Eԓ�0)Ѣ�N�#��J���ݸ������ح����A2�m/W��e�X� 2��dT�ל��=��V�:�в;ٰ�Y���7%L��*x�Z:�iAҍAU��y���90�&� +/��3����!�b��Rř��x����t_�D���9�'�^xeh T*�(�L�	V�	��6"T;y֗Z�%Ӹ�3�7"�,\��:��Za�c�nF����[�W,L�a`�K���Y�7�V=�Ic�f]���9�Piikk��gq׏)Мl�����yk�d��q��L��8j�����t`?a}�U��t��H8;�
-�������t��)��d�Y������a���[TV�+�29�vaJ���7�?�X�	w���7n4�_���xa�.-z��:��Z��ʭ�c�رG�n��TQG;>��6.�i�n��|S��c�j��#�7@C��-ȕ����/ �S�D .����Mc�1Y�ڻ�zн��7�I�K�1���͞��o1�f�l�k+>N�
-AJ�
-8o�/�t�3
-ѠU�!~ۉ~b��v�p�9�������:�S� ��8'.^�<P-?�0�ڞA��j�n
-_�_��4�9Sl8vV	�������.���?k'�{:�����d�:ҭ���#f���E�6��܊���BT-��2X3���%�C��&�y��ҏ�b#T:H����&��Y0ep�]Yo[d4߉�o�渶��E�؉I�zk���F�n�_&[���M�(��J�؞&&
-�zn
-�W0OH(�*�<�H�����d{��P.Űz�h�uh�n���e�,�43f=V��������6w�����b?�[5`�ã��i�Q]�g��V�˩A_���c���JC��s�����K�*E�4�s�vYGb����AR�*ff6~�y��뫂�T�FhźȺ�x#N1뷶L��8��F��V;���W�N�Y�Dq(0��x�h�z��i��a���Q���)qom�9�%�=���BȢV��<�f���S
-.��Y��A�᎖��3lO/��RHF�q��eE�=�e�I�����.���|~����y��1��ͳTP��,�j�R��N\��༢3��r,��]������Nh����I��Vqng�R�
-��.��4�z
-qI�>��p�S���ӧ�$Ȇ)�
-�d-?c��|~��TۣIԷ�RM'n�3.�H@������b���}�?:�TSξn�#Gl��"Án��#��C�� |ꉦ���@I#�´��Z�����jv<=[K����3�F�;Eʩ�&���c��� �g@�����:�pϹKT����1&����$��n��T6s�d`&#P�6\���dg��	4�,�Xkv�Q�������BѨT'�ƚ�0Q��#�K��m*Q��d8�2��4	��&�Y�"��zGf��v���jm=�Y�&���C�*2�K#�ݸ�,��\�Xt�����(��a���ݕS��v���G�aޱrd���
-����P~�ʵ�&�y����8l�O4p��#�D�;eyvqo�vTzu��2ap�sϕzLQځ��v.���m�T�E`�@�4xj�
-�fL�&-�w�ؾ�j�d�Kh��.��/�	��9�rO��TQ����?��R
-��j0h����Y62�(M��&	�Xk`Rb��~]�{�o��J�D��z�x#6��3#�Z��O=�j�=e9�0�|/i}t�Z`��k.���ϐE�[���MZ���n2�M=����bٕM\��1e�wO[�ՠ��zŊsD��y��Ɔ�T�zMC��,B���&�<1��o�]@7j39�"X��t����qB��QӼO�@pB,{�7[,##��B�v�m�J��/��9,�#q1�{�5�.!��ߖ�H:y�=~�v]`�`mqųz�u�̓��I�^xUN�}D٪��#��Ip��l��O=�"��-�X)pY�tU�8.i�li$r�Ak0��ӗ��E����1
-
-�W`99��Ru;,�g:�,VW���ͺb�ZjƱ�?����N]�n����켇k1HZ�+B/ΛK�W9��p�a�(��T�09x��t�6�=l8�ӱH�z�[���n�8�/rGW�Y��u�Ѡ|����MeC�Q��%�=7�����W�c7���& �/D��D�A�yO�0x.���P��A�|;%U[�+�a����,~��I�Dwv��@�'��$.Xu��N�1�Bk�c�?���>�*�J?&|0�0J@^����b[Y�	O��Y8�@;kz*S�fW��
-)@����q�=Ù�*�}�y�+��2�@��X�v�p�D����I��S)�ę��R�6�v�Ω�rۥ�:�"�4��&�ް}�3�������YE��#T�
-�S�V���lx�y�(�9;F�t�t�s���3R(s'P;1,@6��=�X����am
-�E�kB@�-0���C
-�M���	NN�EG�������P�H�J����Ɛ��ڝ�rk.z:�6����dP�ȠKas��T�=*iqn�aF2�r�1�TK���x�I'�#�D����s{�yװn�����NP���?:�+d�S��{���J_���80�:;L.(|y�����JĔ%������2�Uf$�:���6�$a�":�B�.PË�BO��v�kF6Gσ�o	��8p�l֨'��	���à�u�3�oo����P��F`/�&z��u��>�@<�,��y�4׭$� �S�$�
-h}�n-���e0��@Nc�t����V�����*1/��\���!5�$�}�_"H���;2z����n��D;%}
-��Ń/�ՅK)�u�5�o�ڃ��δBE��p�/Aɬ�j4�,BmeUú@�]�s-�Xc�32Ƴ�J���)��=lGť��FI
-,��-�r�8�;��=+{9{�nt��6�3R��Vx���!����̒k??������R��w���BT�>������ ؾ�.q�3E�% c�\��Ԫ�JԺJS�*r��0`q@�-\S0E�y��C��b����3o�iuVKd	�X<��/�<��Lj���S���R��"�4)rP�����au8L۝FY�9�ľ���0�����T�Տ!
-�Ҥ���s�H�R\�Y��0@"̡���zY��jE���=<�&n��O"�V�v^K�Ә�X���no�t����/b߀	����6]$�i�.xU�+����]o�=rӵc�X��
-<7�U{��+�S�+�S�O8�@S5�)kl`:U��ˑ�p�n�k�IJ��ND��S��*������H�˳������yT`�����Pa.i��7,��H
-���6Y��p� ��*�վ$U����;��^2����t!�ʹ9�PPAK���ƥ�SM_�ⶐ�8V�uk"�������E��#�6�#�<⭑���T8��L���!�ID�_;��tj��I�F:<���k����ж�h{���^�uzo�,�?��~����D8��O>=<�Q�*���=ݺ�{�[�5|Zy��4䌧3-Ķ�@_F/G�y�M��a����g<5�4��~�?�iw�vXj���dj�s6����NB���/9\X	WG����)r�V6fͅ~}D�oG�9�Y�Ε�x���h,E�+�n�^3��)j�$��ҵ�nm쉚I.ׂqު��o��^���0��E�j(lR�3Ȱ�9�:���[�t�OJ�g�d�g#^wUa��!#�^c@pt:oyʵ�ܔ<K'߼�
-��Z��D'`Xl�i��p��WE�k��;���f���1��1.3��	�=k-:?����ߪ�e��n^�t�-�\6�ʵ�T��
-��@
-U��|��>�F��AC4�3�����+�&��|�;ή�z�f��d���2 ����6�G���g���K�Grs#�{?4X���v��9�nE��b]��X$i�'����|1N{�Ӻ:�ޫV�kb�"٠m�%�t�m�v;Qn);C��Nd&�1�╱A��Ө)�ݓ�������y��I�k�H��31��}�7^��
-2[�KtM,Ex's�?=0�`�+}���yA�X����T�33�����-������������p��5B��}s�N[�J�y��I��,J�4�:)V��0���=/����TD"�����y|�����+��唕}���4U�Ř7��{���U=���e�R7L��N[�JF���m&?�a�����T�SOh�e�.��	=ρ���]���z,��|	��ΙGR8��.EC���t����ډ�^�����x�~��
-_�O%���}g�L*hp����̍d
-�8��P�B�a�p�U2�˿T
-�f�c�<����8g��1�Ó�3\p��Kl7~D[;G�n��.jf<�0piSP��.��X	�
-�᷺�Fd�?9pj0�-2��y!��Q�ҧw�(�Pi-Z���skO,D;E�� )y��\��d:�8_�	�̛���6~\�:���ӻ�$�����������ѣ~��Ѩs��&�G�f��L�FEU� �(O�VQe����5Zf����N3�1lH��TӨ���]p�[oV[q��kz��QQv!k7�~D�u�C׊��G��N3oX��&D_��2����A	fƿ��>`.7�U���޺��������q��e���h-�GI���^�E�H�\��:�w�tz�mox�j���-��V����_,�ϡ��	�-�=$�Ы9��
-5g�����6[h2@)�1'���{�q�g�xf9�oG~\ۻ�4?V0��׵��$��Z�*���
-)�KK3W�9�'l�Џ��5��8/E�9^Z�%�t1|a��+h�2@�r��1�-�Mɡ*gC^�&@�\|����$���E��r�֎���T&�;�ՕP�i���t�m�����(�����rjH��eUJj�`�X�A�*X	U��D.R^VV '�)���)2�9!~�ƍ�y�j$�:�{���m��2���ś�������$i�L*�"�}����(���*{M��E}�$�y�{aڅ���wE#��#V��qt+FT�N����\�P��xTlL�]��d��Ė�I����U�g��J^���n�<��0}Vp�^jdD>��������#{�z�r��;P4\�
-3�jpss�������ϴ�=s�2�ȦL��'}}9�O�uktE����0U�����5~>hs���.גI�S6�������3��
-2�4
-�I2�%�3�y��A�!?ea2ϷM+���y��n�f�`w�A��)�)��g!��(4�
-5�3�+��z��iRǿf�_�������-Ȇ�S��+��Nq�#z��~�
-}��ÒT�=�b�p�C�0d�|5x�t��4���Z�9A�p����!K���8�^��ww(B")�iΪ5���3����K��ݣ�_��f��OO������X�~�|@)��IVW�B�'�-��>���4�������I�}u�|������
+# Berkshire Hathaway Shareholder Letter 1997
+
+BERKSHIRE HATHAWAY INC.
+
+1997 Chairman's Letter
+
+To the Shareholders of Berkshire Hathaway Inc.:
+
+Our gain in net worth during 1997
+was $8.0 billion, which increased the per-share book value of both our
+Class A and Class B stock by 34.1%. Over the last 33 years (that is, since
+present management took over) per-share book value has grown from $19 to
+$25,488, a rate of 24.1% compounded annually. (1)
+
+Given our gain of 34.1%, it is
+tempting to declare victory and move on. But last year's performance was
+no great triumph: Any investor can chalk up large returns when stocks
+soar, as they did in 1997. In a bull market, one must avoid the error of
+the preening duck that quacks boastfully after a torrential rainstorm,
+thinking that its paddling skills have caused it to rise in the world.
+A right-thinking duck would instead compare its position after the downpour
+to that of the other ducks on the pond.
+
+So what's our duck rating for 1997?
+The table on the facing page shows that though we paddled furiously last
+year, passive ducks that simply invested in the S&P Index rose almost
+as fast as we did. Our appraisal of 1997's performance, then: Quack .
+
+When the market booms, we tend
+to suffer in comparison with the S&P Index. The Index bears no tax
+costs, nor do mutual funds, since they pass through all tax liabilities
+to their owners. Last year, on the other hand, Berkshire paid or accrued
+$4.2 billion for federal income tax, or about 18% of our beginning net
+worth.
+
+Berkshire will always have corporate
+taxes to pay, which means it needs to overcome their drag in order to justify
+its existence. Obviously, Charlie Munger, Berkshire's Vice Chairman and
+my partner, and I won't be able to lick that handicap every year. But we
+expect over time to maintain a modest advantage over the Index, and that
+is the yardstick against which you should measure us. We will not ask you
+to adopt the philosophy of the Chicago Cubs fan who reacted to a string
+of lackluster seasons by saying, "Why get upset? Everyone has a bad
+century now and then."
+
+Gains in book value are, of course,
+not the bottom line at Berkshire. What truly counts are gains in per-share
+intrinsic business value. Ordinarily, though, the two measures tend to
+move roughly in tandem, and in 1997 that was the case: Led by a blow-out
+performance at GEICO, Berkshire's intrinsic value (which far exceeds book
+value) grew at nearly the same pace as book value.
+
+For more explanation of the term,
+intrinsic value, you may wish to refer to our Owner's Manual, reprinted
+on pages 62 to 71. This manual sets forth our owner-related business principles,
+information that is important to all of Berkshire's shareholders.
+
+In our last two annual reports,
+we furnished you a table that Charlie and I believe is central to estimating
+Berkshire's intrinsic value. In the updated version of that table, which
+follows, we trace our two key components of value. The first column lists
+our per-share ownership of investments (including cash and equivalents)
+and the second column shows our per-share earnings from Berkshire's operating
+businesses before taxes and purchase-accounting adjustments (discussed
+on pages 69 and 70), but after all interest and corporate expenses. The
+second column excludes all dividends, interest and capital gains that we
+realized from the investments presented in the first column. In effect,
+the columns show what Berkshire would look like were it split into two
+parts, with one entity holding our investments and the other operating
+all of our businesses and bearing all corporate costs.
+
+Pundits who ignore what our 38,000
+employees contribute to the company, and instead simply view Berkshire
+as a de facto investment company, should study the figures in the second
+column. We made our first business acquisition in 1967, and since then
+our pre-tax operating earnings have grown from $1 million to $888 million.
+Furthermore, as noted, in this exercise we have assigned all of Berkshire's
+corporate expenses -- overhead of $6.6 million, interest of $66.9 million
+and shareholder contributions of $15.4 million -- to our business operations,
+even though a portion of these could just as well have been assigned to
+the investment side.
+
+Here are the growth rates of the
+two segments by decade:
+
+During 1997, both parts of our
+business grew at a satisfactory rate, with investments increasing by $9,543
+per share, or 33.5%, and operating earnings growing by $296.43 per share,
+or 70.3%. One important caveat: Because we were lucky in our super-cat
+insurance business (to be discussed later) and because GEICO's underwriting
+gain was well above what we can expect in most years, our 1997 operating
+earnings were much better than we anticipated and also more than we expect
+for 1998.
+
+Our rate of progress in both investments
+and operations is certain to fall in the future. For anyone deploying
+capital, nothing recedes like success. My own history makes the point:
+Back in 1951, when I was attending Ben Graham's class at Columbia, an idea
+giving me a $10,000 gain improved my investment performance for the year
+by a full 100 percentage points. Today, an idea producing a $500 million
+pre-tax profit for Berkshire adds one percentage point to our performance.
+It's no wonder that my annual results in the 1950s were better by nearly
+thirty percentage points than my annual gains in any subsequent decade.
+Charlie's experience was similar. We weren't smarter then, just smaller.
+At our present size, any performance superiority we achieve will be minor.
+
+We will be helped, however, by
+the fact that the businesses to which we have already allocated capital
+-- both operating subsidiaries and companies in which we are passive investors
+-- have splendid long-term prospects. We are also blessed with a managerial
+corps that is unsurpassed in ability and focus. Most of these executives
+are wealthy and do not need the pay they receive from Berkshire to maintain
+their way of life. They are motivated by the joy of accomplishment, not
+by fame or fortune.
+
+Though we are delighted with what
+we own, we are not pleased with our prospects for committing incoming funds.
+Prices are high for both businesses and stocks. That does not mean that
+the prices of either will fall -- we have absolutely no view on that matter
+-- but it does mean that we get relatively little in prospective earnings
+when we commit fresh money.
+
+Under these circumstances, we try
+to exert a Ted Williams kind of discipline. In his book The Science
+of Hitting , Ted explains that he carved the strike zone into 77 cells,
+each the size of a baseball. Swinging only at balls in his "best"
+cell, he knew, would allow him to bat .400; reaching for balls in his "worst"
+spot, the low outside corner of the strike zone, would reduce him to .230.
+In other words, waiting for the fat pitch would mean a trip to the Hall
+of Fame; swinging indiscriminately would mean a ticket to the minors.
+
+If they are in the strike zone
+at all, the business "pitches" we now see are just catching the
+lower outside corner. If we swing, we will be locked into low returns.
+But if we let all of today's balls go by, there can be no assurance that
+the next ones we see will be more to our liking. Perhaps the attractive
+prices of the past were the aberrations, not the full prices of today.
+Unlike Ted, we can't be called out if we resist three pitches that are
+barely in the strike zone; nevertheless, just standing there, day after
+day, with my bat on my shoulder is not my idea of fun.
+
+Unconventional Commitments
+
+When we can't find our favorite
+commitment -- a well-run and sensibly-priced business with fine economics
+-- we usually opt to put new money into very short-term instruments of
+the highest quality. Sometimes, however, we venture elsewhere. Obviously
+we believe that the alternative commitments we make are more likely to
+result in profit than loss. But we also realize that they do not offer
+the certainty of profit that exists in a wonderful business secured at
+an attractive price. Finding that kind of opportunity, we know that
+we are going to make money -- the only question being when. With alternative
+investments, we think that we are going to make money. But we also
+recognize that we will sometimes realize losses, occasionally of substantial
+size.
+
+We had three non-traditional positions
+at yearend. The first was derivative contracts for 14.0 million barrels
+of oil, that being what was then left of a 45.7 million barrel position
+we established in 1994-95. Contracts for 31.7 million barrels were settled
+in 1995-97, and these supplied us with a pre-tax gain of about $61.9 million.
+Our remaining contracts expire during 1998 and 1999. In these, we had an
+unrealized gain of $11.6 million at yearend. Accounting rules require that
+commodity positions be carried at market value. Therefore, both our annual
+and quarterly financial statements reflect any unrealized gain or loss
+in these contracts. When we established our contracts, oil for future delivery
+seemed modestly underpriced. Today, though, we have no opinion as to its
+attractiveness.
+
+Our second non-traditional commitment
+is in silver. Last year, we purchased 111.2 million ounces. Marked to market,
+that position produced a pre-tax gain of $97.4 million for us in 1997.
+In a way, this is a return to the past for me: Thirty years ago, I bought
+silver because I anticipated its demonetization by the U.S. Government.
+Ever since, I have followed the metal's fundamentals but not owned it.
+In recent years, bullion inventories have fallen materially, and last summer
+Charlie and I concluded that a higher price would be needed to establish
+equilibrium between supply and demand. Inflation expectations, it should
+be noted, play no part in our calculation of silver's value.
+
+Finally, our largest non-traditional
+position at yearend was $4.6 billion, at amortized cost, of long-term zero-coupon
+obligations of the U.S. Treasury. These securities pay no interest. Instead,
+they provide their holders a return by way of the discount at which they
+are purchased, a characteristic that makes their market prices move rapidly
+when interest rates change. If rates rise, you lose heavily with zeros,
+and if rates fall, you make outsized gains. Since rates fell in 1997, we
+ended the year with an unrealized pre-tax gain of $598.8 million in our
+zeros. Because we carry the securities at market value, that gain is reflected
+in yearend book value.
+
+In purchasing zeros, rather than
+staying with cash-equivalents, we risk looking very foolish: A macro-based
+commitment such as this never has anything close to a 100% probability
+of being successful. However, you pay Charlie and me to use our best judgment
+-- not to avoid embarrassment -- and we will occasionally make an unconventional
+move when we believe the odds favor it. Try to think kindly of us when
+we blow one. Along with President Clinton, we will be feeling your pain:
+The Munger family has more than 90% of its net worth in Berkshire and the
+Buffetts more than 99%.
+
+How We Think About Market Fluctuations
+
+A short quiz: If you plan to eat
+hamburgers throughout your life and are not a cattle producer, should you
+wish for higher or lower prices for beef? Likewise, if you are going to
+buy a car from time to time but are not an auto manufacturer, should you
+prefer higher or lower car prices? These questions, of course, answer themselves.
+
+But now for the final exam: If
+you expect to be a net saver during the next five years, should you hope
+for a higher or lower stock market during that period? Many investors get
+this one wrong. Even though they are going to be net buyers of stocks for
+many years to come, they are elated when stock prices rise and depressed
+when they fall. In effect, they rejoice because prices have risen for the
+"hamburgers" they will soon be buying. This reaction makes no
+sense. Only those who will be sellers of equities in the near future should
+be happy at seeing stocks rise. Prospective purchasers should much prefer
+sinking prices.
+
+For shareholders of Berkshire who
+do not expect to sell, the choice is even clearer. To begin with, our owners
+are automatically saving even if they spend every dime they personally
+earn: Berkshire "saves" for them by retaining all earnings, thereafter
+using these savings to purchase businesses and securities. Clearly, the
+more cheaply we make these buys, the more profitable our owners' indirect
+savings program will be.
+
+Furthermore, through Berkshire
+you own major positions in companies that consistently repurchase their
+shares. The benefits that these programs supply us grow as prices fall:
+When stock prices are low, the funds that an investee spends on repurchases
+increase our ownership of that company by a greater amount than is the
+case when prices are higher. For example, the repurchases that Coca-Cola,
+The Washington Post and Wells Fargo made in past years at very low prices
+benefitted Berkshire far more than do today's repurchases, made at loftier
+prices.
+
+At the end of every year, about
+97% of Berkshire's shares are held by the same investors who owned them
+at the start of the year. That makes them savers. They should therefore
+rejoice when markets decline and allow both us and our investees to deploy
+funds more advantageously.
+
+So smile when you read a headline
+that says "Investors lose as market falls." Edit it in your mind
+to " Dis investors lose as market falls -- but investors gain."
+Though writers often forget this truism, there is a buyer for every seller
+and what hurts one necessarily helps the other. (As they say in golf matches:
+"Every putt makes someone happy.")
+
+We gained enormously from the low
+prices placed on many equities and businesses in the 1970s and 1980s. Markets
+that then were hostile to investment transients were friendly to those
+taking up permanent residence. In recent years, the actions we took in
+those decades have been validated, but we have found few new opportunities.
+In its role as a corporate "saver," Berkshire continually looks
+for ways to sensibly deploy capital, but it may be some time before we
+find opportunities that get us truly excited.
+
+Insurance Operations -- Overview
+
+What does excite us, however, is
+our insurance business. GEICO is flying, and we expect that it will continue
+to do so. Before we expound on that, though, let's discuss "float"
+and how to measure its cost. Unless you understand this subject, it will
+be impossible for you to make an informed judgment about Berkshire's intrinsic
+value.
+
+To begin with, float is money we
+hold but don't own. In an insurance operation, float arises because premiums
+are received before losses are paid, an interval that sometimes extends
+over many years. During that time, the insurer invests the money. Typically,
+this pleasant activity carries with it a downside: The premiums that an
+insurer takes in usually do not cover the losses and expenses it eventually
+must pay. That leaves it running an "underwriting loss," which
+is the cost of float. An insurance business has value if its cost of float
+over time is less than the cost the company would otherwise incur to obtain
+funds. But the business is a lemon if its cost of float is higher than
+market rates for money.
+
+A caution is appropriate here:
+Because loss costs must be estimated, insurers have enormous latitude in
+figuring their underwriting results, and that makes it very difficult for
+investors to calculate a company's true cost of float. Estimating errors,
+usually innocent but sometimes not, can be huge. The consequences of these
+miscalculations flow directly into earnings. An experienced observer can
+usually detect large-scale errors in reserving, but the general public
+can typically do no more than accept what's presented, and at times I have
+been amazed by the numbers that big-name auditors have implicitly blessed.
+As for Berkshire, Charlie and I attempt to be conservative in presenting
+its underwriting results to you, because we have found that virtually all
+surprises in insurance are unpleasant ones.
+
+As the numbers in the following
+table show, Berkshire's insurance business has been a huge winner. For
+the table, we have calculated our float -- which we generate in large amounts
+relative to our premium volume -- by adding net loss reserves, loss adjustment
+reserves, funds held under reinsurance assumed and unearned premium reserves,
+and then subtracting agents' balances, prepaid acquisition costs, prepaid
+taxes and deferred charges applicable to assumed reinsurance. Our cost
+of float is determined by our underwriting loss or profit. In those years
+when we have had an underwriting profit, such as the last five, our cost
+of float has been negative. In effect, we have been paid for holding money.
+
+Since 1967, when we entered the
+insurance business, our float has grown at an annual compounded rate of
+21.7%. Better yet, it has cost us nothing, and in fact has made us money.
+Therein lies an accounting irony: Though our float is shown on our balance
+sheet as a liability, it has had a value to Berkshire greater than an equal
+amount of net worth would have had.
+
+The expiration of several large
+contracts will cause our float to decline during the first quarter of 1998,
+but we expect it to grow substantially over the long term. We also believe
+that our cost of float will continue to be highly favorable.
+
+Super-Cat Insurance
+
+Occasionally, however, the cost
+of our float will spike severely. That will occur because of our heavy
+involvement in the super-cat business, which by its nature is the most
+volatile of all insurance lines. In this operation, we sell policies that
+insurance and reinsurance companies purchase in order to limit their losses
+when mega-catastrophes strike. Berkshire is the preferred market for sophisticated
+buyers: When the "big one" hits, the financial strength of super-cat
+writers will be tested, and Berkshire has no peer in this respect.
+
+Since truly major catastrophes
+are rare occurrences, our super-cat business can be expected to show large
+profits in most years -- and to record a huge loss occasionally. In other
+words, the attractiveness of our super-cat business will take a great many
+years to measure. What you must understand, however, is that a truly
+terrible year in the super-cat business is not a possibility -- it's a
+certainty. The only question is when it will come.
+
+Last year, we were very lucky in
+our super-cat operation. The world suffered no catastrophes that caused
+huge amounts of insured damage, so virtually all premiums that we received
+dropped to the bottom line. This pleasant result has a dark side, however.
+Many investors who are "innocents" -- meaning that they rely
+on representations of salespeople rather than on underwriting knowledge
+of their own -- have come into the reinsurance business by means of purchasing
+pieces of paper that are called "catastrophe bonds." The second
+word in this term, though, is an Orwellian misnomer: A true bond obliges
+the issuer to pay; these bonds, in effect, are contracts that lay a provisional
+promise to pay on the purchaser .
+
+This convoluted arrangement came
+into being because the promoters of the contracts wished to circumvent
+laws that prohibit the writing of insurance by entities that haven't been
+licensed by the state. A side benefit for the promoters is that calling
+the insurance contract a "bond" may also cause unsophisticated
+buyers to assume that these instruments involve far less risk than is actually
+the case.
+
+Truly outsized risks will exist
+in these contracts if they are not properly priced. A pernicious aspect
+of catastrophe insurance, however, makes it likely that mispricing, even
+of a severe variety, will not be discovered for a very long time. Consider,
+for example, the odds of throwing a 12 with a pair of dice -- 1 out of
+36. Now assume that the dice will be thrown once a year; that you, the
+"bond-buyer," agree to pay $50 million if a 12 appears; and that
+for "insuring" this risk you take in an annual "premium"
+of $1 million. That would mean you had significantly underpriced the risk.
+Nevertheless, you could go along for years thinking you were making money
+-- indeed, easy money. There is actually a 75.4% probability that you would
+go for a decade without paying out a dime. Eventually, however, you would
+go broke.
+
+In this dice example, the odds
+are easy to figure. Calculations involving monster hurricanes and earthquakes
+are necessarily much fuzzier, and the best we can do at Berkshire is to
+estimate a range of probabilities for such events. The lack of precise
+data, coupled with the rarity of such catastrophes, plays into the hands
+of promoters, who typically employ an "expert" to advise the
+potential bond-buyer about the probability of losses. The expert puts no
+money on the table. Instead, he receives an up-front payment that is forever
+his no matter how inaccurate his predictions. Surprise: When the stakes
+are high, an expert can invariably be found who will affirm -- to return
+to our example -- that the chance of rolling a 12 is not 1 in 36, but more
+like 1 in 100. (In fairness, we should add that the expert will probably
+believe that his odds are correct, a fact that makes him less reprehensible
+-- but more dangerous.)
+
+The influx of "investor"
+money into catastrophe bonds -- which may well live up to their name --
+has caused super-cat prices to deteriorate materially. Therefore, we will
+write less business in 1998. We have some large multi-year contracts in
+force, however, that will mitigate the drop. The largest of these are two
+policies that we described in last year's report -- one covering hurricanes
+in Florida and the other, signed with the California Earthquake Authority,
+covering earthquakes in that state. Our "worst-case" loss remains
+about $600 million after-tax, the maximum we could lose under the CEA policy.
+Though this loss potential may sound large, it is only about 1% of Berkshire's
+market value. Indeed, if we could get appropriate prices, we would be willing
+to significantly increase our "worst-case" exposure.
+
+Our super-cat business was developed
+from scratch by Ajit Jain, who has contributed to Berkshire's success in
+a variety of other ways as well. Ajit possesses both the discipline to
+walk away from business that is inadequately priced and the imagination
+to then find other opportunities. Quite simply, he is one of Berkshire's
+major assets. Ajit would have been a star in whatever career he chose;
+fortunately for us, he enjoys insurance.
+
+Insurance -- GEICO (1-800-555-2756) and Other Primary Operations
+
+Last year I wrote about GEICO's
+Tony Nicely and his terrific management skills. If I had known then what
+he had in store for us in 1997, I would have searched for still greater
+superlatives. Tony, now 54, has been with GEICO for 36 years and last year
+was his best. As CEO, he has transmitted vision, energy and enthusiasm
+to all members of the GEICO family -- raising their sights from what has been achieved to what can be achieved.
+
+We measure GEICO's performance
+by first, the net increase in its voluntary auto policies (that is, not
+including policies assigned us by the state) and, second, the profitability
+of "seasoned" auto business, meaning policies that have been
+with us for more than a year and are thus past the period in which acquisition
+costs cause them to be money-losers. In 1996, in-force business grew 10%,
+and I told you how pleased I was, since that rate was well above anything
+we had seen in two decades. Then, in 1997, growth jumped to 16%.
+
+Below are the new business and
+in-force figures for the last five years:
+
+Of course, any insurer can grow
+rapidly if it gets careless about underwriting. GEICO's underwriting profit
+for the year, though, was 8.1% of premiums, far above its average. Indeed,
+that percentage was higher than we wish it to be: Our goal is to pass on
+most of the benefits of our low-cost operation to our customers, holding
+ourselves to about 4% in underwriting profit. With that in mind, we reduced
+our average rates a bit during 1997 and may well cut them again this year.
+Our rate changes varied, of course, depending on the policyholder and where
+he lives; we strive to charge a rate that properly reflects the loss expectancy
+of each driver.
+
+GEICO is not the only auto insurer
+obtaining favorable results these days. Last year, the industry recorded
+profits that were far better than it anticipated or can sustain. Intensified
+competition will soon squeeze margins very significantly. But this is a
+development we welcome: Long term, a tough market helps the low-cost operator,
+which is what we are and intend to remain.
+
+Last year I told you about the
+record 16.9% profit-sharing contribution that GEICO's associates had earned
+and explained that two simple variables set the amount: policy growth and
+profitability of seasoned business. I further explained that 1996's performance
+was so extraordinary that we had to enlarge the chart delineating the possible
+payouts. The new configuration didn't make it through 1997: We enlarged
+the chart's boundaries again and awarded our 10,500 associates a profit-sharing
+contribution amounting to 26.9% of their base compensation, or $71 million.
+In addition, the same two variables -- policy growth and profitability
+of seasoned business -- determined the cash bonuses that we paid to dozens
+of top executives, starting with Tony.
+
+At GEICO, we are paying in a way
+that makes sense for both our owners and our managers. We distribute merit
+badges, not lottery tickets: In none of Berkshire's subsidiaries do we
+relate compensation to our stock price, which our associates cannot affect
+in any meaningful way. Instead, we tie bonuses to each unit's business
+performance, which is the direct product of the unit's people. When that
+performance is terrific -- as it has been at GEICO -- there is nothing
+Charlie and I enjoy more than writing a big check.
+
+GEICO's underwriting profitability
+will probably fall in 1998, but the company's growth could accelerate.
+We're planning to step on the gas: GEICO's marketing expenditures this
+year will top $100 million, up 50% from 1997. Our market share today is
+only 3%, a level of penetration that should increase dramatically in the
+next decade. The auto insurance industry is huge -- it does about $115
+billion of volume annually -- and there are tens of millions of drivers
+who would save substantial money by switching to us.
+
+* * * * * * * * * * * *
+
+In the 1995 report, I described
+the enormous debt that you and I owe to Lorimer Davidson. On a Saturday
+early in 1951, he patiently explained the ins and outs of both GEICO and
+its industry to me -- a 20-year-old stranger who'd arrived at GEICO's headquarters
+uninvited and unannounced. Davy later became the company's CEO and has
+remained my friend and teacher for 47 years. The huge rewards that GEICO
+has heaped on Berkshire would not have materialized had it not been for
+his generosity and wisdom. Indeed, had I not met Davy, I might never have
+grown to understand the whole field of insurance, which over the years
+has played such a key part in Berkshire's success.
+
+Davy turned 95 last year, and it's
+difficult for him to travel. Nevertheless, Tony and I hope that we can
+persuade him to attend our annual meeting, so that our shareholders can
+properly thank him for his important contributions to Berkshire. Wish us
+luck.
+
+* * * * * * * * * * * *
+
+Though they are, of course, far
+smaller than GEICO, our other primary insurance operations turned in results
+last year that, in aggregate, were fully as stunning. National Indemnity's
+traditional business had an underwriting profit of 32.9% and, as usual,
+developed a large amount of float compared to premium volume. Over the
+last three years, this segment of our business, run by Don Wurster, has
+had a profit of 24.3%. Our homestate operation, managed by Rod Eldred,
+recorded an underwriting profit of 14.1% even though it continued to absorb
+the expenses of geographical expansion. Rod's three-year record is an amazing
+15.1%. Berkshire's workers' compensation business, run out of California
+by Brad Kinstler, had a modest underwriting loss in a difficult environment;
+its three-year underwriting record is a positive 1.5%. John Kizer, at Central
+States Indemnity, set a new volume record while generating good underwriting
+earnings. At Kansas Bankers Surety, Don Towle more than lived up to the
+high expectations we had when we purchased the company in 1996.
+
+In aggregate, these five operations
+recorded an underwriting profit of 15.0%. The two Dons, along with Rod,
+Brad and John, have created significant value for Berkshire, and we believe
+there is more to come.
+
+Sources of Reported Earnings
+
+The table that follows shows the
+main sources of Berkshire's reported earnings. In this presentation, purchase-accounting
+adjustments are not assigned to the specific businesses to which they apply,
+but are instead aggregated and shown separately. This procedure lets you
+view the earnings of our businesses as they would have been reported had
+we not purchased them. For the reasons discussed on pages 69 and 70, this
+form of presentation seems to us to be more useful to investors and managers
+than one utilizing generally-accepted accounting principles (GAAP), which
+require purchase-premiums to be charged off business-by-business. The total
+earnings we show in the table are, of course, identical to the GAAP total
+in our audited financial statements.
+
+(1) From date of acquisition,
+December 23, 1996. (2) Includes Star
+Furniture from July 1, 1997. (3) Excludes interest
+expense of Finance Businesses.
+
+Overall, our operating businesses
+continue to perform exceptionally well, far outdoing their industry norms.
+We are particularly pleased that profits improved at Helzberg's after a
+disappointing 1996. Jeff Comment, Helzberg's CEO, took decisive steps early
+in 1997 that enabled the company to gain real momentum by the crucial Christmas
+season. In the early part of this year, as well, sales remained strong.
+
+Casual observers may not appreciate
+just how extraordinary the performance of many of our businesses has been:
+If the earnings history of, say, Buffalo News or Scott Fetzer is compared
+to the records of their publicly-owned peers, their performance might seem
+to have been unexceptional. But most public companies retain two-thirds
+or more of their earnings to fund their corporate growth. In contrast,
+those Berkshire subsidiaries have paid 100% of their earnings to us, their
+parent company, to fund our growth.
+
+In effect, the records of the public
+companies reflect the cumulative benefits of the earnings they have retained,
+while the records of our operating subsidiaries get no such boost. Over
+time, however, the earnings these subsidiaries have distributed have created
+truly huge amounts of earning power elsewhere in Berkshire. The News, See's
+and Scott Fetzer have alone paid us $1.8 billion, which we have gainfully
+employed elsewhere. We owe their managements our gratitude for much more
+than the earnings that are detailed in the table.
+
+Additional information about our
+various businesses is given on pages 36 - 50, where you will also find
+our segment earnings reported on a GAAP basis. In addition, on pages 55
+- 61, we have rearranged Berkshire's financial data into four segments
+on a non-GAAP basis, a presentation that corresponds to the way Charlie
+and I think about the company. Our intent is to supply you with the financial
+information that we would wish you to give us if our positions were reversed.
+
+Look-Through Earnings
+
+Reported earnings are a poor measure
+of economic progress at Berkshire, in part because the numbers shown in
+the table presented earlier include only the dividends we receive from
+investees -- though these dividends typically represent only a small fraction
+of the earnings attributable to our ownership. Not that we mind this division
+of money, since on balance we regard the undistributed earnings of investees
+as more valuable to us than the portion paid out. The reason is simple:
+Our investees often have the opportunity to reinvest earnings at high rates
+of return. So why should we want them paid out?
+
+To depict something closer to economic
+reality at Berkshire than reported earnings, though, we employ the concept
+of "look-through" earnings. As we calculate these, they consist
+of: (1) the operating earnings reported in the previous section, plus;
+(2) our share of the retained operating earnings of major investees that,
+under GAAP accounting, are not reflected in our profits, less; (3) an allowance
+for the tax that would be paid by Berkshire if these retained earnings
+of investees had instead been distributed to us. When tabulating "operating
+earnings" here, we exclude purchase-accounting adjustments as well
+as capital gains and other major non-recurring items.
+
+The following table sets forth
+our 1997 look-through earnings, though I warn you that the figures can
+be no more than approximate, since they are based on a number of judgment
+calls. (The dividends paid to us by these investees have been included
+in the operating earnings itemized on page 11, mostly under "Insurance
+Group: Net Investment Income.")
+
+Acquisitions of 1997
+
+In 1997, we agreed to acquire Star
+Furniture and International Dairy Queen (a deal that closed early in 1998).
+Both businesses fully meet our criteria: They are understandable; possess
+excellent economics; and are run by outstanding people.
+
+The Star transaction has an interesting
+history. Whenever we buy into an industry whose leading participants aren't
+known to me, I always ask our new partners, "Are there any more at
+home like you?" Upon our purchase of Nebraska Furniture Mart in 1983,
+therefore, the Blumkin family told me about three outstanding furniture
+retailers in other parts of the country. At the time, however, none was
+for sale.
+
+Many years later, Irv Blumkin learned
+that Bill Child, CEO of R.C. Willey -- one of the recommended three --
+might be interested in merging, and we promptly made the deal described
+in the 1995 report. We have been delighted with that association -- Bill
+is the perfect partner. Furthermore, when we asked Bill about industry
+standouts, he came up with the remaining two names given me by the Blumkins,
+one of these being Star Furniture of Houston. But time went by without
+there being any indication that either of the two was available.
+
+On the Thursday before last year's
+annual meeting, however, Bob Denham of Salomon told me that Melvyn Wolff,
+the long-time controlling shareholder and CEO of Star, wanted to talk.
+At our invitation, Melvyn came to the meeting and spent his time in Omaha
+confirming his positive feelings about Berkshire. I, meanwhile, looked
+at Star's financials, and liked what I saw.
+
+A few days later, Melvyn and I
+met in New York and made a deal in a single, two-hour session. As was the
+case with the Blumkins and Bill Child, I had no need to check leases, work
+out employment contracts, etc. I knew I was dealing with a man of integrity
+and that's what counted.
+
+Though the Wolff family's association
+with Star dates back to 1924, the business struggled until Melvyn and his
+sister Shirley Toomin took over in 1962. Today Star operates 12 stores
+-- ten in Houston and one each in Austin and Bryan -- and will soon move
+into San Antonio as well. We won't be surprised if Star is many times its
+present size a decade from now.
+
+Here's a story illustrating what
+Melvyn and Shirley are like: When they told their associates of the sale,
+they also announced that Star would make large, special payments to those
+who had helped them succeed -- and then defined that group as everyone
+in the business. Under the terms of our deal, it was Melvyn and Shirley's
+money, not ours, that funded this distribution. Charlie and I love it when
+we become partners with people who behave like that.
+
+The Star transaction closed on
+July 1. In the months since, we've watched Star's already-excellent sales
+and earnings growth accelerate further. Melvyn and Shirley will be at the
+annual meeting, and I hope you get a chance to meet them.
+
+Next acquisition: International
+Dairy Queen. There are 5,792 Dairy Queen stores operating in 23 countries
+-- all but a handful run by franchisees -- and in addition IDQ franchises
+409 Orange Julius operations and 43 Karmelkorn operations. In 190 locations,
+"treat centers" provide some combination of the three products.
+
+For many years IDQ had a bumpy
+history. Then, in 1970, a Minneapolis group led by John Mooty and Rudy
+Luther took control. The new managers inherited a jumble of different franchising
+agreements, along with some unwise financing arrangements that had left
+the company in a precarious condition. In the years that followed, management
+rationalized the operation, extended food service to many more locations,
+and, in general, built a strong organization.
+
+Last summer Mr. Luther died, which
+meant his estate needed to sell stock. A year earlier, Dick Kiphart of
+William Blair & Co., had introduced me to John Mooty and Mike Sullivan,
+IDQ's CEO, and I had been impressed with both men. So, when we got the
+chance to merge with IDQ, we offered a proposition patterned on our FlightSafety
+acquisition, extending selling shareholders the option of choosing either
+cash or Berkshire shares having a slightly lower immediate value. By tilting
+the consideration as we did, we encouraged holders to opt for cash, the
+type of payment we by far prefer. Even then, only 45% of IDQ shares elected
+cash.
+
+Charlie and I bring a modicum of
+product expertise to this transaction: He has been patronizing the Dairy
+Queens in Cass Lake and Bemidji, Minnesota, for decades, and I have been
+a regular in Omaha. We have put our money where our mouth is.
+
+A Confession
+
+I've mentioned that we strongly
+prefer to use cash rather than Berkshire stock in acquisitions. A study
+of the record will tell you why: If you aggregate all of our stock-only
+mergers (excluding those we did with two affiliated companies, Diversified
+Retailing and Blue Chip Stamps), you will find that our shareholders are
+slightly worse off than they would have been had I not done the transactions.
+Though it hurts me to say it, when I've issued stock, I've cost you money.
+
+Be clear about one thing: This
+cost has not occurred because we were misled in any way by sellers
+or because they thereafter failed to manage with diligence and skill. On
+the contrary, the sellers were completely candid when we were negotiating
+our deals and have been energetic and effective ever since.
+
+Instead, our problem has been that
+we own a truly marvelous collection of businesses, which means that trading
+away a portion of them for something new almost never makes sense. When
+we issue shares in a merger, we reduce your ownership in all of our businesses
+-- partly-owned companies such as Coca-Cola, Gillette and American Express,
+and all of our terrific operating companies as well. An example from sports
+will illustrate the difficulty we face: For a baseball team, acquiring
+a player who can be expected to bat .350 is almost always a wonderful event
+-- except when the team must trade a .380 hitter to make the deal.
+
+Because our roster is filled with
+.380 hitters, we have tried to pay cash for acquisitions, and here our
+record has been far better. Starting with National Indemnity in 1967, and
+continuing with, among others, See's, Buffalo News, Scott Fetzer and GEICO,
+we have acquired -- for cash -- a number of large businesses that have
+performed incredibly well since we bought them. These acquisitions have
+delivered Berkshire tremendous value -- indeed, far more than I anticipated
+when we made our purchases.
+
+We believe that it is almost impossible
+for us to "trade up" from our present businesses and managements.
+Our situation is the opposite of Camelot's Mordred, of whom Guenevere commented,
+"The one thing I can say for him is that he is bound to marry well.
+Everybody is above him." Marrying well is extremely difficult for
+Berkshire.
+
+So you can be sure that Charlie
+and I will be very reluctant to issue shares in the future. In those cases
+when we simply must do so -- when certain shareholders of a desirable acquiree
+insist on getting stock -- we will include an attractive cash option in
+order to tempt as many of the sellers to take cash as is possible.
+
+Merging with public companies presents
+a special problem for us. If we are to offer any premium to the
+acquiree, one of two conditions must be present: Either our own stock must
+be overvalued relative to the acquiree's, or the two companies together
+must be expected to earn more than they would if operated separately. Historically,
+Berkshire has seldom been overvalued. In this market, moreover, undervalued
+acquirees are almost impossible to find. That other possibility -- synergy
+gains -- is usually unrealistic, since we expect acquirees to operate after
+we've bought them just as they did before. Joining with Berkshire does
+not normally raise their revenues nor cut their costs.
+
+Indeed, their reported costs (but
+not their true ones) will rise after they are bought by Berkshire
+if the acquiree has been granting options as part of its compensation packages.
+In these cases, "earnings" of the acquiree have been overstated
+because they have followed the standard -- but, in our view, dead wrong
+-- accounting practice of ignoring the cost to a business of issuing options.
+When Berkshire acquires an option-issuing company, we promptly substitute
+a cash compensation plan having an economic value equivalent to that of
+the previous option plan. The acquiree's true compensation cost is thereby
+brought out of the closet and charged, as it should be, against earnings.
+
+The reasoning that Berkshire applies
+to the merger of public companies should be the calculus for all
+buyers. Paying a takeover premium does not make sense for any acquirer
+unless a) its stock is overvalued relative to the acquiree's or b) the
+two enterprises will earn more combined than they would separately. Predictably,
+acquirers normally hew to the second argument because very few are willing
+to acknowledge that their stock is overvalued. However, voracious buyers
+-- the ones that issue shares as fast as they can print them -- are tacitly
+conceding that point. (Often, also, they are running Wall Street's version
+of a chain-letter scheme.)
+
+In some mergers there truly are
+major synergies -- though oftentimes the acquirer pays too much to obtain
+them -- but at other times the cost and revenue benefits that are projected
+prove illusory. Of one thing, however, be certain: If a CEO is enthused
+about a particularly foolish acquisition, both his internal staff and his
+outside advisors will come up with whatever projections are needed to justify
+his stance. Only in fairy tales are emperors told that they are naked.
+
+Common Stock Investments
+
+Below we present our common stock
+investments. Those with a market value of more than $750 million are itemized.
+
+* Represents tax-basis cost which, in aggregate, is $1.8 billion less than
+GAAP cost.
+
+We made net sales during the year
+that amounted to about 5% of our beginning portfolio. In these, we significantly
+reduced a few of our holdings that are below the $750 million threshold
+for itemization, and we also modestly trimmed a few of the larger positions
+that we detail. Some of the sales we made during 1997 were aimed at changing
+our bond-stock ratio moderately in response to the relative values that
+we saw in each market, a realignment we have continued in 1998.
+
+Our reported positions, we should
+add, sometimes reflect the investment decisions of GEICO's Lou Simpson.
+Lou independently runs an equity portfolio of nearly $2 billion that may
+at times overlap the portfolio that I manage, and occasionally he makes
+moves that differ from mine.
+
+Though we don't attempt to predict
+the movements of the stock market, we do try, in a very rough way, to value
+it. At the annual meeting last year, with the Dow at 7,071 and long-term
+Treasury yields at 6.89%, Charlie and I stated that we did not consider
+the market overvalued if 1) interest rates remained where they were
+or fell, and 2) American business continued to earn the remarkable returns
+on equity that it had recently recorded. So far, interest rates have fallen
+-- that's one requisite satisfied -- and returns on equity still remain
+exceptionally high. If they stay there -- and if interest rates hold near
+recent levels -- there is no reason to think of stocks as generally overvalued.
+On the other hand, returns on equity are not a sure thing to remain at,
+or even near, their present levels.
+
+In the summer of 1979, when equities
+looked cheap to me, I wrote a Forbes article entitled "You
+pay a very high price in the stock market for a cheery consensus."
+At that time skepticism and disappointment prevailed, and my point was
+that investors should be glad of the fact, since pessimism drives down
+prices to truly attractive levels. Now, however, we have a very cheery
+consensus. That does not necessarily mean this is the wrong time to buy
+stocks: Corporate America is now earning far more money than it was just
+a few years ago, and in the presence of lower interest rates, every dollar
+of earnings becomes more valuable. Today's price levels, though, have materially
+eroded the "margin of safety" that Ben Graham identified as the
+cornerstone of intelligent investing.
+
+* * * * * * * * * * * *
+
+In last year's annual report, I
+discussed Coca-Cola, our largest holding. Coke continues to increase its
+market dominance throughout the world, but, tragically, it has lost the
+leader responsible for its outstanding performance. Roberto Goizueta, Coke's
+CEO since 1981, died in October. After his death, I read every one of the
+more than 100 letters and notes he had written me during the past nine
+years. Those messages could well serve as a guidebook for success in both
+business and life.
+
+In these communications, Roberto
+displayed a brilliant and clear strategic vision that was always aimed
+at advancing the well-being of Coke shareholders. Roberto knew where he
+was leading the company, how he was going to get there, and why this path
+made the most sense for his owners -- and, equally important, he had a
+burning sense of urgency about reaching his goals. An excerpt from one
+handwritten note he sent to me illustrates his mind-set: "By the way,
+I have told Olguita that what she refers to as an obsession, you call focus.
+I like your term much better." Like all who knew Roberto, I will miss
+him enormously.
+
+Consistent with his concern for
+the company, Roberto prepared for a seamless succession long before it
+seemed necessary. Roberto knew that Doug Ivester was the right man to take
+over and worked with Doug over the years to ensure that no momentum would
+be lost when the time for change arrived. The Coca-Cola Company will be
+the same steamroller under Doug as it was under Roberto.
+
+Convertible Preferreds
+
+Two years ago, I gave you an update
+on the five convertible preferreds that we purchased through private placements
+in the 1987-1991 period. At the time of that earlier report, we had realized
+a small profit on the sale of our Champion International holding. The four
+remaining preferred commitments included two, Gillette and First Empire
+State, that we had converted into common stock in which we had large unrealized
+gains, and two others, USAir and Salomon, that had been trouble-prone.
+At times, the last two had me mouthing a line from a country song: "How
+can I miss you if you won't go away?"
+
+Since I delivered that report,
+all four holdings have grown significantly in value. The common stocks
+of both Gillette and First Empire have risen substantially, in line with
+the companies' excellent performance. At yearend, the $600 million we put
+into Gillette in 1989 had appreciated to $4.8 billion, and the $40 million
+we committed to First Empire in 1991 had risen to $236 million.
+
+Our two laggards, meanwhile, have
+come to life in a very major way. In a transaction that finally rewarded
+its long-suffering shareholders, Salomon recently merged into Travelers
+Group. All of Berkshire's shareholders -- including me, very personally
+-- owe a huge debt to Deryck Maughan and Bob Denham for, first, playing
+key roles in saving Salomon from extinction following its 1991 scandal
+and, second, restoring the vitality of the company to a level that made
+it an attractive acquisition for Travelers. I have often said that I wish
+to work with executives that I like, trust and admire. No two fit that
+description better than Deryck and Bob.
+
+Berkshire's final results from
+its Salomon investment won't be tallied for some time, but it is safe to
+say that they will be far better than I anticipated two years ago. Looking
+back, I think of my Salomon experience as having been both fascinating
+and instructional, though for a time in 1991-92 I felt like the drama critic
+who wrote: "I would have enjoyed the play except that I had an unfortunate
+seat. It faced the stage."
+
+The resuscitation of US Airways
+borders on the miraculous. Those who have watched my moves in this investment
+know that I have compiled a record that is unblemished by success. I was
+wrong in originally purchasing the stock, and I was wrong later, in repeatedly
+trying to unload our holdings at 50 cents on the dollar.
+
+Two changes at the company coincided
+with its remarkable rebound: 1) Charlie and I left the board of directors
+and 2) Stephen Wolf became CEO. Fortunately for our egos, the second event
+was the key: Stephen Wolf's accomplishments at the airline have been phenomenal.
+
+There still is much to do at US
+Airways, but survival is no longer an issue. Consequently, the company
+made up the dividend arrearages on our preferred during 1997, adding extra
+payments to compensate us for the delay we suffered. The company's common
+stock, furthermore, has risen from a low of $4 to a recent high of $73.
+
+Our preferred has been called for
+redemption on March 15. But the rise in the company's stock has given our
+conversion rights, which we thought worthless not long ago, great value.
+It is now almost certain that our US Airways shares will produce a decent
+profit -- that is, if my cost for Maalox is excluded -- and the gain could
+even prove indecent.
+
+Next time I make a big, dumb decision,
+Berkshire shareholders will know what to do: Phone Mr. Wolf .
+
+* * * * * * * * * * * *
+
+In addition to the convertible
+preferreds, we purchased one other private placement in 1991, $300 million
+of American Express Percs. This security was essentially a common stock
+that featured a tradeoff in its first three years: We received extra dividend
+payments during that period, but we were also capped in the price appreciation
+we could realize. Despite the cap, this holding has proved extraordinarily
+profitable thanks to a move by your Chairman that combined luck and skill
+-- 110% luck, the balance skill.
+
+Our Percs were due to convert into
+common stock in August 1994, and in the month before I was mulling whether
+to sell upon conversion. One reason to hold was Amex's outstanding CEO,
+Harvey Golub, who seemed likely to maximize whatever potential the company
+had (a supposition that has since been proved -- in spades). But the size
+of that potential was in question: Amex faced relentless competition from
+a multitude of card-issuers, led by Visa. Weighing the arguments, I leaned
+toward sale.
+
+Here's where I got lucky. During
+that month of decision, I played golf at Prouts Neck, Maine with Frank
+Olson, CEO of Hertz. Frank is a brilliant manager, with intimate knowledge
+of the card business. So from the first tee on I was quizzing him about
+the industry. By the time we reached the second green, Frank had convinced
+me that Amex's corporate card was a terrific franchise, and I had decided
+not to sell. On the back nine I turned buyer, and in a few months Berkshire
+owned 10% of the company.
+
+We now have a $3 billion gain in
+our Amex shares, and I naturally feel very grateful to Frank. But George
+Gillespie, our mutual friend, says that I am confused about where my gratitude
+should go. After all, he points out, it was he who arranged the game and
+assigned me to Frank's foursome.
+
+Quarterly Reports to Shareholders
+
+In last year's letter, I described
+the growing costs we incur in mailing quarterly reports and the problems
+we have encountered in delivering them to "street-name" shareholders.
+I asked for your opinion about the desirability of our continuing to print
+reports, given that we now publish our quarterly and annual communications
+on the Internet, at our site, www.berkshirehathaway.com. Relatively few
+shareholders responded, but it is clear that at least a small number who
+want the quarterly information have no interest in getting it off the Internet.
+Being a life-long sufferer from technophobia, I can empathize with this
+group.
+
+The cost of publishing quarterlies,
+however, continues to balloon, and we have therefore decided to send printed
+versions only to shareholders who request them. If you wish the quarterlies,
+please complete the reply card that is bound into this report. In the meantime,
+be assured that all shareholders will continue to receive the annual report in printed form.
+
+Those of you who enjoy the computer
+should check out our home page. It contains a large amount of current information
+about Berkshire and also all of our annual letters since 1977. In addition,
+our website includes links to the home pages of many Berkshire subsidiaries.
+On these sites you can learn more about our subsidiaries' products and
+-- yes -- even place orders for them.
+
+We are required to file our quarterly
+information with the SEC no later than 45 days after the end of each quarter.
+One of our goals in posting communications on the Internet is to make this
+material information -- in full detail and in a form unfiltered by the
+media -- simultaneously available to all interested parties at a time when
+markets are closed. Accordingly, we plan to send our 1998 quarterly information
+to the SEC on three Fridays, May 15, August 14, and November 13, and on
+those nights to post the same information on the Internet. This procedure
+will put all of our shareholders, whether they be direct or "street-name,"
+on an equal footing. Similarly, we will post our 1998 annual report on
+the Internet on Saturday, March 13, 1999, and mail it at about the same
+time.
+
+Shareholder-Designated Contributions
+
+About 97.7% of all eligible shares
+participated in Berkshire's 1997 shareholder-designated contributions program.
+Contributions made were $15.4 million, and 3,830 charities were recipients.
+A full description of the program appears on pages 52 - 53.
+
+Cumulatively, over the 17 years
+of the program, Berkshire has made contributions of $113.1 million pursuant
+to the instructions of our shareholders. The rest of Berkshire's giving
+is done by our subsidiaries, which stick to the philanthropic patterns
+that prevailed before they were acquired (except that their former owners
+themselves take on the responsibility for their personal charities). In
+aggregate, our subsidiaries made contributions of $8.1 million in 1997,
+including in-kind donations of $4.4 million.
+
+Every year a few shareholders miss
+out on our contributions program because they don't have their shares registered
+in their own names on the prescribed record date or because they fail to
+get the designation form back to us within the 60-day period allowed. Charlie
+and I regret this. But if replies are received late, we have to reject
+them because we can't make exceptions for some shareholders while refusing
+to make them for others.
+
+To participate in future programs,
+you must own Class A shares that are registered in the name of the actual
+owner, not the nominee name of a broker, bank or depository. Shares not
+so registered on August 31, 1998, will be ineligible for the 1998 program.
+When you get the contributions form from us, return it promptly so that
+it does not get put aside or forgotten.
+
+The Annual Meeting
+
+Woodstock Weekend at Berkshire
+will be May 2-4 this year. The finale will be the annual meeting, which
+will begin at 9:30 a.m. on Monday, May 4. Last year we met at Aksarben
+Coliseum, and both our staff and the crowd were delighted with the venue.
+There was only one crisis: The night before the meeting, I lost my voice,
+thereby fulfilling Charlie's wildest fantasy. He was crushed when I showed
+up the next morning with my speech restored.
+
+Last year about 7,500 attended
+the meeting. They represented all 50 states, as well as 16 countries, including
+Australia, Brazil, Israel, Saudi Arabia, Singapore and Greece. Taking into
+account several overflow rooms, we believe that we can handle more than
+11,000 people, and that should put us in good shape this year even though
+our shareholder count has risen significantly. Parking is ample at Aksarben;
+acoustics are excellent; and seats are comfortable.
+
+The doors will open at 7 a.m. on
+Monday and at 8:30 we will again feature the world premiere of a movie
+epic produced by Marc Hamburg, our CFO. The meeting will last until 3:30,
+with a short break at noon. This interval will permit the exhausted to
+leave unnoticed and allow time for the hardcore to lunch at Aksarben's
+concession stands. Charlie and I enjoy questions from owners, so bring
+up whatever is on your mind.
+
+Berkshire products will again be for sale in the halls outside the meeting room. Last year -- not
+that I pay attention to this sort of thing -- we again set sales records,
+moving 2,500 pounds of See's candy, 1,350 pairs of Dexter shoes, $75,000
+of World Books and related publications, and 888 sets of Quikut knives.
+We also took orders for a new line of apparel, featuring our Berkshire
+logo, and sold about 1,000 polo, sweat, and T-shirts. At this year's meeting,
+we will unveil our 1998 collection.
+
+GEICO will again be on hand with
+a booth staffed by star associates from its regional offices. Find out
+whether you can save money by shifting your auto insurance to GEICO. About
+40% of those who check us out learn that savings are possible. The proportion
+is not 100% because insurers differ in their underwriting judgments, with
+some favoring drivers who live in certain geographical areas and work at
+certain occupations more than we do. We believe, however, that we more
+frequently offer the low price than does any other national carrier selling
+insurance to all comers. In the GEICO informational material that accompanies
+this report, you will see that in 38 states we now offer a special discount
+of as much as 8% to our shareholders. We also have applications pending
+that would extend this discount to drivers in other states.
+
+An attachment to the proxy material
+that is enclosed with this report explains how you can obtain the card
+you will need for admission to the meeting. We expect a large crowd, so
+get plane, hotel and car reservations promptly. American Express (800-799-6634)
+will be happy to help you with arrangements. As usual, we will have buses
+at the larger hotels that will take you to and from the meeting and also
+deliver you to Nebraska Furniture Mart, Borsheim's and the airport after
+its conclusion. You are likely, however, to find a car handy.
+
+NFM's main store, located on a
+75-acre site about a mile from Aksarben, is open from 10 a.m. to 9 p.m.
+on weekdays, 10 a.m. to 6 p.m. on Saturdays, and noon to 6 p.m. on Sundays.
+During the period from May 1 to May 5, shareholders who present NFM with
+the coupon that will accompany their meeting ticket will be entitled to
+a discount that is otherwise restricted to its employees.
+
+Borsheim's normally is closed on
+Sunday but will be open for shareholders from 10 a.m. to 6 p.m. on May
+3rd. Last year was our second-best shareholder's day, exceeded only by
+1996's. I regard this slippage as an anomaly and hope that you will prove
+me right this year. Charlie will be available for autographs. He smiles,
+however, only if the paper he signs is a Borsheim's sales ticket. Shareholders
+who wish to visit on Saturday (10 a.m. to 5:30 p.m.) or on Monday (10 a.m.-8
+p.m.) should be sure to identify themselves as Berkshire owners so that
+Susan Jacques, Borsheim's CEO, can make you especially welcome. Susan,
+I should add, had a fabulous year in 1997. As a manager, she is everything
+that an owner hopes for.
+
+On Sunday afternoon we will also
+have a special treat for bridge players in the mall outside of Borsheim's.
+There, Bob Hamman -- a legend of the game for more than three decades --
+will take on all comers. Join in and dazzle Bob with your skill.
+
+My favorite steakhouse, Gorat's,
+opens one Sunday a year -- for Berkshire shareholders on the night before
+the annual meeting. Last year the restaurant started serving at 4 p.m.
+and finished about 1:30 a.m, an endurance trial that was the result of
+taking 1,100 reservations vs. a seating capacity of 235. If you make a
+reservation and then can't attend, be sure to let Gorat's know promptly,
+since it goes to great effort to help us and we want to reciprocate. You
+can make reservations beginning on April 1st ( but not before ) by
+calling 402-551-3733. Last year I had to leave Gorat's a little early because
+of my voice problem, but this year I plan to leisurely savor every bite
+of my rare T-bone and double order of hash browns.
+
+After this warmup, Charlie and
+I will head for the Dairy Queen on 114th, just south of Dodge. There are
+12 great Dairy Queens in metropolitan Omaha, but the 114th Street location
+is the best suited to handle the large crowd that we expect. South of the
+property, there are hundreds of parking spaces on both sides of the street.
+Also, this Dairy Queen will extend its Sunday hours to 11 p.m. in order
+to accommodate our shareholders.
+
+The 114th Street operation is now
+run by two sisters, Coni Birge and Deb Novotny, whose grandfather put up
+the building in 1962 at what was then the outer edge of the city. Their
+mother, Jan Noble, took over in 1972, and Coni and Deb continue as third
+generation owner-managers. Jan, Coni and Deb will all be on hand Sunday
+evening, and I hope that you meet them. Enjoy one of their hamburgers if
+you can't get into Gorat's. And then, around eight o'clock, join me in
+having a Dusty Sundae for dessert. This item is a personal specialty --
+the Dairy Queen will furnish you a copy of my recipe -- and will be offered
+only on Shareholder Sunday.
+
+The Omaha Royals and Albuquerque
+Dukes will play baseball on Saturday evening, May 2nd, at Rosenblatt Stadium.
+As usual, your Chairman, shamelessly exploiting his 25% ownership of the
+team, will take the mound. But this year you will see something new.
+
+In past games, much to the bafflement
+of the crowd, I have shaken off the catcher's first call. He has consistently
+asked for my sweeping curve, and I have just as regularly resisted. Instead,
+I have served up a pathetic fast ball, which on my best day was clocked
+at eight miles per hour (with a following wind).
+
+There's a story behind my unwillingness
+to throw the curve ball. As some of you may know, Candy Cummings invented
+the curve in 1867 and used it to great effect in the National Association,
+where he never won less than 28 games in a season. The pitch, however,
+drew immediate criticism from the very highest of authorities, namely Charles
+Elliott, then president of Harvard University, who declared, "I have
+heard that this year we at Harvard won the baseball championship because
+we have a pitcher who has a fine curve ball. I am further instructed that
+the purpose of the curve ball is to deliberately deceive the batter. Harvard
+is not in the business of teaching deception." (I'm not making this
+up.)
+
+Ever since I learned of President
+Elliott's moral teachings on this subject, I have scrupulously refrained
+from using my curve, however devastating its effect might have been on
+hapless batters. Now, however, it is time for my karma to run over Elliott's
+dogma and for me to quit holding back. Visit the park on Saturday night
+and marvel at the majestic arc of my breaking ball.
+
+Our proxy statement includes information
+about obtaining tickets to the game. We will also provide an information
+packet describing the local hot spots, including, of course, those 12 Dairy
+Queens.
+
+Come to Omaha -- the cradle of
+capitalism -- in May and enjoy yourself.

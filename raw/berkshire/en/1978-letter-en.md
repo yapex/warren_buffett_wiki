@@ -1,87 +1,527 @@
-yQT�~�������p��"0n�c��ۯ2W��:�_��h;�$0f��
-����vLK)9�R��d��/7�OU�^��~
-`#��a���>�
-���2yPp����f�����P
-�
-b�xι��^�����H3�`��7�B�����,5�uC�A���8�"EƘLY� R)DJ��li����f@m�8Ct��Rr�u�cc*�%v��4� d�#�۵*��	fڀc��`CZ�髴&�F�bghpɗ��2dj�h3��7[���m����C�b��o+`G��*S;@�
-�����u�Z�_^�כ�b��_�������;�gS.��uoi�$Y��U��IVtv{������I%y������E@�	/)�b���������A#���V���˻뗣����׷w��Fϥ��C��
-`�xu�3hɶ�WX������~����_n�������ȯ7w��|y�����������_<��-��n�i>n�?��b�~��/���������ӣ��}���s�7�!V�OWG����K����75�����&��=�����{)���4�5>s&�$�x$�8e�E9�X*O�'���w�~�
-v
-E��i����9�@�����w׍~gy`M��
-D3P�������UB���
-���o��2w3�.A�����5��+�*��J�J����؛�(x�%&�Z�|�>re�s��i20���d��(E��I����J�H/��{�р�D��
-�G3"gp���	M�����d�'0�A�"��Cc��x�!�[XYv�
-޽��7��Q�F^�V����j�'�bV�e��.t����dm������OG��\�e�-�;����KQ����*Q?��q�ev֬�6�o�]����@�3�P �S���_�(�3�4�8.�B�s�R�R��3�pG��);JTeNb�,�82�u6�����ؚ���؎yh��;<�Qſx�\c;;�j;f�F��ӵ��x(�g6�ZL�^��=�<,����r;#�YT�	/��ڈ�*�iR���z	z��$Ϩ�q�-{2~�y�:����'�/��2*�
-��L����7,��i	�D�A�%|�kJ�Ga��#��:���˜�3zM�1Z�t��K����}����TF�������*O�pg�	T
-͌�4�#�:���`7�i�)߀4�
-����u	�qF�'0�TwoW8X��y>�[�F$���c�krB1��W}�p/����@�#k�ٗ5Q�ͼ�S�F4����2O�\�
-���k����$���CR��7qa��'�D�0D�0	d����[H�-v?�^�B�^������r�SgQR��p@��"7���{���FOR��ͦËG$����<���Zh*��3��|7A�`���6%~a@]�ՠ�P���-��p.afTr�
-��8�wJ�wͷ�#X=>Y̘�2\�&� �=�u�Ĉ.)~��{�n
-pM��,�3��_>��üB��6��r[6ճQ�Ɯ�&Gx'�R_���A�}�ִ�m�L�6F�}&M�[�ݖ4��A����zQ�p���#�p�����?�UZ��"�%�6ͻrx�*Z�w6C"�{���b�d�ی��ക%3EM�Sc:;�RV��Tɻ�l�%�[�w��������E	>����M:�6�}�M�%���&�P�͌�%��|�jS�~�S[lY�}�n{�L6�ny�GC��4��
-f��K�zX��c; w]�0'���O:�����eϔ�eok�U���L��:p��F�)L�1������n��J����C���M�nfFʳ�}���
-9}E�Nl���^��M+Z��Gc��i7�����:�)0�#�M:+
-�*�F ��O�>˻Ģ��[��|&a����(,����&��.<-�9
-"̦�Km�O�zd�Oy'� #$$�f�(7q*�����SΌo�����M����$�6�^�� �݌H=�ﭕqU�<� �gn��1Bx91S�Faɶ���>�5g�h�p�??=lnzI̽s8�� \��C��3�J�.�����D��HPj�u�	Yc��:�n��\�͌0��Wg`aA�O+3�"���!�`�'�(��	F<�!K����	��6�T6?�NJӻi6(L��x�!v�����fM�#�?��N m:	���[&\�Ϡ�E�LS+`�F�hm�i�e�=�6.�g_ߴ��N�#g,��_�8kd<\g��3�jM����dc��Ɖ�0w
-Ɍ��5��
-K]&;	̷�5�_��m���T,
-n�߾�	�R
-c�2�և��q6�����A�l��91UmK���"ES|˯���X^`S��AcC���(&Ң���֦&���'�4�f�:&�.���ؑkd��� ?�W�U�w�������m�L�^����v���r��6���Rܣ�Ȑ��]7F�dd'L\�!f}tpv|¿��Z���&��7��S�"���;@0��Wg2��Xdz�-)wOe�LJ���~��s�6h�^�:E���GR���璈��,:����/��1l&4؀HByR��V9ݚlд��
-�a_С�J�b����}ˠ��s��]E�[D��KZ�.d	[Cu(�GקnQ�?I����v����wmL�˚ri�!moS��-�̾\��^"[^Ґ��IQ�g4փ�a���_���f2�y�©��%�]����=��d����ͣE�$IH4Hݷ�׆^,qɟ�F�O4��I�q�kX��ۯ�7؀[tn>��G�M{	s���/립����k�}��o���l�sIk�?�V?��W����y�]��k�/���}���=��v<��Ʋ�cS���u͏��1HN��J[��w�����$JVg_^U�w$�=��}��	_�����w<�6����p7-`��[͏ǠF!��@���H|5�6��aj*��s7��B�y�$:����<O˗���}B6����o��l�c���o�����6F���%!
-�	K��>��v��laĖ�%�%��������?�V�7��!YSJ���]�&~զA���4(�LeP��M�A�m��P~�o�Ů���1����J��e���
-�a�|dW�#�XveI��>9����d�|���m<$C��[k�h#�����K%}�8Ɣ�׉��M���@��L��&�7���3�N�w��\�!(���/�0�/Ϳ���Ti�j��"_�Z;��D�����&�98=0F�nPd���
-|��h`}��9���qt�3�Z���A��L��E��D��k�|�^ʼ�R�r�ס[����oԨ�����B��[je�Rj�-Y��H�y	�޹�����8-�
-3s�������ʜ>���Δ��ٷ�9�/Uz�N%�ƹ��J	�Z�D@�6��B����dN\��S'��z��
-����>;~�Ы����S��%&^�zE���������0ݷ^�KEօ��PN��[Q�M���
-H���+�r�u�n#�:I*x�3�=n��vTN'@��B�ER۵�D$|�m��5;�@d�V��P�����5�W@�ǔ�vH�0$KS�ƫ���}�v���e!lݏ�͇��l��~9�eL��T�p�,����>����ߘ����WuY�	<&D�b��u{�z�`Y���F�M����XP�+����25�o|��^�	�Nn��;�E�N��"J��L��"��>�[5�%w��9>>=�X�wb%nP Gw�z��
-��X����1�j��j��Í��)�ɨ�H]�]��7���k�UCS�w��݃U��5����j�!��n��\(�&�
-���G,��}��h=2Qށ�����4hI4
-��쿣�`R�콤���h�w
--k�
-jM@�"` m�����ì5�|?��4��B7�`N���5�k���&���JV݅��� z�^f��
-�G�ή;��.����R�c���6�cb�YX`؀xsE�e�y7�o:yA�P�"����Zl�
-Z��������dj">�M��KG�cy*@��9PL�2��r%���	o���K�
-'`��w{Z�
-=b�v�vC}w�G��7��KfB��>��R.R]��&@+N>�-��-
-��_�����J��
-���o��P��I��Pex9|�kW4���Y��Dt�����DAoC-���߉�G]h��:n��KZ��h�ێ��?F�d4"|.�g����&��]A:���@	�)���ڽ�B��2l�4���Sϒ�L�G>��*z3H�`��k��M�t��x�����֫$׎'�Xȷ6�ǥ�e�8Ҳ&)�D���B}��꠭�)H�PH�_�T/�|
-��Nc��%j�N>WI|��F{��i�MA�ci�
-�FƉT���3�B.Mu�;i71+p�=�U.��HÊ3�����������,��<��h�������@m4��G�hZ�#��W�K�\
-��n2�r��O�n�ZNԗ`
-[�^�3D���V*�e?Ƣ�7,N�A��x�݌@��]���J��%���H�2˜��'��b�X/q;�J�/O��uu�hl{(?<�7�^e�3���"_��n_ܸ&Œ�_{m�Z&"E�a4�ɦ�~>����c�j_.�C���z�(�D�Z�&�@�S�C�
-E�=�%7�KW�y���W`��&�>-vQ��s�ɕ���y��,��׻F���@�8Z)�r�!��G�by��l�|�)A!Ɵ�q'�
-[������6�.�
-���g��(���[SD5�q�ZՒ�z�@�k�H�j�ι����^t��g�w
-!*�Ln�
-�j%+�-3�x7Y`u��*�c��,�'d&���xy����y�w�uWy��t+�E7+����mG���T��M
-ԥ���=J7�)���|x��PUW����i|"��/1�6z�8���	�C�ϛn��"��@�*�j��2`��np���xrPۏ^��
-،��[����t�]&�ո�0�]��Z��������G|��N��j���5k��ø++Z��&�4}Y����7��2X"pŸM����u�M�Vyv����.�򨋯u�;re�vpU���ݥl"j��9s���7��#|S��<�!���O�ܻ�Ϧ�l�ʐ*Ϭ��G_y��]ǌ��a;հ{���a��kz�!��8F��p�M�m��l*�c�Ȅ3����u"������R���m#�M�w�]��ם�����G7�|`.AKwӘŤ�Y�m*�1j�g�h���B��6����A���_x&������4����ԁ0����a<�P�c�ػ���}�ͅ��+1���jH��+����H�e�i(aN�;���'��x��)Վ[ۏe6�Ez�(��t��S��YVR�"��Taڞ�Lo��`m��'x6�tY�eh�r��Μ«���#���t���NL3J'�$�Fr�L�|O�fK�!��>S������z��*Y���ZL��Շj�/ܻ�Q���zh�F����mv�j�P{��|�_c�, ~��ݹb4m���ɏNȡ�����h���������M��Saȏ�l�d��p�Zҏ�=�RR��M�cHob����eF̜���i���@ΰ��X�iuA��UX���Z�5���S�x�eh�I��zc�Vq�`�O��8�<��M�.���u1b�c>�0F/��ף»�Y��3��&����܄/�lJ��!��(��ִm��1iK^(��Z1f/�5,�΂)� C�;��|�c���р@t��(��%Hcõx��q�g��/Ā)S�Ӵ eڎm�́�!����Y���	AL�&�Y��6^�j�V��`������T�ƄOCGӡf��S�h"�� 6�{(��fЏ�t0��T}=��o	�2M7�H�VȊ@� �2`�
-�I݂ Ӝ �2`�
-�I݂�M��)��[Pu��Ëԅ�lb¡A�i��PľX��F�*9*�5�=�x�V4.��d�C��
-�.�b���y�}��Db��\M�(S�.T�Tr�B
-1D`�R#K�pf9v�[	s�`�`��������riB!����w
-Iym
-��"KsDN�
-��YX�����RG���b���\/�B4yL�M�FV��j\�W���jc�
-�N���2�U�*lW
-.�;�w]�͸W���K�O!�BK��V�9*�B�[�{�5�׈�~wp���q>�D�@m��B��O)�������S$
-:mT�K��~Z�����/iD��+�K��g|�ʵB����3v�rf8F��A1��?Sl߇�v��O�4}�3�~��8
-��c/��UKȧ���8��j�@ܜ�'����x�\&�t���@/������өF5�䛏��Sj���_M��򀺊,�g����=���I��p�`���]a�e�E�����A�]��BI� �U�Z�l�P>�:ٔ+�ujjx�?Y��gC�')���4!~Բ3�Q}N�8��l9�t�ə��=?nj�����G���
-ӹʭ+���K��B��`}��d��O�i����X�::���T�F��v��[x`�
-���<;�%���G���}J{�J+S��K�hHF%f��g�]��J�����R������w���h��T�`t�����:�$%0U4lVx���f�W�6;_^�~
-�k%���:m������3F˥�º=�b.d����l�u쏘�}xז�X��@�Y���+���M�=�"GY���慑>���Z,#��M	�Mr�y�arס��>��C��/1��qy$�BW&rH���l����{x��Zt7��30�f@s���I�I9����+��r>l�F�l�3��xv��Hw��߁2����E��ΰ���b ��6$_�ny��y��
-���q�z�Ql���(f7B���Q���p�ʼ֩vR%��h�R�e�)Cq���c3f3M/-%`aUGI�E7>��m_�6|�g&P��M��W�ӄ�'ɜ����?��*�=Qʩ_w�Ē�!c'��5~��]���K`�FlW��^5�BȁL�}�:���䮟{�%��9�O�3�h���9�ʾ���ݿ�wEA�zo=��uO|2����^ڈ�r��m9��2�a��{Zj���"���P}<4(8�_T�Mh�)B��pC��x�Xc�3=������U���H!фO�����!�Π�<�w���������yTdH�LT��K4J>�����p�[O��Wi�/�Wؿ,	zo���9L�'�
-��C8�*�+��n����;4�ƶ�4۶�ԛ���������S|i\diQB�A�����"
-��������w#�F���\(}2��1��=6��9{�r#>�~�0:篷z1�l��ʧ�5e����JL�{�\��CbFK�#QI)�K?�����h���Qjg3`��h�K�J踯��w�7?=vx�̊��4�@�8�e!�e6O彸w�HU�e,�g`,���:����@kr��N��CY4�V����"HB�z#����w��D>�*�'@O��h��0˩u�v�m��PJ��,S�^�>+Ҍ��ߴ�^N��y�|^�n�*���U����V�o�:^�XͶ���:W�R���В�
-w�rj�� 1�=�m�����\$�j*����[�0>l�)�j��,������T!�3d�h�Ȝ��:N0�=���J񲤈�oJ�B���!���9��tX.W.'��o6��OX��TW~���dpTb��@������ga1���:5qh\:b�^����*w
-�;qs\�A�(U
-ϊn	�# -Y�8PL������br7��4喤�q>\� �T5sn�����gn�JS,!���V/p�-�rw.^�,֜����	K7�1(c��XY5;H��]QeoxOPȣ/�xk��D�t7�5���:ySU��] o�D����sKCۧ���[�WNl�9��S(�"ʆ��6�Mk�0�K%7M������/���4[�|�9Z�&�V�-���T"p�3<�w���TW=�U�-�i�c%q�G��-h��,���:u�*�E_FW���X�ڹ|�,���
-��9�W�U�V��ܚ�۩v�7�v
-���4�ڦݕ�Te����d�5���,SD�*���,`s�-x�:�`�����$�#]�Q�V!xD ��UY�/6�	���=�%��HK�
-R�/��<^�x�:�f��D�_sO����
-���	B���8(��N����83ԩ�3�f�!�`*�h)�Q�J5���/�d��y��9�g�%�;/�Hޣ(����/鉌�Pc
-ӻ
-7`��37�꺴̺�	7ӣD�0X�>5�\ԁ���l��)�tد�l��B���^릻�J1��~�����g�}ih�0"E��y!�U���7w�3��9�W�U��H���|���go�\����Pm�S���U��&
-��U��T�1�	+�A�x��'�!a����`�!Z%9$���Q�������
-���-Α8�����&j&�9�+��m�9���!�_z��5+����X����&�RO;yU,-��u�_-��jV�˘�0>���ky@i����R��w���E^�z�^�g�3��	�^�&:��׶y�hߕ,�X���jH���u#��8'��$�
-�U���: %���$�l�En��������)\M�5g}Y��L��=����~��%3(��h��ߖ�6F����xm���D��L6��V���?�dYX�T��mO�9�ѯ��z�1Q�0<Q�0<��xD4�J2�a��|��%j0�T�ۇ�|d"��Ye�|p�'�묲�*�蕨��E����eYD9d���� �0��e���!]k�=�Dm�3�'����~�:���qY<�y9s\hU��3���UA�j�p@,��١�ˢw-/�����&Jœ�]�E:(�����
-^M��U9TZՉY�8�Q�����Y>K2�X�Q?�"8����T(V��tL~��\�w!��fБl�K�����ᙢ��t��I�eSO��{V�5"4�Nz�X��F�BI�%�aw{�Lxִ�����WE�P���p���	�!�{ߩ���]����N�֧�Y�G�Q�L��؛��2��K@���\���#m�� ]<)�ބ�E#�T���8�vJ���a�M�t~T���#�ˇ�A��\"ԘWr2FNsG/������Y���$�뉝+�IB�2��9o��R∻���u�9�E�0Ҕ��y�=o��xu�'��:귋�޽�ww
+# Berkshire Hathaway Shareholder Letter 1978
+
+BERKSHIRE HATHAWAY INC.
+To the Shareholders of Berkshire Hathaway Inc.:
+First, a few words about accounting.  The merger with 
+Diversified Retailing Company, Inc. at yearend adds two new 
+complications in the presentation of our financial results.  
+After the merger, our ownership of Blue Chip Stamps increased to 
+approximately 58% and, therefore, the accounts of that company 
+must be fully consolidated in the Balance Sheet and Statement of 
+Earnings presentation of Berkshire.  In previous reports, our 
+share of the net earnings only of Blue Chip had been included as 
+a single item on Berkshires Statement of Earnings, and there had 
+been a similar one-line inclusion on our Balance Sheet of our 
+share of their net assets.
+
+     This full consolidation of sales, expenses, receivables, 
+inventories, debt, etc. produces an aggregation of figures from 
+many diverse businesses - textiles, insurance, candy, newspapers, 
+trading stamps - with dramatically different economic 
+characteristics.  In some of these your ownership is 100% but, in 
+those businesses which are owned by Blue Chip but fully 
+consolidated, your ownership as a Berkshire shareholder is only 
+58%. (Ownership by others of the balance of these businesses is 
+accounted for by the large minority interest item on the 
+liability side of the Balance Sheet.) Such a grouping of Balance 
+Sheet and Earnings items - some wholly owned, some partly owned - 
+tends to obscure economic reality more than illuminate it.  In 
+fact, it represents a form of presentation that we never prepare 
+for internal use during the year and which is of no value to us 
+in any management activities.
+
+     For that reason, throughout the report we provide much 
+separate financial information and commentary on the various 
+segments of the business to help you evaluate Berkshires 
+performance and prospects.  Much of this segmented information is 
+mandated by SEC disclosure rules and covered in Managements 
+Discussion on pages 29 to 34.  And in this letter we try to 
+present to you a view of our various operating entities from the 
+same perspective that we view them managerially.
+
+     A second complication arising from the merger is that the 
+1977 figures shown in this report are different from the 1977 
+figures shown in the report we mailed to you last year.  
+Accounting convention requires that when two entities such as 
+Diversified and Berkshire are merged, all financial data 
+subsequently must be presented as if the companies had been 
+merged at the time they were formed rather than just recently.  
+So the enclosed financial statements, in effect, pretend that in 
+1977 (and earlier years) the Diversified-Berkshire merger already 
+had taken place, even though the actual merger date was December 
+30, 1978.  This shifting base makes comparative commentary 
+confusing and, from time to time in our narrative report, we will 
+talk of figures and performance for Berkshire shareholders as 
+historically reported to you rather than as restated after the 
+Diversified merger.
+
+     With that preamble it can be stated that, with or without 
+restated figures, 1978 was a good year.  Operating earnings, 
+exclusive of capital gains, at 19.4% of beginning shareholders 
+investment were within a fraction of our 1972 record.  While we 
+believe it is improper to include capital gains or losses in 
+evaluating the performance of a single year, they are an 
+important component of the longer term record.  Because of such 
+gains, Berkshires long-term growth in equity per share has been 
+greater than would be indicated by compounding the returns from 
+operating earnings that we have reported annually.
+
+     For example, over the last three years - generally a bonanza 
+period for the insurance industry, our largest profit producer - 
+Berkshires per share net worth virtually has doubled, thereby 
+compounding at about 25% annually through a combination of good 
+operating earnings and fairly substantial capital gains.  Neither 
+this 25% equity gain from all sources nor the 19.4% equity gain 
+from operating earnings in 1978 is sustainable.  The insurance 
+cycle has turned downward in 1979, and it is almost certain that 
+operating earnings measured by return on equity will fall this 
+year.  However, operating earnings measured in dollars are likely 
+to increase on the much larger shareholders equity now employed 
+in the business.
+
+     In contrast to this cautious view about near term return 
+from operations, we are optimistic about prospects for long term 
+return from major equity investments held by our insurance 
+companies.  We make no attempt to predict how security markets 
+will behave; successfully forecasting short term stock price 
+movements is something we think neither we nor anyone else can 
+do.  In the longer run, however, we feel that many of our major 
+equity holdings are going to be worth considerably more money 
+than we paid, and that investment gains will add significantly to 
+the operating returns of the insurance group.
+Sources of Earnings
+To give you a better picture of just where Berkshires 
+earnings are produced, we show below a table which requires a 
+little explanation.  Berkshire owns close to 58% of Blue Chip 
+which, in addition to 100% ownership of several businesses, owns 
+80% of Wesco Financial Corporation.  Thus, Berkshires equity in 
+Wescos earnings is about 46%.  In aggregate, businesses that we 
+control have about 7,000 full-time employees and generate 
+revenues of over $500 million.
+
+     The table shows the overall earnings of each major operating 
+category on a pre-tax basis (several of the businesses have low 
+tax rates because of significant amounts of tax-exempt interest 
+and dividend income), as well as the share of those earnings 
+belonging to Berkshire both on a pre-tax and after-tax basis.  
+Significant capital gains or losses attributable to any of the 
+businesses are not shown in the operating earnings figure, but 
+are aggregated on the Realized Securities Gain line at the 
+bottom of the table.  Because of various accounting and tax 
+intricacies, the figures in the table should not be treated as 
+holy writ, but rather viewed as close approximations of the 1977 
+and 1978 earnings contributions of our constituent businesses.
+Net Earnings
+                                   Earnings Before Income Taxes            After Tax
+                              --------------------------------------  ------------------
+                                    Total          Berkshire Share     Berkshire Share
+                              ------------------  ------------------  ------------------
+(in thousands of dollars)       1978      1977      1978      1977      1978      1977
+--------  --------  --------  --------  --------  --------
+Total - all entities ......... $66,180   $57,089   $54,350   $42,234   $39,242   $30,393
+                              ========  ========  ========  ========  ========  ========
+Earnings from operations:
+  Insurance Group:
+    Underwriting ............. $ 3,001   $ 5,802   $ 3,000   $ 5,802   $ 1,560   $ 3,017
+    Net investment income ....  19,705    12,804    19,691    12,804    16,400    11,360
+  Berkshire-Waumbec textiles     2,916      (620)    2,916      (620)    1,342      (322)
+  Associated Retail 
+     Stores, Inc. ............   2,757     2,775     2,757     2,775     1,176     1,429
+  Sees Candies ..............  12,482    12,840     7,013     6,598     3,049     2,974
+  Buffalo Evening News .......  (2,913)      751    (1,637)      389      (738)      158
+  Blue Chip Stamps - Parent ..   2,133     1,091     1,198       566     1,382       892
+  Illinois National Bank
+     and Trust Company .......   4,822     3,800     4,710     3,706     4,262     3,288
+  Wesco Financial
+     Corporation - Parent ....   1,771     2,006       777       813       665       419
+  Mutual Savings and
+     Loan Association ........  10,556     6,779     4,638     2,747     3,042     1,946
+  Interest on Debt ...........  (5,566)   (5,302)   (4,546)   (4,255)   (2,349)   (2,129)
+  Other ......................     720       165       438       102       261        48
+                              --------  --------  --------  --------  --------  --------
+    Total Earnings from
+       Operations ............ $52,384   $42,891   $40,955   $31,427   $30,052   $23,080
+Realized Securities Gain .....  13,796    14,198    13,395    10,807     9,190     7,313
+                              --------  --------  --------  --------  --------  --------
+    Total Earnings ........... $66,180   $57,089   $54,350   $42,234   $39,242   $30,393
+                              ========  ========  ========  ========  ========  ========
+
+     Blue Chip and Wesco are public companies with reporting 
+requirements of their own.  Later in this report we are 
+reproducing the narrative reports of the principal executives of 
+both companies, describing their 1978 operations.  Some of the 
+figures they utilize will not match to the penny the ones we use 
+in this report, again because of accounting and tax complexities.  
+But their comments should be helpful to you in understanding the 
+underlying economic characteristics of these important partly-
+owned businesses.  A copy of the full annual report of either 
+company will be mailed to any shareholder of Berkshire upon 
+request to Mr. Robert H. Bird for Blue Chips Stamps, 5801 South 
+Eastern Avenue, Los Angeles, California 90040, or to Mrs. Bette 
+Deckard for Wesco Financial Corporation, 315 East Colorado 
+Boulevard, Pasadena, California 91109.
+Textiles
+Earnings of $1.3 million in 1978, while much improved from 
+1977, still represent a low return on the $17 million of capital 
+employed in this business.  Textile plant and equipment are on 
+the books for a very small fraction of what it would cost to 
+replace such equipment today.  And, despite the age of the 
+equipment, much of it is functionally similar to new equipment 
+being installed by the industry.  But despite this bargain cost 
+of fixed assets, capital turnover is relatively low reflecting 
+required high investment levels in receivables and inventory 
+compared to sales.  Slow capital turnover, coupled with low 
+profit margins on sales, inevitably produces inadequate returns 
+on capital.  Obvious approaches to improved profit margins 
+involve differentiation of product, lowered manufacturing costs 
+through more efficient equipment or better utilization of people, 
+redirection toward fabrics enjoying stronger market trends, etc.  
+Our management is diligent in pursuing such objectives.  The 
+problem, of course, is that our competitors are just as 
+diligently doing the same thing.
+
+     The textile industry illustrates in textbook style how 
+producers of relatively undifferentiated goods in capital 
+intensive businesses must earn inadequate returns except under 
+conditions of tight supply or real shortage.  As long as excess 
+productive capacity exists, prices tend to reflect direct 
+operating costs rather than capital employed.  Such a supply-
+excess condition appears likely to prevail most of the time in 
+the textile industry, and our expectations are for profits of 
+relatively modest amounts in relation to capital.
+
+     We hope we dont get into too many more businesses with such 
+tough economic characteristics.  But, as we have stated before: 
+(1) our textile businesses are very important employers in their 
+communities, (2) management has been straightforward in reporting 
+on problems and energetic in attacking them, (3) labor has been 
+cooperative and understanding in facing our common problems, and 
+(4) the business should average modest cash returns relative to 
+investment.  As long as these conditions prevail - and we expect 
+that they will - we intend to continue to support our textile 
+business despite more attractive alternative uses for capital.
+Insurance Underwriting
+The number one contributor to Berkshires overall excellent 
+results in 1978 was the segment of National Indemnity Companys 
+insurance operation run by Phil Liesche.  On about $90 million of 
+earned premiums, an underwriting profit of approximately $11 
+million was realized, a truly extraordinary achievement even 
+against the background of excellent industry conditions.  Under 
+Phils leadership, with outstanding assistance by Roland Miller 
+in Underwriting and Bill Lyons in Claims, this segment of 
+National Indemnity (including National Fire and Marine Insurance 
+Company, which operates as a running mate) had one of its best 
+years in a long history of performances which, in aggregate, far 
+outshine those of the industry.  Present successes reflect credit 
+not only upon present managers, but equally upon the business 
+talents of Jack Ringwalt, founder of National Indemnity, whose 
+operating philosophy remains etched upon the company.
+
+     Home and Automobile Insurance Company had its best year 
+since John Seward stepped in and straightened things out in 1975.  
+Its results are combined in this report with those of Phil 
+Liesches operation under the insurance category entitled 
+Specialized Auto and General Liability.
+
+     Workers Compensation was a mixed bag in 1978.  In its first 
+year as a subsidiary, Cypress Insurance Company, managed by Milt 
+Thornton, turned in outstanding results.  The workers 
+compensation line can cause large underwriting losses when rapid 
+inflation interacts with changing social concepts, but Milt has a 
+cautious and highly professional staff to cope with these 
+problems.  His performance in 1978 has reinforced our very good 
+feelings about this purchase.
+
+     Frank DeNardo came with us in the spring of 1978 to 
+straighten out National Indemnitys California Workers 
+Compensation business which, up to that point, had been a 
+disaster.  Frank has the experience and intellect needed to 
+correct the major problems of the Los Angeles office.  Our volume 
+in this department now is running only about 25% of what it was 
+eighteen months ago, and early indications are that Frank is 
+making good progress.
+
+     George Youngs reinsurance department continues to produce 
+very large sums for investment relative to premium volume, and 
+thus gives us reasonably satisfactory overall results.  However, 
+underwriting results still are not what they should be and can 
+be.  It is very easy to fool yourself regarding underwriting 
+results in reinsurance (particularly in casualty lines involving 
+long delays in settlement), and we believe this situation 
+prevails with many of our competitors.  Unfortunately, self-
+delusion in company reserving almost always leads to inadequate 
+industry rate levels.  If major factors in the market dont know 
+their true costs, the competitive fall-out hits all - even 
+those with adequate cost knowledge.  George is quite willing to 
+reduce volume significantly, if needed, to achieve satisfactory 
+underwriting, and we have a great deal of confidence in the long 
+term soundness of this business under his direction.
+
+     The homestate operation was disappointing in 1978.  Our 
+unsatisfactory underwriting, even though partially explained by 
+an unusual incidence of Midwestern storms, is particularly 
+worrisome against the backdrop of very favorable industry results 
+in the conventional lines written by our homestate group.  We 
+have confidence in John Ringwalts ability to correct this 
+situation.  The bright spot in the group was the performance of 
+Kansas Fire and Casualty in its first full year of business.  
+Under Floyd Taylor, this subsidiary got off to a truly remarkable 
+start.  Of course, it takes at least several years to evaluate 
+underwriting results, but the early signs are encouraging and 
+Floyds operation achieved the best loss ratio among the 
+homestate companies in 1978.
+
+     Although some segments were disappointing, overall our 
+insurance operation had an excellent year.  But of course we 
+should expect a good year when the industry is flying high, as in 
+1978.  It is a virtual certainty that in 1979 the combined ratio 
+(see definition on page 31) for the industry will move up at 
+least a few points, perhaps enough to throw the industry as a 
+whole into an underwriting loss position.  For example, in the 
+auto lines - by far the most important area for the industry and 
+for us - CPI figures indicate rates overall were only 3% higher 
+in January 1979 than a year ago.  But the items that make up loss 
+costs - auto repair and medical care costs - were up over 9%.  
+How different than yearend 1976 when rates had advanced over 22% 
+in the preceding twelve months, but costs were up 8%.
+
+     Margins will remain steady only if rates rise as fast as 
+costs.  This assuredly will not be the case in 1979, and 
+conditions probably will worsen in 1980.  Our present thinking is 
+that our underwriting performance relative to the industry will 
+improve somewhat in 1979, but every other insurance management 
+probably views its relative prospects with similar optimism - 
+someone is going to be disappointed.  Even if we do improve 
+relative to others, we may well have a higher combined ratio and 
+lower underwriting profits in 1979 than we achieved last year.
+
+     We continue to look for ways to expand our insurance 
+operation.  But your reaction to this intent should not be 
+unrestrained joy.  Some of our expansion efforts - largely 
+initiated by your Chairman have been lackluster, others have been 
+expensive failures.  We entered the business in 1967 through 
+purchase of the segment which Phil Liesche now manages, and it 
+still remains, by a large margin, the best portion of our 
+insurance business.  It is not easy to buy a good insurance 
+business, but our experience has been that it is easier to buy 
+one than create one.  However, we will continue to try both 
+approaches, since the rewards for success in this field can be 
+exceptional.
+Insurance Investments
+We confess considerable optimism regarding our insurance 
+equity investments.  Of course, our enthusiasm for stocks is not 
+unconditional.  Under some circumstances, common stock 
+investments by insurers make very little sense.
+
+     We get excited enough to commit a big percentage of 
+insurance company net worth to equities only when we find (1) 
+businesses we can understand, (2) with favorable long-term 
+prospects, (3) operated by honest and competent people, and (4) 
+priced very attractively.  We usually can identify a small number 
+of potential investments meeting requirements (1), (2) and (3), 
+but (4) often prevents action.  For example, in 1971 our total 
+common stock position at Berkshires insurance subsidiaries 
+amounted to only $10.7 million at cost, and $11.7 million at 
+market.  There were equities of identifiably excellent companies 
+available - but very few at interesting prices. (An irresistible 
+footnote: in 1971, pension fund managers invested a record 122% 
+of net funds available in equities - at full prices they couldnt 
+buy enough of them.  In 1974, after the bottom had fallen out, 
+they committed a then record low of 21% to stocks.)
+
+     The past few years have been a different story for us.  At 
+the end of 1975 our insurance subsidiaries held common equities 
+with a market value exactly equal to cost of $39.3 million.  At 
+the end of 1978 this position had been increased to equities 
+(including a convertible preferred) with a cost of $129.1 million 
+and a market value of $216.5 million.  During the intervening 
+three years we also had realized pre-tax gains from common 
+equities of approximately $24.7 million.  Therefore, our overall 
+unrealized and realized pre-tax gains in equities for the three 
+year period came to approximately $112 million.  During this same 
+interval the Dow-Jones Industrial Average declined from 852 to 
+805.  It was a marvelous period for the value-oriented equity 
+buyer.
+
+     We continue to find for our insurance portfolios small 
+portions of really outstanding businesses that are available, 
+through the auction pricing mechanism of security markets, at 
+prices dramatically cheaper than the valuations inferior 
+businesses command on negotiated sales.
+
+     This program of acquisition of small fractions of businesses 
+(common stocks) at bargain prices, for which little enthusiasm 
+exists, contrasts sharply with general corporate acquisition 
+activity, for which much enthusiasm exists.  It seems quite clear 
+to us that either corporations are making very significant 
+mistakes in purchasing entire businesses at prices prevailing in 
+negotiated transactions and takeover bids, or that we eventually 
+are going to make considerable sums of money buying small 
+portions of such businesses at the greatly discounted valuations 
+prevailing in the stock market. (A second footnote: in 1978 
+pension managers, a group that logically should maintain the 
+longest of investment perspectives, put only 9% of net available 
+funds into equities - breaking the record low figure set in 1974 
+and tied in 1977.)
+
+     We are not concerned with whether the market quickly 
+revalues upward securities that we believe are selling at bargain 
+prices.  In fact, we prefer just the opposite since, in most 
+years, we expect to have funds available to be a net buyer of 
+securities.  And consistent attractive purchasing is likely to 
+prove to be of more eventual benefit to us than any selling 
+opportunities provided by a short-term run up in stock prices to 
+levels at which we are unwilling to continue buying.
+
+     Our policy is to concentrate holdings.  We try to avoid 
+buying a little of this or that when we are only lukewarm about 
+the business or its price.  When we are convinced as to 
+attractiveness, we believe in buying worthwhile amounts.
+
+Equity holdings of our insurance companies with a market value of 
+over $8 million on December 31, 1978 were as follows:
+No. of
+Shares      Company                                     Cost       Market
+----------  -------                                  ----------  ----------
+                                                         (000s omitted)
+246,450   American Broadcasting Companies, Inc. ... $  6,082    $  8,626
+1,294,308   Government Employees Insurance Company
+               Common Stock .........................    4,116       9,060
+1,986,953   Government Employees Insurance Company 
+               Convertible Preferred ................   19,417      28,314
+  592,650   Interpublic Group of Companies, Inc. ....    4,531      19,039
+1,066,934   Kaiser Aluminum and Chemical Corporation    18,085      18,671
+  453,800   Knight-Ridder Newspapers, Inc. ..........    7,534      10,267
+  953,750   SAFECO Corporation ......................   23,867      26,467
+  934,300   The Washington Post Company .............   10,628      43,445
+                                                     ----------  ----------
+            Total ................................... $ 94,260    $163,889
+            All Other Holdings ......................   39,506      57,040
+                                                     ----------  ----------
+            Total Equities .......................... $133,766    $220,929
+                                                     ==========  ==========
+
+     In some cases our indirect interest in earning power is 
+becoming quite substantial.  For example, note our holdings of 
+953,750 shares of SAFECO Corp. SAFECO probably is the best run 
+large property and casualty insurance company in the United 
+States.  Their underwriting abilities are simply superb, their 
+loss reserving is conservative, and their investment policies 
+make great sense.
+
+     SAFECO is a much better insurance operation than our own 
+(although we believe certain segments of ours are much better 
+than average), is better than one we could develop and, 
+similarly, is far better than any in which we might negotiate 
+purchase of a controlling interest.  Yet our purchase of SAFECO 
+was made at substantially under book value.  We paid less than 
+100 cents on the dollar for the best company in the business, 
+when far more than 100 cents on the dollar is being paid for 
+mediocre companies in corporate transactions.  And there is no 
+way to start a new operation - with necessarily uncertain 
+prospects - at less than 100 cents on the dollar.
+
+     Of course, with a minor interest we do not have the right to 
+direct or even influence management policies of SAFECO.  But why 
+should we wish to do this?  The record would indicate that they 
+do a better job of managing their operations than we could do 
+ourselves.  While there may be less excitement and prestige in 
+sitting back and letting others do the work, we think that is all 
+one loses by accepting a passive participation in excellent 
+management.  Because, quite clearly, if one controlled a company 
+run as well as SAFECO, the proper policy also would be to sit 
+back and let management do its job.
+
+     Earnings attributable to the shares of SAFECO owned by 
+Berkshire at yearend amounted to $6.1 million during 1978, but 
+only the dividends received (about 18% of earnings) are reflected 
+in our operating earnings.  We believe the balance, although not 
+reportable, to be just as real in terms of eventual benefit to us 
+as the amount distributed.  In fact, SAFECOs retained earnings 
+(or those of other well-run companies if they have opportunities 
+to employ additional capital advantageously) may well eventually 
+have a value to shareholders greater than 100 cents on the 
+dollar.
+
+     We are not at all unhappy when our wholly-owned businesses 
+retain all of their earnings if they can utilize internally those 
+funds at attractive rates.  Why should we feel differently about 
+retention of earnings by companies in which we hold small equity 
+interests, but where the record indicates even better prospects 
+for profitable employment of capital? (This proposition cuts the 
+other way, of course, in industries with low capital 
+requirements, or if management has a record of plowing capital 
+into projects of low profitability; then earnings should be paid 
+out or used to repurchase shares - often by far the most 
+attractive option for capital utilization.)
+
+     The aggregate level of such retained earnings attributable 
+to our equity interests in fine companies is becoming quite 
+substantial.  It does not enter into our reported operating 
+earnings, but we feel it well may have equal long-term 
+significance to our shareholders.  Our hope is that conditions 
+continue to prevail in securities markets which allow our 
+insurance companies to buy large amounts of underlying earning 
+power for relatively modest outlays.  At some point market 
+conditions undoubtedly will again preclude such bargain buying 
+but, in the meantime, we will try to make the most of 
+opportunities.
+Banking
+Under Gene Abegg and Pete Jeffrey, the Illinois National 
+Bank and Trust Company in Rockford continues to establish new 
+records.  Last years earnings amounted to approximately 2.1% of 
+average assets, about three times the level averaged by major 
+banks.  In our opinion, this extraordinary level of earnings is 
+being achieved while maintaining significantly less asset risk 
+than prevails at most of the larger banks.
+
+     We purchased the Illinois National Bank in March 1969.  It 
+was a first-class operation then, just as it had been ever since 
+Gene Abegg opened the doors in 1931.  Since 1968, consumer time 
+deposits have quadrupled, net income has tripled and trust 
+department income has more than doubled, while costs have been 
+closely controlled.
+
+     Our experience has been that the manager of an already high-
+cost operation frequently is uncommonly resourceful in finding 
+new ways to add to overhead, while the manager of a tightly-run 
+operation usually continues to find additional methods to curtail 
+costs, even when his costs are already well below those of his 
+competitors.  No one has demonstrated this latter ability better 
+than Gene Abegg.
+
+     We are required to divest our bank by December 31, 1980.  
+The most likely approach is to spin it off to Berkshire 
+shareholders some time in the second half of 1980.
+Retailing
+Upon merging with Diversified, we acquired 100% ownership of 
+Associated Retail Stores, Inc., a chain of about 75 popular 
+priced womens apparel stores.  Associated was launched in 
+Chicago on March 7, 1931 with one store, $3200, and two 
+extraordinary partners, Ben Rosner and Leo Simon.  After Mr. 
+Simons death, the business was offered to Diversified for cash 
+in 1967.  Ben was to continue running the business - and run it, 
+he has.
+
+     Associateds business has not grown, and it consistently has 
+faced adverse demographic and retailing trends.  But Bens 
+combination of merchandising, real estate and cost-containment 
+skills has produced an outstanding record of profitability, with 
+returns on capital necessarily employed in the business often in 
+the 20% after-tax area.
+
+     Ben is now 75 and, like Gene Abegg, 81, at Illinois National 
+and Louie Vincenti, 73, at Wesco, continues daily to bring an 
+almost passionately proprietary attitude to the business.  This 
+group of top managers must appear to an outsider to be an 
+overreaction on our part to an OEO bulletin on age 
+discrimination.  While unorthodox, these relationships have been 
+exceptionally rewarding, both financially and personally.  It is 
+a real pleasure to work with managers who enjoy coming to work 
+each morning and, once there, instinctively and unerringly think 
+like owners.  We are associated with some of the very best.
+
+
+                                    Warren E. Buffett, Chairman
+
+March 26, 1979
