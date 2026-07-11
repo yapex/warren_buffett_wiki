@@ -49,6 +49,6 @@ tags: [股东大会, LTCM, 通用再保险, 衍生品, 互联网, 内在价值]
 - 上一年：[1998 年股东大会](./1998-股东大会.md)
 - 下一年：[2000 年股东大会](./2000-股东大会.md)
 - 相关概念：[衍生品](../concepts/衍生品.md)、[内在价值](../concepts/内在价值.md)、[浮存金](../concepts/浮存金.md)、[安全边际](../concepts/安全边际.md)
-- 相关公司：[通用再保险](../companies/通用再保险.md)、[GEICO](../companies/GEICO.md)
+- 相关公司：[通用再保险](../companies/通用再保险.md)、[GEICO](../companies/盖可保险.md)
 
 ---

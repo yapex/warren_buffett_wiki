@@ -1,0 +1,14 @@
+{
+  "compile_id": "20260505-100034",
+  "started_at": "2026-05-05T02:00:34Z",
+  "pass": 2,
+  "completed": null,
+  "pending": null,
+  "failed": [
+    {
+      "path": "raw_test/1997-letter-zh.md",
+      "error": "llm call: llm: request failed: Post \"https://open.bigmodel.cn/api/coding/paas/v4/chat/completions\": unexpected EOF",
+      "attempts": 0
+    }
+  ]
+}

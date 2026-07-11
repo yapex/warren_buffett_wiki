@@ -44,6 +44,6 @@ tags: [股东大会, 伊斯卡, 布法罗新闻, 邢延华, BNSF]
 - 上一年：[2012 年股东大会](./2012-股东大会.md)
 - 下一年：[2014 年股东大会](./2014-股东大会.md)
 - 相关概念：[护城河](../concepts/护城河.md)、[铁路](../concepts/铁路.md)
-- 相关公司：[伊斯卡](../companies/伊斯卡.md)、[BNSF](../companies/BNSF.md)、[布法罗新闻报](../companies/布法罗新闻报.md)
+- 相关公司：[伊斯卡](../companies/伊斯卡.md)、[BNSF](../companies/伯灵顿北方铁路.md)、[布法罗新闻报](../companies/水牛城新闻晚报.md)
 
 ---

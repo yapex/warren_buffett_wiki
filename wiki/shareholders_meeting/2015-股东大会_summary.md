@@ -46,6 +46,6 @@ tags: [股东大会, Clayton, 3G资本, BNSF, 唐·基奥]
 - 上一年：[2014 年股东大会](./2014-股东大会.md)
 - 下一年：[2016 年股东大会](./2016-股东大会.md)
 - 相关概念：[掠夺性贷款](../concepts/掠夺性贷款.md)、[铁路](../concepts/铁路.md)
-- 相关公司：[Clayton Homes](../companies/Clayton%20Homes.md)、[BNSF](../companies/BNSF.md)、[3G资本](../companies/3G资本.md)
+- 相关公司：[Clayton Homes](../companies/克莱顿房屋.md)、[BNSF](../companies/伯灵顿北方铁路.md)、[3G资本](../companies/3G资本.md)
 
 ---

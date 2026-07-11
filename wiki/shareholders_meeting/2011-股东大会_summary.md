@@ -43,7 +43,7 @@ tags: [股东大会, 路博润, 日本地震, GEICO, 瑞士再保险]
 
 - 上一年：[2010 年股东大会](./2010-股东大会.md)
 - 下一年：[2012 年股东大会](./2012-股东大会.md)
-- 相关概念：[保险浮存金](../concepts/保险浮存金.md)、[商誉](../concepts/商誉.md)
-- 相关公司：[GEICO](../companies/GEICO.md)、[BNSF](../companies/BNSF.md)
+- 相关概念：[保险浮存金](../concepts/浮存金.md)、[商誉](../concepts/经济商誉.md)
+- 相关公司：[GEICO](../companies/盖可保险.md)、[BNSF](../companies/伯灵顿北方铁路.md)
 
 ---

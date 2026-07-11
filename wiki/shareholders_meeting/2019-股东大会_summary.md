@@ -46,6 +46,6 @@ tags: [股东大会, 股票回购, 卡夫亨氏, BNSF, 富国银行]
 - 上一年：[2018 年股东大会](./2018-股东大会.md)
 - 下一年：[2020 年股东大会](./2020-股东大会.md)
 - 相关概念：[股票回购](../concepts/股票回购.md)、[内在价值](../concepts/内在价值.md)
-- 相关公司：[卡夫亨氏](../companies/卡夫亨氏.md)、[BNSF](../companies/BNSF.md)、[富国银行](../companies/富国银行.md)
+- 相关公司：[卡夫亨氏](../companies/卡夫亨氏.md)、[BNSF](../companies/伯灵顿北方铁路.md)、[富国银行](../companies/富国银行.md)
 
 ---

@@ -1,0 +1,87 @@
+# sage-wiki configuration (vault overlay)
+# Docs: https://github.com/xoai/sage-wiki
+
+version: 1
+project: warren_buffett_wiki
+description: "Obsidian vault with sage-wiki: warren_buffett_wiki"
+
+vault:
+  root: .
+
+sources:
+  - path: data.ms
+    type: article
+    watch: true
+  - path: docs
+    type: article
+    watch: true
+  - path: rag
+    type: article
+    watch: true
+  - path: raw
+    type: article
+    watch: true
+  - path: scripts
+    type: article
+    watch: true
+  - path: wiki
+    type: article
+    watch: true
+
+output: _wiki
+
+ignore:
+  - dumps
+  - _wiki
+
+# LLM provider configuration
+# Supported: anthropic, openai, gemini, ollama, openai-compatible, qwen, zai
+# For OpenRouter or other OpenAI-compatible providers, set:
+#   provider: openai-compatible
+#   base_url: https://openrouter.ai/api/v1
+# For Alibaba Cloud DashScope Qwen, set:
+#   provider: qwen
+#   api_key: ${DASHSCOPE_API_KEY}
+api:
+  provider: zai
+  api_key: 976b40acb98547c6a4611264a02a61a7.UC0v4ZYxrHbdJmVM
+  base_url: https://open.bigmodel.cn/api/coding/paas/v4
+  rate_limit: 60
+
+models:
+  summarize: glm-4.7
+  extract: glm-4.7
+  write: glm-4.7
+  lint: glm-4.7
+  query: glm-4.7
+
+# Embedding configuration (optional — auto-detected from api provider)
+embed:
+  provider: auto
+  # model:              # override embedding model
+  # api_key:            # separate API key for embeddings
+  # base_url:           # separate endpoint for embeddings
+
+compiler:
+  max_parallel: 4
+  auto_commit: true
+  auto_lint: true
+  mode: standard
+
+search:
+  hybrid_weight_bm25: 0.7
+  hybrid_weight_vector: 0.3
+
+serve:
+  transport: stdio
+
+# Ontology types (optional)
+# ontology:
+#   relation_types:
+#     - name: implements
+#       synonyms: ["thực hiện", "triển khai"]
+#     - name: regulates
+#       synonyms: ["regulates", "regulated by"]
+#   entity_types:
+#     - name: conversation
+#     - name: decision

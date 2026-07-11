@@ -17,17 +17,17 @@ title: 公司索引
 | [蓝筹印花](../companies/蓝筹印花.md) | Blue Chip Stamps | 131 | 1970s | 子公司 |
 | [喜诗糖果](../companies/喜诗糖果.md) | See's Candies | 121 | 1972 | [护城河](../concepts/护城河.md)、糖果 |
 | [美国运通](../companies/美国运通.md) | American Express | 114 | 1960s | 信用卡、金融服务 |
-| [吉列](../companies/吉列.md) | Gillette | 83 | 1989 | [护城河](../concepts/护城河.md)、消费品 |
+| [吉列](../companies/吉列-宝洁.md) | Gillette | 83 | 1989 | [护城河](../concepts/护城河.md)、消费品 |
 | [富国银行](../companies/富国银行.md) | Wells Fargo | 81 | 1990 | 银行、社区银行 |
 | [华盛顿邮报](../companies/华盛顿邮报.md) | Washington Post | 78 | 1973 | 媒体、报纸 |
-| [国民保险公司](../companies/国民保险公司.md) | National Indemnity | 74 | 1967 | 保险、浮存金 |
+| [国民保险公司](../companies/国民赔偿保险.md) | National Indemnity | 74 | 1967 | 保险、浮存金 |
 
 ## 保险公司
 
 | 公司 | 英文名 | 出现次数 | 相关人物 |
 |------|--------|----------|----------|
 | [GEICO](../companies/盖可保险.md) | | 294 | 杰克·伯恩 |
-| [国民保险公司](../companies/国民保险公司.md) | National Indemnity | 74 | 菲尔·利舍 |
+| [国民保险公司](../companies/国民赔偿保险.md) | National Indemnity | 74 | 菲尔·利舍 |
 | 中央火险意外险公司 | Central Fire and Casualty | - | |
 | 赛普拉斯保险公司 | Cypress Insurance | - | 米尔特·桑顿 |
 | 德州联合保险公司 | Texas United Insurance | - | |
@@ -42,7 +42,7 @@ title: 公司索引
 | 公司 | 英文名 | 出现次数 | 特征 |
 |------|--------|----------|------|
 | [可口可乐](../companies/可口可乐.md) | Coca-Cola | 177 | 全球品牌、护城河 |
-| [吉列](../companies/吉列.md) | Gillette | 83 | 全球品牌、剃须刀 |
+| [吉列](../companies/吉列-宝洁.md) | Gillette | 83 | 全球品牌、剃须刀 |
 | [喜诗糖果](../companies/喜诗糖果.md) | See's Candies | 121 | 区域品牌、溢价能力 |
 | [美国运通](../companies/美国运通.md) | American Express | 114 | 金融品牌、信用卡 |
 | [沃尔玛](../companies/沃尔玛.md) | Walmart | - | 零售龙头 |
@@ -65,7 +65,7 @@ title: 公司索引
 | 公司 | 英文名 | 出现次数 | 备注 |
 |------|--------|----------|------|
 | [华盛顿邮报](../companies/华盛顿邮报.md) | Washington Post | 78 | 1973年投资 |
-| [大都会通讯](../companies/大都会通讯.md) | Capital Cities Communications | - | 广播传媒 |
+| [大都会通讯](../companies/大都会-ABC.md) | Capital Cities Communications | - | 广播传媒 |
 | 奈特-里德报业 | Knight-Ridder Newspapers | - | 报业集团 |
 | 奥美国际广告 | Ogilvy & Mather | - | 广告代理 |
 
@@ -107,14 +107,14 @@ title: 公司索引
 | [R.C.-Willey](../companies/R.C.-Willey.md) | R.C. Willey | 家具零售 | 1995 |
 | [全美航空](../companies/全美航空.md) | USAir | 航空公司 | 1989 |
 | [内布拉斯加家具城](../companies/内布拉斯加家具城.md) | Nebraska Furniture Mart | 零售 | 1983 |
-| [内布拉斯加家具店](../companies/内布拉斯加家具店.md) | Nebraska Furniture Mart | 零售 | 1983 |
+| [内布拉斯加家具店](../companies/内布拉斯加家具城.md) | Nebraska Furniture Mart | 零售 | 1983 |
 | [冰雪皇后](../companies/冰雪皇后.md) | Dairy Queen | 餐饮 | 1997 |
 | [利捷航空](../companies/利捷航空.md) | NetJets | 航空 | 1998 |
 | [卡夫亨氏](../companies/卡夫亨氏.md) | Kraft Heinz | 食品饮料 | 2013 |
 | [国民赔偿保险](../companies/国民赔偿保险.md) | National Indemnity | 保险 | 1967 |
-| [布法罗新闻报](../companies/布法罗新闻报.md) | Buffalo News | 媒体 | 1977 |
+| [布法罗新闻报](../companies/水牛城新闻晚报.md) | Buffalo News | 媒体 | 1977 |
 | [房地美](../companies/房地美.md) | Freddie Mac | 金融 | 2000 |
-| [斯科特费泽](../companies/斯科特费泽.md) | Scott & Fetzer | 多元化 | 1986 |
+| [斯科特费泽](../companies/斯科特·费泽.md) | Scott & Fetzer | 多元化 | 1986 |
 | [比亚迪](../companies/比亚迪.md) | BYD | 汽车/新能源 | 2008 |
 | [波仙珠宝](../companies/波仙珠宝.md) | Borsheims | 珠宝零售 | 1993 |
 | [盖可保险](../companies/盖可保险.md) | GEICO | 保险 | 1976 |
@@ -128,8 +128,8 @@ title: 公司索引
 | [通用电气](../companies/通用电气.md) | General Electric | 工业 | 1960s |
 | [阿勒格尼保险](../companies/阿勒格尼保险.md) | Allegheny Insurance | 保险 | 1960s |
 | [雪佛龙](../companies/雪佛龙.md) | Chevron | 能源 | 2020 |
-| [韦斯科](../companies/韦斯科.md) | Wesco Financial | 保险/投资 | 1998 |
-| [飞安公司](../companies/飞安公司.md) | FlightSafety | 航空培训 | 1996 |
+| [韦斯科](../companies/韦斯科金融.md) | Wesco Financial | 保险/投资 | 1998 |
+| [飞安公司](../companies/飞安国际.md) | FlightSafety | 航空培训 | 1996 |
 | [马蒙集团](../companies/马蒙集团.md) | Marmon Group | 多元化 | 2008 |
 | [鲜果布衣](../companies/鲜果布衣.md) | Fruit of the Loom | 服装制造 | 2002 |
 | [麦克莱恩](../companies/麦克莱恩.md) | McLane | 批发分销 | 2003 |
@@ -156,7 +156,7 @@ title: 公司索引
 | [威利家具](../companies/威利家具.md) | R.C. Willey | 家具零售 | 1995 |
 | [赫兹伯格钻石](../companies/赫兹伯格钻石.md) | Helzberg Diamonds | 珠宝零售 | 1995 |
 | [飞安国际](../companies/飞安国际.md) | FlightSafety International | 航空培训 | 1996 |
-| [国际冰雪皇后](../companies/国际冰雪皇后.md) | International Dairy Queen | 冰淇淋连锁 | 1997 |
+| [国际冰雪皇后](../companies/冰雪皇后.md) | International Dairy Queen | 冰淇淋连锁 | 1997 |
 | [城市服务](../companies/城市服务.md) | Cities Service | 能源公司 | 1942 |
 | [霍希尔德 - 科恩](../companies/霍希尔德 - 科恩.md) | Hochschild-Kohn | 百货商店 | 1966 |
 | [巴菲特合伙公司](../companies/巴菲特合伙公司.md) | Buffett Partnership Ltd. | 投资合伙 | 1956 |

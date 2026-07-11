@@ -1,0 +1,76 @@
+{
+  "version": 2,
+  "sources": {
+    "wiki/companies/可口可乐.md": {
+      "hash": "sha256:d943705447fa94e6ad8880c4c7a8cfa9582eab8e3f703c3dda1d57843641f187",
+      "type": "article",
+      "size_bytes": 2865,
+      "added_at": "2026-05-04T12:35:25Z",
+      "status": "pending"
+    },
+    "wiki/concepts/安全边际.md": {
+      "hash": "sha256:c30554ee0c8203007097bbd4c5eb06541daef7a95ef5f8b1930ae5e4538a4b81",
+      "type": "article",
+      "size_bytes": 12936,
+      "added_at": "2026-05-04T12:35:25Z",
+      "status": "pending"
+    },
+    "wiki/concepts/能力圈.md": {
+      "hash": "sha256:5b3eb672a742deed175fda2a064592cc20826853b4f28f444e6db32020c151b8",
+      "type": "article",
+      "size_bytes": 13931,
+      "added_at": "2026-05-04T12:35:21Z",
+      "status": "pending"
+    },
+    "wiki/interviews/1985-电视采访.md": {
+      "hash": "sha256:e9f806a53add17b098cf4b11dd8d1232c87be4fd5b57a51e35b855caeaf15d5f",
+      "type": "article",
+      "size_bytes": 18026,
+      "added_at": "2026-05-04T12:35:31Z",
+      "status": "pending"
+    },
+    "wiki/interviews/1990-斯坦福大学演讲.md": {
+      "hash": "sha256:89371bf8efe45d9dd2143f154d728f5ab1dc309842f322c609c21557088dd232",
+      "type": "article",
+      "size_bytes": 35847,
+      "added_at": "2026-05-04T12:35:31Z",
+      "status": "pending"
+    },
+    "wiki/letters/1985-letter.md": {
+      "hash": "sha256:d3e4f4c0e646f996492e263f4ab87f2d31b39f6f5e64c0e837e3bf8bd3059428",
+      "type": "article",
+      "size_bytes": 75261,
+      "added_at": "2026-05-04T12:35:35Z",
+      "status": "pending"
+    },
+    "wiki/people/查理·芒格.md": {
+      "hash": "sha256:208aa93523a1c2a05c4851ab312e23846505f70c52571239dff48acd3e918897",
+      "type": "article",
+      "size_bytes": 2029,
+      "added_at": "2026-05-04T12:35:25Z",
+      "status": "pending"
+    },
+    "wiki/people/沃伦·巴菲特.md": {
+      "hash": "sha256:7c3694d12c737b806b96bbabd914788399655a8a8d29e257fbd024f35e8f44f2",
+      "type": "article",
+      "size_bytes": 2019,
+      "added_at": "2026-05-04T12:35:25Z",
+      "status": "pending"
+    },
+    "wiki/research/cases/1976-盖可保险-危机与复苏.md": {
+      "hash": "sha256:3bbf4e522fe41200d668e0afb512f205011dd90632d80e24eb38d692aef8fac9",
+      "type": "article",
+      "size_bytes": 15215,
+      "added_at": "2026-05-04T12:35:28Z",
+      "status": "pending"
+    },
+    "wiki/research/cases/1988-可口可乐-消费巨头.md": {
+      "hash": "sha256:a50397a4f777ba47f9f1ca0ea2e0f03a97b4bbfa90663ede00d8edbe17cf4858",
+      "type": "article",
+      "size_bytes": 12151,
+      "added_at": "2026-05-04T12:35:28Z",
+      "status": "pending"
+    }
+  },
+  "concepts": {}
+}
